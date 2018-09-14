@@ -1,0 +1,24 @@
+3.     ROLES
+While most modules can be fitted in any of the new structures, if they fit powergrid, CPU, calibration or size restrictions, we want to incentivize further specialization in roles, like we currently do with ships. To that end, we are going to release various structure lines, each focusing in a specific area and provide various bonuses to that purpose.
+
+For instance, the new equivalent to Research Laboratories could manufacture or reprocess items if fitted accordingly, but may not be able to do so as effectively as the new version of our Manufacturing or Reprocessing Arrays. The new roles currently being discussed are:
+
+A.     Assembly arrays
+
+
+Mainly dedicated to production and item assembly.
+
+Service modules possibilities: manufacturing of modules, ammunition, components, fuel blocks, capital components, subsystems and ships, among other things. One module will be required for the manufacturing of each category mentioned above. This means manufacturing will be less generalized as it is currently working within Starbases.
+
+Rigs possibilities: Material Efficiency (ME), Time Efficiency (TE) and NPC cost reduction bonuses. We want to ensure those new rigs provide more specialization than currently offered by Starbases and Outposts to offset for the generalization changes.
+
+
+B.     Research Laboratories
+
+
+Related to any kind of science profession or functionality.
+
+Service modules possibilities: Research ME, research TE, copy, Tech II invention, Tech III invention and datacore spawning. We want those new structures to ultimately replace our existing Datacore system – one way of doing so would be to have Datacore caches spawn near the Research Laboratory that refill at various intervals. Those caches could be set to be looted by anyone, but with a specific tax set up by the structure owners.
+
+Rigs possibilities: TE, NPC cost reduction bonuses, as well as increased success chance bonuses for Tech II and III invention.
+

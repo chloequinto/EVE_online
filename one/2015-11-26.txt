@@ -1,0 +1,48 @@
+Spaceships!
+
+The universe of EVE depends upon spaceships. In spaceships, players run missions, claim territory, ferry goods, and engage with the other residents of New Eden who make this game what it is. There are hundreds of thousands of capsuleers in New Eden, and every one of them has the potential to fly any number of the hundreds of types of ships that exist in the game. There are millions of spaceships across the galaxy, ranging from newly assembled hulls to ancient vessels which have cruised between the stars for the entire past 12 years. Some ships have never seen a battle, and some have been instrumental in the demise of countless miners, criminals, and mission runners. Despite their ubiquity, like snowflakes or sandwiches, each hull is precious. Each hull holds meaning to its owner.  
+
+Each hull has a history.
+
+
+
+In the December 8th release, the art department wanted to introduce ways to help players convey those histories - essentially each ships’ biography - to each other in a visual way. When we sought inspiration, two things stood out immediately: age and accomplishment.
+
+Age - this was fairly simple to conceptualize. While hulls don’t sag or fatten over the year, they should present visual marks of longevity. They accumulate dust, dirt, and detritus—a general accretion of filth earned by nothing more than the simple process of existing.
+
+Accomplishment - this was a bit trickier. Some ships complete treacherous missions. Some successfully voyage across significant distance. Some perform minor ferrying for the duration of their service. Fortunately, most ships in EVE are used for one particular purpose: blowing other players’ ships up.
+Focusing on the age of a vessel from the moment of activation and the kills it has actually delivered gave rise to our features: Dirt and Kill Marks. Let’s take a look at the specific effects of these types of individualization, and what they mean for you and your glorious ships.
+
+DIRT
+The V5++ shaders and textures introduced in the PBR Project gave us the ability to set a dirt level for ships. Initially, we were happy to have that level be uniform across the board. For the past few months, every ship in New Eden has been sporting a fine patina of grease and grime.
+
+Now, however, a new ship will start clean and accumulate dirt over time. The curve from spotless to soiled is gradual, but definite. Players will notice the difference, but everything won’t be covered in soot overnight. The accumulation is linked directly to the initial boarding date of a ship.  The clock starts for any given ship when a capsuleer first makes that ship active. 
+
+We’ve never recorded that date before, so faced with the problem of either generating artificial age data for hulls that have been around for years or starting from scratch, we opted for the latter. With the introduction of this feature, every ship in New Eden shall be fully refurbished to a new, clean state.
+
+Of course, clean ships are gorgeous, and not everyone will want to give up that sparkling New Ship™ gleam.  We’ve included a method by which fastidious pilots can always automatically reset the dirt level on a hull to 0.  In the left-hand panel of the fitting window, below the Ship Skin information, capsuleers will now find a button labelled “Clean Ship.” Clicking that button removes all traces of dirt, as if the ship were newly assembled. One warning: this is an irreversible process, so if you value the visual signs of aging, be careful in the fitting window! And beware of repackaging, which will also reset the dirt level to zero.
+
+Provided that a pilot never clicks “Clean Ship,” and never repackages the hull, dirt will accumulate and dinginess will increase over time, even when a vessel is stored in a hangar or ship maintenance array. We have left the option open for future developments that modify the accumulation curve according to actual events (mining, combat, hours in space, gate/wormhole jumps, etc.) and the graphic programmers are interested in investigating some of those options in future releases.  But for now, days active since the last ship cleaning means dirt accrued. No exceptions.
+
+To keep those ships sparkling, you’ve got to use a little elbow grease.
+
+KILL MARKS
+The final blow is more than simply a moment when danger ebbs because the number of enemies has decreased by one. It’s not just a decluttering of the overview. The final blow is one of the most satisfying events in EVE Online. Accordingly, we think that delivering a final blow should have an impact beyond the UI. Destruction of a capsuleer-piloted vessel should be a badge one can wear with pride. The Kill Mark feature reflects that belief.
+
+For every capsuleer opponent slain in space, the vessel responsible for delivering the final blow will acquire a special mark which appears somewhere on the hull.  Any offensive weapon can be used in the killing blow.  Drone, bomb, missile, turret of any kind; if it destroys a piloted ship, it will generate a mark.
+
+
+These marks represent an active tally and appear in three sizes reflecting their representative values: 1, 10, or 100. When a ship has acquired nine marks of one level, earning another will result in a single mark on the next tier.  In this way, up to 999 kills can be recorded on a ship, using just 27 marks. If you see someone with 26 marks, contact your nearest Logi.
+
+The style of the marks themselves is determined by the manufacturer of the ship; Amarr ships display Amarr-themed kill marks and so on. Pilots can see all the different types of marks by succeeding in combat while flying hulls from each branch of the ship tree. ORE kill marks are particularly delightful.
+
+Naturally, there are some rules about how these marks are earned. Ships do not get a mark for indirect kills. That means damage assists, logistics support, and EWAR combat garner no credit; it’s a kill shot or nothing. To those who fleet up with known opportunists: be on the lookout for kill mark ninjas. Ships don’t get a mark for destroying “lower tier” targets, either.  The destruction of Pods, Shuttles, Rookie Ships, and unmanned vessels represents very little accomplishment to an established combat veteran, and won’t generate a mark. And capsuleers won’t be chalking up hulls with structure, can, wreck, drone, or NPC kills. They may matter, but they don’t count.
+
+In an effort to keep trophy hunters from skewing the numbers, killing players on trial accounts will also not create a mark. And to keep the farming to minimum, no intra-corporate kills will decorate any hull. Seek battle beyond your organization for maximum kill mark adornment.
+
+KEEP YOUR EYES PEELED!
+That’s not all you’ll see from the Art team in this release.  Also be on the lookout for modified cynosural field graphics, enhanced local repairer effects, impressive new flames issuing forth from your engines, 13 new ships, and improved logos on every ship and station. All in all, New Eden has never looked better!
+
+We recommend taking a moment to reflect on your favorite ship.  Fly around for a few days and reminisce about the great times you’ve had crushing your enemies, seeing them driven before you, and hearing the lamentation of the crewmen.  
+
+Team TriLambda

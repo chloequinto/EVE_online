@@ -1,0 +1,4 @@
+DOCUMENTATION
+After wanting to put new documentation on the EVElopedia site relating to third party developers it became clear that the third party developers section of EVElopedia was not in good shape. Due to this we decided to make some changes. We began with deleting all information on the wiki we could find relating to third party developers. Not only was the wiki missing information lots of it was wrong, which is worse. After deleting it all we started putting new documentation up which you can find here: //wiki.eveonline.com/en/wiki/Third_Party_Developers
+
+It is a wiki so if you feel like contributing please feel free to do so. There is a forum thread here to discuss things relating to this endevour: //forums.eveonline.com/default.aspx?g=posts&t=346902&find=unread

@@ -1,0 +1,23 @@
+NULLSEC POPULATION AND GENERAL ACTIVITY
+We’ll start with this category as it’s the most generally applicable. It also happens to be the clearest cut in its results.
+
+The following graph displays a two week rolling average of the number of characters on active (subscribed) accounts that are in Nullsec space (either in space or docked in a station within Nullsec) each day. For this metric, we’re generally happier with higher numbers. Increases represent a combination of players moving to Nullsec, existing Nullsec players bringing a higher percentage of their characters into Nullsec space, and older Nullsec players resubscribing.
+
+
+
+For a metric as stable as this one, the changes seen at the Phoebe release are quite extraordinary. At the beginning of November we saw a rapid increase in the total Nullsec population, which has been followed by robust and steady growth over the following four months. Subscriber demographic data over the same period of time suggests that a major factor contributing to the immediate Phoebe increase was an influx of Russian speaking players taking advantage of the power vacuum in the South and East of Nullsec space created by Phoebe’s power projection changes. At the same time, other organizations such as the Phoebe Freeport Republic were also able to gain footholds in the newly available Nullsec space and contributed by bringing in players that would have struggled to carve out their own territory pre-Phoebe.
+
+The release of the celebrated This is EVE trailer came after the initial period of rapid growth, but likely contributed to the subsequent steady rise in population.
+
+
+As we prepare to launch into Phase Two, we would ideally like to see more growth in this metric. Our hope is that by designing mechanics that allow a wider variety of organizations to claim their own space without requiring the support of massive powerblocks, more and more of our players will see opportunities to have fun in Nullsec space.
+
+The next graph is not particularly important for evaluating the success or failure of Phase One, as the Phoebe changes directly affected the baseline. Jumps per day is normally a valuable metric for determining overall player activity but since the Phase One changes directly encouraged more travel by gates and less use of teleportation we would expect a dramatic increase no matter what. If this graph hadn’t increased we would have been very worried. J
+
+
+
+The real use of this metric will be later as we evaluate Phase Two. As the next set of changes do not involve direct changes to power projection we would hope that an increase in Nullsec jumps over the summer would reflect an overall increase in player engagement.
+
+We also watch a wide variety of other metrics related to general life in Nullsec space. The results of these range from very positive (+23.6% increase in manufacturing jobs per day in Nullsec since Phoebe) to somewhat positive (+5% increase in NPC kills per day in Nullsec since Phoebe) to fairly neutral (+0.7% increase in mining volume per day in Nullsec since Phoebe).
+
+Overall score for Nullsec Population and General Activity: Significant progress, but we can do even better!

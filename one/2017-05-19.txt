@@ -1,0 +1,28 @@
+Hello skilful Capsuleers of New Eden!
+
+With the changes to PLEX now deployed and the market now stable, today we’d like to tell you about another small improvement we’re going to be making on May 23rd, this time relating to Skill Trading.
+
+
+
+Moving PLEX towards a more granular, and ultimately more flexible design got us thinking about doing the same for Skill Trading. Originally, we aimed to set the size of Skill Injectors and Extractors in a way that kept them small enough to trade conveniently, but large enough to represent a meaningful amount of skill points. We think we hit the latter goal well, using Injectors feels good. However, with a minimum price tag of around 650 million ISK, injectors can feel out of reach for many players, especially those early in their careers when a little boost here and there goes a long way.
+
+With that in mind, we’re going to introduce a new type of Skill Injector that will be one fifth the size of a current injector, bringing Skill Trading into a more reasonable price range on the market for newer players.
+
+How does this work?
+
+Here is a summary of what’s changing in bullet point form:
+
+Renaming of the current Skill Injector to ‘Large Skill Injector’
+Introduction of a new injector called ‘Small Skill Injector’
+Adding right-click option to break Large Injectors into 5x Small injectors or combine 5x Small Injectors into 1x Large Injector
+Using a Small Skill Injector will award a maximum of 100,000 skill points and will give the following amounts, depending on total SP on the character using the Injector:
+For characters with less than 5mil SP:  100k SP
+For characters with 5mil – 50mil SP:  80k SP
+For characters with 50mil – 80mil SP:   60k SP
+For characters with more than 80mil SP:   30k SP
+That’s pretty much it!
+
+We hope you enjoy having a bite-size skill trading option and as always let us know what you think in the comments.
+
+Fly safe and train hard,
+Team Size Matters

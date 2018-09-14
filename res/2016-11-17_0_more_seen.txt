@@ -1,0 +1,16 @@
+DRONES, FIGHTERS AND CARGO ITEMS
+Once in simulation mode, Drones can be added to a fit, either by double clicking them in the module browser or by dragging them to the drone icon on the lower left side of the ship in the center. To add more than one drone, you can hold down Shift when dragging a drone to the drone icon to get a pop up to specify how many you are adding or alternatively modify the number of drones after they are added by clicking on the quantity text of the drone.
+
+When drones have been added, they can be marked as being active by clicking on the drone icon, and check the checkboxes on each of the drone types. This allows you to see how your damage output changes with different drones. We have also added a tooltip to each of the drone types, give you important information about the drone, taking your skills into account.
+
+
+
+In order to allow you to save fits with charges, fuel and fighters, you can add them in the same way as drones, except by dragging them onto the cargo and fighter icons in the fitting window.
+
+During the development of the fitting simulation, a number of other changes and improvement were made to the fitting window, and they can be found in the Ascension patch notes.
+
+For years now, more experienced players have enjoyed awesome 3rd party tools such as PYFA, EFT, Osmium and EVEHQ to help them with their fits. Those fitting tools not only have great and advanced features, but can also been used while at work or when without access to EVE Online. We hope our fitting simulation mode will be nice addition to the options players have when it comes to planning and tinkering with fits, and will help introduce players to how much fun it can be!
+
+Happy fitting!
+
+@CCP_karkur on behalf of Team Five 0

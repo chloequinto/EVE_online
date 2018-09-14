@@ -1,0 +1,11 @@
+MY-EVE
+Osmium
+Timerboard
+Tripwire
+zKillboard
+Due to the SSO only being on Sisi right now you probably won’t see it showing up on the participants main site right away, but those are the web sites you can expect to start seeing the SSO on for now.
+
+We want to give a huge shout out to those participating in this trial. Their feedback has been wonderful and the effort they are clearly willing to put into this is awesome.
+
+This security advisory brought to you by,
+CCP FoxFour (@regnerba) and CCP Bugartist (@CCP_Bugartist)

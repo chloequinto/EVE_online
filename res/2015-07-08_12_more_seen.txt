@@ -1,0 +1,8 @@
+NULLSEC AND LOWSEC INCURSION CHANGES
+
+
+Back in the Hyperion release last year, we made some changes to Vanguard Incursion sites in Nullsec and Lowsec. We increased the maximum number of pilots allowed in the fleet before hitting diminishing returns by 50%. These changes were intended to help stimulate activity in Nullsec (and by association lowsec) incursions by allowing pilots in the more dangerous space to bring more DPS ships to compensate for their less blingy hardware. At the time we said that we’d be watching how those changes were received and re-evaluating down the road.
+
+Well we’ve received positive feedback about that change from Nullsec and Lowsec Incursion runners, and we’re now ready to extend that same change to Assault, HQ and Mothership sites in Nullsec and Lowsec. This means that Nullsec Assault sites will take up to 30 players before diminishing returns, HQ sites will take up to 60 pilots, and Mothership sites will take up to 120.
+
+We hope that these changes will be well received by Nullsec and Lowsec Incursion runners, and that more Nullsec and Lowsec pilots will give this challenging group PVE content a try.

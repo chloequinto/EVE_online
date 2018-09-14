@@ -1,0 +1,5 @@
+SOUNDS GOOD! HOW DO I USE IT?
+Turning on Two-Factor Authentication is just a matter of a few easy steps.
+
+Log-in to account management and go to Account -> “Edit Account Information” and make sure that you have a valid and verified email address.
+Go to Account -> “Two Factor Authentication Settings” and follow the instructions.

@@ -1,0 +1,12 @@
+“ENOUGH WITH THE PREAMBLE, GET TO THE NEW SYSTEM!”
+All right, let’s start discussing what we’ve been working on.
+
+We’ll cover five key design features of the new system, then introduce some of the new work-in-progress UI elements and end with a walkthrough of a hypothetical battle over a star system to demonstrate how the elements all come together.
+
+A new Entosis Link mechanic will replace structure shooting in all parts of the Sovereignty system
+Each Sovereignty structure will be able to operate independently from other Sov structures
+Alliances will each designate a “prime time” that determines the timezone of their structure vulnerability and reinforcement exits across every Sovereignty structure they own
+When Sovereignty structures exit their reinforcement period, a new capture event will begin that consists of fighting over Command Nodes spread randomly across the constellation
+Stations will enter a new Freeport Mode if their owners lose the first reinforcement timer
+Occupancy defense bonuses will make structures in an active system harder to capture
+

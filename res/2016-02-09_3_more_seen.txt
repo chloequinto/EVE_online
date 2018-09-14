@@ -1,0 +1,8 @@
+FIRST PERSON CAMERA
+The First Person camera (ALT+3) is probably the least practical (at least for now), yet most jaw dropping of the three. It is highly recommended that you try it out with the not-so-long-ago-introduced manual flight feature that is mapped to the keyboard arrow keys by default.
+
+Features:
+
+Fixed first person view with wide field of view
+Military jet style roll and pitch indicators overlay for orientation
+3 level stepped zoom

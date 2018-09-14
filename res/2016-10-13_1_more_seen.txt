@@ -1,0 +1,12 @@
+SKILLS, SKILLS EVERYWHERE!
+
+
+From now on all skill requirements will be displayed in item tooltips, so you will always see what's needed to get into that ship or fit that laser. If an item requires an Omega Clone State and you are in an Alpha Clone State, there is a notification in the tooltip that you need to Upgrade to Omega In order to alleviate confusion.
+
+
+
+Alternatively, there will be toooltips if you are already in the Omega Clone State, buy missing skill books, or train required skill levels if you already have the right skills injected.
+
+
+
+We hope that we will eliminate a metric ton of mouse clicks and help you focus on the task at hand—making your capsuleer better, faster, and stronger!

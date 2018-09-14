@@ -1,0 +1,35 @@
+60,000 DPS
+
+Number of Frigates to reach damage mitigation
+
+10-20
+
+30-60
+
+150-300
+
+Number of Cruisers to reach damage mitigation
+
+10-20
+
+30-60
+
+150-300
+
+Number of Battleships to reach damage mitigation
+
+5-15
+
+15-45
+
+75-225
+
+Number of Dreadnoughts* to reach damage mitigation
+
+1
+
+2-4
+
+10-20
+
+*Assuming current damage numbers for Dreadnoughts, which may change with the planned capital rebalance

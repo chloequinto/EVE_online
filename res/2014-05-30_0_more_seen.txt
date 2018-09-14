@@ -1,0 +1,24 @@
+IF THE MOD FITS: NEW MODULES AND MODULE BALANCE
+Medium Micro Jump Drive Thread
+
+Hyperspatial Accelerator Thread
+
+Transverse Bulkhead Thread
+
+Nosferatu Thread
+
+As most of you will have come to expect from us by now, we are also introducing a collection of new modules and module rebalances in the Kronos release to ensure that every player has an excellent variety of interesting choices to make when fitting their ships.
+
+We are adding a new Medium Micro Jump Drive module, which is similar to the Large variant but can be fit to Combat Battlecruisers, Command Ships and Deep Space Transports. More details in this thread.
+
+We are also introducing a new set of low slot warp speed modules called Hyperspatial Accelerators. These modules provide a flat bonus to a ship’s warp speed and will be especially popular with slow ships like Freighters. All the details can be found in this thread.
+
+We are also adding new rigs in the Kronos release. Known as Transverse Bulkhead rigs, they add hull hitpoints at the expense of cargo capacity and will open up new options for effective honor tanking. All the details can be found in this thread.
+
+We are also making improvements to Nosferatu modules in Kronos. All Nosferatu modules will cycle faster than before, increasing their effectiveness over time and making them even more useful for keeping other modules alive under extreme capacitor pressure. These changes pair especially well with the revamped Blood Raider ships that we have already discussed. All the details can be found in this thread.
+
+I hope you have all enjoyed this walk through the ship and module balance changes of the Kronos release. We are very happy to be releasing all of these new and rebalanced ships and modules for your personal enjoyment this upcoming Tuesday June 3rd.
+
+Until next time, this is @CCP_ Fozzie signing off.
+
+Fly safe!

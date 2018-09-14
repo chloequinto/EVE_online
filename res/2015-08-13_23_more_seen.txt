@@ -1,0 +1,6 @@
+DEPLOYMENT
+All structures will have a deployment time, which will vary depending on the structure size and type. The larger or more impact on the surrounding the structure has, the more time is going to be needed in an effort to give various parties more time to react.
+
+A new structure that is being deployed is totally vulnerable to entosis links, and any third party can come to disrupt it (for high-security space however, a war declaration is required not to suffer the wrath of CONCORD). The exact details on the attack process are explained under the “entosis link contest” below.
+
+Current numbers to deploy Citadels, our first batch of structures, are:

@@ -1,0 +1,30 @@
+FIRST STRUCTURE TYPE: CITADEL CLASS
+
+
+Since the scope of a full structure overhaul is larger than the Stay Puft Marshmallow Man, we had to play smart and focus our efforts into one structure role at a time instead of crossing the streams everywhere.
+
+There is difficulty involved in picking which one of those roles to start with. Since the first structure we release is going to require core mechanics to work, like fittings, deployment or even management, we need to make sure the foundation is solid while still delivering an interesting package for players to enjoy. When that is out of the way, it will significantly speed up development time for more advanced structure roles that have their own new mechanics but still require the core gameplay listed above.
+
+You may remember the structure roles from our previous Dev Blog for being:
+
+Assembly Arrays
+Research Laboratories
+Market and Office Hubs
+Drilling Platforms
+Observatory Arrays
+Gates
+Administration Hubs
+Advertisement Centers
+We will spare you the endless debates, bartering sessions and casualty reports coming out after locking two dozen EVE developers in various meeting rooms and go straight to the point: we have decided to start with Market and Office Hubs, but with a twist.
+
+Since we like giving you a place you can call home and collectively interact with, be it for cooperative or competitive needs, this role is ideal to start with. At the same time we want to achieve much more than just adding a fresh coat of paint on existing structures. We want to develop their use in the EVE universe and develop excitement as a whole.
+
+ “Market and Office Hubs” sounds a little bland, like another day at the office dealing with a grumpy boss and an unreliable coffee machine. How about we spice that up a little bit?
+
+Of all the structures, we want these to be the most dedicated to asset safety, protection, and a feeling of home – just like when you are tucked inside your bed sheets while the elements rage outside. At your coziest you should be fortified in giant bunkers equipped with mega death rays to weather the storm.
+
+As such, we are slightly changing the purpose of the Market and Office Hubs structures and renaming them “Citadels” to give a better approximation of what they do (note: I initially wanted to have them called “space châteaux” but got rejected by a team full of damn barbarians who don’t know what good French taste is).
+
+In time they will still retain the other functionality mentioned (Market, corporation offices, cloning, insurance, character customization, Customs Office and potentially Interbus), as we release new service modules.
+
+CCP Nag and CCP Maximum Cats have scattered a few concept arts for the Citadel structures within this dev blog for you to feast your eyes upon. As usual, please remember those are still work in progress and may not represent final look.

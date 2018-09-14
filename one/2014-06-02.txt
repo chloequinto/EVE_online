@@ -1,0 +1,95 @@
+Greetings pilots!
+
+In the Kronos release (tomorrow June 3rd), we have revamped the experience for browsing virtual items in EVE Online. In the grand-opened New Eden Store, which replaces the Noble Exchange (NEX) store, you can buy visual customization for your avatar or ship for the virtual currency AURUM. In the future, it will also be the place to go for services like multiple character training, character re-sculpting and other options you might want to purchase for either AURUM or PLEX. 
+
+There are three big changes compared to the current store:
+
+You will now be able to use one AUR wallet to buy items for any character on your account.
+There will be a larger catalog of both clothes and ship skins, and you’ll see new items and offers added regularly.
+The user interface underwent considerable visual upgrades and the user experience is enhanced with features such as search, filtering and categories.
+The new store does not represent any change in our strategy for virtual goods in EVE Online. We will continue to sell visual customization and convenience services and have no plans or intentions to sell items that give gameplay advantages.
+
+
+
+Read on for more details on all of these changes!
+
+ONE AURUM WALLET PER USER ACCOUNT
+
+
+Before it was your character that did the shopping, and each had a separate AUR balance on in their own wallets. On June 3rd we will move this interaction to the user level. All AUR from all characters under the same login will be moved to a new wallet within the New Eden Store and all traces of AUR will be deleted from the character level. This consolidation will simply add up all the AUR characters on the same account have and then move the total sum to the New Eden Store wallet. 
+
+
+
+When items are bought in the new store, those items will be placed in your Redeemable Items queue. That will then allow you to move the item to a character of your choice through the Character selection screen or via the new Neocom in-game icon. Currently the same technical restrictions apply with the redeeming queue as before; you can only move items from the redeeming queue to a character if that character is located in a station. We are fully aware of the predicament that places characters in that don’t have an easy access to a station and we will work on addressing that, meaning that we aim at allowing you to move items from the Redeemable Items queue to any valid inventory location that your character has access to, be that a cargo hold or a jet can if you are logged in on that character. Look for that in one of our future releases.
+
+
+
+NEW ITEM CATALOG AND AURUM PRICING
+The new store will launch with 105 entries. Of those over 60 items will be new and never seen before. A healthy mix of clothing items, two new full-sleeve tattoos (for both right and left arms) and four new ship skins will be offered. 
+
+Abaddon Tash-Murkon edition
+Hyperion Innerzone Shipping edition
+Maelstrom Nefantar edition
+Rokh Wiyrkomi edition
+
+
+The price ranges for a single item in the first iteration will go from 45 AUR (for a frigate ship skin) to 1500 AUR (for the full sleeve ‘Wreckage’ tattoo), while the 10 run blueprints will range from 400 Aurum (10 frigate skins) to 3000 Aurum (10 battleship skins). We will be offering more items in the future at a faster rate than previously and there will be regular sales and special offers. 
+
+With the release of the New Eden Store, we will stop selling Aurum Tokens and start selling Aurum directly instead. Existing Aurum Tokens can still be redeemed for Aurum – we will just stop selling new ones. You can also continue to convert your PLEX into AUR like previously. Coupled with the AURUM sales we are changing the pricing structure. You will now get slightly more AURUM when purchasing directly.
+
+The new Aurum prices are as follows:
+
+Aurum price changes
+
+Number of Aurum
+
+750
+
+1750
+
+3000
+
+4500
+
+USD
+
+5
+
+10
+
+15
+
+20
+
+Aurum price changes
+
+Number of Aurum
+
+750
+
+1750
+
+3000
+
+4500
+
+USD
+
+5
+
+10
+
+15
+
+20
+
+A NEW STORE EXPERIENCE
+The new store offers all the conveniences of filtering, whether that is by ship skins or apparel, for male or female characters or more. There is also a search available so you can quickly find your favorite item.
+
+
+
+
+
+
+
+Take a look at the New Eden Store when Kronos hits – we hope you find something you like!

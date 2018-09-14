@@ -1,0 +1,10 @@
+MULTI-INVENTION OUTCOME AND INVENTION TEAMS
+These two features will not be going live for Phoebe.
+
+After some discussion we arrived to the conclusion that multi-invention outcome, while adding a beneficial impact on this activity, was annoying with large industry batches and messing with players wishing to accurately predict long term job outcomes.
+
+So we instead decided to spend our time working on force projection changes, which we’re sure you can agree was a much more pressing problem to address for this particular release.
+
+Regarding invention teams, we are currently investigating the purpose and state of teams in the game as a whole.
+
+In all cases, we hope you are going to appreciate the invention changes we have been working on for Phoebe. Manufacture safely out there and may the invention RNG gods be with you.

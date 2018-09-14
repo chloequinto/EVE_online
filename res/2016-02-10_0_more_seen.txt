@@ -1,0 +1,2 @@
+THE END
+As usual please remember all the above numbers are still works in progress! Expect changes in the future based on feedback and iteration. We are planning to release the new structure skills and change the existing structure components as mentioned in the last Blog in March to give you guys some time to adjust before we release Citadels. We are also planning external playtests on our test servers, so keep your eyes peeled for updates.

@@ -1,0 +1,17 @@
+MORE DETAILS
+Of course, there is going to be more conditions based on circumstances.
+
+All items:
+
+Are automatically delivered as a single package which has to be opened, like courier contract plastic wraps. This is done not to overwhelm, confuse or mix items that are being delivered with ones already in place in the hangar.
+Owners can pick one item at a time to extract from the package if they so wish. In that case, pricing will be calculated on selected items. This done to allow users to get separate items out if they cannot pay the fee for the whole batch if items are delivered to a NPC station.
+Items with exclusive sizes will have restriction on delivery, which mainly includes capital and supercapitals. For example, a titan that was lost inside a Citadel XL structure cannot be delivered to a NPC station or any other Citadel size than XL. Furthermore, a capital or supercapital ship cannot be delivered to high-sec.
+When the structure is destroyed all items stay inside containers, but lose password or lock protection.
+Corporation hangar items need proper roles to be delivered. Due to the nature of the recovery it is critical access is properly filtered to avoid thefts.
+That leaves us with player docked inside the structure when it was lost:
+
+The player is podded with all normal rules applying for such a case (implants are lost) and moved to his or her medical station. If the medical clone was set to the structure that just blew up, it will be moved to a medical NPC station.
+Player ships are safely impounded and saved, along with all their fittings and rigs. We considered destroyed the active ship as well, but that would only lead to further hassle where players would always have to remember to exit their active ship when docking at one of those new structures.
+As an optional feature, we are investigating having frozen player corpses docked inside the lost structure to appear near the wreck, or be able to be salvaged through the wreck.
+Another option is to have all livestock goods be wrecked and appear as frozen meat when delivered through this feature (example: exotic dancers, fedos, liverstock etc..). Yes, bad things happens to perishable products when delivered in such a fashion.
+Please note asset recovery can be done remotely. There is no need to be in the same solar system, or even docking access to initiate the process to recover your assets. In the same vein, the station owner(s) will never be able to tweak or remove items from other character personal hangars. They will only be able to tamper with corporation hangars and their own character hangars. This works the same way for jobs, or even market orders that are started by an individual. This rule exists to prevent asset appropriation in structures that will be open for public use.

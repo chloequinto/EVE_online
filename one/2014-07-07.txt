@@ -1,0 +1,53 @@
+Hello space friends!
+
+Team Super Friends have been working on a few little things for Crius and we want to tell you about them. Here’s what you can expect come July 22nd.
+
+Split insurance list
+For those with the appropriate corporation roles, browsing through the insurance list could be a bit confusing. To make things easier we have now split the insurance list into two lists:--a list of personal ships and a list of corp ships.
+
+
+
+No label label (lol)
+For those who have many contacts we‘ve now added a new label to help you further organize pilots you want to keep track of. It‘s the “no label” label! That makes sense doesn‘t it? So to find which contacts you haven‘t labelled yet you can just click the “no label” label.
+
+
+
+Flag exempt from fleet warp
+A thing that has annoyed me greatly when I‘m rolling in my Titan is when I accidentally take fleet warp. So we have now added a feature benefitting all those Titan pilots out there (okay, also scouts and people flying interceptors as well as just any other people who like to be in charge of their own warping), where you can flag yourself exempt from fleet warp.
+
+We discussed how to do this in the best possible manner with the CSM and agreed on not adding more work for the fleet commander and letting individual pilots manage this for themselves. In the top left settings menu you now find a setting to flag yourself exempt from fleet warp and that will add an icon to your entry in the fleet menu visible to everyone. That makes it easier to explain to the cute little newbies why they didn‘t follow into warp. 
+
+This also means that a pilot with roles to fleet warp a bunch of people can set themselves exempt from the fleet warp and just warp their fleet/squad/wing.
+
+And yes, because I know you‘re going to ask: the default setting will be that you take fleet warp.
+
+
+
+Skillless module fitting
+As you know there are wonderful people out there that add massive hangarsfull of fun to the game for the rest of us by spending their time fitting ships for their corp members. To make things easier for those people (because we all love them unconditionally) Team Super Friends has made it so you can now fit modules and rigs you don‘t have skills for.
+
+This means the modules cannot be onlined and if you try to undock in a ship that has modules offlined because of that, you will see a giant warning telling you why  and asking you to confirm whether to undock or not. That warning will be suppressible if you really don‘t want to see it again.
+
+Rigs will also be fittable without skills because you can already fly ships with rigs fitted by your skilled friend. We know this means some people will be angry because they trained rig skills and feel like they‘ve spent valuable skill training time on something that now doesn‘t matter, and we get your point. But some of the rigs have drawbacks when you don‘t have the skills for them and in the future we‘re thinking about adding drawbacks to more rigs.
+
+This is what we have for Crius but we also wanted to highlight a few little things we already added to EVE in Kronos.
+
+More clickable names
+Your name in the character sheet is now a clickable info link so you can more easily show info on yourself (sometimes you just want to get to know yourself a little better, right?)
+The names in the trade window are now clickable info links so you can with one click see who you‘re trading stuffz with.
+
+Labels on online/offline notification
+When you see a character coming online or going offline, you might not remember why you added that person to your notification list. If you‘re super organized you‘ve assigned a label to that person. You can now mouse over the notification and see all the labels you‘ve assigned.
+
+
+
+Moar corp bookmarks!!!
+Everyone loves corp bookmarks, right? I know you all want alliance bookmarks but you‘re not getting that just yet; but to compromise we did double your corp bookmarks. You can now add up to 500 corp bookmarks, yay!
+
+More k-k wormholes in lowsec
+We were talking to you guys and girls at Fanfest about what you love about lowsec, and someone said “lowsec is great because it’s well connected and it makes it easy to meet new people (and kill them)”, and we thought “hey, that’s cool – maybe we can do more of that”. So, more wormholes from lowsec to other areas of k-space is a thing now.
+
+Armor Resistance Phasing skill now reduces cap need more
+The Armor Resistance Phasing skill  used to make cycle time reduce faster than cap need, which meant you actually needed more cap per second after training the skill. You pointed out this was unhelpful, we agreed, so we fixed it. Cycle time and cap need both reduce by 10% per level now.
+
+That’s it for now. Fly safe lovers <3

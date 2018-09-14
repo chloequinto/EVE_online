@@ -1,0 +1,7 @@
+LIMITATION OF LIABILITY
+
+Except as set forth below, CCP's maximum liability for any and all claims arising out of or in connection with your Account, the Software, System, Game, Game Content, User Content, EULA, and any other services or materials provided in connection therewith, shall not exceed an amount equal to the value of one (1) month's subscription fees.
+
+In the event of a material breach of CCP's obligations to provide access to and use of your Account, the System, Game, Game Content or User Content, your sole and exclusive remedy shall be a refund of any pre-paid subscription fees attributable to the period during which you were denied such access and use, or an amount equal to the value of three (3) months' subscription fees, whichever is less. In the event of a malfunction of or your inability to use the CD-ROM containing the Software, your sole and exclusive remedy shall be a replacement disk from the vendor that provided the CD-ROM in accordance with its replacement policy; CCP shall have no liability for the CD-ROM.
+
+If any of the foregoing disclaimers or limitations of liability are declared to be void or unenforceable, then CCP's liability shall be limited to the maximum extent permissible under applicable law. The remedies set forth herein are exclusive and in lieu of all other remedies, oral or written, express or implied.

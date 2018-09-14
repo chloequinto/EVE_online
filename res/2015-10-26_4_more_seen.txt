@@ -1,0 +1,14 @@
+STRUCTURE MODULES
+The modules fitted into new structures are fairly simple to build. They only require Tech I minerals and the new structure fuel blocks. If and when we release Tech II or faction modules the material build-up will be properly modified to match. Please remember the list below is not exhaustive of all the modules we will release over time, but only represent the first batch we intend on delivering.
+
+
+
+Structure module blueprints are again worth 10 times the value list above. Exact details are available below.
+
+
+
+The most observant people among you may notice defensive modules we didn’t list in our previous blog on the topic which warrants a quick explanation.
+
+Repulsor Field: this is an AoE module that pushes everyone away around the target location. Exact bumping speed depends on the mass and velocity vector the victim(s) had at the time.
+Ship Tractor Beam: tractors the target along a certain vector back to the structure. This will affect the velocity vector of the target, so while it will not warp scramble the target directly, it may prevent it from aligning.
+Multi-spectrum ECM: an ECM module that can be loaded with different scripts / ammunition to change its racial sensor strength.

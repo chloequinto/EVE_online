@@ -1,0 +1,38 @@
+Greetings from Space, I’m CCP Myrkur.
+
+After Hyperion, Team Five-0—the dev team recently playing in W-space—asked  the art department whether we had any ideas on making the wormhole visuals indicate the size of the ships which can pass through them. With Hyperion’s new “frigate-only” wormholes, we realized that the visual cue for a wormhole’s max size was something that could be improved upon (note that Five-0 also added this information into the “show info” on individual wormholes, so any suspicions about their sizes can be confirmed there).
+
+
+1st iteration on the new wormhole effect
+The discussion was lively and CCP Blaze suggested that we make the new effect resemble the EVE Gate wormhole in the EVE Universe Origins Cinematic trailer (GIF and Trailer). Using that concept as inspiration, we rapidly iterated and got to the following point within about two hours. Keeping with the nature of New Eden’s wormholes, the effect presents constant change, so you can’t quite tell how it’s going to look one moment from the next.
+
+1st iteration on the new wormhole effect
+The discussion was lively and CCP Blaze suggested that we make the new effect resemble the EVE Gate wormhole in the EVE Universe Origins Cinematic trailer (GIF and Trailer). Using that concept as inspiration, we rapidly iterated and got to the following point within about two hours. Keeping with the nature of New Eden’s wormholes, the effect presents constant change, so you can’t quite tell how it’s going to look one moment from the next.
+
+From there we started exploring how the wormholes of different size might appear and set to the selection of a new visual indicator. As scale was already being used to convey the amount of mass which the wormhole could still accommodate, color stood out as the best choice. Significant tweaking to keep the design in line with the W-space environments led us to this final result: a blue effect for the smallest of vessels and golden strands for the largest with teal and white appearing for the transitional-sized wormholes. These then roughly follow the paradigm of existing EVE ship classes: Frigate-Cruiser-Battleship-Freighter.
+
+
+After about four working days from the initial communication with Team Five-0 the effect was art-approved and visible on Singularity, our public test server.  The new visuals have subsequently been added to the feature list for Oceanus (one more benefit of our new release cadence!) largely thanks to CCP Mankiller, who refactored some of the code on the graphical side of the wormholes and got it all hooked up. Every capsuleer will be able to see these color-based effects for different sized wormholes live on Tranquility on September 29th.
+
+Below on the left you can see how wormholes looked like before and on the right what some of them might look like after we update this effect in Oceanus.
+
+Importantly, you can still see the nebula of the system you are traveling to in the middle of the wormhole and the wormhole will still wobble to indicate how much life it has left in it. They tell me it’s based on some sort of !Science!.
+
+CCP Nag has been working on updating those nebulae. and here’s a preview of what they will look like in Oceanus.
+
+
+
+The wormhole nebulae still retain their progression of danger and you can see how the more red they appear, the more dangerous the system becomes. Starting with mainly black/white/blue in classes 1 and 2, they transition into a bit of green for 3 and 4,  and then drift toward the crimson end of the spectrum  in the class 5 and 6 nebulae.
+
+
+
+We love hearing from you and if you have any feedback on the graphics of eve, please let us know in the comments. What would you like to see improved or added next?
+
+I hope you enjoy these updates and look forward to seeing some of this on r/EVEPorn, on your blogs, and in the ever epic player-made space videos you share with your fellow capsuleers. Don’t forget to send any and all to share@eveonline.com!– CCP Myrkur.
+
+The wormhole nebulae still retain their progression of danger and you can see how the more red they appear, the more dangerous the system becomes. Starting with mainly black/white/blue in classes 1 and 2, they transition into a bit of green for 3 and 4,  and then drift toward the crimson end of the spectrum  in the class 5 and 6 nebulae.
+
+
+We love hearing from you and if you have any feedback on the graphics of eve, please let us know in the comments. What would you like to see improved or added next?
+
+I hope you enjoy these updates and look forward to seeing some of this on r/EVEPorn, on your blogs, and in the ever epic player-made space videos you share with your fellow capsuleers. Don’t forget to send any and all to share@eveonline.com!– CCP Myrkur.

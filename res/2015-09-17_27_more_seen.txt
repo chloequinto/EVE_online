@@ -1,0 +1,15 @@
+VISIBILITY
+
+
+We want the various timers and states to be visible to the owners and players partaking in structure attack, as such:
+
+Owners with sufficient roles will be able to see the full weekly vulnerability window calendar. Corporation members without roles, or external parties will not. This information will not be publicly available throughout the API: we want people to actively scout or infiltrate the target corporation to know the most favorable moment to attack
+Proper notifications will be sent whenever a structure state needs attention
+As mentioned in the previous blog, all structures will have warpable signatures like combat anomalies. They will also show up in space / overview whenever the player can dock inside them
+Timers related to the current state, or next available state will always be visible on the structure icon, in a manner very similar with the existing deployables. Of course, players not belonging to the corporation owning the structure need to be on grid to see them
+Some examples:
+
+If the structure is invulnerable, a timer will be shown counting how much time left before it is vulnerable again
+If the structure is vulnerable, it will display for how long it is going to be before becoming invulnerable again
+If the structure is being repaired, a timer also will be shown before it fully regenerates – if the timer is paused due to incoming damage this particular condition will also be displayed
+

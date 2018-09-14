@@ -1,0 +1,97 @@
+Seasoned Veterans of New Eden – Hello
+
+CCP Rise here for EVE’s Team Pirate Unicorns to give you a heads up about some changes to the new player experience (NPE for short) that are about to sneak their way onto Tranquility.
+
+HISTORY
+
+As many of you remember, the first few days in New Eden can be some of the most difficult, and it’s been a mission at CCP for a very long time to try and improve the experience for new bros. The tutorial has undergone several major reworks over the years and we also constantly strive to make EVE’s core systems more intuitive and usable without sacrificing sophistication. Despite all that, we still feel there’s room for improvement, especially when it comes to the tutorial itself.
+
+Over a year ago, our team took on the mission to overhaul the NPE and since then you’ve seen us establish some systems we felt were needed to make our vision for new players possible. First, we added and tweaked a lot of tooltips covering the major interface elements and features and then we installed a new notification system to improve feedback and give us a better way to deliver information to new players. Most recently we began work overhauling the star map. With all these pieces in place (or at least getting close to where we want them to end up) we’ve finally been able to really dig in to a system that we hope will eventually completely replace the current tutorial: Opportunities.
+
+It would take a lot of time for me to describe the evolution of this project in detail, but you can find two different talks covering our progress on YouTube: one from Fanfest 2014 and one from EVE Vegas 2014.
+
+The short version is that we began with a vision of the NPE that would encourage and inspire new players to set their own goals and objectives by gently hinting at the opportunities available to them in the world, as goal setting is perhaps the most important part of each pilot’s EVE journey.
+
+We then put together some very rough prototypes and started doing ‘friends and family’ testing. Based on those tests, we are now arriving at a version of the NPE that we feel is fit for trying on Tranquility with actual EVE players.
+
+That brings us up to now and this blog. We feel it’s really important to get you in the loop since you are so essential to supporting our new players.
+
+OPPORTUNITIES ABOUND
+
+The core system we are using to drive the NPE is called ‘Opportunities’. Aura (we decided to keep her around) will introduce new players to opportunities in New Eden that they can investigate and complete. Each Opportunity consists of a set of tasks which must be completed to finish the Opportunity. Each task will have some explanation of how it can be completed. Simple.
+
+
+
+There’s a couple very important principles in this system that we are working hard to preserve that I want to go over quickly:
+
+NO MORE LINEAR TRACKS
+
+Firstly, you can complete opportunities in any order you like and can always see all opportunities available from this tree view (work in progress):
+
+
+
+This means no more getting stuck on a step that you can’t figure out until you’re so mad that you give up on EVE forever. It also means you can do the things you’re interested in right away without having to slog through a bunch of steps that you don’t need.
+
+OPEN-ENDED COMPLETION REQUIREMENTS
+
+It’s very important to us that you can complete opportunity tasks however you like. For instance, if there is a task in an opportunity to dock at a station, you can dock at any station. This small distinction from the old tutorial means that we no longer have to trust people will find a particular item, location or agent to move forward. Not only does it mean that players have a lot more freedom in how they move through the NPE, but it also means we can provide opportunities to do things like join a fleet, kill another player or go to 0.0 space. In turn, this allows us to introduce a huge range of concepts that are essential to playing EVE but could never be explained in missions without simply having an agent describe them in a giant wall of text (much like this blog is turning out to be).
+
+HANDS OFF
+
+One of the most fundamental principles for the new NPE is that we want to do less hand-holding. We think players will be more likely to learn, and more likely to have fun if they get to experiment, discover, and even fail as they explore New Eden. As a result, there is deliberately less explanation in the opportunities system than there was in the tutorials. Again, we need to use testing to find out exactly how little explanation we can get away with but our internal testing suggests that we don’t need a lot.
+
+
+
+REWARDS
+
+The final point I want to mention is that, for now at least, we have no rewards associated with completing Opportunities. One of our original goals was to separate tutorial content and rewards so that players don’t feel compelled to do something they aren’t interested in just for money. That said, we can also acknowledge that starting without tutorial rewards may be very harsh so we are still open to changes related to starting assets and income. This is something we hope to learn more about after release.
+
+THE CONTENT
+
+One of the biggest limitations we face for the first release is a rather small amount of content. We are adding more daily, but at first, we will be releasing with only some very essential opportunities covering concepts such as:
+
+Ship movement
+Basic combat
+Looting
+Basic mining
+Stations and some associated services
+Introducing the market
+Traveling within and between star systems
+Skill training
+We hope to be expanding rapidly on this list and eventually provide enough Opportunities that a new player could easily fill their entire trial period. For the time being though, we are still very focused on validating the general flow of the system and tuning our presentation.
+
+ASSOCIATED CHANGES
+
+During early user testing we established some peripheral changes that we felt were necessary to provide a good experience in the absence of missions.
+
+The biggest example is that we will once again be starting new players in space rather than in a station. The EVE universe is truly awe inspiring and we want people to see that as soon as possible. Players in the new NPE will therefore begin the game in a rookie ship, in the starter systems, in a new site which will have three rats and some veldspar.
+
+
+
+Once they leave, this site will quickly despawn and they will have to look elsewhere for their mining and shooting needs, which leads me to…
+
+NEW PLAYER LANDMARK SITES
+
+We have also introduced a new landmark site in each starter system. This site is available to all players and has some asteroids as well as a few NPCs which will respawn quickly. These NPCs (along with the ones in the starter site) drop some civilian modules and civilian module blueprints, allowing new players to easily check out ship fitting and industry.
+
+
+
+We hope to follow up with more changes to starter systems and starting characters to make sure new players have access to a wide range of experiences and tools from the very start.
+
+A/B TESTING AND ROLL OUT
+
+Team Pirate Unicorns has been very happy with the results of our previous soft releases (opt-in notifications, beta star map, etc.) which gave us great opportunity (!) to hone and study the impact of each new feature, and so this NPE release will be no different.
+
+Starting some time shortly after the official release of Tiamat, we will begin adding sets of new players to test groups where we can measure their experience without having to expose the entire player base at once. This will give us a chance to spot problems and gather feedback before going live to everyone.
+
+We know some of you will want to give this system a try and so we are planning to make it available to all players on our Singularity test server this Friday, the 20th of February. Feel free to log on, make a new character and give it a try. The main purpose of this test will be to catch bugs and make sure that there is plenty of information available to current EVE players in case they come across new players in help chat or local looking for assistance with the new system. Of course, any feedback you have would also be appreciated so let us know what you think in the comments thread for this blog.
+
+THE FUTURE OF THE NEW PLAYER EXPERIENCE
+
+We have a long ways to go. We already have a lot of new content planned and would be very happy to see the Opportunity system expand to become a medium-term goal setting tool that can answer the most common noobie question: “what do I do now”. At the moment though, we’re just excited to get this into the hands of new players and see what kind of impact it has.
+
+Rather than saying thanks for reading, or thanks for feedback on this feature, let me say thanks for the amazing job you all do of supporting our new players. You rock.
+
+See you in space o/
+
+@CCP_Rise

@@ -1,0 +1,33 @@
+Good day Capsuleers!
+
+A couple months ago we published a dev blog introducing you to the idea of Skill Trading. The blog sparked a really great discussion in the EVE community. We decided to be fairly hands off and see where it would lead without us trying to persuade anyone. We weren’t sure exactly what to expect but it quickly became clear that many of you were able to see the potential benefits and that you’re also ready for some big changes in EVE, especially when they might help bring in newer players or give you more freedom with your own characters. After going through a lot of feedback while refining the design, I am now here to announce that we will be adding Skill Trading to New Eden and it is currently scheduled for our February release.
+
+We learned a lot from all the articles, comments, and forum posts on the first blog, but before I get into any changes we’re making I want to again describe how the feature works since there did seem to be some confusion last time around.
+
+Let’s look first from the perspective of someone wanting to add skillpoints to their character. All they need to do is get themselves a “Skill Injector” item (we simplified the name here for clarity), which they can find on the EVE market for ISK, providing another player has listed it. Once they’ve bought one, or convinced a loving supporter to give them one, they simple activate the item which immediately adds skillpoints to their unallocated pool and consumes the Skill Injector. Those skillpoints can then be spent however they like (following normal skill progression restrictions of course). That’s it.
+
+The injector items will give a different amount of skillpoints depending on what your character’s skillpoint total is when you use the item, according to the following scale:
+
+< 5 million total skillpoints = 500,000 skillpoints per injector
+5 million – 50 million total skillpoints = 400,000 skillpoints per injector
+50 million – 80 million total skillpoints = 300,000 skillpoints per injector
+80 million skillpoints = 150k skillpoints per injector
+
+But, the item you need and the process you use are the same no matter where you fall on the scale. One last thing here: we are making some big improvements to the UI for allocating skillpoints but I don’t have a screenshot of that for you just yet.
+
+Now let’s look at the other side of the picture. If you’re someone wanting to sell some skillpoints, and your character has more than 5 million total skillpoints, you will need to get a “Skill Extractor”. This item comes from the New Eden Store, but can be traded on the market as well so you can choose the option that fits you best, ISK or AUR. Once you have a Skill Extractor all you have to do is activate it, which will give you a new window showing all your skills. 
+
+
+
+You mark skills for extraction until there are 500,000 skillpoints worth marked. Once you’re happy with the skills you have chosen, you hit Accept. Now you will have a Skill Injector in your item hangar and the Skill Extractor you used will be gone, along with the 500,000 skillpoints.
+
+It’s very important to note here that this means all the skillpoints available to buy on the market in EVE will have originated on other characters where they were trained at the normal rate.  Player driven economies are key to EVE design and we want you to decide the value of traded skillpoints while we make sure there is one single mechanism that brings new skillpoints in to the system – training.
+
+The design hasn’t changed in any big ways since our last blog but you may have noticed that the diminishing returns scale has shifted somewhat since last time. Rather than seeing major concerns about this being used by high skillpoint characters we saw a lot of high skillpoint players who wanted better access to using it themselves and so we’ve relaxed the scale a little to allow more flexibility at the high end. Specifically, we changed the 3rd bracket which used to give 200,000 to now give 300,000, and the final bracket which used to give 50,000 to 150,000.
+
+I’m sure you want to know about pricing for Extractors but we are going to announce that a little closer to release time.
+
+That’s the big important stuff. As I said earlier, our target is February so you can expect to give this a try in the very near future. We very much appreciate all the debate and feedback based on the last blog and look forward to a second round following this blog. We are very excited to get this in your hands and hope it will have a great impact on EVE.
+
+For now, fly safe,
+CCP Rise for Team Size Matters

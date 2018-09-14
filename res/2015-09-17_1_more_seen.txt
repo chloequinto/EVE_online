@@ -1,0 +1,22 @@
+CASE STUDY – THE STORY OF CROQUE-MONSIEUR CONGLOMERATE™
+The CSM requested we use an example to help illustrate the new attack system, which we thought was a good idea. We are going to start with a corporation owning a Medium Citadel in high-security space, the Croque-Monsieur Conglomerate™ (CMC).
+
+CMC acquired a Medium Citadel structure and deployed it in Tar (0.8 security status system in Gallente space) at 18GMT on the 10th of September. As such, the structure will be invulnerable until the 11th of September at 18GMT, at which point it will become vulnerable for 15 minutes (located in high-security space), and only have hull as an active defense layer. An attacking entity who would have bothered to declare war on CMC and showed up might have been able to destroy, but that didn’t happen.
+
+
+
+A Medium Citadel located in high-security needs to have 3 hours of vulnerability set up weekly. One of the directors of CMC, having enough roles, set them to Saturday, from 17 to 20GMT.
+
+As such, the Medium Citadel will be invulnerable all the time, except each Saturday, from 17 to 20GMT, where shields may be shot. During that time, at 19:40GMT, an enemy corporation, the Implacable Kartoffelsalat™ (IKS), having a proper war declaration, shoots the shields.
+
+As the structure has been damaged, it will now try to repair itself. Such a process would take 15 minutes in high-security space, which would bring end of repairs to 19:55GMT. Unfortunately, IKS keeps shooting the structure, which pauses the repair timer indefinitely. Since CMC is unable to repel IKS before the shields are brought to 0, the Medium Citadel enters an invulnerability phase at 20:10GMT, since it took 30 minutes for IKS to bring the shields down due to the damage mitigation mechanics.
+
+Note the weekly vulnerability window would normally end at 20GMT, but was overruled due to the repair timer being active.
+
+The Medium Citadel will stay invulnerable for a specific amount of time (again, how and when is still left to debate). Let’s say the Medium Citadel will come out of invulnerability 24 hours after the repair timer started, so 19:40GMT on Sunday.
+
+As it comes out of invulnerability, the Medium Citadel armor is now susceptible to attack. As it is damaged, the Medium Citadel immediately starts a 15 minutes repair timer.
+
+Since IKS doesn’t show up to damage the armor, the structure successfully repairs itself at 19:55GMT on day 2, causing all its shields, armor and hull to be fully repaired. Since there is no weekly vulnerable window set up on Sunday, the structures becomes invulnerable as soon as the repair timer runs out.
+
+If IKS had shown up to damage the armor, the process would have been the same than for shields.

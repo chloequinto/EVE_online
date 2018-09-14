@@ -1,0 +1,4 @@
+SHIP RENDERING AND LIGHTING UPDATED WITH PHYSICALLY BASED RENDERING TECHNIQUES (PBR)
+“Physically Based Rendering” is a term for cutting edge rendering methods that closely model how real light bounces off different surfaces. Rendering ship models and lights using this approach results in materials and surfaces that look more realistic and light that falls and reflects beautifully. With Rhea, all ships except T3 strategic cruisers get rendered with PBR techniques. Upcoming releases will continue to apply these methods to more parts of EVE. Read about the technology and vision in an upcoming dev blog from CCP Mankiller.
+
+

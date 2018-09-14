@@ -1,0 +1,4 @@
+VISUAL EFFECTS UPDATES TO ASTEROID BELTS
+Dust effects, sun rays and rock fragments are added to asteroid belts in Rhea to create a more immersive experience. Early work in progress screen shot:
+
+

@@ -1,0 +1,24 @@
+HOW TO DO IT THE SECURE WAY 
+A SSO system, by nature, is the guard at the gates. In our case it guards who is able to access your virtual identity. Sadly, the internet is full of fraudsters lingering around and waiting for a chance to make profit or gain some benefits and they are happy to do this any way you could potentially think of. They try to trick you into telling them your account credentials with the help of social and technical measures including phishing and spoofing of authorities as well as web portals.
+
+That being said, how to do it the secure way? Luckily, nowadays tools and technologies provide us with plenty of information about trust relationships and communication security. Utilizing this information we are able to tell if we are being targeted by an attack or not. In the case of our SSO this looks like follows.
+
+Validate that you are securely connected to the correct web resource before entering any credentials
+
+
+
+There is only one legit domain and host name combination for our SSO which is login.eveonline.com. Also, make sure that you are connected via https: (note the “s”) and never enter any credentials over plain text and unauthenticated http: connections. 
+
+Verify that the connection is securely encrypted and authenticated
+
+
+
+This is an example of the verification dialog you can get to by clicking the small lock icon to the left of the URL bar in a Chrome browser. Every modern browser provides this or a similar brief overview which allows you to check the trust relationship of your connection and the security level of the encryption which is applied to it.
+
+Manual verification of the certificate
+
+
+
+By manually verifying the certificate of the web resource you are connected to you can check if the certificate is valid for the domain it is used on and if it has actually not expired yet.
+
+Following these recommendations you can reduce the risk of getting your credentials and therefore your virtual identity stolen. Also, we encourage you to report any misleading, bogus or questionable usage of our SSO to security@ccpgames.com.

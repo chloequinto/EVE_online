@@ -1,0 +1,354 @@
+NOVEMBER HERE WE COME!
+We’re really glad that we’re finally able to enter this next phase of community discussion and feedback about Command Bursts, and we’re especially excited that we’re finally this close to releasing the revamp of fleet boosting roles that have been in the works for so long. We have talked to many of you on the forums, twitter, Fanfest, EVE Vegas and other events about these systems and we know how important this rework is to many of you in the community. We know that many of you have opinions and insight to contribute on this topic, and we encourage you to pass your feedback to us through the official forums, in person at upcoming events like EVE Vegas and with the help of the CSM. All of us here at CCP are going to be working very hard over the next few months to iterate on these designs with help from your feedback, and we can’t wait to get them into your hands on the test server as soon as possible.
+
+Thanks and good hunting!
+
+-Your friendly neighborhood Team Five 0
+
+New to EVE? Start your 14-day free trial today.
+Returning pilot? Visit Account Management for the latest offers and promotions.
+
+Charge types for the Shield Command Burst:
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Shield Harmonizing
+
+Increases all shield resistances
+
++8%
+
++21.56%
+
+Active Shielding
+
+Reduces cycle time and capacitor use for local and remote shield boosters
+
+-8%
+
+-21.56%
+
+Shield Extension
+
+Increases shield hitpoints
+
++8%
+
++21.56%
+
+Charge types for the Information Command Burst:
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Sensor Optimization
+
+Increases targeting range and scan resolution
+
++18% Targeting Range
+
++9% Scan Resolution
+
++48.52% Targeting Range
+
++24.26% Scan Resolution
+
+Electronic Superiority
+
+Increases strength, optimal range and falloff range of ECM, Sensor Dampeners, Weapon Disruptors and Target Painters
+
++9%
+
++24.26%
+
+Electronic Hardening
+
+Increases Sensor Strength and resistances to Sensor Dampeners and Weapon Disruptors
+
++18% Sensor Strength
+
++9% RSD/WD Resistances
+
++48.52% Sensor Strength
+
++24.26% RSD/WD Resistances
+
+Charge types for the Skirmish Command Burst:
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Evasive Maneuvers
+
+Reduces signature radius and inertia modifier
+
+-6%
+
+-16.17%
+
+Interdiction Maneuvers
+
+Increases range of Warp Disruptors, Warp Scramblers and Stasis Webifiers
+
++12%
+
++32.34%
+
+Rapid Deployment
+
+Increases speed boost from Afterburners and Microwarpdrives
+
++12%
+
++32.34%
+
+Charge types for the Mining Foreman Burst:
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Mining Laser Field Enhancement
+
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
+
++30%
+
++114.26%
+
+Mining Laser Optimization
+
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+
+-15%
+
+-57.13%
+
+Mining Equipment Preservation
+
+Reduces volatility of mining crystals
+
+-15%
+
+-57.13%
+
+Available modifiers to Command Bursts:
+Modules and Rigs
+
+Bonus
+
+Tech 2 Command Burst Modules
+
++25% Command Burst Effect Strength
+
+Command Processor Rig
+
+If ship is allowed to fit Command Burst Modules, can fit +1 additional Command Burst Module
+
+T1 Industrial Core (while active)
+
++25% bonus to Mining Foreman Burst strength
+
++150% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+T2 Industrial Core (while active)
+
++30% bonus to Mining Foreman Burst strength
+
++200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+Skills
+
+Bonus
+
+Leadership
+
++7% Command Burst Area of Effect Range per level
+
+Wing Command
+
++6% Command Burst Area of Effect Range per level
+
+Fleet Command
+
++5% Command Burst Area of Effect Range per level
+
+Armored Command
+
++10% Armor Command Burst Effect Duration per level
+
+Shield Command
+
++10% Shield Command Burst Effect Duration per level
+
+Information Command
+
++10% Information Command Burst Effect Duration per level
+
+Skirmish Command
+
++10% Skirmish Command Burst Effect Duration per level
+
+Mining Foreman
+
++10% Mining Foreman Burst Effect Duration per level
+
+Armored Command Specialist
+
++10% Armor Command Burst Effect Strength per level
+
+Shield Command Specialist
+
++10% Shield Command Burst Effect Strength per level
+
+Information Command Specialist
+
++10% Information Command Burst Effect Strength per level
+
+Skirmish Command Specialist
+
++10% Skirmish Command Burst Effect Strength per level
+
+Mining Director
+
++10% Mining Foreman Burst Effect Strength per level
+
+Command Burst Specialist
+
+-10% Command Burst reload duration per level
+
+Implants
+
+Bonus
+
+Armored Command Mindlink
+
++25% bonus to Armor Command Burst Effect Strength and Duration
+
+Shield Command Mindlink
+
++25% bonus to Shield Command Burst Effect Strength and Duration
+
+Information Command Mindlink
+
++25% bonus to Information Command Burst Effect Strength and Duration
+
+Skirmish Command Mindlink
+
++25% bonus to Skirmish Command Burst Effect Strength and Duration
+
+Mining Foreman Mindlink
+
++25% bonus to Mining Foreman Burst Effect Strength and Duration
+
+Caldari Navy Command Mindlink
+
++25% bonus to Shield and Information Command Burst Effect Strength and Duration
+
+Federation Navy Command Mindlink
+
++25% bonus to Armor and Skirmish Command Burst Effect Strength and Duration
+
+Imperial Navy Command Mindlink
+
++25% bonus to Armor and Information Command Burst Effect Strength and Duration
+
+Republic Fleet Command Mindlink
+
++25% bonus to Shield and Skirmish Command Burst Effect Strength and Duration
+
+ORE Mining Director Mindlink (NEW)
+
++25% bonus to Mining Foreman and Shield Command Burst Effect Strength and Duration
+
+Ship and Subsystem Bonuses
+
+Bonus
+
+Command Destroyer
+
+Can fit one Command Burst module
+
++2% bonus to two racial types of Command Burst Effect Strength and Duration per skill level
+
+Combat Battlecruiser
+
+Can fit one Command Burst module
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Strategic Cruiser with Warfare Processor Subsystem
+
+Can fit one Command Burst module
+
++2% bonus to three racial types of Command Burst Effect Strength and Duration per subsystem skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Command Ship
+
+Can fit two Command Burst modules
+
++3% bonus to two racial types of Command Burst Effect Strength and Duration per skill level
+
+Role Bonus: +100% bonus to Command Burst Area of Effect Range
+
+Carrier, Supercarrier and Force Auxiliary
+
+Can fit two Command Burst modules
+
++1% bonus to two racial types of Command Burst Effect Strength and Duration per skill level
+
+Role Bonus: +200% bonus to Command Burst Area of Effect Range
+
+Titan
+
+Can fit three Command Burst modules
+
+Can fit one Effect Generator module
+
+Role Bonus: +200% bonus to Command Burst Area of Effect Range
+
+Porpoise (NEW)
+
+Can fit two Command Burst modules
+
++2% bonus to Mining Foreman Burst Strength and Duration per skill level
+
+Orca
+
+Can fit three Command Burst modules
+
++3% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++1% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Rorqual
+
+Can fit three Command Burst modules
+
+Can fit one Pulse Activated Nexus Invulnerability Core module
+
++5% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++3% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range

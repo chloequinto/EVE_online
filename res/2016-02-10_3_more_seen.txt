@@ -1,0 +1,16 @@
+FITTINGS
+Since the Citadels have slots, they rely on standard ship fittings like powergrid, CPU, or even calibration to install modules.
+
+Details are listed below:
+
+
+
+Some explanations:
+
+Service slots will use powergrid and CPU like regular modules.
+Existing ship modules cannot be fitted into the Citadels, and vice-versa.
+As mentioned on the “Citadels, Sieges and you v2” blog, the new structures automatically repair themselves during the repair state, as such there is no shield recharge rate on them.
+The damage mitigation is a hard limit on incoming damage the structure can take in a specific amount. More details on the blog linked just above.
+Citadels will be able to use fighter and fighter-bombers and their new mechanics tied to the capital ship overhaul also coming in the Citadel expansion.
+It is likely that Citadel slots and fittings will not be fully used during first release. This is intentional as we plan to add more modules as time passes.
+The new structures will be immune to most form of Electronic Warfare (EW) – specifically anything that can impede targeting, like ECM or Sensor Dampening.

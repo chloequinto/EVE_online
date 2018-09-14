@@ -1,0 +1,40 @@
+Greetings capsuleers,
+
+With the October 24th Lifeblood Expansion fast approaching we want to introduce you to a mining activity tracking tool we will be releasing to complement Lifeblood’s Moon Mining and Reactions changes. The Mining Ledger allows both individuals and corporations to track mining activity in order to make more informed decisions about their industrial enterprise.
+
+SPREADSHEETS IN SPACE
+When we first began discussing plans for the new Refineries structures and the changes to Moon Mining with the Council of Stellar Management, the rationale of increasing the amount of information available to both individuals and corporations gained more weight and importance. There was a clear call from the CSM for corporations and alliances to be able to track who is mining the materials cleaved from moons by refinery structures, and the developers saw a strong need for all pilots to be able to track their own individual mining activity. Out of these discussions the Personal and Corporate Mining Ledgers were born.
+
+PERSONAL MINING LEDGER
+We know that a vast majority of you love graphs, and so we've made sure your personal mining activity is represented in ways you like best: lines and bars - with filters to boot! 
+
+
+
+The Personal Mining Ledger tracks all of the mining activity done by a character, anywhere in New Eden. It allows pilots to see the types of ores, gas and ice they’ve collected, the areas of space they frequent, and of course their activity over time. As a pilot mines, the mining information is collected and batched into days in order to create a personal mining history.
+
+We have been gathering the mining data of each individual pilot in New Eden since the June release to allow miners a glimpse into their activity history when the ledger is released.
+
+The ledger can be accessed through the Business section of the Neocom and is available to all pilots in all areas of space. Just like other tools, the Ledger can be dragged from this section to your Neocom, so that it is always readily available. For more details about customizing your Neocom, check out this great Eve University page about all the functionalities available.
+
+To try out the Personal Ledger before the Lifeblood Expansion on October 24th, login to the Singularity test server to try it for yourself.
+
+CORPORATE MINING LEDGER
+Keeping the books straight and your members in line is the eternal work of all BPM gurus. The Corporate Mining Ledger grants information on who exactly has been mining your moon ore, both friend and foe.
+
+
+
+The Corporate Mining Ledger is tied to mining activity around Refineries. Once a Refinery has extracted a moon chunk from its nearby moon and exploded this chunk into a field of moon material asteroids, capsuleers can mine these asteroids through normal mining activity. Who mines these asteroids, what corporation they belong to and how much they mine, is tracked in the Corporate Mining Ledger. This information is available to capsuleers with the Accountant, Director or CEO role in the corporation that owns the structure when the asteroid is mined. 
+
+It is worth noting that this information is not available in real-time and corporations must be vigilant in their guarding against those who may wish to steal their precious ores. 
+
+APIS, EXPORTS AND YOU
+The information in both the Personal Mining Ledger and the Corporate Mining Ledger is being presented in this simple format as we know that each individual and individual group will have their own needs and ways of using this information. Group size, organizational structure and internal tax policies are just a few aspects that affect how this information can be used. Rather than restrict this use through formatting, we are presenting this to you as openly as possible in order to give you the chance to make the most of your mining. 
+
+The information in the Personal and Corporate Mining Ledgers can be exported to your Clipboard or reached through the API endpoints due to be published shortly. We are looking forward to the tools that our very talented 3rd Party Developer community creates in this regard. More about some of their already released projects, can be found here.
+
+The specifications for these API end points have been released and details on their scopes can be found here.
+
+That's it for this installment. Thank you and fly safe.
+
+o7
+Team Five-0

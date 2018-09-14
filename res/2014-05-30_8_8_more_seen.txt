@@ -1,0 +1,7 @@
+GIVING DRONES AN ASSIST (UPDATED)
+Hello once again, spacefriends. CCP Fozzie here, bringing your our next dev blog covering some of the exciting changes coming your way in the EVE Online Summer 2014 release.
+
+We have updated the thread with the latest information, namely changes to the range and tracking of combat drones and changes to the plan for converting skills on patch day. This blog is now fully up to date as of May 30, 2014.
+This blog will discuss our constant companions in the darkness of space, the loyal drones. Drones have received many improvements in recent years that have increased their stature to that of a main weapon system and expanded the options available to drone users immensely. However there are several aspects of drone balance that are not yet up to our current standards. In the summer release we will be implementing a wide ranging balance rework for drones of all sizes. This will affect drone skills, modules and ship bonuses as well as the attributes of the drones themselves.
+
+I will include a link to a spreadsheet with the new drone attributes at the end of the blog, but first we’ll cover the changes at a higher level. This revamp includes over a thousand separate behind-the-scenes changes, but it’s simpler to look at each category of problems we are trying to solve and how we intend to address them one by one.

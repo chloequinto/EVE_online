@@ -1,0 +1,2 @@
+BOOKMARKS IN SPACE AND MORE IN THE SENSOR OVERLAY
+Personal and Corporation Locations, Cosmic signatures and anomalies, Landmarks and Agent objectives will be visible in the Sensor Overlay with Phoebe. The overaly results will also be visible in a compass like ring on the ship HUD. Read more in this dev blog: SENSOR OVERLAY 2.0: BIGGER, BETTER, BOOKMARKS IN SPACIER!

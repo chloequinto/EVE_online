@@ -1,0 +1,88 @@
+THERA AND THE SHATTERED WORMHOLES
+Rough transition through wormhole conduit to seventh candidate location. Shields and nanoplating held with minimal erosion. Deployed camera drones and was immediately impressed by the vivid blue glare of the central star. Even brighter than typical blue A0 types. Analysis showed it to be subtype A0IV and qualifying as a blue subgiant. Extremely turbulent with many signs of instability in star and the background radiation of the system. Briefly turned forward plating transparent with polarizing filters in place, and was struck by the dire beauty of the star.
+
+Sensors indicate several outer planets of various types and an inner zone of numerous terrestrials. The innermost pair of planets show signs of shattering similar to that seen in previous candidate locations. This system stands out as extremely capacious and probes are returning multiple wormhole signatures. Could it be lucky seven?
+
+~ Zakari Kovalis, Exploration Vessel Katydid, Log Entry YC112.07.09
+
+[![](//content.eveonline.com/www/newssystem/media/66665/1/Thera550.jpg)](//content.eveonline.com/www/newssystem/media/66665/1/Thera.jpg)
+Hello dauntless Capsuleers!
+
+On the heels of our successful Phoebe release last week, this is CCP Fozzie bringing you details of a few of the many exciting additions in store for our Rhea release, which is coming to you in less than a month on December 9th.
+
+If you’ve been paying attention to EVE’s game world news over the past several weeks you will have noticed that unusual events are unfolding in the New Eden Cluster, and that the enigmatic Sleeper residents of the ‘Anoikis’ wormhole regions are somehow involved.
+
+With these new developments, this would be an excellent time to brush up on your scanning skills and learn some wormhole fundamentals.
+
+These events are ongoing and will have far reaching consequences. We’re now ready to announce that one consequence of these events will be that Capsuleers will gain access to one hundred and one new wormhole systems in the Rhea release.
+
+[![](//content.eveonline.com/www/newssystem/media/66665/1/Epicenter550.jpg)](//content.eveonline.com/www/newssystem/media/66665/1/Epicenter.jpg)
+These wormhole systems will all be distinct from existing space in several important ways and will fall into three categories:
+
+The seventy five **Standard Shattered Wormhole Systems** will be similar to normal W-space systems in many ways (including delayed-mode local chat), but will have a few important distinctions:
+
+They will have no moons and every planet will be shattered. The reasons for this phenomena are heavily tied into the ongoing and upcoming events within New Eden.
+
+They will have some special landmark sites that also connect to the storyline and provide clues to the reason they were previously inaccessible. I wouldn’t be surprised if they found their way to Mark726’s EVE Travel blog.
+
+They will have a somewhat higher occurrence of some of their class-appropriate W-space signature and anomaly content compared to a normal W-space system.
+
+They will contain a new celestial debris field asteroid belt anomaly that will be larger and richer than most belts.
+
+They will contain minable ice fields. This will be the first ice available in wormhole space.
+
+They will all have an additional known-space “static” wormhole connection alongside the normal “static” connections that they receive by virtue of their class. For those unfamiliar with wormhole navigation, a “static” connection in this case means that there’s always a wormhole exit to a particular security level “known-space” system (one in EVE’s star map).
+
+They will be distributed into all the existing wormhole classes, and some will have one of the current wormhole system effects.
+
+There are also some extra unique lore-connected surprises to be found in a small percentage of these new systems.
+The twenty five **Small Ship Shattered Wormhole Systems** will have all the features of the normal Shattered Wormhole Systems, with the following additions:
+
+All wormholes in or out of these systems will be small ship wormholes, meaning that only Frigates, Destroyers and Heavy Interdictors (Heavy Interdictors can use their bubble generators to reduce their mass) can enter.
+
+These systems will all receive anomaly and signature sites appropriate for wormholes between class 1 and class 3, but will receive the system effects normally reserved for C6 Wolf Rayet systems (+100% armor hit points +200% small weapon damage, -50% shield resists, -50% signature size)
+And then we come to the most significant of all the new shattered systems:
+
+[![](//content.eveonline.com/www/newssystem/media/66665/1/Wreckage550.jpg)](//content.eveonline.com/www/newssystem/media/66665/1/Wreckage.jpg)
+**Thera** is a new and unique wormhole system that will be intimately tied to EVE’s developing storyline and will essentially represent a new 5th variant of space in New Eden.
+
+Thera is a gigantic shattered wormhole system that contains four NPC stations and a large number of wormhole connections.
+
+The four stations in Thera will each have a full set of services, including cloning, office slots, and manufacturing. You will be able to set these stations as your medical clone location, and install Jump Clones if you wish.
+
+Thera has multiple static connections highsec, lowsec and nullsec space as well as access to wandering wormholes and K162 connections that can connect it to W-space. The result is a system that is much more connected to K-space than to W-space.
+
+None of the connections to Thera will admit capital ships (freighters will be able to squeeze in), none of the stations in Thera will allow capitals to be built, and there are no moons for starbase anchoring. This means the system will only ever contain sub-capital vessels.
+
+Thera is the largest system we have ever had in EVE. The stations are spread between three different planets at the edges of the system and warps between them can be up to 342 AU. The vast distances and huge number of wormholes ensures that keeping a lockdown on all of the stations and wormholes in the system will be exceedingly difficult, although we expect it to be an extremely dangerous place.
+
+Anchored warp disruption bubbles will not be usable within Thera, although interdictor and heavy interdictor bubbles work normally.
+
+Thera does not have a system bonus effect.
+
+Thera contains wormhole signature and anomaly sites appropriate for class 3 and class 4 wormholes, as well as all the different types of wormhole gas mining sites on par with a class 6 wormhole system.
+
+Thera does have distinct visuals including new unique station skins for the Sisters of EVE, a new nebula and a new sun effect.
+[![](//content.eveonline.com/www/newssystem/media/66665/1/Undock550.jpg)](//content.eveonline.com/www/newssystem/media/66665/1/Undock.jpg)
+The Thera system is colonized by a research expedition organized by The Sanctuary corporation, and more information about their presence in Thera will be revealed bit by bit in the future.
+
+As always, we know that our players will take EVE’s new features in creative directions that we at CCP can never fully foresee, however we do have predictions for at least a few of the ways these systems will add to the diversity of experiences in EVE.
+
+The shattered wormhole systems should represent an excellent “neutral ground” for wormhole entities that might be hesitant to engage in a system containing hostile starbases. They will also be an excellent reward for pilots bold enough to mine ice or run anomalies outside the security of their home wormhole. And although it will be more difficult to live in a shattered wormhole system without the use of starbases, we know that some of our players will find a way like they always do.
+
+Thera will attract a mix of crowds as diverse as pvp corporations searching for some variety in their combat, industrialists serving the local market, explorers intent on puzzling out the secrets of the system’s history, adventurers looking to make a quick buck under their hunter’s noses, and dedicated local pvpers preying on all the rest and using the system’s unique geography to their advantage.
+
+We expect that Thera will appeal most strongly to players who find the concept of living at the center of an ever-shifting set of wormhole connections appealing. Residents of Thera will know that each day they will have a different menu of neighbors and access to different areas of known space.
+
+We anticipate this to be one of the busiest nullsec systems in EVE over sustained periods, and have plans in place to ensure that it receives appropriate hardware support.
+
+As of the publishing of this dev blog, the Singularity test server is up and running with the first early build of the Rhea release; including Thera and the shattered wormhole systems. We can’t wait to start reading your feedback as you explore these systems for yourself and hope you send any videos you make of its beauty and terror to share@eveonline.com,
+
+More information about how you can get to Thera and start exploring can be found in our Test Server Feedback forums.
+
+[![](//content.eveonline.com/www/newssystem/media/66665/1/Ring_Vista550.jpg)](//content.eveonline.com/www/newssystem/media/66665/1/Ring_Vista.jpg)
+This new space represents just one of the many improvements and additions to EVE Online that will be coming your way with the Rhea release on December 9th. Our Executive Producer CCP Seagull will be bringing you a “Coming in Rhea” dev blog soon, jam packed with lots of surprises.
+
+I hope you’ve enjoyed this first look at our new solar systems, and remember to never stop exploring!
+
+-CCP Fozzie

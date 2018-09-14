@@ -1,0 +1,11 @@
+APIS, EXPORTS AND YOU
+The information in both the Personal Mining Ledger and the Corporate Mining Ledger is being presented in this simple format as we know that each individual and individual group will have their own needs and ways of using this information. Group size, organizational structure and internal tax policies are just a few aspects that affect how this information can be used. Rather than restrict this use through formatting, we are presenting this to you as openly as possible in order to give you the chance to make the most of your mining. 
+
+The information in the Personal and Corporate Mining Ledgers can be exported to your Clipboard or reached through the API endpoints due to be published shortly. We are looking forward to the tools that our very talented 3rd Party Developer community creates in this regard. More about some of their already released projects, can be found here.
+
+The specifications for these API end points have been released and details on their scopes can be found here.
+
+That's it for this installment. Thank you and fly safe.
+
+o7
+Team Five-0

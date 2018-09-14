@@ -1,0 +1,10 @@
+INVULNERABLE STATE
+The structure cannot be attacked through any means when in this state. It serves to protect the owner assets, pauses gameplay and gives a chance for all players within different time zones to interact with each other.
+
+It is the most common structure state, encountered when a structure is operating normally, being anchored or unanchored, or after a successful attack by external parties
+Unlike existing Starbases, the new structures will not use fuel when invulnerable. In fact they will not use fuel at all by themselves. Fuel consumption has been moved to service modules, which will use a new type of fuel blocks, made of the materials from all existing fuel blocks, plus strontium clathrates. This will be explained further on a separate blog on Structure acquisition and composition materials
+Invulnerable state duration:
+
+Shields will be invulnerable all the time, except if the structure is within one of the weekly vulnerability window mentioned above
+When vulnerable and attacked, if shields hit points reach 0, the structure will become invulnerable for a specific amount of time (this is the equivalent of the old reinforcement timer). Exactly how this is going to last is still up for debate. We are discussing various options, like a fixed time on existing Starbase reinforcements, or the system we had in the previous blog. More details as we get them
+This process is repeated for hull: when armor reaches 0 hit points, structure will become invulnerable for a specific amount of time after which hull will become vulnerable to attack

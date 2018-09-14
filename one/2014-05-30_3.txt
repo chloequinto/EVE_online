@@ -1,0 +1,36 @@
+Greetings to you, heroic capsuleer!
+
+Once again, I have the pleasure of introducing you to a brand new faction ship line: Mordu’s Legion.
+
+
+(click to enlarge)
+
+On June 3rd, for the Kronos release, we are adding full pirate faction lineup: the Garmur Frigate, the Orthrus Cruiser and the Barghest Battleship.  These three new player ships are going to be a lot of fun and we really enjoyed building them but before I walk you through their creation, let me show you what you can look forward to seeing and flying on June 3rd:
+
+
+(click to enlarge)
+
+
+(click to enlarge)
+
+
+(click to enlarge)
+
+If you aren’t familiar with this faction (which wouldn’t be too surprising considering they only hold one station in all of New Eden!) let me give a short introduction: The Legion is commanded by a military genius named Muryia Mordu and is comprised of Intaki separatists who joined the Caldari Navy to fight the Federation.  They were born during a politically oriented uprising but shortly after it ended they turned their talents on the private sector, taking on mercenary and security work.  The Legion has plenty friends within the Caldari Navy and related Caldari Megacorps across the cluster and is always adding to its list of clients and allies.  Despite only recruiting fighters who are already trained and proven elsewhere, the Legion’s elite ranks are growing steadily and their high-tech, Caldari Navy influenced hardware is starting to catch capsuleer attention.
+
+So why did we choose Mordu’s Legion?  Missile lovers in EVE have lacked the variety of end-game options that turret users have enjoyed for some time and we’ve been looking for an opportunity to correct that. This was our chance and Mordu’s Legion is a perfect fit.  We began planning for these ships with the hope that they would draw on skills from Minmatar and Caldari but found that Mordu’s Legion was ideal in so many ways that having Gallente rather than Minmatar would have to do.  A rise in Mordu’s Legion activity also fits EVE’s constantly evolving storyline rather well considering their bitter hatred for the Guristas who are also stepping up their game of late.
+
+So these ships look good enough to win Miss Hawaii 2014 and they have a solid backstory, but what do they actually do? As said above, we wanted missiles to be at the heart of the faction so you will find a substantial missile damage bonus on all three ships.  We also decided that we wanted them to be very fast skirmishers (partly emerging from the original idea of them having Minmatar influence, but also as a nice contrast to traditional Caldari ships which tend to be fairly slow) so they will be the second fastest pirate faction, losing drag races only to the Angel Cartel.  When looking for a bonus from their Gallente side we quickly zero’d in on warp scrambler and disruptor range because of the perfect synergy with speed and long range damage application.  Finally, we wanted something special, one more bit of unique flavor to really set Mordu’s Legion apart.  After some tinkering we settled on an unprecedented missile velocity bonus that increases missile speed by 200% while lowering the flight time by half.  All said and done you get missiles that get to their targets extremely quickly and give a significant range bonus as well.  These things are nasty, so get a tackle on them early or get out.
+
+
+
+One of the things about Mordu’s Legion that we are most excited about is the method by which the ships can be acquired.  As usual, Mordu’s Legion LP stores will have them on offer, but we are also going to be adding some new Legion patrols to asteroid belts across all of low security space.  Like other pirate faction commanders, these spawns will be fairly rare.Unlike other factions, Mordu’s Legion belt patrols will have 100% chance of dropping a blueprint for one of the new ships. This should make searching for Mordu’s Legion patrols an exciting and rewarding activity, and because it happens in low sec, we expect that it will also lead to an increase in player combat--which is always fantastic.  A small note: there will be other Mordu’s Legion NPCs associated with some other new content in Kronos, but only the ones spawning in asteroid belts will drop BPCs for the Garmur, Orthrus and Barghest.
+
+
+(click to enlarge)
+
+There are more details available in the features and ideas section of the forums where you can see their stats and give us feedback, make sure and check that out. We can’t wait to get these into your hands (and into our own) and look forward to seeing what you do with them!
+
+Fly safe and good luck,
+
+@CCP_Rise

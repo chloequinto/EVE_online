@@ -1,0 +1,21 @@
+BALANCE UPDATES FOR STRUCTURE WEAPONS
+This August, we are deploying a set of iterations to structure weapons with a special focus on the Standup Guided Void Bombs. These bombs have been a major topic of discussion in the community and we agree with the majority of you that they need to be toned down. Void bombs being the most powerful part of structure defenses has the significant downside of reducing the fleet composition choices available to attackers.
+
+Our goals for these weapon tweaks are:
+
+Reduce the pressure to limit fleet composition choices when attacking Citadels (caused by the extremely powerful void bombs)
+Make the counterplay for structure guided bombs more clear and accessible
+Compensate for the nerfing of void bombs with small buffs to damage bombs and single-target anti-subcap damage so that structure defenses remain viable
+The changes we are proposing here reduce the area of effect and energy neutralizer amount per second of Guided Void Bombs while also reducing their rate of fire and movement speed to make counterplay more accessible.
+
+Structure Guided Bombs
+Reduce the rate of fire of the Structure Guided Bomb Launcher from 20 seconds to 40 seconds
+Reduce the area of effect of Guided Void Bombs from 40km to 20km
+Reduce the area of effect of AS and AM Guided Bombs from 40km to 30km
+Reduce the neut amount per second of the Guided Void Bomb by 25%
+Increase the DPS of the AS and AM Guided Bombs by 25%
+Reduce the velocity of the Guided Void Bomb by 20% (increasing flight time to keep the range the same)
+Structure Anti-Subcap Missiles
+Increase the damage of the ASML-SD missile by 33%
+Increase the damage of the ASML-MD and ASML-LD missiles by 20%
+These changes are available for testing on our Singularity test server now and we encourage all of you to give them a try and to let us know what you think in the comments thread for this blog.

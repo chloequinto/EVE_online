@@ -1,0 +1,27 @@
+SCIENTIFIC EVE COMMUNITY!
+We are here to tell you about the next milestone for Project Discovery which is arriving on the test server Singularity. Those of you who‘ve followed news about this feature may have seen our presentations on it at EVE Fanfest and EVE Vegas last year. If you haven‘t but are interested in the design philosophy behind it, we recommend you watch them.
+
+AIM OF THE PROJECT
+Together with Swiss startup company Massively Multiplayer Online Science and Reykjavík University, CCP has been working on bringing real world scientific research into the EVE game experience. For the launch of Project Discovery we are collaborating with The Human Protein Atlas (HPA), a swedish research group that builds and provides a public database of human proteins that gets used by thousands of medical research groups. By participating in Project Discovery you will be helping HPA to analyze new protein images to expand their database and in turn contributing to the wellbeing of future patients being treated around the world.
+
+
+
+HOW IT WORKS
+
+
+Many endeavours in scientific research require substantial amounts of human processing on enormous sets of data. Examples of such processing include annotating images to indicate where anomalies are present (e.g., finding stars in an image of the night sky) or classifying images into one of several categories (e.g., to identify which proteins are present in an image of a cell). Performing such tasks computationally is very difficult, but non-experts can learn to do so proficiently with only minimal, example-based training.
+
+
+
+SISTERS OF EVE
+
+
+Project Discovery is a classified research program founded and run by the Sisters of EVE. Their project lead, Professor Lundberg, will recruit you and provide you with a basic tutorial to be able to recognize specific patterns in biological samples already classified by experts. As soon as you graduate from the training program, you and other graduated contributors will be tasked with analyzing unique images fresh from the lab. To start you off you are tasked with increasingly difficult tasks which already have a solution, when you have finished with those you will get tasks that don‘t have a solution. Once enough contributors have reached a statistically accurate consensus on a task which has no solution, you will receive a boost to your Project Discovery accuracy rating. For every task you solve, the SoE will reward you with ISK and LP, as well as Analysis Points which contribute to your Project Discovery rank.
+
+PLEASE GIVE US YOUR FEEDBACK
+We would really like to hear your thoughts on this feature. Please give it a go on Singularity and if able please show up for the masstest on January 28th at 17:00 UTC (EVE time).
+
+On behalf of the many contributors to Project Discovery
+
+CCP Scarpia
+PS: Don't forget to check out our Project Discovery Website!

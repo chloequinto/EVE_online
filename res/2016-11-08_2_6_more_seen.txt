@@ -1,0 +1,39 @@
+**AZBEL**
+
+Role Bonus:
+
+1% reduction in manufacturing job required materials
+20% reduction in manufacturing and science job required time
+4% reduction in manufacturing and science job required ISK cost
+25% reduction in Engineering Service Module fuel consumption
+
+Slot Layout: 4H, 3M, 2L, 5 Service, 2 Launcher
+
+Fittings: 2,500,000 PWG, 30,000 CPU
+Defense (shields / armor / hull): 14,400,000 / 14,400,000 / 14,400,000
+Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20
+DPS Cap: 15,000
+Fighter Slots: 3 Tubes, 3 Light, 2 Support
+Weekly vulnerability hours: 14
+Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8
+Max Locked Targets: 8
+
+Docking allowed for: all subcapital ships, freighters
+
+The required materials for building an Azbel are:
+
+Structure Construction Parts6
+Structure Hangar Array4
+Structure Storage Bay4
+Structure Laboratory8
+Structure Factory8
+Structure Repair Facility4
+Structure Reprocessing Plant4
+Structure Docking Bay4
+Structure Market Network4
+Structure Medical Center4
+Structure Office Center4
+Structure Advertisement Nexus4
+At current market prices this represents a build cost of approximately 5.2 billion ISK (price is subject to capsuleer market fluctuations).
+
+As the focal point of corporation industrial activity and capital construction yards, the Azbel represents a great step forward for industry in New Eden.

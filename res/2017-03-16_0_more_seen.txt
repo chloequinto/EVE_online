@@ -1,0 +1,27 @@
+HANDY FAQ!
+Q: When will this feature launch?
+A: We don’t have an exact date yet, but this feature is in active development now, and you can expect more detailed information on the launch timeline at EVE Fanfest in early April.
+
+Q: What will happen to existing market orders for PLEX when the feature launches?
+A: We will cancel all orders and repay fees, as usual when we make a major type conversion.
+
+Q: Will market histories reflect the change in PLEX value?
+A: New PLEX will be a new item type, getting its own graphs and history data starting from day one and leaving old PLEX data unaffected.
+
+Q: Can I still buy Aurum?
+A: Yes! All current Aurum packages will be available until near launch of these changes, after which we will close Aurum purchasing completely.
+
+Q: Can I still buy PLEX?
+A: Yes, until launch of these changes PLEX will continue to work exactly as today, and be offered from CCP at same rates and packages. Any PLEX you own on launch of these changes will be converted to 500 of the new PLEX.
+
+Q: Why are you only converting Aurum balances above 1000?
+A: A large portion of the total Aurum stockpile is in small balances left over from past giveaways and by not converting those small balances we mitigate risk of oversupply in the PLEX market
+
+Q: For balances over 1000, will the entire balance be converted or only the amount exceeding 1000?
+A: The entire balance will be converted. For example, a balance of 1050 Aurum would be converted into 150 PLEX.
+
+Q: Will prices change in the New Eden Store?
+A: Prices may change after the conversion from Aurum to PLEX as not all prices will be possible to convert at even numbers. Overall this change to PLEX is not made with the intention to change the price of products such as Skill Extractors in the New Eden Store, and we will define new pricing in PLEX to match the current pricing in Aurum.
+
+Q: With smaller PLEX, will I be able to buy less than 30 days of Omega time?
+A: We currently we have no plans regarding smaller game time packages.

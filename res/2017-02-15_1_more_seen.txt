@@ -1,0 +1,4 @@
+THE EUREKA MOMENT
+When a channel object is deleted, its memory is now free and available for reuse. This implies that a tasklet that goes to sleep on the same tick as a tasklet is killed exactly when it wanted to wake up can get the same channel pointer as the killed tasklet. RemoveSleeper will in that case remove the wrong tasklet (the one that just called SleepWallclock) from the heap, kill it's channel, leaving it in a non-scheduled, non-blocked state.
+
+The fix is simple - move the Py_DECREF calls into SleepWallclock. This ensures that channel objects are not recycled prematurely, and in my opinion is actually cleaner, keeping the reference counting localized in one function.

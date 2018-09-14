@@ -1,0 +1,241 @@
+MINING FOREMAN BURST DETAILS
+If you致e read the previous dev blog and forum thread covering the Command Burst system, you値l already be familiar with most of the information this section. In that case feel free to skip to the next section most of this will be repeated information. However, we want to include a quick refresher on the basic information so that people who just want to learn about mining foreman gameplay can get everything they need in one blog.
+
+Command Bursts are high-slot modules that can be fit on the same classes of ships that can currently fit Warfare Links and will be replacing their functionality. There will be five types of Command Burst modules at launch, one for each of the existing fleet boost groups: Armor, Shield (formerly known as Siege), Information, Skirmish, and Mining.
+
+These modules must be loaded with ammo in order to activate, and the ammo choices determine which bonus the module will provide to nearby fleetmates. Ammo can be swapped in the field to change bonuses as the situation changes, although a reload time of between thirty seconds and one minute means that choosing the right time to swap bonuses is important.
+
+The ammunition for Command Bursts will be compact, inexpensive and manufactured by players primarily from the raw materials of ice products.
+
+The burst charges themselves are planned to have a volume of 0.01 m3, and the modules themselves will have a capacity of 3 m3. This means that if you don't want to change ammo types you can boost for 5 hours continuously without reloading.
+
+The blueprint originals for each of these charge types will be sold by NPCs, just like other T1 charges.
+
+The current plans for material requirements for batches of the burst charges are as follows (base values for an unresearched blueprint):
+Batch size for all burst charges is 500.
+
+All information command burst charges:
+100 units of Helium Isotopes
+100 units of Nitrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All skirmish command burst charges:
+100 units of Oxygen Isotopes
+100 units of Hydrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All shield command burst charges:
+100 units of Hydrogen Isotopes
+100 units of Nitrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All armor command burst charges:
+100 units of Helium Isotopes
+100 units of Oxygen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All mining foreman burst charges:
+500 units of Heavy Water
+500 units of Tritanium
+500 units of Isogen
+
+This means that the cost of an individual burst charge should land between 200 and 500 ISK, with the mining burst charges costing a bit less than the combat ones.
+
+Command Burst modules will also require a moderate amount of capacitor to activate.
+
+When activated, the Command Burst will apply bonuses to all fleetmates within range of the boosting ship in a sizable sphere. Imagine a smartbomb that buffs your friends instead of damaging ships and you値l get the idea. Activating a Command Burst will generate a weapons timer and therefore prevent the boosting ship from jumping through gates or docking for one minute. The area covered by the burst is clearly indicated by their visual effect:
+
+
+When a fleetmate is hit by the Command Burst, their ship will receive a timed bonus lasting between 60 and 130 seconds that continues to operate even if they move out of range, or if the boosting ship dies. The bonus persists through warps within a system, but does not persist through docking and undocking or through system changes. The bonus is applied to the ship rather than the character, so swapping ships in space leaves the buff on your unpiloted old ship rather than having it follow you to the new ship. Since the burst that applies the timed bonus is instantaneous, any ships that enter range after the burst goes off will need to wait until the next cycle to receive their bonus.
+
+Command Bursts will not apply their bonuses to any fleetmates that are tethered to a structure (like a Citadel or Engineering Complex) or within a starbase force field, and ships cannot activate their Command Burst modules if they themselves are within a force field.
+
+Fleet hierarchy does not matter for these new bonuses, so any fleet member can provide bonuses to any fleetmate that is within range. All existing bonuses that use fleet hierarchy will be removed in the November expansion. This means that passive bonuses provided to entire fleets from skills, implants and ship hulls will be removed and replaced with this new active module system.
+
+There will be restrictions on what ship types can fit Command Bursts and how many Command Bursts can be fit to any individual ships. We are planning on converting Command Processors (the module that allow a ship to fit more links) into a rig, which should go a long way towards addressing a current source of imbalance between armor and shield tanked boosting ships.
+
+If a ship is allowed to fit multiple Command Bursts, they are welcome to fit multiples of the same type of Burst module or mix and match Burst module types. So if an Orca pilot wishes to provide three types of Mining Foreman boosts to its fleet at the same time it will be welcome to fit three Mining Foreman Bursts and load each module with a different ammo. Or it could fit two Mining Foreman Burst modules and one Shield Command Burst module and swap ammo on the fly to provide whatever bonuses are most appropriate to the situation.
+
+Like existing warfare links, multiple copies of any given Command Burst bonus do not stack on top of each other. The Command Burst system will only apply the bonus from the strongest version of each Command Burst effect that is applied to any given ship. However, Command Burst bonuses do stack on top of bonuses from other sources (such as modules and implants) and this interaction may be subject to diminishing returns (stacking penalties) depending on the attribute being affected.
+
+Our plan for skill requirements in the new system is:
+
+Tech 1 Mining Foreman Bursts will only require Leadership level 1 and Mining Foreman level 1
+Tech 2 Mining Foreman will require Leadership level 5 and Mining Director level 1
+All Command Bursts modules (including Mining Foreman Bursts) share these common stats:
+
+Module cycle time: 1 minute
+Base module reload time: 1 minute (reduced by skills and ship bonuses)
+Base Command Burst AoE range: 15km (increased by skills and ship bonuses)
+Base bonus duration: 1 minute (increased by skills, implants and ship bonuses)
+I値l list the base bonus ammunition type and the maximum bonus available with the most powerful ship/module bonuses and max skills/implants. Then we値l go over all the potential bonuses individually. You値l notice that in several cases we have combined the effects of multiple old warfare links into one Command Burst.
+
+Ammunition types for the Mining Foreman Burst:
+
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Mining Laser Field Enhancement
+
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
+
++30%
+
++114.26%
+
+Mining Laser Optimization
+
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+
+-15%
+
+-57.13%
+
+Mining Equipment Preservation
+
+Reduces volatility of mining crystals
+
+-15%
+
+-57.13%
+
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Mining Laser Field Enhancement
+
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
+
++30%
+
++114.26%
+
+Mining Laser Optimization
+
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+
+-15%
+
+-57.13%
+
+Mining Equipment Preservation
+
+Reduces volatility of mining crystals
+
+-15%
+
+-57.13%
+
+Modules and Rigs
+
+Bonus
+
+Tech 2 Command Burst Modules
+
++25% Command Burst Effect Strength
+
+Command Processor Rig
+
+If ship is allowed to fit Command Burst Modules, can fit +1 additional Command Burst Module
+
+T1 Industrial Core (while active)
+
++25% bonus to Mining Foreman Burst strength
+
++150% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+T2 Industrial Core (while active)
+
++30% bonus to Mining Foreman Burst strength
+
++200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+Skills
+
+Bonus
+
+Leadership
+
++6% Command Burst Area of Effect Range per level
+
+Wing Command
+
++5% Command Burst Area of Effect Range per level
+
+Fleet Command
+
++4% Command Burst Area of Effect Range per level
+
+Mining Foreman
+
++10% Mining Foreman Burst Effect Duration per level
+
+Mining Director
+
++10% Mining Foreman Burst Effect Strength per level
+
+Command Burst Specialist
+
+-10% Command Burst reload duration per level
+
+Implants
+
+Bonus
+
+Mining Foreman Mindlink
+
++25% bonus to Mining Foreman Burst Effect Strength and Duration
+
+ORE Mining Director Mindlink (NEW)
+
++25% bonus to Mining Foreman and Shield Command Burst Effect Strength and Duration
+
+Ship Bonuses
+
+Bonus
+
+Porpoise (NEW)
+
+Can fit two Command Burst modules
+
++2% bonus to Mining Foreman Burst Strength and Duration per skill level
+
+Orca
+
+Can fit three Command Burst modules
+
++3% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++1% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Rorqual
+
+Can fit three Command Burst modules
+
+Can fit one Pulse Activated Nexus Invulnerability Core module
+
++5% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++3% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range

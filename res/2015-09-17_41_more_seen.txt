@@ -1,0 +1,14 @@
+DAMAGE MITIGATION
+Even if they’re not going to be directly involved any longer, we do believe Entosis Links promote beneficial gameplay in the sense they do create a more level playing field between various player entities: using an HP metric as an attack system alone strongly encourages blobs to pile up on structures. This in turn encourages us to create structures with lots of HP to make sure blobs take time to bring them down. Which removes any incentive for the smaller gangs to engage in structure assaults, thus reinforcing large blob attacks.
+
+This is a vicious circle we intend to break while singing dirty French limericks and wielding a garlic-infused baguette. How? By introducing damage mitigation on structures.
+
+The way damage mitigation is going to work is pretty simple:
+
+We set a maximum limit on a structure, say, 4000 DPS
+Every time damage is applied to that structure, we check all cumulated damage done before that within a specific time frame – let’s say 30 seconds
+If cumulated damage on the structure would exceed 30*4,000 = 120,000 then any further incoming damage is reduced, or negated to preserve that amount over the last 30 seconds
+Mitigation is counted after shield, armor or hull resistances are applied to incoming damage
+
+
+Not all structures are going to have the same damage mitigation. That is going to vary depending on the structure size and role. Here are the numbers we have so far, along with some very rough calculations on how many ship types would be required to reach the indicated damage mitigation for each size (yes, those are very rough, no nitpicking).

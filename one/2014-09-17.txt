@@ -1,0 +1,118 @@
+Hello once again dogged capsuleers! This is CCP Fozzie with another dev blog for your enjoyment.
+
+Today we’ll be discussing the Burner Missions that were introduced in our recent Hyperion release, as well as bringing you a sneak preview of what you can expect from the next four Burner Missions that will be coming your way in our upcoming Oceanus release.
+
+Our goals with the Burner Missions were to add some challenging, novel and optional new PVE content for our mission running community to test themselves against. 
+
+We decided to create missions that could only be accessed with frigate-sized ships because we knew this would create an environment that contrasts strongly with the usual Level 4 mission running experience, and provide some significant variety. 
+We built the missions partly as “fitting puzzles” since we know how rewarding it can be to use the nearly infinite combinations available in the EVE fitting system to create your very own personalized solution to gameplay problems. 
+We designed the missions to be extremely challenging since we knew that players would rise to the challenge by sharing tactics, working together, and stubbornly overcoming the obstacles in their way. 
+We chose to make the missions completely optional (with no penalty for turning them down or quitting) since allowing players to choose which difficulty mountain to climb is a fundamental part of EVE’s design and we didn’t want to force people into training a new ship class just to complete the mission they had been randomly assigned.
+We are extremely happy with the results of these first missions. Many players have expressed to us how much fun they have had working out these puzzles and trying out new tactics. Seeing threads like this one by Jori McKie where players are working together to collect and refine their fits and strategies warms my heart. We have been closely watching the feedback and metrics surrounding these first five burner missions and we would like to take this chance to share some of the metrics with you!
+
+All stats below cover the time period from the Hyperion release up to September 14th, unless otherwise noted.
+
+Let’s start by showing exactly how well players have been doing against the Burners so far.
+
+As the Burner Missions started showing up in agent offers, Capsuleers quickly discovered that their agents had not been joking about the difficulty of these tasks. On day one, Burners killed more than seven capsuleers ships in exchange for each of their own that fell. Over the past three weeks, players have been steadily improving in their fittings and tactics, and now the player K/D ratio has reached as high as 50%.
+
+
+(click image for larger version)
+
+The most dangerous of these pirates thus far has proven to be the Burner Worm, which kills almost 5 players for each defeat. Relatively speaking, the Burner Dramiel has been the easiest target with a K/D ratio of only 2.7:1.
+
+
+(click image for larger version)
+
+The Burners have also been clearly winning the ISK war thus far, with the Burner Worm taking the lead.
+
+
+(click image for larger version)
+
+The average value of a player ship lost to a Burner is 43.5 million ISK, and in this metric most of the Burners are quite similar.
+
+
+(click image for larger version)
+
+The scale of the destruction is quite staggering, as these five NPCs have accounted for 4.1% of the total value of ships destroyed since Hyperion.
+
+
+(click image for larger version)
+
+If the five Burner NPCs were considered as an alliance, they would be dominating the isk destroyed charts compared to all other alliances in EVE. This chart shows the ISK value destroyed by the Burners compared to the top 10 most destructive alliances in EVE since Hyperion:
+
+
+(click image for larger version)
+
+All in all, 19962 player ships had been destroyed by Burners as of September 14th, worth a total of 870 billion ISK.
+
+But what sorts of ships are players losing to the Burners?
+
+The most commonly lost ship by far is the Hawk Assault Frigate, with 2022 destroyed so far. The top 10 most destroyed ships are:
+
+
+
+By class, Frigates make up the biggest chunk of ships lost to Burners, followed by Assault Frigates and Rookie Ships:
+
+
+(click image for larger version)
+
+Keen eyes will notice the Battleship, Attack Battlecruiser and Strategic Cruiser losses at the bottom of that last chart. Although only Frigate sized ships are allowed through the acceleration gate into the Burner hideouts, a few players have decided to use illicit means to gain entry with larger ships. Three of these players then had their awesome vessel promptly turned to scrap by a NPC frigate.
+
+The Burners may be vile amoral pirates, but even they can’t stand exploiters.
+
+With this obviously significant level of challenge one might be forgiven for assuming that EVE players would shy away from the challenge. However this could not be farther from the truth. Over 6000 burner missions have been completed to date, and the frigate-centric nature of the Burner missions has also allowed them to be accessible to a wider range of system security bands.
+
+This graph shows the breakdown of all missions (not just Burner Missions) completed in each type of space since Hyperion:
+
+
+(click image for larger version)
+
+In comparison, here is the same graph for Burner Missions. Note how much more evenly spread the mission running is:
+
+
+(click image for larger version)
+
+Since these new missions present such a challenge and such a change from the status quo, we needed to ensure that running Burner Missions was completely optional. This is why turning down, quitting or failing a Burner Mission does not come with any standings penalty.
+
+Looking at the breakdown of Burner Mission Outcomes, it’s clear that many pilots are taking advantage of the option to skip them freely, as almost 85% of the Burner Missions that have been offered have been turned down. This clearly demonstrates why the no-penalty design of Burner Missions was a good idea.
+
+
+(click image for larger version)
+
+One of the most commonly requested stats about the Burner Missions has been the number of friends that most players call in to defeat them. Thankfully CCP Masterplan adventured deep into the logs and was able to provide us with the breakdown of how many characters engaged each Burner NPC between their spawning and destruction.
+
+It turns out that just over 50% of defeated Burners were killed by single characters, and the average dead Burner faced just over 2 characters before biting the dust. The most characters involved in any single Burner’s destruction is 32, and a total of five Burner were engaged by 29 or more characters before dying. Here’s the breakdown in graph form:
+
+
+(click image for larger version)
+
+But what about the phat loot? As we mentioned in the original Burner dev blog, these first five Burner NPCs all have a small chance to drop faction loot. The chance is fairly low, but several players have already hit the jackpot. So far the Burner Dramiel is leading the way with the highest total value of loot dropped (heavily fueled by a few Domination Tracking Enhancers and Gyrostabilizers):
+
+
+(click image for larger version)
+
+The most valuable single drop that we have found dropping from a Burner on Tranquility is a ~200m ISK Shadow Serpentis Tracking Computer that dropped from a Burner Daredevil.
+
+As time goes on we’ll see more players hit the loot fairy jackpot from these NPCs, which should provide a welcome bit of excitement to the normally calm process of looting your missions.
+
+Overall we couldn’t be happier with the early response to the first five Burner Missions. That’s why we have decided to jump right back in and create another set of four Burner Missions to be introduced in the upcoming Oceanus release!
+
+TELL US ABOUT THE NEW HOTNESS!
+The new wave of Burners are former special ops teams trained by the four Empires. They’ve decided to go freelance and have quickly emerged as a major threat to peace and order in the cluster.
+
+Unlike the first Burners who exclusively work alone, these new additions work in teams of three: a squad leader flying a heavily tanked Assault Frigate and two support pilots flying logistics frigates. Each individual ship in this squad are much less dangerous than the first Burners, but together they represent a significant challenge for any Capsuleer.
+
+The ex-Amarrian Burner teams consist of a durable Vengeance supported by a pair of Inquisitors
+The ex-Caldari Burner teams fly a rocket Hawk with a couple Bantams as backup.
+The ex-Matari Burner teams prefer to use a swift Jaguar and two Bursts.
+The ex-Gallente Burner teams operate with a facemelting Enyo and his Navitas buddies.
+We’ll be making these new missions available on the Singularity test server (SiSi) later this week for your testing and feedback, using the same method as we used for the earlier Burners. This means that we will give players a method to increase their standings with all factions on SISI for mission testing, and we will disable all level 4 missions other than the four new Burner Missions.
+
+The missions will be available in the same mission pools as the existing Burners on Tranquility starting on September 30th with our Oceanus release.
+
+We hope that you all continue to enjoy the optional challenges that these Burner Missions bring, and continue doing what we know you do best: overcoming any and all obstacles.
+
+On behalf of Team Five O and the whole EVE Online team, good hunting!
+
+-CCP Fozzie

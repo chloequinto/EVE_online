@@ -1,0 +1,20 @@
+ENGINEERING RIG SIZE SCALING
+
+
+Like existing Upwell structure rigs, Engineering Rigs provide the same strength of bonuses at each size category. The primary benefit of upgrading to larger rigs (on larger structures) is that larger rigs are more generalized in their bonuses and smaller rigs are more specialized. This allows larger structures to gain bonuses to more types of industrial activity than their smaller brethren.
+
+For example, a corporation can potentially rig their Medium Raitaru Engineering Complex to receive the maximum possible Material Efficiency (ME) bonuses for constructing small and medium T1 ships, and significant cost reduction to invention jobs by filling its three available rig slots with:
+
+Standup M-Set Basic Small Ship Manufacturing Material Efficiency II
+Standup M-Set Basic Medium Ship Manufacturing Material Efficiency II
+Standup M-Set Invention Cost Optimization I
+If that corporation upgraded to a X-Large Sotiyo Engineering Complex they would be able to get the exact same ME bonuses to production of small and medium T1 ships, while also receiving rig bonuses to a larger variety of industry jobs by installing:
+
+Standup XL-Set Ship Manufacturing Efficiency II
+Standup XL-Set Laboratory Optimization I
+Standup XL-Set Reprocessing Monitor II
+This rig setup provides the maximum ME and Time Efficiency (TE) bonuses to all ship manufacturing, as well as improving cost and duration for all research, copying and invention jobs and enabling maximum reprocessing yield all in the same giant structure.
+
+Thanks to the greater generalization of larger rigs, there will be a total of 64 available M-Set Engineering Rigs, 34 L-Set Engineering rigs, and 8 XL-Set rigs to choose from (including both T1 and T2 variations).
+
+If you’re itching to see all the granular details, we have a chart with the current draft of stats for all of these Engineering Rigs at the end of the blog.

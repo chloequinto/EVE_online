@@ -1,0 +1,146 @@
+LOOKING BACK ON THE RESULTS OF PHOEBE AND PHASE ONE ON NULLSEC
+Hello calculating capsuleers! This is CCP Fozzie bringing you a dev blog looking back on the power projection and Sovereignty changes from the Phoebe release and Phase One of our ongoing project to revitalize the Nullsec sandbox.
+
+There are actually two connected dev blogs being released this afternoon, both of which are worth reading:
+
+This blog represents a status update and evaluation of Phase One of our Nullsec changes (which released in Phoebe last November) and how they have impacted the game.
+I have also written a much larger blog covering the changes we are currently working for Phase Two of the Nullsec and Sov revamp. You can find that blog here.
+On October 1st 2014, we released a dev blog covering our plans to begin a major set of changes to improve Nullsec space. In that blog we laid out a high-level medium term plan in three phases. Phase One was implemented with the Phoebe release on November 4th 2014. Phase One consisted largely of significant changes to the speed of long distance travel and power projection, as well as smaller changes to the hitpoints and resistances of Sovereignty structures and balance changes for Interdictors and Heavy Interdictors.
+
+In the October dev blog, we listed four reasons for the changes, and made two (fairly high-level) predictions:
+
+Why this?/Why now?
+
+Nullsec is stagnant and needs a change. This is the first of many steps in our plan.
+Big fights are cool, but they’re crowding out more accessible and more frequent smaller ones.
+These changes have positive implications for people not involved in sovereignty warfare, for example making use of capitals in lowsec less risky.
+We expect the impact of these changes to be emergent, and as a consequence are unpredictable and will take a while to develop on TQ. This plays into our longer-term plans, as you’ll see in a second!
+What are the anticipated consequences?
+
+In the short term, we would anticipate a reduction in the degree to which the average non-trivial capital fight escalates, and the number of parties involved. This seems likely to increase the frequency of capitals being deployed in small-scale engagements, in both lowsec and nullsec.
+
+Over the medium term, we see the potential for more substantial changes in the nullsec status quo as the various competing parties work to adjust their internal objectives to the new situation; it seems plausible that the general reduction in travel capabilities will lead to more localism, but we don't want to make any firm predictions in this area. We're confident that these changes improve the overall system of lowsec and nullsec gameplay and take them in better directions, but any set of changes that would allow us to accurately predict their consequences would by their nature be too simple to be interesting for very long.
+
+Today we are unveiling the plans for Phase Two, but as we look to the future of Nullsec it is also important to look back. This blog will show some of the metrics surrounding the Phase One changes and the current state of Nullsec space as we prepare to launch into Phase Two.
+
+Our development team takes multiple approaches to evaluate the effects of any changes to EVE Online.
+
+First, we actively play the game and evaluate how our own experiences change as the design changes. Yes, there are several members of our team playing actively in Sovereignty space. No, I won’t tell you what their character names are. :)
+
+We also have access to many sources of direct player feedback. We read the forums, listen to your stories and requests at player gatherings, chat with members of the Council of Stellar Management (who you should go vote for if you haven’t already) and more.
+
+Finally, we have access to metrics that display the bigger picture of trends in player activity. Using metrics and statistics to reach conclusions must always be done with care (correlation does NOT equal causation), but in a game as huge and diverse as EVE they can be a crucial tool. This last category is one that you as players often lack access to, as when sharing data we must always be wary of the danger that some players might use our information to gain an unfair advantage over others. This blog will focus largely on giving you a glimpse into some of the metrics that we watch to help us judge the effects of Phase One of our Nullsec efforts.
+
+We will split the metrics shown in this blog into four categories, each representing one aspect of our goals for Phoebe and Phase One. These categories are:
+
+Nullsec Population and General Activity
+
+Nullsec PVP Activity
+
+Capital Ship Activity
+
+Sovereignty Conquests
+
+Generally the graphs displayed below are labelled with the date of the Jump Fatigue announcement blog (October 1st 2014) and the date of the Phoebe release (November 4th 2014). The lack of labels on the Y axis is intentional, as we want to minimize the ability of clever players to use this data to gain advantages over others. What I can tell you is that for the unlabelled graphs, the Y axis begin at 0 and increase linearly (no cheating). None of the data in the graphs below is normalized by any other factor.
+
+The distinct time periods that are worth watching are:
+
+The period before the announcement dev blog, representing the older activity patterns
+The period between the dev blog and the Phoebe release, when many players were proactively dealing and shifting to prepare for the post-Phoebe game
+The period after the Phoebe release, after which Phase One is in effect
+Without further ado, let’s jump into the discussion!
+
+NULLSEC POPULATION AND GENERAL ACTIVITY
+We’ll start with this category as it’s the most generally applicable. It also happens to be the clearest cut in its results.
+
+The following graph displays a two week rolling average of the number of characters on active (subscribed) accounts that are in Nullsec space (either in space or docked in a station within Nullsec) each day. For this metric, we’re generally happier with higher numbers. Increases represent a combination of players moving to Nullsec, existing Nullsec players bringing a higher percentage of their characters into Nullsec space, and older Nullsec players resubscribing.
+
+
+
+For a metric as stable as this one, the changes seen at the Phoebe release are quite extraordinary. At the beginning of November we saw a rapid increase in the total Nullsec population, which has been followed by robust and steady growth over the following four months. Subscriber demographic data over the same period of time suggests that a major factor contributing to the immediate Phoebe increase was an influx of Russian speaking players taking advantage of the power vacuum in the South and East of Nullsec space created by Phoebe’s power projection changes. At the same time, other organizations such as the Phoebe Freeport Republic were also able to gain footholds in the newly available Nullsec space and contributed by bringing in players that would have struggled to carve out their own territory pre-Phoebe.
+
+The release of the celebrated This is EVE trailer came after the initial period of rapid growth, but likely contributed to the subsequent steady rise in population.
+
+
+As we prepare to launch into Phase Two, we would ideally like to see more growth in this metric. Our hope is that by designing mechanics that allow a wider variety of organizations to claim their own space without requiring the support of massive powerblocks, more and more of our players will see opportunities to have fun in Nullsec space.
+
+The next graph is not particularly important for evaluating the success or failure of Phase One, as the Phoebe changes directly affected the baseline. Jumps per day is normally a valuable metric for determining overall player activity but since the Phase One changes directly encouraged more travel by gates and less use of teleportation we would expect a dramatic increase no matter what. If this graph hadn’t increased we would have been very worried. J
+
+
+
+The real use of this metric will be later as we evaluate Phase Two. As the next set of changes do not involve direct changes to power projection we would hope that an increase in Nullsec jumps over the summer would reflect an overall increase in player engagement.
+
+We also watch a wide variety of other metrics related to general life in Nullsec space. The results of these range from very positive (+23.6% increase in manufacturing jobs per day in Nullsec since Phoebe) to somewhat positive (+5% increase in NPC kills per day in Nullsec since Phoebe) to fairly neutral (+0.7% increase in mining volume per day in Nullsec since Phoebe).
+
+Overall score for Nullsec Population and General Activity: Significant progress, but we can do even better!
+NULLSEC PVP ACTIVITY
+This is one of the most important areas of evaluation, and will likely be one of the most controversial. PVP is a huge part of EVE, including Nullsec gameplay. Our hope with Phase One was that with a reasonable expectation that people from halfway across the galaxy won’t suddenly appear on top of you, players would be more willing to engage in PVP. We also hoped that the increased localism that would come with slower travel for the great powers, new conflicts would spark between groups that might not get a chance to fight otherwise.
+
+The following graph displays a two week rolling average of total PVP kills in Nullsec space:
+
+
+
+These numbers are going in the direction we like to see, but in order to get the real picture of what’s going on we need to dig a little deeper. Firstly, is this increase simply coming from more people dying in cheap frigates? The following graph displays the same two week rolling average of the ISK value of PVP kills in Nullsec space:
+
+
+
+By this metric, the gains are more modest, but are still dramatic and clearly visible.
+
+However this data may still seem at odds with the personal experiences of some players. The feedback we are hearing directly from players is very mixed on this issue, with many claiming that they are experiencing much more PVP activity since Phoebe and many others claiming that their PVP experience is stagnating over the same period. Both experiences are completely true and valid, but each only reflects one part of the overall picture.
+
+What if we look at the change in total PVP activity since the Phase One dev blog for each Nullsec region individually?
+
+
+
+This clearly demonstrates that certain areas are showing major increases in conflict since Phase One was announced. In general, these areas are in the space that was occupied by the N3 coalition before Phoebe. With the release of Phase One, that coalition moved to take new space in Delve and Querious, and reduced their presence in several of their previously held regions. This power vacuum was quickly filled by competing factions looking to stake their own claim in Nullsec, and became host to a great deal of PVP activity.
+
+Another way to look at this regional distribution of conflict since the beginning of Phase One is to split Nullsec into six sections based on the type of NPC found in their regional asteroid belts. We can then look at each of those superregions and observe the changes in PVP activity over time.
+
+The following graph displays the percentage change in PVP activity in each of these super-regions since the release of the Phase One Dev Blog on October 1st.
+
+
+
+You can see that over these months significant increases in conflict occurred within the Drone Regions (which eventually settled down) and within Nullsec regions occupied by Angel Cartel and Sansha’s Nation NPCs.
+
+This explains why we tend to hear such dramatically different feedback on the amount of PVP activity since the beginning of Phase One. If you live in the swath of Nullsec space between Stain and Perrigen Falls, you have probably experienced significantly increased PVP in your home regions. If you live in the rest of Nullsec, you have probably experienced similar rates of PVP activity to what came before.
+
+So the truth of this metric is that overall Nullsec PVP activity has significantly increased during Phase One so far, but that activity is distributed unevenly across Nullsec space. Communicating larger trends that may not be reflected by individual experiences is always a challenge, but that doesn’t change the facts of the EVE-wide pattern. We hope that the changes we have coming in Phase Two will make some major progress towards bringing these PVP opportunities to ALL areas of Sovereignty space, including those areas that have not seen the benefits of Phase One yet.
+
+Before we wrap this section up, I want to quickly address one of the other questions that we have seen raised surrounding this trend. Some people have suggested that the overall increase in PVP activity may be largely caused by the conflict between the HERO Coalition and Pandemic Legion. Now it is true that the HERO Coalition represents a huge chunk of all Nullsec PVP activity. Since forming a year ago their largest alliance, the Brave Collective, has placed second out of every alliance in EVE for total ISK-value destroyed in Nullsec PVP, and third place in ISK lost. Over the past two weeks, a total of 38.1% of all PVP kills in Nullsec have had a member of the HERO Coalition as either the final blow or the victim. It makes perfect sense to assume that any wars the HERO Coalition engages in will have a big impact on these metrics.
+
+However the truth is that the HERO Coalition was already involved in 31.6% of all Nullsec PVP kills in the two weeks before the Phase One Dev Blog was released. The number of kills involving the HERO Coalition has increased at a faster rate than the rest of Nullsec, but even if you completely remove all killmails with a HERO member as the final blow or victim the rate of other PVP kills in Nullsec has still increased by 22.1% since the Dev Blog was released.
+
+Overall score for Nullsec PVP Activity: Significant overall improvement, but largely in one half of Nullsec. We need to work towards better PVP for all of Nullsec.
+CAPITAL SHIP ACTIVITY
+Since capital ship travel mechanics played such a big part in Phase One and Phoebe, this is an area with a lot of potential for change. As we mentioned in the original Phase One Dev Blog, we hoped that the reduced chance of being hotdropped would provide more opportunities for people to feel comfortable using small numbers of capital ships in PVP. The general reduction in capital power projection would also have the potential to reduce many other types of capital ship use, but our hope had been that capital ship usage in PVP would increase overall.
+
+The feedback we have been hearing directly from players has been a mixed bag on this topic. In general we are hearing a lot of happiness from lowsec capital users, and a combination of some neutral and some negative feedback about the opportunities to use capital ships in Nullsec space.
+
+The following graph displays a two week rolling average of PVP damage dealt by capital and supercapital ships (in all areas of space). It does not include delegated fighters, and does include structure shooting. The battles of HED-GP and B-R5RB from earlier in the year are clearly visible.
+
+
+
+Overall the PVP damage dealt by capital ships has remained fairly steady. We would have ideally liked to see this number rise with Phase One, but stability is better than decreases. With Phase Two we would expect this number to fall quite significantly as the amount of structure shooting drops dramatically. We’ll be keeping an eye on it as we go forward.
+
+The next graph shows a two week rolling average of the total number of capital ships killed per day. The big capital battles at the beginning of the year once again stand out very clearly.
+
+
+
+In this metric we can clearly see a modest increase. This is considered a good sign as more explosions suggest that some pilots are feeling more comfortable putting their capital ships into harm’s way.
+
+Overall score for Capital Ship Activity: A wash. Continued work on engaging and balanced roles for Capital Ships will be needed in the future, especially as some of their current roles in structure shooting are de-emphasized in Phase Two.
+SOVEREIGNTY CONQUESTS
+The rate of systems changing hands in Sovereignty provides a solid indicator of strategic conflict in Nullsec space. Increases in this metric tend to go along with major wars, and extended periods containing few system flips tends to indicate stagnation.
+
+We were hoping for a significant increase in system flips per day during Phase One, with the theory that increased localism from the power projection changes would allow a number of smaller Sov conflicts as non-superpower organizations claim their own chunks of territory.
+
+
+
+The results of Phase One on this metric have been noticeable and positive, however we would have been happier with a higher status quo over the past three months.
+
+An initial spike is obvious as alliances made diplomatic deals to transfer space and moved around the map to prepare for the post-Phoebe Nullsec. Although this spike momentarily surpassed the peaks during the Fountain and Halloween Wars visible earlier on the graph, it is not by itself a real indicator of lasting Nullsec health. After the spike, the continued fighting (mainly focused in regions containing Angel NPCs) has generated Sov activity that is acceptable but not particularly exceptional. The new status quo appears to be about four times larger than the status quo in the months immediately preceding the Phase One Dev Blog, and approximately match the periods between wars in 2013.
+
+If Phase Two is a success, we would ideally like to see a significantly higher status quo, less reliant on bursts of activity from major wars.
+
+Overall score for Sovereignty Conquests: We’re successfully off life support, but we absolutely need to do better.
+Thanks for joining me for this look back on the metrics surrounding Phase One of our Nullsec changes. Huge thanks to every player who has discussed their own Nullsec experience with us, and helped provide feedback for all our changes so far. I encourage all of you to check out our new Dev Blog covering the plans for Phase Two, and to provide us your feedback on those designs. We will be looking to talk with you all on the forums as well as in person at Fanfest later this month!

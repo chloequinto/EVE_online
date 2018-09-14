@@ -1,0 +1,50 @@
+EXPLORATION
+So for starters we have something for all you intrepid explorers out there.
+The general consensus right now is that Relic sites are worth more than their Data site counterparts when it comes to the basic ISK per hour and this is something that we’ve had on our radar for a while.
+
+So for Phoebe, we’ve made the following exploration changes to help alleviate this:
+
+Lowered the volume of the most commonly dropped items (Electric Conduits for example) in exploration Data Sites from 1.0 (and above) to 0.5.
+The drop frequency of faction POS blueprints in all Data and Relic sites has been increased.
+The drop frequency of 'Optimized' items in all Data sites has been increased.
+Faction Materials have been added to the all the exploration Data site loot tables.
+These can be found in the Manufacture & Research > Materials > Faction Materials section of the Market.
+List of added items:
+
+Angel Simple Trigger Mechanism
+Angel Advanced Trigger Mechanism
+Angel Spatial Analyzer
+Angel Standard Trigger Mechanism
+Angel Dynamic Calibrator
+Blood Raider Weapon Integration Unit
+Blood Raider Limited Ballistic Control
+Blood Raider Regular Ballistic Control
+Blood Raider Extreme Ballistic Control
+Blood Raider Power Redistributor
+Guristas Gravity Focuser
+Guristas Medium Weapon Console
+Guristas Light Weapon Console
+Guristas Graviton Hardening
+Guristas Heavy Weapon Console
+Serpentis Complex Target Guider
+Serpentis Plain Target Guider
+Serpentis Basic Target Guider
+Serpentis Multi-tasking Processor
+Serpentis 3D Scanner Gamut
+
+Various Industrial Goods have been added to the all the exploration Data site loot tables. These can be found in the Trade Goods > Industrial Goods section of the Market.
+List of added items:
+
+High-Tech Data Chip
+High-Tech Scanner
+High-Tech Small Arms
+High-Tech Manufacturing Tools
+
+What this means is that the percentage chance of finding some lovely shimmery-like-things will be slightly higher.
+Moreover, the volume decrease of the most commonly dropped items means that you’ll be making fewer return trips to offload your wares.
+
+We’ve also added all of the Data and Relic exploration sites found in Null Security space to Wormhole Class 1, 2 and 3 systems. So feel free to venture forth into the deeper, darker unknown if you’re feeling dangerously loot frisky.
+
+![](//content.eveonline.com/www/newssystem/media/66598/1/DataSiteInWormhole.jpg)
+A Data Site in a wormhole
+A Data Site in a wormhole

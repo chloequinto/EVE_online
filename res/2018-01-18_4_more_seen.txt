@@ -1,0 +1,16 @@
+PILLAR #1: “FULL POWER” AND “LOW POWER” MODES
+
+
+The first major change to Upwell structures coming in February is the addition of new modes tied to whether service modules are online and consuming fuel in the structure. If a structure has at least one service module online, then it is considered to be at “full power” and it receives full strength defenses. If no service modules are online in a structure it is considered to be in a “low power” state and receives significantly reduced defenses until a service module is activated.
+
+The intent of this feature is to more closely tie structure defensibility to the investment and use of the structure. It will enable players to more easily clear uninhabited Upwell structures while preserving defensive options for structures being used for their services.
+
+Any Standup service module will enable “full power” mode on a structure, so structure owners can make use of any of the many service modules depending on their priorities and needs. Running more than one service module does not increase the “full power” bonuses, although each service module does continue to provide their own service benefits for structure users.
+
+While in “low power” mode, an Upwell structure will have:
+
+Significantly reduced shield and armor hitpoints
+One less reinforcement cycle (jumping straight to the final reinforcement as soon as the structure shield are destroyed and skipping armor entirely)
+“Low power” structures can be identified through a label on their text bracket beside the structure name:
+
+

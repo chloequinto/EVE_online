@@ -1,0 +1,4 @@
+THE EVE ONLINE API CHALLENGE
+For a long time, EVE Online has offered the ability for third-party developers to pull information from our database servers for use in other applications and websites. Over the years, this ability has spawned the growth of a substantial and active third-party developer community within the greater EVE Online community. As developers, we are constantly amazed by the things you create. We’ve seen everything: from incredibly comprehensive industry and mapping tools; mind boggling espionage and counter-espionage tools; to expansive killboards and so much more.
+
+Over the years our offerings to third-party developers have gotten more substantial and our commitment to providing those services has increased as well. This year alone has seen incredible strides forward in what CREST offers with the addition of saved fits, contacts, and much more.

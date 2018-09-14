@@ -1,0 +1,54 @@
+SOVEREIGNTY – PARALLAX EDITION
+Some of these changes were previously covered in our last dev blog “NEXT SET OF SOV AND CAPITAL MOVEMENT ITERATIONS”. Most of the details from that blog are still valid, but I’ll cover them here again with the latest updates as appropriate. Let’s start with…
+
+Defensive regeneration on Entosis targets
+All structures that can be captured by Entosis Link modules will now have the ability to automatically regenerate towards defender control. This applies to Infrastructure Hubs, Territorial Claim Units, Conquerable Stations/Outposts, Station Service Modules, and Command Nodes. If one of these structures has a defender alliance, then the structure will slowly capture itself on behalf of that alliance whilst it is idle. The rate of defensive regeneration is fixed for each type, and is unaffected by any modifier such as the Activity Defense Multiplier.
+
+[![](//content.eveonline.com/www/newssystem/media/68648/2/commandnote_550.jpg)](//content.eveonline.com/www/newssystem/media/68653/1/command_node.png)
+This Command Node has been idle for around 10 minutes, and so will automatically capture for the defenders after a further 88 minutes
+This Command Node has been idle for around 10 minutes, and so will automatically capture for the defenders after a further 88 minutes
+For structures with daily vulnerability intervals, when the structure has completely re-secured itself by defensive regeneration, it will be able to enter an invulnerable period as normal.
+
+If any ship begins capturing a structure with an Entosis Link module (after the module has completed its warm-up cycle), the defensive regeneration is disabled. If a ship stops capturing the structure for any reason, the structure will immediately resume the defensive regeneration.
+
+As a defender, manually re-securing your structures (or capturing your Command Nodes) with an Entosis Link module will always be faster than relying on the defensive regeneration. It does mean however that you aren't always forced to re-fit in order to undo a small amount of capture progress by an uncommitted attacker once you’ve chased him off. Just keep the area secure from further interference and the structure will take care of itself.
+
+Note that if a Station Service Module has been completely disabled by an attacker, it will not have any regeneration and will need to be manually re-enabled by the defender. However an enabled Station Service Module that has partial attacker progress but was not fully disabled will be able to regenerate back to fully secured.
+
+The following table shows the regeneration times for each type of item. (Values are unchanged from the previous blog)
+
+ Base capture time (sec)Regen Speed MultiplierRegeneration time (min)
+Station service235x 0.0498
+Station595x 0.2050
+IHub595x 0.2050
+TCU595x 0.2050
+Command node325x 0.4098 (neutral starting point)*
+* An unattended capture node event will self-complete in < 196 minutes (assuming all solar systems in the constellation have been visited by at least one player since downtime)
+
+Command Nodes linked to the same parent structure will regenerate independently of one another. When one Command Node is being manually captured, any other related idle node will still continue to regenerate by itself. Any command node that completes 100% regeneration will count as being captured by the defenders, and award them 5% progress to the overall campaign as normal.
+
+Command Nodes associated with a free-ported station will not have any defensive regeneration, as there is no defender alliance in this scenario.
+
+Manual Online/Offline Control of Infrastructure Hub Upgrades
+For those not familiar with Infrastructure Hubs and their associated Infrastructure Upgrades, the upgrades are items that can be installed in an IHub in order to provide some kind of bonus or ability within a solar system. These include extra pirate/asteroid spawns or the ability to anchor certain restricted starbase structures such as Cynosural System Jammers or Supercapital Ship Assembly Arrays. Infrastructure Upgrades are similar to rigs in that once installed they cannot be removed. Some upgrades also add to the weekly upkeep bill that the owner of the IHub is required to pay. This means that an IHub can become quite expensive to run if it includes upgrades that are only required on a temporary basis.
+
+Prior to the release of the new Sovereignty system in the Aegis release, one workaround for this forced billing cost was to use multiple IHubs. An alliance would launch two IHubs in a system, one fitted with the high-upkeep upgrades and one without. They could then offline one and online the other, letting them switch between different billing levels according to their current circumstances.
+
+With the Aegis release the mechanics of activating IHubs changed, such that only a single IHub could ever be launched in a solar system at a time. The only way to switch to a new IHub would be to destroy the old one. This obviously makes it extremely cost (and time) inefficient to swap out IHubs just to avoid paying upkeep for an upgrade module that isn't currently required.
+
+We are therefore introducing the ability to switch Strategic Upgrades on and off once they are installed in an IHub. (Strategic Upgrades are the only type that increase the weekly IHub bill)
+
+When a Strategic Upgrade is switched off, any starbase structures dependent on it will immediately go offline. These structures cannot be put back online without first switching the Upgrade back on. If the structure is currently running any industry jobs, these jobs will be immediately paused for as long it remains offline. When the next weekly IHub bill is generated, any disabled upgrades will not count towards the bill value.
+
+We've also added a new 'Weekly Cost' label to the IHub management UI that shows you the next billing amount for the current upgrade configuration. This label will update as you switch upgrades on or off.
+
+If you have a keen eye for details, you might now be thinking that you can save some ISK by switching off an upgrade just before the next bill is generated, and then switch it back on just after. I'm sorry to disappoint you, but this is already accounted for: When installing a new upgrade, or switching on an existing upgrade, you will now be required to pay an upfront activation cost. This cost is equal to the weekly upkeep for that item, and must be paid by the character performing the action.
+
+Given the strategic importance of some upgrades, switching them off can only be done by a character with Director roles in the corporation owning the IHub. Installing a new upgrade or switching on an existing upgrade requires the Station Manager role. EDIT: This previously incorrectly stated a requirement of Configure Starbase role
+
+Sovereignty Structure Self-destruct
+Following on from configurable infrastructure upgrades, another requested feature was the ability for corporations to manually remove their own sovereignty structures without having to have a different alliance come along and complete a multi-day capture process. We are now adding a Self-Destruct option to Infrastructure Hubs and Territorial Claim Units. This will provide a quicker way for an alliance to tear down their assets in a solar system.
+
+The self-destruct option requires Director roles, and will trigger a countdown similar to self-destruct on a normal ship. However this countdown is longer - it will take 20 minutes to complete. Initiating a self-destruct will send a notification to the owner alliance, which includes details on the responsible character. Any other Director within the corp can travel to the structure and cancel the self-destruct, provided he does so before the countdown completes.
+
+As with ship self-destruct sequences, a server down-time will automatically cancel any ongoing countdowns. This is intended to mitigate out-of-game issues such as unpredictable patch times from interfering with the ability of owners to abort a self-destruct.

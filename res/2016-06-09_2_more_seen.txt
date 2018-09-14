@@ -1,0 +1,10 @@
+WHAT’S THE TWIST?
+The Shadow of the Serpent earns its name from the hidden Serpentis arms race we will see happening over the next few weeks.  Naturally, many organizations within New Eden are pretty unhappy with the Serpentis creating new, advanced tech with an intention to distribute and will do anything to put a stop to this and they want your help!
+
+With so much happening in New Eden lately, the major corporations and factions are overwhelmed with work and will reach out to the newly independent Scope Network for help.  The Scope Network will use this opportunity to start up a new business venture, as a broker service between the major organizations of New Eden and the real powerhouse; the capsuleers!  To help the Scope Network succeed in this venture, we have been working on a prototype framework for a new way to display events happening in-game.
+
+The available activities displayed on this prototype are not Shadow of the Serpent challenges and are just for testing purposes, but it will still give a good idea of the look and feel of the new events UI.
+
+
+
+When an event is happening, you will be able to see event specific challenges in your character selection screen. These will also appear in the new Scope Network window in-game, which you can access via the Neocom.  Over the course of the event, which will run for 6 weeks, you will notice a much wider variety of available challenges including roaming Serpentis and Angel Cartel pirates and 9 new event themed sites complete with loot and bounties.  On top of that, each time you complete a challenge listed on your Scope Network window you will earn points towards small, medium and large Scope Network prize containers. These containers will contain some very nice rewards, a selection of which will be available for the first time during Shadow of the Serpent.

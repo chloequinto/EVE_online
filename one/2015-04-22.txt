@@ -1,0 +1,48 @@
+Greetings capsuleers!
+
+Times have been very busy at CCP since Fanfest, and today I have updates for you on what's coming next to EVE, in our April 28thupdate that we are codenaming Mosaic.
+
+Our new ship SKIN feature that lets you change the look of your ship from the fitting window and get a permanent license to fly iconic faction looks is a big part of it, but Mosaic also brings a slew of other changes. An extended version of our Opportunities system introducing new players to EVE will go live for everyone, along with the new Star Map that comes out of Beta and becomes the default map. Tactical Destroyers get a balance pass, warp speed rigs get a buff, there's new Blood Raiders and Serpentis Burner missions for Cruiser size ships, a new corporation role management UI, new force field and starbase construction visual effects, and some big changes to the mining prospects in 0.0 space. And then those Circadian Seekers and their Drifter friends always seem to be up to something new.
+
+Take a look at all of these features on EVE Updates - our new website that shows what's coming to EVE Online: //updates.eveonline.com
+
+Continuous updates to EVE Online
+
+EVE Updates was introduced during the EVE Online keynote at EVE Fanfest in March, and marks a change in how we communicate about what's coming up in EVE Online. Below is a repeat of that information, for those who did not catch the keynote.
+
+What you really need to know is that from now on, all information about upcoming changes to EVE Online can be found on EVE Updates - and as we announce features, we will put information about them there. For each date where we are making an Update to EVE Online, you'll see a section with the features that are coming on that date. Bigger updates will get a code-name once the main features are locked in.
+
+We will continue to do bigger code deployments about every five weeks – and these are the dates we have planned for 2015: 
+
+
+
+But we’re now in this great place where we release things to EVE so often, that putting all this focus on the release dates has stopped making sense like it used to. Many features will of course still go live on those dates:
+
+
+
+But more and more features are possible for us to release in between these bigger deployments:
+
+
+
+Changes like the length of the trial, two factor authentication, or new ship skins or clothing, or even balance changes or activation of bigger features such as new exploration sites, are now possible for us to release to you as a player at pretty much any time, not just on these deployment dates.
+
+To reflect this new reality, we needed a new way to communicate what’s upcoming in EVE.
+
+With so much change going on in EVE, it's also harder to keep up with what has changed if you have been away from EVE for a while, so that's another thing we wanted to address.
+
+Features, features, features!
+
+So, instead of announcing a certain number of releases, EVE Updates has a rolling list of the features that are coming to EVE Online, and when they will become available to you as a player. Here's an example from the Scylla update last month:
+
+
+
+Sometimes we announce things well up ahead, such as our planned changes to the Sovereignty system, but most of the time you'll see things on EVE Updates a few weeks before an update to EVE will go out.
+
+If you've taken a break from EVE, you'll also be able to look in the Archive on EVE Updates, to see what features have been released since you were away. We are working on populating the detailed feature information for past releases, at least for 2014, to help those coming back to EVE after a break. 
+
+So, that's EVE Updates and the coming Mosaic update on April 28th - enjoy!
+
+/CCP Seagull
+
+Executive Producer, EVE Online
+@ccpseagull

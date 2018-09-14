@@ -1,0 +1,97 @@
+CARRIERS, SUPER-CARRIERS & FIGHTERS
+We are completely re-imagining fighter game-play. 
+
+Squadrons
+The carriers of the Citadel Expansion will launch squadrons, made of up to 12 fighters of the same type.
+
+These squadrons act as a singular unit. Carrier pilots give orders to an entire squadron. You lock an entire squadron as one unit, except instead of Shields, Armor and Hull, the number of fighters remaining in that squadron are shown.
+
+
+
+Carriers & Super-Carriers will launch up to 5 separate squadrons at a time. We are intending on introducing 3 classes of fighters, these will replace all existing fighters and fighter-bombers.
+
+**Light Fighters**	Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**	Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**	Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+**Light Fighters**Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+The number and types of squadrons a carrier or super-carrier can launch will be limited.
+
+Management of fighters ready on the launch decks will be an important consideration for carrier pilots. It takes time to swap one squadron of ready fighters out for another, or re-arm your Heavy Fighter Torpedo squadrons.
+
+
+
+Abilities
+Each fighter squadron can have up to three abilities. These are similar to modules on ships, however there is no fitting for fighter squadrons.
+
+Some of the abilities we're considering to include
+
+Microwarpdrive
+Micro Jump Drive
+Evasive Maneuvers
+Anti-Fighter Missile Swarm
+Anti-Capital Torpedos
+All Electronic Warfare Effects
+Specialized Beam Weapons
+Bombs
+
+
+In-space Control
+Carrier pilots will need to be masters of multitasking and positional gameplay. We're introducing a new control paradigm for fighter squadrons. You can order your fighter squadrons to go to a point in space, instead of just objects.
+
+
+Camera Control
+Your fighter squadrons will be limited to the same grid as your carrier or super-carrier. No more warping fighters. However, they could be fighting several hundred kilometers away...so Team Psycho Sisters are doing some work on the camera for us. We're enabling you to detach the camera from your ship, or any ship and move it across the grid. They have a whole bunch more Camera magic they are working on, and you'll probably see a devblog from them soon!
+
+
+Tactical UI
+And lastly, we will be providing you a lot more information about what your squadrons are doing. This is a mock up, and we have a lot of play-testing to do, but it gives you an idea of what we're aiming toward.
+
+
+
+Super-Weapons
+We have a wide range of super-weapons we're looking at for the Citadel Expansion. We had several requirements for all our Doomsdays -
+
+All Doomsdays should be fun for both the Titan pilot and the target
+There should be clear counter-gameplay to all Doomsdays
+They should be visually impressive
+The targeting skills of the Titan pilot are much more important. So are the piloting skills of any target.
+Doomsday Codename: Sickle
+Using the new UI, a Titan pilot can select two points in space and a powerful energy beam will slash from the Titan to the first point and then move to the second damaging any ships unlucky enough to intersect with the path of the beam.
+
+
+
+The energy requirements of this weapon are so great however, that before firing the Titan neutralizes any ships unlucky enough to be close to it before checking to ensure it has enough capacitor and firing. The Sickle does not differentiate between friend or foe, damaging anyone in its path.
+
+Lastly, it takes a while for the Sickle to warm up. During this period it becomes obvious where the beam will slice, giving ships time to get out of the way if their pilots are paying attention.
+
+
+Doomsday Codename: Pike
+Similar to the Sickle, instead of slashing though space this beam is stationary. It neutralizes capacitor, then fires along a path, pulsing every second and doing damage to anyone who stays in its effect radius.
+
+
+
+Doomsday Codename: Hand of God
+Utilizing Jump Drive technology, the Hand of God will generate an anomaly in space. After a short period of time, anything that isn't a structure or capital class ship will be teleported, together, to a random location in the same system away from the Titan, while the titan stays put. While the effect isn't powerful enough to teleport capitals, it will disrupt their warp and jump drives for a period of time.
+
+
+
+Doomsday Codename: Cap-Overload
+Utilizing advanced new technology, this weapon destabilizes the capacitors on a ship. After a short period of time (10-15 seconds) any charge on capacitor rapidly discharges...like a smartbomb. The more capacitor the ship has, the more damage it does to itself and nearby ships.
+
+Projected Electronic Warfare
+Super-carriers won't be left out however! Fighters by their nature can be fighting hundreds of kilometers away from their upercarrier. The super-carriers special weapons compliment this. Building on the Remote ECM Burst, supercarriers will be getting a whole range of remote EWar AOE weapons. The exact details of these weapons aren't finalized, however we're exploring a bunch of option for these, such as:
+
+Energy Neutralizer Effect
+Target Painting Debuff
+Stasis Webifing Debuff
+Tracking Disrupting Debuff
+Sensor Damning Debuff
+We are looking at expanding this line...think very localized and short term Wormhole effects. However there are some technical challenges to overcome here...so watch this space.
+
+Supercarriers will also have stronger fighter squadron compositions and abilities than Carriers. We feel that the new fighter squadron gameplay and the projected Electronic Warfare Abilities go hand in hand.
+
+I hope you are all as excited about these changes as we have been imagining and coding them. We will have more devblogs over the coming months, going into specifics about each of these topics. Tell us what you think, including suggestions and concerns. Over the coming weeks we'll be posting how you can apply to be a part of the capital focus group. Keep an eye out for that!
+
+CCP Larrikin on behalf of Team Five-0

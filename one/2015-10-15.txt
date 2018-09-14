@@ -1,0 +1,52 @@
+Let's talk a bit about the Character Bazaar!
+
+In case you aren't familiar, here's how it works currently: we provide a character transfer service that allows anyone to move characters from one of their accounts to any other account at a price of two PLEX per transfer. Based on this capability, we have a forum section where players trade characters between each other for ISK.
+
+Not only does the Character Bazaar discourage people from participating in illegal account sales on eBay and other sites, it also creates a path to make dramatic changes in your progression in EVE. As a player, the Character Bazaar is how I made the switch from being a 15 million skillpoint Interceptor pilot to being a 33 million skillpoint Battleship pilot. I was able to afford it using the ISK I had earned in my first year plus the sale value of my character. This ability to either accelerate or change your character progression quickly is something players clearly appreciate having, as evidenced by the 70 or so character transfers that happen every day, and it’s also something we feel matches EVE’s core design which is focused on player control above all else.
+
+While there’s a lot of things we like about the Bazaar, it also has some problems. For example, you would never know it existed from actually playing the game, 3rd party services are nearly essential when trying to shop for the right character, and you are forced into an awkward auction system using the forum thread which often leaves both buyer and seller unsure if they are getting a fair deal. On top of all that, you have to accept that you don’t get any personalization of the character you’re buying. The name, exact skill distribution and reputation are all set before you buy. That part really hits home for me because when I made that jump from 15mil SP to 33mil SP I went from being called ‘Turbo Dinosaur’ to being called ‘Kil2’. Puke. I also found out, after the fact, that Kil2 had been involved in some kind of corp theft which meant I had to deal with negative reputation issues for years afterwards.
+
+For those reasons, we’ve been wanting to take a look at improving the Bazaar for some time now. Recently, we’ve seen new threads emerging where EVE players discuss options to help new players with progression. The combination of your threads and our Character Bazaar evaluation together were that extra kick in the pants to get us into gear.
+
+We quickly realized that to make a significant improvement to using the Bazaar, we would be looking at a large web feature for browsing, buying, and selling characters. Even if we hit that work out of the park, we would still have an experience outside the client that is hard to discover and fairly inconvenient to use. Why not instead move the experience into the client? By doing that we increase discoverability and we can avoid the awkward auction system.
+
+We also discovered that the vast majority of complexity involved in character sales goes away if you make them more granular. Rather than requiring that characters be sold whole, we could allow them to be broken up and sold in chunks. This means that buyers get to retain all the individuality associated with their characters and sellers can make some money off their training mistakes or unused skills without having to part ways with an entire character.
+
+
+
+I’m sure by now you’re ready to hear some details. We are still in pretty early stages so please remember that everything below may change, but we think it’s valuable for you to be able to concentrate feedback on something concrete so here goes.
+
+High level:
+
+There will be a new item type called ‘Transneural Skill Packet’ that can be consumed to give any character unallocated skillpoints
+A Transneural Skill Packet is created by extracting some of your trained skills and combining them with a ‘Transneural Skill Extractor’ which can be purchased in the New Eden Store for Aurum (The Transneural Skill Extractor is analogous to the PLEX service fee in the character bazaar).Both Transneural Skill Extractors and Transneural Skill Packets can be freely traded on the market for ISK
+Zooming in:
+
+Creating a Transneural Skill Packet requires approximately 500,000 skillpoints (we will fiddle with this number a bit to make it most practical considering common skill level denominations)
+Characters with less than 5 million skillpoints may not use Skill Extractors, they can still use Skill Packets
+Trial characters may not consume Skill Packets
+Extractors are consumed on creating Packets and Packets are consumed on use
+Characters consuming a Transneural Skill Packet will receive the following amounts of unallocated skillpoints, based on the total skillpoints trained before consumption:
+
+0 – 5 million skillpoints = 500,000 unallocated skillpoints added
+5 – 50 million skillpoints = 400,000 unallocated skillpoints added
+50 – 80 million skillpoints = 200,000 unallocated skillpoints added
+80 million skillpoints = 50,000 unallocated skillpoints added
+
+As you can see, this design favors skill transfers for younger characters and makes them very inefficient for older characters. We’ve designed it this way so that we protect the prestige associated with long commitment to a single character.
+
+Why have diminishing returns at all? We want to make sure training decisions are still very important and that rapid respeccing of skills is not an efficient choice at any point. Note that respeccing below 5mil SP is not possible because characters that new are not allowed to create the SP items.
+
+Feedback on how exactly to set up the diminishing returns, or even alternate ideas to reach the same goals would be very helpful here. We think we are in the ballpark but getting the numbers right is very important.
+
+
+
+By putting more control of your characters in your hands we hope to improve the game for everyone. Whether you’re an older player who would rather have ISK than those mining skills you don’t use any more, a clever new player looking to invest your fortune into your character, a Corp leader trying to move everyone into a new doctrine or someone like me who just realized that they would rather fly Armageddon’s than Stilettos, this feature has you covered. This all fits nicely to our overall game design philosophy of giving you control over your experience through cooperation and competition with each other.
+
+There is a lot to be careful about here though, and we understand that. The skill system is a fundamental part of EVE so we need to make sure we account for all outcomes, which is why we're talking to you now. We hope that because this feature is modeled from the Character Bazaar, a long-standing and well-established feature, we are already pointed in a good direction. We would like feedback on everything from how the diminishing returns work to what ways you could see this feature being exploited to what ISK price to expect a Skill Packet to fetch so please let us know what you think.
+
+Oh, and one last note on the Bazaar, it won't go anywhere for now. It still offers something unique and valuable so we don't see a need to remove it. We just think this is our best route to providing a better skill trading experience.
+
+Looking forward to your feedback
+
+ - CCP Rise on behalf of Team Size Matters

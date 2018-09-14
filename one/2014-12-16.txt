@@ -1,0 +1,67 @@
+Sometime early next year we will change the way we deploy the EVE Online client. The primary driver for this change is to get people into the game quicker – both new players, downloading a trial for the first time and existing players patching after major updates. We're moving away from having resources packed into the stuff files in the EVE installation folder, to downloading individual resources on demand. There are many implications to this change, but rest assured –that none of this will be deployed until we have full confidence in our new deployment method and are sure it will not disrupt your gameplay experience in EVE.
+
+Today, a full install package for EVE is about 7GB that has to be downloaded and this expands to 12GB once installed. After the change, the initial download package required to play the game will be on the order of 200MB and it expands to about 350MB. This installs the game code without any resources (models, textures, audio and so on). The EVE client itself then downloads resources as it needs them and caches them locally on disk, so any given resource is only downloaded once.
+
+On a fast connection you probably won't notice much of a difference – load times may be slightly longer at times. As you play more, more resources will be cached and fewer and fewer need to be downloaded. The client will be smart about pre-fetching resources it expects will be needed soon. When entering space, for example, it starts downloading the resources for stations and stargates in all neighboring systems so that if you jump through any stargate, in all likelihood all those static structures have already been downloaded when you enter that system. The client also starts a background download of all the low detail resources for all ships as soon as the game starts, so it'll soon be able to display any ship without any delay. Ships usually enter the scene (what you see on your screen) in low detail any way – the higher detail resources are then downloaded on demand.
+
+If you prefer, we will of course also have the option of downloading all resources beforehand. The EVE client will then behave exactly as it does today, loading all resources from disk. You still have the option of starting up the game while the download is in progress – the launcher will then continue downloading all resources while you are playing. If the EVE client needs a resource the launcher hasn't downloaded yet, it will simply go and get it.
+
+I'VE GOT A QUESTION!
+Does that mean I have to download everything again?
+
+No, when we switch over to this we will offer a way to unpack the stuff files you already have.
+
+What about the offline installer?
+
+We will still offer a way to install from a pre-downloaded package, if for example you need to transfer it on a USB stick.
+
+What about slow connections?
+
+You can use the offline installer, or you can wait while the launcher downloads everything. Or you can enjoy the fact that you can get into the game sooner, although load times before ships show up might be long when you see a particular ship for the first time.
+
+What about multiple clients?
+
+This will actually make your life easier with multiple clients – the cache for downloaded resources will be shared without any special setup. Each install is only about 350MB and the resources live in a shared location.
+
+How do I try this (Windows)?
+
+We have a setup currently on Duality, which is one of our test-servers, where you can try this out. Click on this link to download an installer. Run the installer, but do choose a new installation folder instead of the default one (your location may of course be different).
+
+
+
+When you do get to the 'Completing the EVE Online Setup' you should untick the 'Run EVE Online' box, as we have make a small change before logging into Duality.
+
+
+
+After you hit finish, go to you desktop and right-click on the EVE icon that's just been added
+
+
+
+This will bring up this box:
+
+
+
+You have to add the following to the Target field:
+
+/server:87.237.38.60
+
+The Target field should look like this:
+
+
+
+(Note that the Target field shows only the end of the string in the field.)
+
+Hit the 'Apply' button, and then the EVE icon to start the launcher. When the launcher has downloaded the necessary minimum set of resources to start playing, the 'PLAY' button will turn from gray to yellow and you can fly away!
+
+
+
+
+
+We should note that the initial set of resources that the client downloads is roughly around 300 MB, but you should make sure that you have plenty of disc space. The whole set of resources is more the 12GB, so you should make sure that you have this space available in your installation location. 
+
+How do I try this (Mac)?
+
+Grab the installer here. When it has downloaded, click the .dmg file and proceed with the installation. After the installation is complete, open Finder and highlight your EVE Online installation. Choose 'Show Package Contents', then select the 'Contents' folder and the 'MacOS' folder.  Now open a terminal, drag the launcher into the terminal and add /server:87.237.38.60. Hit enter and the launcher pointing to Duality will open.  
+
+GOT FEEDBACK?
+Once you have tried this out, please let us know your thoughts on the forums. What was your overall experience like? Did you encounter any problems, issues or did anything weird happen? If you did encounter issues, make sure to give as much detail a possible, including your internet connection speed as that can be a vital part of the equation.

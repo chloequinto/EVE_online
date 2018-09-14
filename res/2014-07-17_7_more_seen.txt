@@ -1,0 +1,30 @@
+BASIC PRICING
+Slots are gone. There is no longer any limit on how much work you can do in a given facility. Anywhere you can start an industry job of any sort, both stations and starbases, is a facility).
+
+Instead, we have dynamic pricing to give an incentive to not just build everything in Jita 4-4. This is explained as the cost to hire necessary workforce in a given system.
+
+The base component of pricing is the system activity index. This value is tracked per activity (Manufacturing, Copying, ME research, TE research, Invention, Reverse Engineering), per system, so Jita will have a separate index for each of the six job types.
+
+The index for a given activity-system pair is equal to the number of job-hours of that activity type in that system over the last 28 days, divided by the number of job-hours of that activity type in the universe as a whole over the last 28 days, and then square-rooted to give better numbers. This is then expressed as a percentage, which will tend to be in the low single digits, and can be all the way down to 0 at one end and (in theory) all the way up to 100 at the other.
+
+I.e., where:
+
+system_activity_job_hours is the total duration of all jobs of that activity type in that system over the last 28 days, and:
+
+global_activity_job_hours is the total duration of all jobs of that activity type in the universe over the last 28 day, and:
+
+system_activity_index is the index we’re creating, the formula is:
+
+
+
+This index is then used in conjunction with job value to create a base cost. (For those of you who want to do the actual math, we suggest taking a read of this devblog.)
+
+Job value is based on the item or blueprint that represents the primary output of the job. For manufacturing, this is the value of the inputs required to build that output item, so for pretty much all build jobs it's the value of the job's input.
+
+For copying and ME/TE research, this is fairly straightforward: it's 2% of the inputs for a job using that blueprint.
+
+For invention and reverse-engineering, it's 2% of the average value of the inputs for the thing(s) built by the blueprint(s) you're /hoping/ to get out of the job. For T2 ships and T3 stuff generally, the output can be several things, so we average across all possibilities.
+
+With this value (input costs for manufacturing, 2% of output's input costs for research), we then multiply by the activity index for the activity in question to get the base build cost. Example: let's say the manufacturing index in Jita is 5%, and you want to build an Apocalypse whose base materials cost 200m ISK. Base build cost is 200m*5% = 10m.
+
+For ME and TE research, there's a further wrinkle, which is that the higher level jobs both take longer (as above) and also cost commensurately more. There is a cost multiplier for each level of research, equal to the time it takes to research to that level divided by the time it takes to research to level 1.

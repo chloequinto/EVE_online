@@ -1,0 +1,4 @@
+INFORMATION WINDOW
+In the information window, players will be able to see whether any of the required skills to use the relevant item are trial restricted.
+
+Information Window

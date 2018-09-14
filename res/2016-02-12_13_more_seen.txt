@@ -1,0 +1,16 @@
+TRIAGE CARRIER TO FORCE AUXILIARY TRANSITION
+Force Auxiliaries are going to completely take over the old Triage role from Carriers, leaving Carriers to focus on their new offensive capabilities. As a result, we want to make sure that our transition plan accommodates all Carrier pilots. Here’s how we’re planning to handle it:
+
+February Release
+We seeded Light Fighter and Support Fighter skills. You can begin training them immediately in preparation for the expansion!
+
+EVE: Citadel Expansion
+Any carrier with a triage module fitted (T1 or T2) in station, contract or ship maintenance array will be changed to a Force Auxiliary of the same faction.
+Any carrier with a triage module fitted (T1 or T2) in space will be changed to a Force Auxiliary of same faction. Its drones and fighters will be moved to its owner’s home station.
+Force Auxiliary blueprint originals will be available on the market.
+You will only require the Fighters skill to use Light, Support and Heavy Fighters.
+The Fighter-Bombers skill will be renamed to Heavy Fighters, and give bonuses to heavy fighter squadrons. Heavy Fighter squadrons will only be launch-able by Supercarriers.
+The Light Fighter and Support Fighter skills will give bonus to Light Fighters and Support Fighters respectively. More details about the fighter transition plan will come in a later blog.
+No More Force Auxiliary Skills
+
+Our original plan was to introduce a new dedicated Force Auxiliary skill. After player feedback we've decided to go another direction. Force Auxiliaries will instead use a renamed Carrier Skill. If you've already purchased a Force Auxiliary skillbook, the purchase price and any skillpoints trained will be refunded.

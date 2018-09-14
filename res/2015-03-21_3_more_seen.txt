@@ -1,0 +1,8 @@
+6.     FATE OF STORED ITEMS ON STRUCTURE DESTRUCTION
+This is again a hot topic that needs to be addressed. We are currently discussing the following options:
+
+Wreck: when a structure is destroyed, it could leave behind a non-destructible wreck. This wreck houses all the items the structure possessed at its destruction, and only the respectful owners could salvage them back. Players docked inside the structure would still remain docked inside the wreck (and still be invulnerable to attack), but will be unable to do so again should they choose to undock. Moored ships would however become vulnerable and up for grabs by anyone.
+
+
+Containers: when a structure is destroyed, all assets are moved into special containers. A container exists for each individual that stored items in the structure, as well as corporation entities and are spread around planets. When this happens, an entry would appear on the owner journal giving a warp-in point to go to. Please note such containers would not be destructible at all, and could not be scanned until the rightful owner comes to retrieve his or her loot. The duration at which those entries would stay remains entirely dependent to the structure type and player condition when it was destroyed (logged off, account lapsed etc…). Player docked inside the structure would be spread around the solar system, while moored ships would become vulnerable and up for grabs.
+

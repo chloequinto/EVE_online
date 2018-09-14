@@ -1,0 +1,36 @@
+Hello capsuleers,
+
+I’m going to get straight to the point with this dev blog as I know a lot of people are going to want a straight answer after reading the title. As of early October (tentatively October 11), we will be removing the in-game browser (IGB) from the EVE client.
+
+This gives third-party developers over three months to move their applications over to using CREST where possible and remove any IGB functionality. For those that haven’t been keeping up to date with the development blog at developers.eveonline.com, we’ve added several functions available in the IGB to CREST:
+
+Managing your personal contacts
+Setting an auto-pilot route
+Tracking your character’s location
+Opening the market details for a specific item type
+Opening a specific contract
+While the IGB has some extra functions beyond the list above, after looking at metrics of what EVE specific functions were being used these were the most used by a substantial margin. As such, they are the functions we pushed to have replicated in CREST.
+
+While that covers the special EVE functionality of the IGB, it doesn't cover the actual browser functionality. At this time, we are not replacing that. The reason for this is the very reason we are removing the IGB; We are a games company and our focus is on making EVE as great a game as we can. Integrating a browser into the EVE client takes a fair amount of work to do and more importantly requires a certain level of upkeep.
+
+Browsers advance at an incredible speed and maintaining them and keeping whatever browser is in the client up to date takes a lot of effort. This is development effort that we would rather commit to projects that make EVE more awesome with additional CREST functionality and more feature work.
+
+With the IGB going away in October we are introducing a new way of handling links sent in the client. Starting with the release tomorrow, June 21st, whenever you click on a link in the client you will be warned that the link will open in an external browser.
+
+You can choose to accept this and open the external browser or cancel. The dialog also has the option to remember your choice. While it is not new functionality you are also able to right-click on a link and copy the URL. You can then paste this directly in the external browser of your choice or open the IGB and paste it there until we remove the IGB in October.
+
+Again however we must advise against using the IGB if you can do so. The only reason that we are not removing the IGB with the release tomorrow is to give all those developers who have tools created that utilize it time to move their projects over to an external browser.
+
+For those of you that are looking for some kind of replacement for the browser portion of the IGB, there are alternatives out there. For example on Windows, Overwolf* offers a browser app which works great for EVE and is a modern browser that is kept up to date. You can also add EVE Online to Steam as a Non-Steam game and get access to the Steam in-game overlay which has a browser built in.
+
+
+
+To be clear CCP does not officially endorse or support overlays and therefor does not guarantee that they work or don't cause unexpected problems with the EVE Online client.
+
+We are aware that this will have a negative impact on some player’s experience but it is also something we feel is necessary to ensure the safety of users using our client.
+
+That is all for now. We will be monitoring the comments to answer any questions you may have.
+
+CCP FoxFour
+
+*Note on Overwolf. It used to be that it only worked on DX9 and not DX11 for EVE. That is actually the reverse now and it does work for DX11.

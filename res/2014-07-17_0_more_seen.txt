@@ -1,0 +1,12 @@
+APPENDIX 2: STATION COST MODIFIERS  
+OperationsManufacturing output multiplierResearch output multiplier
+Amarr Factory Outpost0.50.6
+Manufacturing (Nullsec conquerable)0.60.8
+Caldari Research Outpost0.60.5
+Gallente Administrative, Minmatar Service Outposts0.60.6
+Cloning (Nullsec conquerable)0.70.7
+Factory, Shipyard, Assembly Plant, Foundry, Construction Plant, Biotech Production0.950.98
+Warehouse, Chemical Storage, Academy, School0.970.98
+Testing Facilities, Reprocessing Facility, Chemical Refinery0.970.97
+Biotech Research Center, Research Center, Biohazard Containment Facility0.980.95
+[All others]0.980.98

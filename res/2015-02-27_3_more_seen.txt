@@ -1,0 +1,13 @@
+“SKYNET”
+
+Problem: Carriers and Super Carriers assisting fighters to small, fast ships from the virtually 100% safe edge of starbase shields is becoming more and more common. Victims and perpetrators alike are expressing frustration and it’s time to take action.
+
+
+
+Approach: Rather than a data based decision, this one is really about design philosophy. In general, we want there to be risk associated with power. We also want to promote active gameplay as much as possible. We're failing on both with Skynet by having very little risk associated with something rather powerful, and we're also not providing any gameplay to the carrier pilot.
+
+However, this problem quickly leads us down a path of needing to redesign capitals in general (which would be nice but it isn’t happening just yet). We also have some hesitation about the lost tactical gameplay that comes from larger scale applications of fighter assist. That said, this problem needs to get addressed. We discussed choosing to expose Skynet carriers to more risk rather than taking away the ability to assist fighters, but in the end this solution felt more convoluted and in reality would probably end skynetting but would still leave a strange and unneeded mechanic in the game.
+
+Therefore our proposal is to simply remove fighter assist.
+
+Additional notes: Removing fighter assist raises the question of whether or not fighters should still warp. We would lean towards not, as usually it is undesirable to have your fighters go chasing off grid when you want the damage to stay put. But, once again this chips away at fighter uniqueness. We would really appreicate feedback on this issue so please tell us what you think.

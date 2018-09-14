@@ -1,0 +1,25 @@
+COMPOSITION AND DISTRIBUTION
+With this new moon harvesting technology will come a new way of looking at the composition of moons themselves and a new distribution of harvestable resources across the moons of New Eden. Currently each moon can have a presence of certain moon materials that indicates the ability to mine them with a moon harvester. It’s possible for moons to have zero, one, or many moon materials and the moon harvesting process allows the owner to choose which materials to harvest.
+
+In the new moon mining paradigm, each moon will have a composition of a few ores, with each ore representing a percentage of the total moon composition. This composition can include both new moon ores and existing ores, and will always add up to 100%.
+
+So, for instance, surveying one moon might show that it consists of:
+
+45% Scordite
+40% a very common new moon ore
+15% a moderately rare new moon ore
+While another might show:
+
+35% Spodumain
+25% a moderately common new moon ore
+20% Bistot
+20% an extremely rare new moon ore
+The second moon would be considered significantly more valuable than the first. Under this system the difference between moon quality will be much more granular than it was previously, allowing organizations to choose what priorities they want to focus on when claiming moons.
+
+Would your corporation or alliance prefer a moon that has a small quantity of an extremely valuable ore that you would cherry pick and then ignore the less valuable ores in a short play session? Or would you be looking for a moon with a wider distribution of strong ores that enables more total income per month but requires more mining time to take full advantage?
+
+Alongside this rework of moon composition will be a complete reset of the current moon material distributions. We will be running a new randomized algorithm that will create the material compositions of moons across Lowsec and Nullsec space in this new percentage form. This reset of the distribution will happen in the same expansion patch as the introduction of Refineries.
+
+We will be testing this new distribution on test servers over the coming months, including Singularity. We want to make it clear that the distributions that will eventually show up on SISI will not use the same random seed as what will be applied to the main Tranquility server on patch day.
+
+This reset of moon composition distributions will allow a fresh start for the moon mining system, enable the conversion to the new percentage compositions, and will also be an excellent opportunity for smart and diligent prospectors to gain profit in the scramble for resources.

@@ -1,0 +1,120 @@
+
+Hello dauntless capsuleers! This is CCP Fozzie bringing you another dev blog about the big sovereignty capture changes coming on July 14th.
+
+Here in CCP’s Reykjavik offices we’re hard at work tweaking and polishing the new system for release, and we can’t wait to roll it out for all of you soon. This is the fourth major dev blog providing information about the Summer of Sov, and you can expect two more after this, one covering some hitherto secret changes and another summarizing the whole system so that people don’t need to dig through five other blogs to get all the information.
+
+Politics by Other Means
+Summer 2015 Nullsec and Sov Status Report
+New Details on July Sovereignty Release Schedule
+This blog!
+Blog covering details on changes to REDACTED.
+Final blog summarizing the new capture system in one place.
+Today’s blog will be a bit of an information dump, covering quite a few topics related to the new system and its rollout to the Tranquility server.
+
+Transition: What to expect on patch day
+Capital system details
+More details on structure launching and capture
+CREST and API details for third party tools
+Duality testing and the results of the playtest competition
+WHAT TO EXPECT ON PATCH DAY
+With the July 14th deployment date of the new sov capture system fast approaching, it’s important that everyone be aware of how the transition from the old system to the new one will play out.
+
+Since the basic functions of TCUs, IHubs and Stations are remaining constant, the transition for most of these structures will be fairly straightforward. We are endeavoring to cause as small of a disruption as possible to any sovereignty conflicts that may be in progress on patch day.
+
+Sovereignty Blockade Units
+SBUs do not play a role in the new system, and will begin to be phased out this month. During the patch downtime all SBUs in space will be destroyed, and SBU blueprints will be rendered inert. Any new SBUs launched into space after patch day will explode one minute after appearing in space.
+
+At the same time, we will begin the process of phasing out SBUs and their blueprints from the game. NPC buy orders will appear for SBUs and un-researched SBU blueprints so that players can choose to recoup some of the value of their SBU stock at their own pace. After a few months of voluntary buyback we plan to convert all SBUs to TCUs, SBU blueprints to TCU blueprints, and remove the legacy market entries for these types.
+
+Excess Territorial Claim Units and Infrastructure Hubs in Space
+Under the new system, only one TCU and one IHub will be allowed in space per system. As part of this transition, on the patch downtime any TCU or IHub that is in space but not in an online state will be destroyed. This will ensure that only one TCU and one IHub per system will remain. We advise all Alliances to ensure that their IHubs are online before the release downtime on the 14th.
+
+Structures that are reinforced or vulnerable as the patch downtime begins
+In order to prevent unnecessary confusion and complication on patch day, all Infrastructure Hubs, Stations and TCUs that are in reinforced, vulnerable and/or damaged states will be reset to full health and full owner control over the patch downtime. This means that a sov structure that has a reinforcement period straddling the patch downtime will no longer be reinforced after the patch deployment is completed. If the structure’s normal vulnerability period (as determined by the combination of your Alliance’s vulnerability timer and the system’s Activity Defense Multiplier) extends over the time of the server startup, the structure will begin in a vulnerable state with 100% control by its owning alliance. Otherwise the structure will begin in a secure state and become vulnerable at the beginning of its next vulnerability period.
+
+Any stations that are owned by corporations outside of an Alliance during the patch downtime will immediately enter a Freeport reinforcement period for approximately 48 hours from the server startup point.
+
+In order to keep the disruption for ongoing sovereignty warfare to a minimum, we are not currently planning any other “sov invulnerability period” after the patch (beyond the one time removal of reinforcement states over the patch downtime).
+
+CAPITAL SYSTEMS
+Quick Capital selection for the first two days after release
+Starting immediately after the July 14th downtime, Alliances will be able to designate one of their systems as an Alliance Capital. In order to allow Alliances to gain the benefits of their capital quickly after deployment, we plan to make all capital system selection and changes apply very quickly (as close to instantly as possible given server limits) for the first two days after deployment. This means that between downtime on July 14th and downtime on July 16th Alliances will be able to set their capitals and change it as often as desired with no waiting period. Once downtime on July 16th has passed, changes to Capital system settings will require 7 days to take effect.
+
+Single system Alliance Capitals
+The one exception to the 7 day waiting period for Capital systems is that anytime an Alliance only has Sovereignty over one star system (as determined by TCUs) that one system will automatically become the Alliance capital. This means that Alliances taking their first system will not need to wait a week to gain the benefits of the Capital system defensive bonuses. It also ensures that when an Alliance is pushed to a final stand in its last system, that system will always gain the capital defensive benefits.
+
+Any other changes to Capital systems will always require 7 days in order to take effect. This includes cases where an Alliance that controls multiple systems has lost its previous capital and is setting a new one.
+
+ALLIANCE VULNERABILITY TIMER SETTINGS
+As many of you already know, the ability to set your Alliance default vulnerability timer has been available in game since the Carnyx release on June 2nd. So far this setting has only pre-loaded the value in the database in preparation for the next Sov release, but on July 14th it will begin applying to all Sovereignty structures belonging to your alliance. This means it is very important for every sov-holding alliance to choose an appropriate vulnerability timer before the 14th to ensure that their structures match their alliance’s primary time zone.
+
+The setting can be found on Tranquility right now within the Corporation window, Alliances tab, and Home subtab. Characters with director roles in the Alliance executor corporation can edit the vulnerability timer by clicking on the cogwheel on the right. The image below displays where this setting can be accessed.
+
+
+
+Sovereignty structures belonging to Alliances that have not chosen a default vulnerability timer will have their vulnerability windows automatically centered on 11:00 EVE Time (downtime).
+
+SOV STRUCTURE DEPLOYMENT PROCESS
+For those players who have not yet had a chance to try out the new system on the Duality test server, we also want to go over some of the details around deploying structures in the new system. This information can also be found in the show-info window for the Sov structures, but we want to make sure the maximum number of people see it.
+
+In the new Sovereignty system we are largely doing away with the launch/anchor/online process inherent in the older style of EVE structures. Instead, TCUs and IHubs will use the newer spacecomponent deployment system, and will feel quite similar to the mobile structures introduced in recent years.
+
+Both TCUs and IHubs will now need to be deployed at planets. Their location restrictions will actually mirror those of Customs Offices. They must be no closer than 350km from the planet and no further than the distance from the planet to the warpin point plus 1000km. Existing TCUs will be grandfathered in and won’t need to be moved, but any newly deployed TCUs will now need to be placed at planets.
+
+Only one TCU and one IHub may exist in space in each system at one time. This means that if there is already a copy of that structure somewhere in the system you will receive an error when you attempt to launch your structure. Both TCUs and IHubs are now globally visible on overviews everywhere in the system, so you’ll never have trouble finding existing sov structures.
+
+Only characters that belong to an Alliance will be able to deploy a TCU and/or IHub, although no corporation roles will be required.
+
+You may deploy the TCU or IHub through the right click menu, radial menu, or by simply dragging the structure from your inventory into space. Once deployed into space, the TCU or IHub will exist in a neutral state, owned by the Secure Commerce Commission NPC corp. To complete the claim process you must activate an Entosis Link on the neutral structure to capture it for your Alliance. This means that the process of getting an active TCU or IHub into space will be much faster under the new system (total time will be about 12-15 minutes instead of 2-8 hours under the old system). However the process now requires that ships remain on grid for those minutes and other players can challenge your claim and attempt to capture the structure themselves.
+
+When TCUs and IHubs are first launched into space, they will automatically find an appropriate location nearby to anchor themselves. They will always deploy on a spot at the center of a grid (in the same way that starbases deploy to the center of the grid when anchored) to reduce the chance of grid conflicts near the structure. They will also automatically find another suitable nearby location if their first location overlaps with ships or other items. This means that when a TCU or IHub launches it may appear quite a ways away from the ship that launched it.
+
+The deployment process of Outposts will remain largely the same for this release. Deploying a new Outpost will still require your Alliance to have an active TCU in the system, and the outpost creation process will still require the same platform filling procedure. Team Game of Drones is hard at work on the system that will replace this process in the future.
+
+Once you have successfully captured the Sovereignty structure, ownership will transfer to the executor corporation of your Alliance. Infrastructure Hubs will create a new maintenance bill for the executor corp, with a 24 hour grace period before the first payment is required. TCUs will no longer have any bills under the new system. If bills for Infrastructure Hubs expire before they are paid, the structure will automatically self-destruct. Directors in the corporation that own the structure (executor corp for newly claimed/captured structures) can transfer ownership to other corporations within their alliance using the right click menu on the structure when there are no outstanding bills.
+
+When a corporation leaves an Alliance, all Sovereignty structures belonging to that corporation will transfer their ownership to the executor corporation.
+
+To ensure that anyone starting a Sovereignty capture event will also be able to complete the process, characters must be in a valid capsuleer Alliance in order to activate an Entosis link directly onto a TCU, IHub or Station. This restriction does not apply to Station Services.
+
+CREST AND API DATA FOR THIRD PARTY APPLICATIONS
+We know that many of you will be eager to make amazing third party applications and websites, either for public use or for your own Alliances. That’s why we are opening up the new Sovereignty system to Public CREST. Everyone will be able to access a public list of all active Sovereignty structures in the universe, all details about reinforcement timers and the scores of active capture events. They will also have access to capital systems and default vulnerability timers for every Alliance. Finally, the XML API will contain the notifications triggered whenever Sov structures are attacked.
+
+All the details on these Public CREST exposures can be found in CCP Foxfour’s developer blog here.
+
+DUALITY PLAYTEST
+For the past few weeks we have opened the Duality test server with an in-development version of the new sov system so that players could try it out and help us refine the user experience and find bugs. We also put together a playtest competition in which Alliances could fight over Sovereignty of a region to gain bragging rights and cosmetic rewards. We want to express our thanks to every player who has taken the time to log onto Duality and help submit bug reports and feedback on the new system. You’ve all been a huge amount of help.
+
+We want to congratulate all the Alliances who fought for Providence on Duality over this last month.
+
+The final score for each alliance is obtained by adding one point for each of the three core Sovereignty structures (TCU, IHub, and Station) that they control within the competition area.
+
+Fourteen alliances entered the competition and were each given a starting constellation within Providence or Catch. When all was said and done five alliances remained.
+
+Every alliance that participated in the playtest will have their name added to the description of the Entosis Link I blueprint original, as notable capsuleer alliances that led the way in discovering visionary applications of the new technology.
+
+The final scores are:
+
+Pandemic Legion: 198
+Spectre Fleet Alliance: 40
+No Not Believing: 35
+Affirmative.: 22
+Fidelas Constans: 7
+
+In a future release we will be listing all the competing alliances in the description of the Entosis Link I BPO, with a special mention for PL as the most successful testers.
+
+We have also drawn four of these five alliances for another special honor, having meta variations of the Entosis Link named after them. The winners of this draw were selected with Chribba’s dice. All the details on how this selection process was executed can be found in this forum post.
+
+The default naming convention for the new Entosis Link variations will be to include the alliance ticker of the winning alliances as the “flavor” name. We will be open to considering alternate suggestions from the winning alliances, but those suggestions will be subject to approval by CCP’s development team and will only be accepted if we determine that the names fit into the EVE universe. Direct references to other intellectual property will not be accepted for obvious reasons. You know who you are.
+
+The alliances drawn for the module naming are:
+
+Pandemic Legion, Spectre Fleet, No Not Believing, and Affirmative.
+
+We’ll be in touch with your team captains and alliance executors to discuss the details.
+
+Thanks once again to everyone who participated on Duality so far, and remember that Duality remains open for people to keep trying out the new system right up until release.
+
+Thanks for taking the time to read this update blog, and I hope it’s been informative. We’ll be continuing our communication over the next week as we prepare to launch this huge revamp of EVE’s Sovereignty capture system on July 14th. We have one more blog full of announcements coming later this week, and after release we will be continuing our iteration on Nullsec and Sovereignty with help from your feedback. Huge thanks to everyone who has provided us with your feedback so far!
+
+From all of us at Team Five 0 and Team Pirate Unicorns, fly safe!

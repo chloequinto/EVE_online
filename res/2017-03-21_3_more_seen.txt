@@ -1,0 +1,8 @@
+AURUM BALANCES UNDER 1000
+Next up: Aurum conversion for players with Aurum balances of 1000 or less. The goal behind the initial plan was to minimize devaluation of PLEX at launch due to Aurum stockpiles entering the market, which is still a big priority, but, we hear you loud and clear that leaving some balances to not be converted is not a good enough solution.
+
+After several days of looking at alternatives, we now intend to delay conversion for small balances rather than not converting at all. On feature release, we will convert Aurum balances greater than 1000 to PLEX immediately, and then, 3 months later, convert balances under 1000 Aurum. This should mitigate impact on the PLEX market and give us a good window to look at activity and adjust if needed.
+
+Along with the change to conversion, we want to reiterate that we are going to be running offers in the in-game New Eden Store up until a few days before release so that spending those leftover balances is easy and rewarding. Specifics on those deals are still in the works but we want to make sure you have good options leading up to the day we convert.
+
+

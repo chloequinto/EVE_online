@@ -4,12 +4,15 @@ Created on Sep 11, 2018
 @author: Chloe Quinto
 '''
 import glob
-import string
+import re 
 
 
 list_of_files = []
 mylist = []
-count = 0 
+count = x =  0 
+found = []
+
+
 
 
 def process_file(directory):
@@ -17,22 +20,22 @@ def process_file(directory):
     Function processes through the text files within a directory
     and returns an array containing the path of each file 
     '''
-    global list_of_files 
+    global list_of_files, found, x
     for i in glob.glob(directory + "\*.txt"): 
         list_of_files.append(i)
-    for b in list_of_files: 
-        segmentation(b)
+
+    date = re.findall('20(.+?).txt', str(list_of_files))
+    if date:
+        found.extend(date) 
+
+    for b in list_of_files:
+        segmentation(b, x)
+        x += 1
     
-    #The strings in the array list of files will have two backslashes
-    #this is because you are seeing the representation of the paths
-    #printing the element within the array shows one backslash
-    
-    #print(list_of_files)
-    #print(list_of_files[0])
         
 def read_file(item):
     '''
-    Reads each file 
+    example that reads each file 
     '''
     file = open(item, "r")
     print(file.read())
@@ -41,7 +44,7 @@ def read_file(item):
 
 def write_file(directory):
     '''
-    writes a new file 
+    example that writes a new file 
     '''
     global count
     f = open(directory + "\\example_overwrite.txt", "w")
@@ -49,20 +52,18 @@ def write_file(directory):
     f.close()
     return
 
-def segmentation(item):
+def segmentation(item,index):
     '''
     Segments based on capitalized lines
     '''
-    global mylist, directory, low_case, up_case, count
-    var = 0 
-    var_second = 0 
-    var_third = 0 
-    inc = 0 
+    global mylist, directory, count, found, x
+    var = var_second = var_third =  0 
+    inc = inc_0  = inc_1  = 0 
     var_fourth = [] 
     iterable_caps = []
+    
     file = open(item, "r")
-    
-    
+        
     with file as f:
         mylist = [line.rstrip("\n") for line in f] #removes \n
     
@@ -71,17 +72,16 @@ def segmentation(item):
         if i == '':
             mylist.remove('')
         break
-    #Check for caps line
     for i, j in enumerate(mylist): 
         if j.isupper(): 
             var = i
             count += 1 
     if count == 1: 
         print("There is only one instance where a caps line was seen")
-        print(mylist[var::])
-        fi = open("C:/res/instant.txt", "a")
+        fi = open(directory  + "20" + found[x] +"_" + str(inc_0) + "_one_seen" + ".txt", "a")
         fi.write("\n".join(mylist[var:]))
         fi.close()
+        inc_0 += 1 
     elif count == 2: 
         print("There are two instances where cap lines were seen")
         for h,g in enumerate(mylist):
@@ -91,44 +91,44 @@ def segmentation(item):
         for b,c in enumerate(mylist[var_second+1:]):
             if c.isupper(): 
                 var_third = b
-        print(mylist[var_second:var_third])
-        print(mylist[var_third:])
-        file = open("C:/res/instant_two.txt", "a")
+        file = open(directory + "20" + found[x] +"_" + str(inc_1) + "_two_seen_first.txt", "a")
         file.write("\n".join(mylist[var_second:var_third]))
         file.close()
-        file = open("C:/res/instant_three.txt", "a")
+        file = open(directory + "20" + found[x] +"_"+ str(inc_1) + "_two_seen_second.txt", "a")
         file.write("\n".join(mylist[var_third:]))
         file.close()
+        inc_1 += 1 
     elif count > 2: 
         print("There are more than two lines where CAPS was seen")
         for a,b in enumerate(mylist):
             if b.isupper():
                 iterable_caps.append(mylist[a])
                 var_fourth.append(a)
-        print(var_fourth)
         for i in reversed(var_fourth):
-#             print(mylist[i:])
-            file = open("C:/res/" + str(inc) + "multiple.txt", "a")
+            file = open(directory + "20" + found[x] + "_" + str(inc) + "_more_seen.txt", "a")
             file.write("\n".join(mylist[i:]))
             file.close()
-            print(mylist[i:])
             del mylist[i:]
             inc += 1 
-            
-
+        
     else:
         print("No instance of all caps")
+        fi = open(directory  + "20" + found[x] +"_" + str(inc_0) + "_none_seen" + ".txt", "a")
+        fi.write("\n".join(mylist))
+        fi.close()
+        inc_0 += 1 
         
+    
+    
 def less_length(one):
     '''
     Function that segments with the title that contains less than 5 words 
     '''
-    if len(one) <= 5: 
-        return None
+    return None
     
     
                  
 if __name__ == '__main__':
-    directory = "C:\res"
+    directory = "C:/res/"
     process_file("C:\one")
     pass

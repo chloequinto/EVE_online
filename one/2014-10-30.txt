@@ -1,0 +1,134 @@
+Some time has passed since our previous blog on invention changes and we would like to make sure the latest information is available to our player base before those changes go live with Phoebe.
+
+SCIENCE FIELD CHANGES
+As mentioned in our previous blog, we are going to change science field skills drastically both for invention and Tech II manufacturing activities. If you haven’t seen the changes yet and are even loosely involved with those activities, we strongly recommend you read them so you can plan ahead, as skills will not be reimbursed (none are taken away. requirements are just shuffled around) and you may find yourself unable to invent a particular item you were the day before release.
+
+We are specifically referring to the module changes here and ship changes there.
+
+We are also renaming the following skills:
+
+Frigate Construction to Advanced Small Ship Construction
+Cruiser Construction to Advanced Medium Ship Construction
+Battleship Construction to Advanced Large Ship Construction
+Industrial Construction to Advanced Industrial Ship Construction
+Reverse Engineering to Sleeper Encryption Methods
+In addition, we are going to decrease level requirements to 1 for Tech II item manufacturing on the following skills:
+
+Advanced Small Ship Construction
+Advanced Medium Ship Construction
+Advanced Large Ship Construction
+Avanced Industrial Ship Construction
+Amarr Starship Engineering
+Caldari Starship Engineering
+Gallente Starship Engineering
+Minmatar Starship Engineering
+Electromagnetic Physics
+Electronic Engineering
+Graviton Physics
+High Energy Physics
+Hydromagnetic Physics
+Laser Physics
+Mechanical Engineering
+Molecular Engineering
+Nuclear Physics
+Plasma Physics
+Quantum Physics
+Rocket Science
+To compensate for this change, all those skills will now give a 1% Time Efficiency bonus for the Tech II manufacturing job they are required for, which is still going to give an incentive for players to train those up, or give an edge for players that already trained them.
+
+Please note this will however not affect the training structure for construction skills, as you still need the smaller advanced ship construction skill before you can train for the next size.
+
+Current manufacturing skill requirements (left) versus Phoebe (right) for an Arazu:
+
+So after the change, the Arazu manufacturer would gain a 15% TE bonus if he / she had Advanced Medium Ship Construction, Gallente Starship Engineering and Electronic Engineering skills at 5.
+Advanced Small Ship Construction skill would however give no bonus here since it is a prerequisite of Advanced Medium Ship Construction.
+
+
+MERGING INVENTION WITH REVERSE ENGINEERING
+When Phoebe is deployed, Reverse Engineering will no longer exist as a separate activity, with Ancient Relics now falling under the purview of invention.
+
+Experimental Laboratories and Caldari Outposts will still be the only places where Ancient Relics can be invented
+As mentioned in the last Dev Blog, the invention formula is going to be tweaked to compensate for the merge. However, we have changed its values since then to account for player feedback regarding science field and invention skills not having enough repercussions in the success output.
+The new invention formula thus is:
+
+
+
+Where Racial Encryption Method is Amarr, Caldari, Gallente and Minmatar Encryption Methods for regular invention, and Sleeper Encryption Methods for Ancient Relics.
+Meta items will no longer have an effect for Invention jobs
+In addition, base invention chance for all items is going to be modified to compensate for the formula tweaks above:
+
+All modules, rigs , ammo and all intact Ancient Relics: from 40% to 34%
+All Frigates, Destroyers and all malfunctioning Ancient Relics: from 35% to 30%
+Cruisers, Battlecruisers, Mining Barges, Industrials: from 30% to 26%
+All Battleships and all wrecked Ancient Relics: from 25% to 22%
+Freighters: from 20% to 18%
+Taken in conjunction with the changes to the Invention formula above, that means the basic Invention chance will pretty much stay identical to its previous iteration.
+
+MULTIPLE INVENTION RUNS
+Since the Crius release in July, invention only consumes one blueprint copy run at a time. As such we are adding the possibility for Phoebe to queue those runs on a similar manner with Manufacturing runs.
+
+We will keep a close eye on the effect of this change on the game, and we may tweak blueprint job times if the need arises.
+
+Below is the updated UI of the invention window:
+
+
+
+TECH III SUBSYSTEM BALANCING
+Other changes that are coming for Phoebe are the removal of Data Interface and Subsystem Data Interfaces. Those will be properly reimbursed at market price. Blueprint copies will be reimbursed at a static price.
+
+With the removal of those items, players will be able to directly pick and choose the exact race and subsystem type they want instead of relying on a random number generator (RNG) mechanic.
+
+Below is the updated UI for picking subsystems:
+
+
+
+To compensate for this and to stimulate the market for Tech III materials, some changes are being made to the build requirements of various Tech III components.
+
+Exact changes below:
+
+Adding 1 Neurovisual Output Analyzer to Electronic, Engineering and Propulsion subsystems
+Adding 1 Nanowire Composites to Offensive subsystems
+Adding 1 Fulleroferrocene Power Conduits use in Defensive subsystems
+Increasing Electromechanical Interface Nexus use in Electronic subsystems to 7 (+6)
+Increasing Reinforced Metallofullerene Alloys use in Defensive subsystems to 7 (+6)
+Increasing Optimized Nano-engines use in Engineering subsystems to 7 (+6)
+Increasing Warfare Computation Core use in Offensive subsystems to 7 (+6)
+Increasing Reconfigured Subspace Calibrator use in Propulsion subsystems to 7 (+6)
+Increasing Emergent Neurovisual Interface use in Hulls to 2 (+1)
+Decreasing the Fullerene Intercalated Sheets use in Hulls to 7 (-1)
+Increasing Neurovisual Input Matrix use in Fullerene Intercalated Sheets to 55 (+53)
+Increasing Electromechanical Hull Sheeting use in Electromechanical Interface Nexus, Reinforced Metallofullerene Alloys, Optimized Nano-engines, Warfare Computation Core, and Reconfigured Subspace Calibrator to 10 (+4)
+Increasing Powdered C-540 Graphite use in Electromechanical Interface Nexus, Reinforced Metallofullerene Alloys, Optimized Nano-engines, Warfare Computation Core, and Reconfigured Subspace Calibrator to 2 (+1)
+Increasing the Cartesian Temporal Coordinator use in Electromechanical Interface Nexus to 4 (+3)
+Increasing the Fused Nanomechanical Engines use in Optimized Nano-engines to 4 (+3)
+Increasing the Resonance Calibration Matrix use in Reconfigured Subspace Calibrator to 4 (+3)
+Increasing the Emergent Combat Analyzer use in Warfare Computation Core to 4 (+3)
+Increasing the Heuristic Selfassemblers use in Reinforced Metallofullerene Alloys to 4 (+3)
+Increasing the Thermoelectric Catalysts use in Emergent Neurovisual Interface to 7 (+6)
+Increasing the Defensive Control Node use in Emergent Neurovisual Interface to 7 (+6)
+Increasing the Emergent Combat Intelligence use in Emergent Neurovisual Interface to 7 (+6)
+Increasing the Central System Controller use in Emergent Neurovisual Interface to 7 (+6)
+Increasing the Jump Drive Control Nexus use in Emergent Neurovisual Interface to 7 (+6)
+Increasing the C3-FTM Acid use in Emergent Neurovisual Interface to 310 (+32)
+Decreasing the Graphene Nanoribbons use in Electromechanical Interface Nexus, Optimized Nano-engines, Reconfigured Subspace Calibrator, Reinforced Metallofullerene Alloys and Warfare Computation Core to 7 (-15)
+Decreasing the Lanthanum Metallofullerene use in Electromechanical Interface Nexus, Optimized Nano-engines and Reconfigured Subspace Calibrator to 7 (-15)
+Increasing the Lanthanum Metallofullerene use in Emergent Neurovisual Interface to 50 (+39)
+Increasing the Methanofullerene use in Fulleroferrocene Power Conduits to 60 (+27)
+Decreasing the Scandium Metallofullerene use in Reinforced Metallofullerene Alloys and Warfare Computation Core to 22 (-22)
+DECRYPTOR MERGING:
+As part of our effort to remove needless complexity from EVE, racial decryptors are now going to be merged into one set of generic decryptors which affect all races in the same way. Decryptors will also now affect Ancient Relics.
+
+So, for example, if you had an Occult Accelerant and Esoteric Accelerant Decryptor in your hangar, you will now receive 2x Accelerant Decryptors when Phoebe goes live.
+
+As an added bonus, Cosmos items will no longer require Decryptors as part of their manufacturing requirements.
+
+MULTI-INVENTION OUTCOME AND INVENTION TEAMS
+These two features will not be going live for Phoebe.
+
+After some discussion we arrived to the conclusion that multi-invention outcome, while adding a beneficial impact on this activity, was annoying with large industry batches and messing with players wishing to accurately predict long term job outcomes.
+
+So we instead decided to spend our time working on force projection changes, which we’re sure you can agree was a much more pressing problem to address for this particular release.
+
+Regarding invention teams, we are currently investigating the purpose and state of teams in the game as a whole.
+
+In all cases, we hope you are going to appreciate the invention changes we have been working on for Phoebe. Manufacture safely out there and may the invention RNG gods be with you.

@@ -1,0 +1,9 @@
+SOME TECHNICAL DETAILS
+There are some challenges in maintaining an application that needs frequent updating, as the EVE client does. On Windows, the regular install location is under the Program Files folder (or C:\Program Files (x86) to be more precise). With UAC enabled (as it is by default), this folder is protected and you have to allow programs to make changes.
+
+The new launcher downloads the binaries into the same location as the resources - the shared cache. The binaries for each server you connect to are then staged in individual folders under the shared cache folder and run from there. The shared cache has to be in an unprotected location, of course, so that the launcher (and the client) can download resources as well as binaries.
+
+Even if you install the launcher under Program Files, the EVE client(s) it launches will not be run from there. How does the old launcher get around this? It actually changes the permissions on the installation folder - a method that is not recommended by Microsoft (see //msdn.microsoft.com/en-us/library/bb530199.aspx for a discussion on patching methods).
+
+Fly safe,
+CCP Snorlax and Team RnB

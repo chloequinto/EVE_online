@@ -1,0 +1,29 @@
+STRUCTURE FREEDOM
+Under the new Sovereignty system, each of the three key Sovereignty structures (Territorial Claim Unit, Infrastructure Hub, and Station) will all exist and operate independently from each other. They will have their own separate functions and there will no longer be any requirement for the same alliance to own all three (in practice however, they will often end up owned by the same alliance).
+
+Under this new system, only one of each Sovereignty structure can exist in the same system at the same time.
+
+The functions of the three Sovereignty structures will be:
+
+Territorial Claim Unit
+This structure will be distilled down to its core function: a declaration to the whole of New Eden that you lay claim to a particular system and that you intend to defend that claim. The TCU will no longer have an upkeep cost (this cost will be split between the IHub and Station) and will not be required in order to operate the other Sovereignty structures. The benefits of this structure will be registration into the Sovereignty filters on the map, your alliance logo visible to every pilot in the system and the existing 25% bonus to starbase fuel use.
+
+By removing the upkeep cost from TCUs and keeping their affordable cost, we will ensure an affordable entry level option for alliances interested in dipping their toes into Sovereignty.
+
+Since we are no longer forcing alliances to use a TCU in order to anchor and protect IHubs and Stations, the value of TCUs will now be able to be set entirely by the goals and aspirations of each alliance. You will also no longer need a TCU in order to gain the benefits of Infrastructure Hub upgrades. How much value your alliance places on defending its TCUs can depend entirely on your own priorities.
+
+Infrastructure Hub
+The Infrastructure Hub will continue to enable system indices and provide a location for the installation of system upgrades so that alliances can improve their space. The Infrastructure Hub will now have a base upkeep cost and the Strategic Sovereignty Index will now be obtained by keeping an IHub alive in a system rather than being obtained from the TCU. Future iterations on this system will add more structures that alliances can use to obtain new kinds of bonuses and effects in their space.
+
+Station
+Stations will continue to provide all the services you know and love, including docking, fitting, refining, industry and markets. Station services will now be enabled and disabled through the Entosis Link mechanic rather than shooting through hitpoints.
+
+To disable a station service, anyone other than the alliance that owns the station must apply an Entosis link directly to the targetable station service. The capture mechanic for station services is exactly the same as for any other structure, except that station services activate and deactivate in half the time that Sov structures reinforce or capture.
+
+To enable a station service again, any member of the alliance that owns the station must apply their own Entosis link directly to the targetable station service. Multiple station services may be disabled at the same time by multiple ships with their own active Entosis links. Neither DPS nor remote reps will be used for controlling station services in the new system.
+
+Stations will now have part of the Sovereignty upkeep cost that was previously attached to the TCU.
+
+Sovereignty Blockade Units are not needed as part of this new system and will be phased out, leaving us with three key structures instead of four. The existing stock of SBUs and their blueprints will be removed, with compensation to their owners.
+
+

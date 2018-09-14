@@ -1,0 +1,47 @@
+PILLAR #2: NEW VULNERABILITY AND REINFORCEMENT SYSTEM
+
+
+The systems surrounding the attack, reinforcement, and destruction of structures has been one of the most heavily discussed aspects of the Upwell structure design from the very beginning. This system is an especially challenging area of design as it requires a careful balance between the needs of attackers and defenders in any structure conflict. As owners and defenders of a structure, players need the security to ensure that their home will not be destroyed out from under them while they sleep. As aggressors against structures, players need the ability to inflict damage and generate conflict. This balance is further complicated by the huge variety of players and organizations in EVE.
+
+From our observations, research, and community feedback over the past year, we believe that the vulnerability and reinforcement system used by Upwell structures since the Citadel expansion have been too unbalanced in favour of the defender. With this in mind, Upwell structures 2.0 includes a complete re-imagining of vulnerability and reinforcement for these structures.
+
+In this new system, attacks against active Upwell structures will consist of three phases:
+
+An initial attack that can occur at any date and any time chosen by the attackers
+A second attack that occurs in the timezone of the defenders, on the day chosen by the attackers
+A final battle that occurs in the timezone and day chosen by the defenders to allow them a last stand
+Under this system structure owners will choose an hour of the day and a day of the week as their structure’s reinforcement time and reinforcement day respectively. Any changes to this reinforcement day and time take 7 days to take effect from the moment the changes are queued, and if the structure is damaged or reinforced when the 7 days have elapsed the change will not take effect until the structure returns to full health.
+
+This reinforcement information will be obtainable by potential attackers using a relic or data analyzer module. Activating one of these analyzer modules will open a hacking panel similar to those found in exploration sites. The difficulty of the hacking challenge will scale depending on the size of the structure being investigated, with XL structures providing a more difficult hacking challenge than any previously available in EVE Online. After a successful hack a window will appear with the full information on the structure’s current reinforcement time and day, as well as any queued changes and the time that those changes are planned to take effect. Knowledge of the structure’s reinforcement time and day is crucial for potential attackers who wish to determine when their future fights would take place as well as plan how long they wish the structure to spend reinforced.
+
+Under this new system, the shield hitpoints of Upwell structures will be vulnerable to attack at all times.
+
+The mechanics of attacking the structure will remain largely consistent with the old system, including the same 15-minute repair timer and the existence of damage caps.
+
+If the shield hitpoints of an Upwell structure are completely destroyed, the structure will enter a reinforced state. If the structure is in full power, it will enter the first of two reinforcement cycles. If the structure is in low power mode it will skip straight to its final reinforcement cycle.
+
+First reinforcement cycles last for between 22 and 50 hours, depending on when the attack takes place relative to the structure’s reinforcement time and on a random element. When a structure enters this first reinforced mode it determines when to become vulnerable again by looking forward to the next reinforcement time that takes place at least 24 hours after it entered reinforced mode and randomly adding or subtracting some amount time up to two hours in either direction. This means that the structure owners will always have about one day’s notice that they need to form for a fight, and that the fight will take place at a random time within a four hour window centered on the time chosen by the defender. This also means that an attacker with proper investigation can plan for approximately when the structure will leave its first reinforcement period and control what day that reinforcement exit takes place to generate conflicts on dates of their choosing.
+
+When the structure exits its first reinforcement period the armor hitpoints become vulnerable with the standard 15 minute repair countdown.
+
+If a full power mode structure loses its armor hitpoints (or if a low power mode structure loses its shield hitpoints) the structure enters a final reinforcement period. The duration of final reinforcement cycles depends on when the structure enters the reinforcement, what reinforcement day the owner of the structure has chosen, and the area of space the structure is located within.
+
+When a structure enters its final reinforcement period it looks for the next reinforcement time on the weekly reinforcement day that occurs at least X days in the future, and then randomly adds or subtracts some amount time up to two hours in either direction. This X value depends on the location of the structure:
+
+0.5 days for Wormhole space
+2.5 days for Lowsec and Nullsec space
+5.5 days for Highsec space
+This means that the final battle for a structure will always take place on the day of the week chosen by the defender, within a four hour window centered on their selected reinforcement hour.
+
+Just as in the previous system, all a structure’s service modules will go offline while the structure is in this final reinforcement period.
+
+When a structure finishes its final reinforcement period its hull hitpoints become vulnerable to attack. At this point the structure may be destroyed once and for all with a successful attack and final battle.
+
+Under this new system a random unscouted attack against a full power Upwell structure could lead to a set of reinforcement timers with a maximum combined duration of 14 days in highsec, 11 days in nullsec and lowsec, and 9 days in W-space. However, a prepared attacker that hacks the structure for its reinforcement information ahead of time can ensure that those durations drop to 7 days in highsec, 4 days in lowsec and nullsec and 2 days in W-space. This highlights the importance of hacking potential target structures to obtain the best possible information for your planning.
+
+This new system also enables clever attackers to ensure that the first reinforcement period for a full power structures will exit during a weekend to generate potential fights by launching initial attacks against structures on Thursday evening, Friday, or Saturday in preparation for the next day’s reinforcement hour.
+
+The following chart shows the complete state flow available to Upwell structures in this new system:
+
+
+Chart has been updated from original blog version (click to enlarge

@@ -1,0 +1,26 @@
+Greetings pilots,
+
+I´m CCP Nag, Lead Artist on the EVE team. I wanted to show you something that we´ve been working on for this release.
+
+A few months ago, CCP Solaris (the founder of CCP) turned 40 years old, so I gave him a phone call to congratulate him on this life event.  I casually mentioned that I was going to take and revamp the existing sunflares because they were getting a bit outdated. He didn’t respond all that well to the news because as it turns out, it´s the only thing that he physically worked on for EVE that´s still in the game.  But after some convincing I managed to assure him that we´ve updated everything else graphic related at least once in the span of 11 years. Sure the flares have managed to hold up pretty well over the years, but everything has a certain lifetime. Its peak is unfortunately over and simply needs to be replaced by something younger and fresher.
+
+So I hope he had a great 40th birthday!
+
+Anyways, I sat down with a graphics programmer (who we refer to as “The Machine”) and we attacked the old flares and updated the system. He had to rewrite most of the system in order to get certain things working but all in all it´s a very similar system as to what it was before.  We didn’t feel the need to go overboard with anything crazy because we felt the  solar flares should keep their original artistic feel, rather than go all crazy physics on it. We also didn’t want to risk having to many flashy elements going on all the time, but rather keep the serene calm feel of EVE in general. And I hope we managed to do that.
+
+The flares are thirteen in total and we tried to give most of them some unique flair (haha), apart from the obvious color variations.
+
+
+(click to enlarge!)
+
+You don´t really see the fun stuff until you start moving the camera around.  There´s a lot of subtle stuff going on like color changes, elements growing larger and fading out etc. that you might not notice right away. I feel it gives them more life than not.
+
+
+
+
+
+These will be coming in the future releases. I hope they turn you on as much as they do me.
+
+Be safe!
+
+CCP Nag

@@ -1,0 +1,62 @@
+Greetings citizens of EVE,
+
+The CSM 11 term is in its second half and we’re fast approaching the elections for CSM 12! In this blog you should find everything you need to know about the upcoming elections for CSM 12, whether you’re running or voting.
+
+If you’re new to EVE or to space politics, CSM refers to the Council of Stellar Management, a player advocacy group democratically elected by the players to advise and assist CCP in the continuous development of EVE. The CSM brings focused, structured feedback from the community to CCP and represents its views and interests. More information on the CSM can be found here.
+
+Election timeline
+The timeline of the CSM 12 election process will be as follows:
+
+February 3 – 17: Candidacy application period
+
+Potential candidates submit applications indicating they wish to serve on the CSM. No applications are accepted before or after these dates.
+February 17 – 28: Application processing period
+
+This is where CCP reviews submitted applications and ensure they comply with all application requirements.
+February 28: Candidates for CSM 12 are announced
+
+March 6 – 26: CSM 12 Voting period
+
+The polls are opened and the Capsuleers of New Eden vote for candidates to represent them on CSM 12.
+April 6: CSM 12 election results are announced at EVE Fanfest during the EVE Keynote!
+
+Application requirements
+To be eligible for the CSM, applicants must meet the following requirements.
+
+To apply your account must be older than 60 days at the time that candidacy applications close (that is, created no later than 2016-12-26)
+Both Alpha and Omega accounts are eligible to run
+You must have a history of honoring the EULA and the Terms of Service. We will screen every applicant thoroughly and EULA/TOS violations on your record can result in a rejected application.
+Your account must have updated and correct information at the time of your application. This includes; your real life name, correct date of birth and the same email you use to submit your application. To view and edit this information go to the account management system.
+Candidates must be a minimum of 18 years of age. If the legal adult age in your home country (the age at which you have the legal capacity to enter into a contract) is higher than 18, that number applies instead.
+As an applicant, you must consent to providing your personal details to CCP, including your real name and a copy of your passport or internationally accepted identification. A CSM candidate can share any real-life information about themselves with the player base at their own discretion but it is not required at any stage in their application or CSM term other than sharing their country of residence on their candidate information page. Further personal information is only visible to CCP staff and will not be revealed by CCP.
+To apply you must own a valid passport or verifiably be in the process of successfully applying for one at the time of your application. CSM members are expected to have the option of travelling to summits in Iceland. A passport is still required by applicants living in the EEA, as airlines may demand possession of a passport as a condition of carriage.
+If you control a character that is well known in the EVE community, CCP may require you to run under that identity and not one of an alt or a lesser known character.
+How to apply
+To apply, fill in the application form made available from 12:00 UTC on February 3.
+//content.eveonline.com/www/newssystem/media/66865/1/45345.jpg
+Applications cannot be edited after you submit them so make sure your information is correct.
+The applicant must provide a copy of a valid, internationally recognized identity document to CCP (passport preferred, driver’s license generally accepted). This is required to confirm the identity of the candidate and to prove the ability to sign a Non-Disclosure Agreement. A copy must be of a high quality and should be sent to csm-contact@ccpgames.com immediately after the application has been submitted through our website. Include your running Character’s name in the subject line. CCP will reply once they have received your documents to confirm delivery.
+If you fail to submit a copy of your ID, your application will be rejected.
+Once your application has been submitted, you are encouraged to create a campaign thread in this forum section.
+Voting
+For those of you not interested in a career in space politics, you can show your love for democracy by voting!
+
+Voting is performed through the CSM portal on the EVE Community website. The voting site will not be accessible until voting opens on March 6.
+To vote your account must be in Omega state at the time of voting. This is due to the increased ease of voting manipulation by mass creating alpha accounts specifically for voting purposes. Despite this, Alpha players are eligible to run and serve on the CSM.
+Accounts must be at least 30 days of age before they can vote.
+Every active Omega account gets to vote once, but each vote allows you to choose up to 14 characters in the order of your preference, from highest to lowest.
+Votes cannot be edited or revoked after they are submitted
+The voting system we use is called Single Transferrable Vote.
+The code used to tally votes is available on Github in this repository. The voting data will be made available after the election results have been announced if you wish to verify the results of the tally.
+More CSM for you:  Upcoming Summit and White Paper re-write
+CSM 11 will be having its second and final summit here in Iceland from January 30 through February 2. They’ve had a fruitful term and will leave a good runway for whoever get elected next. We will try to keep you updated as best we can with what’s happening at the summit, and of course we will release meeting minutes of all their sessions in the week following the summit. More about all of that in upcoming news and social media posts!
+
+The White Paper, the document outlining everything that the CSM aims to be has seen previous revisions but given some subtle and not-so subtle changes made both to the CSM process and the CSM philosophy in the last year, we are working on an overhaul to formally reflect these changes. We aim to publish a rewritten document after the summit, at the same time the application period opens. We will discuss the changes we make to the CSM process and the document with CSM 11 at the summit.
+
+That’s it for now. Keep your eyes open for posts from us, as well as any updates from the amazing community sites covering the election.
+
+If you have any questions or suggestions, please feel free to contact us by a ticket under CCP Community team or leave a comment in the comments section.
+
+On behalf of CCP,
+CCP Guard and CCP Logibro
+CSM Co-ordinators

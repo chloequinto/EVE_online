@@ -1,0 +1,59 @@
+FACTION VARIANTS
+There are also initial plans to introduce advanced faction variants of the Organic Mass Granulator once the standard version has been rolled out. These plans will initially include variations of the deployable for the four empires, plus a special edition, before being followed with variants for each of the pirate factions.
+
+In addition to performing the standard refining of biomass explained above with a 15% increase in output, the faction variants of the Organic Mass Granulator will include an additives bay, in which you can deposit additional materials to further enhance the output of your Granulator.
+
+Amarr Navy Organic Mass Granulator:
+Input:
+
+
+
+Output:
+
+
+NOTE - Cycle time on Amarr Navy unit is 10% longer for fermentation process.
+
+Caldari Navy Organic Mass Granulator:
+Input:
+
+
+
+Output:
+
+
+
+Federation Navy Organic Mass Granulator:
+Input:
+
+
+
+Output:
+
+
+
+Republic Fleet Organic Mass Granulator:
+Input:
+
+
+
+Output:
+
+
+WARNING - Water not potable.
+
+Quafe Special Edition Organic Mass Granulator:
+Input:
+
+
+
+Output:
+
+
+
+As with the upcoming Refineries from the Upwell Consortium, these Organic Mass Granulators will be released on a “when they’re done” basis, as we’d like them to be fully functional and working perfectly when they make their way to Tranquility.
+
+As always, everything in this blog is subject to change as we respond to feedback and adjust designs closer to release, but we’ll keep you informed as we move forward with this exciting new development in the Upwell Consortium structures lineup.
+
+Fly safe, and happy podding!
+
+Team Five-0

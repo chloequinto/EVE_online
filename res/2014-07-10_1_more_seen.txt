@@ -1,0 +1,28 @@
+CREST API
+CREST is our new de-facto method of giving access to publicly accessible information. There are 6 new resources with industry related information.
+
+/market/prices/ (cache: 23 hours)
+vnd.ccp.eve.MarketTypePriceCollection-v1
+Returns the list of trade-able types and their average market price, as shown in the inventory UI in the EVE client. Also includes an adjusted market price which is used in industry calculations.
+
+/industry/facilities/ (cache: 1 hour)
+vnd.ccp.eve.IndustryFacilityCollection-v1
+This returns a list of all publicly accessible facilities, including player built outposts in nullsec.
+
+/industry/systems/ (cache: 1 hour)
+vnd.ccp.eve.IndustrySystemCollection-v1
+Lists the cost index for installing industry jobs per type of activity. This does not include wormhole space.
+
+/industry/specialities/ (cache: 1 hour)
+vnd.ccp.eve.IndustrySpecialityCollection-v1
+Lists all specialties that can be associated with teams and what groups those specialties modify.
+
+/industry/teams/ (cache: 1 hour)
+vnd.ccp.eve.IndustryTeamCollection-v1
+Returns a list of all active teams, excluding the teams in auction. This does not include wormhole space.
+
+/industry/teams/auction/ (cache: 1 hour)
+vnd.ccp.eve.IndustryTeamCollection-v1
+Returns a list of all the teams currently up for auction.
+
+You can test these now on Singularity with the base URL //public-crest-sisi.testeveonline.com/ and then when we go live on Tranquility on the 22nd July with //public-crest.eveonline.com/

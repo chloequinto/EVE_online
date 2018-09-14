@@ -1,0 +1,15 @@
+CURRENT STRUCTURES
+There are currently five different types of structures available in the game, each with a unique purpose, which we shall quickly review now.
+
+
+
+Deployables are mainly structures that provide short term gameplay for immediate benefits. They usually suit a personal playstyle and do not have a complicated interaction process. A few examples include Mobile Depots, Mobile Tractor Units and Mobile Scan Inhibitors. We should mention this category also includes containers and even Mobile Warp Disruptors. Their roles are numerous, including storage, harvesting, staging and space upgrading capabilities (for the Encounter Surveillance System deployable).
+
+Customs Offices (often abbreviated to POCOs for Player Owned Customs Office) are heavily tied with the Planetary Interaction feature, as they are used to move goods away from planets into what’s technically a glorified storage container. The interesting factor comes with the added tax on PI goods, which allows the owning corporation to make a profit from the tenants, and create emergent behavior.
+
+Starbases (often called POS for Player Owned Structures or even Player Owned Starbases) are in fact a collection of structures at a specific point around moons. They consist of a Control Tower, which groups most managing and administrative functions of the Starbase, and secondary structures, which add extra functionalities to the whole. Depending on the secondary structure anchored, a Starbase may offer storage, harvesting, industry, defense or even fleet staging roles. Starbases are also unique for offering a forcefield mechanic, which allows players inside to be safe from direct harm, and is often used to store ships (albeit this is not their designed purpose and is something done at your own risk).
+
+Sovereignty Structures are tied to player territorial conquest in null-security space, including Sovereignty flag claim and other disruption mechanics as a whole. Those structures, and the fate that are going to befall them in the near future are explained in this blog from CCP Fozzie.
+
+Outposts form the last structure group, which are player-made, upgradable stations which can only be deployed in null-security space, and provide a wide variety of functions (storage, industry, defense, staging) through their various upgrades. Because of their location and attack mechanics, they are sometimes included as part of the Sovereignty system.
+

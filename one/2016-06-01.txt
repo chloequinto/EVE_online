@@ -1,0 +1,23 @@
+Several months ago we announced Changes to OS Minimum Requirements and our intent to phase out DirectX 9 support for EVE Online in the near future.
+
+In the last three years since we added DirectX 11 support to EVE, the uptake has been amazing!  During that time we have continued to support DirectX9, which is now a decade old, but the on-going development cost of supporting such an old graphics API is beginning to slow down feature implementation.  During the development of the new tactical overlay, we found the perfect solution very early on but unfortunately it was only supported in the DirectX11 API.  This meant we had to spend additional development time figuring out a solution that would work with DirectX9 and this delayed some of our feature plans.  It is this type of development cost that adds up each release and delays features reaching you!  
+
+You will start to see the initial steps of the phase out of DirectX9 in the upcoming release for graphic features such as secondary lighting; this will only be available on the DirectX 11 client. We will be investing effort in making behind the scene changes to improve the DirectX 11 experience, one such change will be a new cloud rendering approach which will mean we will be removing clouds from the DirectX 9 client in an upcoming release.
+
+It is also worth checking what DirectX version you are using for the EVE client, to do this:
+
+
+
+Open the Launcher
+Go to the options on the top right hand corner of the Launcher window
+Go to ‘Settings’
+You will see a window open, ensure you do not have ‘Run clients with DX9’ ticked.
+We would like to assure the Mac community that we are aware that the current client is DirectX 9 only. This is something we have been discussing internally and we are investigating solutions. The Mac client is something we will continue to support and we have been investing in this recently.
+
+Although we have no immediate plans to completely remove DirectX 9 support, it is an inevitable conclusion. We encourage you to check what DirectX version your computer supports and upgrade either the operating system or graphics processing unit to enable the full potential of your EVE gaming experience.
+
+Use the following link to find out how to check which DirectX version your computer supports:
+
+//windows.microsoft.com/en-us/windows/which-version-directx
+Fly Safe,
+CCP Vertex & All of EVE Development

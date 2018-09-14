@@ -1,0 +1,7 @@
+NEW REACTIONS SERVICE MODULES 
+Three types of Service Modules for Reactions will be introduced, substituting five modules from Starbases (POSes)
+
+Standup Composite Reactor I performs both Simple and Advanced Reactions (Tech 2)
+Standup Biochemical Reactor I performs both Biochemical and Medium Biochemical Reactions (Boosters)
+Standup Hybrid Reactor I performs Hybrid Reactions (Tech 3)
+Service Modules require fuel to online and to run (like any other Structure Service Module)

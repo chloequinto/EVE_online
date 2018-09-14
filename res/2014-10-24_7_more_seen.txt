@@ -1,0 +1,7 @@
+WHAT WE ARE CHANGING
+We want players on trial accounts to have a chance to experience a large variety of activities in EVE without being overly burdened by existing restrictions. This will help to make it easier to find something they enjoy doing and thus decide to stick around. In that vein we are lifting the following restrictions in Phoebe:
+
+Trial accounts are no longer limited in the ways they can send and receive ISK. They are now able to directly transfer ISK to other characters and corporations and send ISK to other characters by direct trades in stations. This will assist trial players who want to share ISK with each other or are looking to get into a corporation.
+Players looking for places to trade will now be able to post in trade chat channels (Channels 10 - 15). The normal restriction on chat frequency still apply. 
+Players interested in mission running are no longer limited to just level 1 and 2 agents and they can now participate in incursions (and receive a cut of the reward pool). Those interested in some low-sec mission running and/or PvP can now sign up for Factional Warfare.
+To assist with joining corporations, trial players will now be able to apply to up to 5 corporations at any one time. If they are rejected by a corporation or withdraw their application, an application slot will free up and they will be able to apply to another corporation. For those who are not quite ready to make the jump into a permanent corporation, trial players will now be able to post fleet finder advertisements.

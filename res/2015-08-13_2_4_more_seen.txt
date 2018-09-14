@@ -1,0 +1,19 @@
+RELOCATE MY STUFF
+
+
+So, what happens when players successfully attacks one of the new structures and blows it up?
+
+All items fitted on the structures are lost, and can drop as loot (just like ships). To all the clever people out there, remember it is not going to be possible for owners to remove fitted structure modules when the reinforced 1 timer starts.
+All rigs fitted on the structure will be lost. While the price for M rigs will not that expensive, X-L rigs will have the same price magnitude than outpost improvement and upgrades, so they are not something to be easily dismissed.
+Some of the input materials used in manufacturing or science jobs will drop as loot. This does not include blueprints, which will always be safe from greedy attacking raids, except if they would otherwise be consumed as part of the job (invention for instance). We will add more incoming sources as we are migrating starbase functions. For instance, reaction materials could drop in the future. Market orders will not be available as loot and are going to remain safe from raiding, since they are based on player hangars.
+The structure will turn into a wreck that will contain a certain percentage of the minerals and components that were needed to build its base hull (not the modules nor rigs).
+Items located in personal or corporation hangars will be impounded and saved from destruction.
+There are two different ways of recovering impounded items:
+
+Have items delivered to the closest NPC station. For high-security dwellers, this will be the closest high-security station available. For low and null-security structures, that will be the closest low-security NPC station. Please note the exact destination will be picked automatically to minimize potential for abuse.
+Build another Citadel in the same system to replace the one that has been lost, and deliver the items there. This option will be working the same way for all locations, and will be the only way to recover items out of wormhole space. In case there is more than one structure available to deliver the items to, a selection list will be provided.
+There are going to be sinks involved to be able to recover impounded items:
+
+In cases where items are delivered to a NPC station, players will need to pay an ISK fee based on a percentage of moved item market value (numbers we are considering are around 10% price fee).
+A minimum recovery time, based on the distance between origin and destination, calculated in light years. There will be a minimum time enforced, even if items are recovered within the same system: current number is 5 days minimum, up to 20 days for the longest distances. A choice doesn’t have to be picked after the recovery time has elapsed, players may wait more before picking a recovery option. If the chosen destination structure is blown up before the recovery time has elapsed, it will not reset – a new structure can be picked after the remaining time is gone.
+Please note that the recovery time will automatically start counting down as soon as the lost structure has been blown up. As such, users will not have to wait after coming back from a break or if they forget to press a confirmation box.

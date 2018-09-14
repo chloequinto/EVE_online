@@ -1,0 +1,25 @@
+CONDUCT
+
+A. Specifically Restricted Conduct
+
+Your continued access to the System and license to play the Game is subject to proper conduct. Without limiting CCP's rights to control the Game environment, and the conduct of the players within that environment, CCP prohibits the following practices that CCP has determined detract from the overall user experience of the users playing the Game.
+
+You may not take any action that imposes an unreasonable or disproportionately large load on the System.
+
+You may not use your own or third-party software to modify any content appearing within the Game environment or change how the Game is played.
+
+You may not use your own or any third-party software, macros or other stored rapid keystrokes or other patterns of play that facilitate acquisition of items, currency, objects, character attributes, rank or status at an accelerated rate when compared with ordinary Game play. You may not rewrite or modify the user interface or otherwise manipulate data in any way to acquire items, currency, objects, character attributes or beneficial actions not actually acquired or achieved in the Game.
+
+You may not use the Software, or any information accessible through the System, to bypass the System login architecture or create or provide any other means through which the System may be accessed and/or the Game may be played by others, as, for example, through server emulators.
+
+You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libelous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
+
+You may not engage in any conduct that results in an Account containing items, objects, currency, character attributes, rank, or status that are inappropriate for the level or rank of the character contained in the Account, including without limitation arranging, making or accepting transfers of items to a character without adequate consideration, thereby augmenting or aggregating items in an Account and increasing its value for an Account sale.
+
+B. Selling Items and Objects
+
+You may not transfer, sell or auction, or buy or accept any offer to transfer, sell or auction (or offer to do any of the foregoing), any content appearing within the Game environment, including without limitation characters, character attributes, items, currency, and objects, other than via a permitted Character Transfer as described in section 3 above. You may not encourage or induce any other person to participate in such a prohibited transaction.You may not use, transfer or assign any in game assets for games of chance operated by third parties.You may not use, transfer or assign any in game assets for games of chance operated by third parties. The buying, selling or auctioning (or any attempt at doing so) of characters, character attributes, items, currency, or objects, whether through online auctions, newsgroups, postings on message boards or any other means is prohibited by the EULA and a violation of CCP's proprietary rights in the Game.
+
+C. Compliance with Rules of Conduct
+
+You agree to observe and abide by the Rules of Conduct as may be amended by CCP from time to time. The current version of the Rules of Conduct may be viewed at //community.eveonline.com/support/policies/terms-of-service-en/, and are incorporated in the EULA by reference.

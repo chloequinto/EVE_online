@@ -1,0 +1,14 @@
+INTRODUCING SUPER KERR-INDUCED NANOCOATINGS
+We decided a while ago that it was time to revisit the ship painting pilot program from top to bottom. This meant looking at what the paint jobs were, how players applied them, their cost, and every other aspect we could think of.
+
+Now that we’ve finished our evaluation and started on some designs for a new system, we would like to introduce to you Super Kerr-Induced Nanocoatings, aka SKINs.
+
+SKINs are quite different from the paint jobs we have now in terms of how you use them and at a higher level of how to think about them. With the painting system you would combine a paint style with a ship and they would become a new ship, taking that paint with the ship everywhere. If you had torpedoes delivered directly to it that caused an unfortunate explosion and loss of the ship, the paint style would be lost with it.
+
+With the new SKIN system you will buy a license to use a specific design or pattern for a ship. You then apply that license to your character and then your character will be licensed to use that design whenever you wish. For now the licenses are permanent and cannot be removed from your character once applied. Even if your character loses their pod and dies or jump clones around they still have the license to use all their SKINs. The licenses themselves can still be traded on the market, contracts, and all other ways before being applied to your character.
+
+Here is a work-in-progress mockup of how we imagine this looking in the ship fitting window:
+
+  
+
+_(click to enlarge)_

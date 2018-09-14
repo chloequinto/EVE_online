@@ -1,0 +1,8 @@
+5.     HOUSING
+Proper housing of player items and ships is a critical must-have if we wish those structures to be used over NPC stations. As such, we have different ideas up our sleeves to make that happen.
+
+First, docking will still be available for the largest structures, as long as you have rights and your ship isn’t too big for this kind of purpose (we are looking at you, Supercarriers and Titans).
+
+For the smallest structures, or if your e-peen is too large for docking, mooring will be preferred option. Replacing forcefield mechanics, this will make your ship invulnerable and not being able to be bumped as long as you are within a specific radius of the structure. Of course, when that is the case you will not be able to interact with the outside world either. The idea for the mooring capabilitis are that they are configurable and have a finite limit, so multiple structures will be required to house particularly large fleets.
+
+

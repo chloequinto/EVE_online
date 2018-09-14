@@ -1,0 +1,8 @@
+FUEL BLOCKS
+As mentioned above, new structures are going to use a new type of fuel block, which will be required to manufacture the various hulls, modules and online service modules.
+
+
+
+
+
+As a consideration for players living in null-security space, we are investing coming up with more ways to build such fuel block to reduce the logistic hassle to haul four types of isotopes around. For example, we are considering adding 4 more blueprints to build the new fuel block with one racial isotope instead of 4, but increasing the amount to compensate.

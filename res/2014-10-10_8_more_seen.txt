@@ -1,0 +1,2 @@
+MISSION OBJECTIVES GUIDANCE
+New information in the Agent Mission info panel will direct you to what you need to do next in your mission to complete it. An upcoming dev blog will go into details on this new feature.

@@ -1,0 +1,25 @@
+THE COULD BE BETTER
+We have these great signs that Alpha access to EVE is something the world wants, but, on the other hand, we also see evidence that the current Alpha experience is too restricted to hold players long term. Being an Alpha is often described more like an infinite trial period than a true free experience, and our data seems to back that up. New players decide if the game is right for them very quickly, then either leave or subscribe rather than playing as an Alpha long term. Of course, more Omegas is fantastic but we think many of the players who leave might be willing to stay around if subscription didn’t feel like a requirement.
+
+Expanded Alpha Set
+That’s where the new skill list comes in. By expanding the amount of skills available to Alphas, the free experience will be much deeper and more powerful. We hope that with a stronger free experience, we see more players staying around to play as Alphas even if they can’t subscribe right away. This makes EVE even stronger for all pilots, for as we know players are the content in New Eden.
+
+Let’s go over some of the highlights from the new Alpha skill set and talk about why we chose this list, then you can find the complete list at the bottom of the blog.
+
+Tech II Small and Medium Weapons
+
+
+Comparing Alpha ships to their Omega counterparts can look pretty brutal right now due to the lack of Tech II weapons. By adding them to the Alpha set, not only will DPS potential be much closer between Alphas and Omegas, Alphas will also pick up the extremely important utility granted by certain Tech II ammo variations.
+
+Battlecruisers
+
+
+The most obvious restriction that Alphas face is ship size. Even though EVE is unique in its design to allow even a frigate pilot to make a difference in any battle, the reality is that big ships offer capabilities and experiences that can be hard to get in Frigates and Cruisers. With Battlecruisers and Tech II Medium weapons available, Alphas should be able to make a big difference in any part of the game.
+
+Battleships
+
+
+Yes, Battleships! Battleships are some of EVE’s most iconic ships and the most common aspiration for new players. We see them as an essential part of a deep EVE experience and so we want everyone to be train to fly them. We’ve also heard loud and clear from the CSM and from the discussions surrounding the announcement at EVE Vegas that Battleships are widely considered powerful and this might be scary territory for existing players. That’s why we’re holding back on Tech II Large weapons for now, and it’s also why we will watch behavior post release very carefully. If we see negative effects, we will make changes. We hope that isn’t necessary though and we believe that granting access to Battleships for Alphas will be exciting for everyone in New Eden.
+
+All Factions
+Being restricted to one faction had some important goals at release, but it also had some big drawbacks and we’re going to let it go. Alphas will now be able to train Ship Command skills from all four factions and will also be able to train all weapon systems. Not only does this open up cross training, a key component of EVE progression, it also opens up pirate faction ships which are some of the most powerful ships in the Tech I arsenal.

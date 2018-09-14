@@ -1,0 +1,4 @@
+CREST AND API DATA FOR THIRD PARTY APPLICATIONS
+We know that many of you will be eager to make amazing third party applications and websites, either for public use or for your own Alliances. That’s why we are opening up the new Sovereignty system to Public CREST. Everyone will be able to access a public list of all active Sovereignty structures in the universe, all details about reinforcement timers and the scores of active capture events. They will also have access to capital systems and default vulnerability timers for every Alliance. Finally, the XML API will contain the notifications triggered whenever Sov structures are attacked.
+
+All the details on these Public CREST exposures can be found in CCP Foxfour’s developer blog here.

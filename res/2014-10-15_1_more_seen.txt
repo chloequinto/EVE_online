@@ -1,0 +1,22 @@
+CAREER AGENTS
+Lastly, we’ve been working on the Career Agent missions within the new player experience.
+
+In the spirit of these changes I’ll keep this short and simple as no one enjoys a wall of text.
+(Unless of course you have a wall of text fetish. But that’s none of my business).
+
+Basically, we’ve cut a lot of unnecessary text from all Career Agent missions to sharpen the focus on the objectives.
+
+[![](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText550.jpg)](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText.jpg)
+The new revised text on the left, the old ‘wall of text’ on the right.
+All of these changes (unless specified) are currently on our test server Singularity for your perusal.
+
+As usual, please share your thoughts, concerns and your feedback in the comments section which we will be monitoring closely.
+
+Until then, fly wild.
+
+CCP RedDawn (On behalf of Team Space Glitter)
+
+Do it! We know you want to
+ We have also increased the percentage chance of the rarer types of Expedition occurring as we simply found these figures to be too low. These combined changes should help somewhat in bringing this ‘hidden’ content to the surface for you to enjoy.
+Additionally, a ‘Boss’ loot table revision is in progress and we’re adjusting where necessary.
+These changes are still in progress and will reach Singularity at a later date.

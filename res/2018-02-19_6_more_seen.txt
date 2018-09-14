@@ -1,0 +1,7 @@
+HERE’S THE DETAILS:
+All Tech I Battleships (exact numbers vary slightly by ship):
+
+Quality of life is the name of the game here. Longer lock ranges for synergy with MJDs and more cargo room for all.
+
++25% to cargo capacity
++20% to maximum lock range

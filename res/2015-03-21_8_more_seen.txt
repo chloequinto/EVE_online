@@ -1,0 +1,10 @@
+2.     SIZE
+We are striving towards making our largest new structures as imposing and as visually rewarding as possible to reflect on the massive effort required to deploy them. Below you can see an approximation between our current structures and the new size system, which will again be very logical with what we used for ships (structure hulls may be small, medium, large or extra-large).
+
+Current structure sizes:
+
+
+
+New sizes:
+
+

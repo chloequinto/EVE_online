@@ -1,0 +1,13 @@
+THE CONTENT
+
+One of the biggest limitations we face for the first release is a rather small amount of content. We are adding more daily, but at first, we will be releasing with only some very essential opportunities covering concepts such as:
+
+Ship movement
+Basic combat
+Looting
+Basic mining
+Stations and some associated services
+Introducing the market
+Traveling within and between star systems
+Skill training
+We hope to be expanding rapidly on this list and eventually provide enough Opportunities that a new player could easily fill their entire trial period. For the time being though, we are still very focused on validating the general flow of the system and tuning our presentation.

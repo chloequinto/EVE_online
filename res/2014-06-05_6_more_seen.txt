@@ -1,0 +1,6 @@
+POCOS IN THE EVE API
+You can currently get a list of all your corporations Player-Owned Customs Offices (POCOs) by looking at your corporations asset list through the EVE API. That’s however very limiting in that it only tells you that you have some POCOs, not how they are configured. We have added corp/CustomsOffices to the EVE API which will require a CEO or director level corporation API key with the asset list access mask. Provide that and you will get a list of all your corporations POCOs and their configured settings.
+
+Due to limitations with the EVE API and how the data is stored for POCOs in the database, we unfortunately are not returning information on what planet the POCOs are orbiting. We are however returning the POCOs item ID which, just like you can now from the asset list endpoint, take that item ID and send it to the corp/Locations endpoint. From that you will get an X, Y, Z returned. Use that information with information from the EVE SDE and you can look up what planet a POCO orbits.
+
+If you are really lazy, and trust Steve Ronuken, you can use his API to look this up: //www.fuzzwork.co.uk/tools/api-map-data/

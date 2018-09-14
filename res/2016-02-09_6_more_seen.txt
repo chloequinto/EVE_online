@@ -1,0 +1,29 @@
+UNBOXING THAT NEW CAMERA
+Good day spaceship people. We have been actively working on a massive upgrade to the EVE in-space camera over the last few months. We initially released it to our public test server, Singularity in November and then moved it to opt-in beta on Tranquility last December, enabling us to collect a lot of great feedback. We’ve gathered a lot of data and made a lot of changes, fixes and improvements.
+
+It is now time to take the next step, which is to turn the new camera on by default on TQ. Since changes to fundamental parts of core gameplay systems can be delicate, we’ve decided to keep the option of reverting to the old camera for about 1 month as of now. If, for whatever reason you feel it necessary revert, please us the forums to let us know why so that we’re able to squash any remaining issues before we pull the final plug on the old camera’s dwindling life support.
+
+The initial driver for this substantial chunk of work was the identified need for a tactical camera that wasn’t necessarily attached to a space entity all the time—in preparation of the Capital rework and more coming in the EVE Online: Citadel Expansion. When we started digging into the code, we quickly realized that the old camera wouldn’t be a suitable foundation. During that digging we also found this:
+
+/*************************************************************************************
+	EveCamera.h
+
+	Author:    Hilmar Veigar Pétursson
+	Created:   November 2000
+	OS:        Win32
+	Project:   Trinity
+
+        Description:
+         	See EVECAMERA_Description
+
+	Dependencies:
+                Blue, DirectX 9.0
+
+	(c) CCP 2000
+**************************************************************************************/
+I want to make it totally clear that my uncharacteristically careful phrase selection of “not suitable” to describe the old camera code is in NO WAY linked to the fact that it was originally written by our glorious, all-loving, all-knowing, dear CEO (that should be enough to keep my job).
+
+Jokes aside, requirements and standards have changed quite a bit in the last 16 years, so even though the old camera did its job just fine when created and has had its share of fixes and improvements throughout the years, it was well overdue for a rewrite. What we have now is a system where multiple, special purposed cameras can happily live side by side to give you the best view possible of New Eden. As a result, we now have three different in-space cameras instead of the one before:
+
+
+The video description contains time stamps to the various sections and features described below.

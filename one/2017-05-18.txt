@@ -1,0 +1,37 @@
+According to the internet, around 8% of men are color blind, so some quick napkin math would mean around 7.999% of EVE players are color blind, which is a considerable chunk. I am not one of those 7.999%, so it was particularly interesting, yet challenging, to work on this feature, mostly because I was at no point capable of estimating if I was finding any success. I guess that gave me a tiny taste of how it must feel to be colorblind.
+
+
+
+
+
+THE APPROACH
+Deuteranopia is not only a very hard word to pronounce, but also the most common form of color blindness (red/green). Protanopia is the second most common form (red/green, like Deuteranopia) and Tritanopia the third most common (blue/yellow). Our original plan was to add one mode for each of those and call it a day. We have a handful of colorblind devs at the CCP Reykjavik Office whom we ruthlessly used as guinea pigs and one of the biggest findings during those sessions was that the forms of color blindness don’t seem to be quite as clear cut as those in the 92.001% originally assumed. As a result of our testing, we ended up with two preset modes and one custom mode that allows you to toggle any of the 6 main hues to be included in a resulting color palette. To turn on color blind mode, simply open the ESC menu / General Settings / Color Blind Mode and play around with the settings.
+
+
+
+Some games that offer color blind modes simply replace all color on the screen using the selected color blind hue mapping, but as it seems people don’t really care too much for that approach since it makes the game world look weird for no good reason as it’s only color used for indication of state that causes problems. Instead, we only apply the color-blind hue mapping to UI highlight colors, meaning that it’s mostly icons and text that get affected and not background color, the 3d scene, or graphical images like items. There are a couple UI areas where color blind mode does not work for the time being (most noticeably the scanning 3d scene), but it is our hope we’ll get all those areas covered in the future.
+
+CAN I TRY?
+Well of course you can! From the EVE launcher, switch from Tranquility over to the test server Singularity and give it a shot. If you do, we’ve cooked up a survey to collect all that sweet feedback:
+
+//www.surveygizmo.com/s3/3552574/2017-04-EVE-Online-Color-Blind-Mode-Survey
+
+A beta version of Color Blind Mode is set to go live on Tranquility as party of the June release.
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

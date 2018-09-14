@@ -1,0 +1,19 @@
+**HYPERION APPROACHES**
+The main overarching goals of our proposed changes are:
+
+Create some variety and excitement in wormhole mechanics since most haven’t changed in many years
+Provide ways for players to engage more fully with the random and mysterious elements of wormhole life and a ease back on attempts to ‘tame’ and control wormhole mechanics
+Address some of the imbalance between wormhole environment effects
+Address some of the imbalance between wormhole classes
+To reach that goal we are proposing the most significant package of improvements to wormhole space since the release of the Apocrypha expansion in 2009.
+
+These changes consist of:
+
+Wormhole effect rebalance
+A second static for Class 4 wormholes
+More randomly spawning wormholes
+Mass-based spawn distance after wormhole jumps
+K162 appearance only on first jump
+Loosening of bookmark copying restrictions
+Ensuring that scan signatures stay consistent over downtime
+Taken as a whole, these changes are intended to preserve the best parts of wormhole space and provide a new level of excitement as creative players rush to adapt their tactics.

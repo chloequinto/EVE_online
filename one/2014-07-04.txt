@@ -1,0 +1,61 @@
+INTRODUCTION
+Hey capsuleers! We are writing to you all with some pretty serious information. In the very near future you will begin seeing web sites other than the official EVE Online sites using what is known as the EVE Single-Sign-On (SSO). Well OK, that's cool, but what is an SSO?
+
+Simply put, SSOs are a way for users to log into one web site using their username and password from another web site. For example, if go to //www.goodreads.com/ and try to sign in they will ask you if you want to sign in with Facebook, Twitter, Google, or even Amazon. For Goodreads this is great because it means they don't have to worry about trying to manage your username and password information. It also has the nice advantage of making it a lot easier for you as a user to sign into their site as you don't need to register or keep track of multiple extra account names and passwords.
+
+For EVE Online, the SSO means that you can sign into a web site that has integrated the EVE SSO and confirm you are a specific character. While signing into a site you will be asked which character you wish to authenticate with and the web site that let you sign in with the EVE SSO will get confirmation from CCP that you own that character. The original web site will only ever get your character, they never see your account name or password. The original web site will not know what account that character is on or have any way, from us at least, of linking that character to any other character on the same account.
+
+The SSO looks something like this:
+
+
+
+OK, that is all great and dandy but what does it mean for you as an EVE player and why are we telling you this information? Since you can expect to soon see this page coming from other sites it is important for you guys to know what to look for to avoid phishing attempts and other scams. Until now since only EVE Online official sites were the only ones using this login, if you saw it coming from somewhere else you knew immediately not to enter your username and password elsewhere. With this expanding very soon to include more web sites we want to make sure everyone knows what kind of things to look out for when signing into their EVE Online account.
+
+HOW TO DO IT THE SECURE WAY 
+A SSO system, by nature, is the guard at the gates. In our case it guards who is able to access your virtual identity. Sadly, the internet is full of fraudsters lingering around and waiting for a chance to make profit or gain some benefits and they are happy to do this any way you could potentially think of. They try to trick you into telling them your account credentials with the help of social and technical measures including phishing and spoofing of authorities as well as web portals.
+
+That being said, how to do it the secure way? Luckily, nowadays tools and technologies provide us with plenty of information about trust relationships and communication security. Utilizing this information we are able to tell if we are being targeted by an attack or not. In the case of our SSO this looks like follows.
+
+Validate that you are securely connected to the correct web resource before entering any credentials
+
+
+
+There is only one legit domain and host name combination for our SSO which is login.eveonline.com. Also, make sure that you are connected via https: (note the “s”) and never enter any credentials over plain text and unauthenticated http: connections. 
+
+Verify that the connection is securely encrypted and authenticated
+
+
+
+This is an example of the verification dialog you can get to by clicking the small lock icon to the left of the URL bar in a Chrome browser. Every modern browser provides this or a similar brief overview which allows you to check the trust relationship of your connection and the security level of the encryption which is applied to it.
+
+Manual verification of the certificate
+
+
+
+By manually verifying the certificate of the web resource you are connected to you can check if the certificate is valid for the domain it is used on and if it has actually not expired yet.
+
+Following these recommendations you can reduce the risk of getting your credentials and therefore your virtual identity stolen. Also, we encourage you to report any misleading, bogus or questionable usage of our SSO to security@ccpgames.com.
+
+SSO LIMITED TRIAL
+Back in the middle of May we opened sign-ups to everyone (thread can be found here) for a trial of the EVE SSO. Since then we have chosen some web sites to take part in this trial and have given them the information they need to begin using the SSO. While the trial is limited to a small number of web sites we have put the documentation up for everyone to see and you can find that here.
+
+The first phase of the SSO trial is complete and was simply to share the documentation and process of using the SSO with trial participants. This resulted in some great feedback, based on which some changes to the SSO were made. We are now going forward with phase two, giving the trial participant’s access to the SSO on the Singularity server (Sisi) only. That has happened and they have begun integrating the SSO into their web sites. This will continue through the month of July with only access to Sisi and so long as everything goes well in August we will give those same web sites access to the SSO on Tranquility. After that our goal is to open up the SSO to anyone who wants to use it. We do not however have a time frame on that yet as we want to make sure we do this right.
+
+The web sites participating in the SSO trial are:
+
+DOTLAN
+EVE Board
+EVE Ping
+Fleet-Up
+Fuzzwork
+MY-EVE
+Osmium
+Timerboard
+Tripwire
+zKillboard
+Due to the SSO only being on Sisi right now you probably won’t see it showing up on the participants main site right away, but those are the web sites you can expect to start seeing the SSO on for now.
+
+We want to give a huge shout out to those participating in this trial. Their feedback has been wonderful and the effort they are clearly willing to put into this is awesome.
+
+This security advisory brought to you by,
+CCP FoxFour (@regnerba) and CCP Bugartist (@CCP_Bugartist)

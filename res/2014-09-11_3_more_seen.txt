@@ -1,0 +1,42 @@
+SCIENCE FIELD CHANGES FOR INVENTION AND TECH II MANUFACTURING
+Our first investigation has been to look into the Science skills required to invent and build Tech II items.  We found inconsistencies all over the place. For example, Mechanical Engineering and Electronic Engineering are over-represented at the expense of Graviton Physics or Molecular Engineering. This is important because it determines datacore requirements and consumption, which in turn influences the market.
+
+Also, figuring which race is needed to invent an item isn’t always intuitive. One could assume inventing an ECM II module would require Caldari Encryption Methods with a Caldari Data Interface, since ECM is the main Caldari electronic warfare system. However, it actually requires Gallente Encryption Methods at the moment, which is quite confusing. So, we are cleaning this quite a little bit.
+
+For modules and ammunition:
+We would like to break the overabundance of Electronic Engineering and Mechanical Engineering skills and datacores, while linking Racial Encryption Methods skills to be more intuitive in general.
+
+Science skills linked to Tech II items Invention and Manufacturing currently on TQ (left) compared **after the proposed change (right):**
+
+
+
+Exact details below (click to enlarge):
+
+
+
+For ships:
+Mechanical Engineering is needed for most ship invention (for Tech I hulls) and manufacturing (for Tech II hulls), except for Stealth Bombers and Covert Ops which require Rocket Science and Electronic Engineering respectively. We are making things more even by matching the role of the ship with a required science field.
+
+Attack: High Energy Physics
+Combat: stays as Mechanical Engineering
+Disruption: Electronic Engineering
+Exploration: Quantum Physics
+Hauling: Molecular Engineering
+Resource Harvesting: Laser Physics
+Support: Nanite Engineering
+Tackling: Graviton Physics
+The main role of a vessel may be seen in the ISIS or in the Show Info window. It’s the second icon on the left, above the ship bonuses.
+
+
+
+Exact details of the change below (click to enlarge):
+
+
+
+(click image to enlarge)
+
+Finally for Tech II manufacturing we are bringing all “Construction” skill requirements to 1 instead of having arbitrary restrictions to 4 or 5. To compensate, we are giving a bonus for training those skills, like a Time Efficiency reduction. We are also renaming them “Advanced Ship Construction” to emphasize on the fact they’re not required for basic hull manufacturing.
+
+For example let us compare a Sin manufacturing before (left) and after the changes (right):
+
+

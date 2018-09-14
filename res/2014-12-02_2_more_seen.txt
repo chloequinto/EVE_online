@@ -1,0 +1,13 @@
+THE CHANGES IN RHEA
+With the release of Rhea, changes will be made to medical clones and how they work.
+
+There will no longer be any clone grades.
+You will not have to upgrade your clone upon being pod killed. New players can be badly surprised by this system since they have so many other important things to learn. Forgetting to upgrade the clone and losing skill points because of that is a terrible experience for new players. Skill point acquisition is very much tied to your subscription and the real money you spent on the game, so taking some of their skill points away can feel like wasted money to the player.
+
+In addition, veteran players will have more reasons to undock in cheaper ships, furthering our goal of increased interactivity within the game, since the cost of the higher clone grades could be orders of magnitude more than the cost of a PvP ship hull. We expect more risks to be taken more often by veterans because of this change.
+
+There will no longer be any skillpoint loss upon death.
+Small lapses of forgetfulness will no longer cause players to retrain weeks of lost skillpoint time. This too should encourage veterans to fly even more boldly into battle without worrying about protecting valuable skills. Note: Subsystem skills related to T3 Strategic Cruisers will still work as they did before. This is because their skill loss is a component of the ship balancing itself. This may be revisited in the future.
+
+The cost of setting your home station will be increased from 5400 ISK to 100,000 ISK.
+This keeps the cost of moving your home station low without making it completely trivial.

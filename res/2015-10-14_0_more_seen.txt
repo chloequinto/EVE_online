@@ -1,0 +1,31 @@
+A FEW MORE THINGS…
+Whilst we have your attention, we have a few other additional changes that we want to highlight. All the changes mentioned in this blog are already on the Singularity test server, awaiting your evaluation.
+
+Jump Fatigue Reductions
+We are reducing the maximum fatigue cap down to 5 days (from 30 days). This means the effective maximum jump cooldown timer is now 12 hours (down from 2 days 22 hours). During the Parallax deployment downtime we will update any characters with jump fatigue higher than 5 days, or jump cooldown higher than 12 hours, to bring them within the new limit.
+
+This isn’t the final iteration on Jump Fatigue, and you can expect to see more tweaks in the future.
+
+Preparing to Count your Kills
+Hopefully by now you’ve watched this video, as seen on the EVE Updates site.
+
+
+With the Parallax release, we are adding the necessary behind-the-scenes kill tracking for individual ships. This is in preparation for the availability of Kill Marks coming to ships in a subsequent release.
+
+There are going to be a few restrictions about what type of kills will count towards a ship’s Kill Mark tally. Here are the current rules about which targets will be scoring:
+
+Only player ship types will count. Shuttles, Capsules and Rookie ships are excluded, as are drones, NPCs, structures, cans, wrecks.
+Ships must be owned by player characters. Ships owned by characters on trial accounts will be excluded. Ships owned by NPCs (or with no owner) will be excluded.
+Ships must be piloted at the time of death. Unpiloted ships will be excluded.
+Killing your corp-mates’ ships will not count.
+Only the ship with the final blow can earn a point for a kill. If a drone, missile or bomb kills a target, the parent ship will count as the killer.
+
+So start warming up those guns.
+
+Scoop to Fleet Hangar
+Does your ship have a Fleet Hangar? Have you ever wanted to scoop items in to it?
+
+Well now you can!
+
+There’s not much more to explain here - this image tells you everything you need to know.
+That’s the latest round-up from Team Five 0. Thanks for reading, and some of us will see you in Vegas! :-)

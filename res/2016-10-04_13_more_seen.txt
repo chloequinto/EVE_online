@@ -1,0 +1,48 @@
+PULSE ACTIVATED NEXUS INVULNERABILITY CORE
+
+The Pulse Activated Nexus Invulnerability Core (P.A.N.I.C.) is a new defensive superweapon available exclusively to the Rorqual. It allows the Rorqual to make itself and its allies invulnerable for a short time. This ability also prevents any of these ships from warping for the duration of the effect. This can allow time for the allies of the mining fleet to arrive and defend the fleet from danger.
+
+The P.A.N.I.C. module is a powerful situation effect that can be used whenever the owning Rorqual sees the opportunity for advantage and avoided in situations when it isn’t advantageous.
+
+This new module requires a new rank 8 skill called Invulnerability Core Operation that requires Tactical Shield Manipulation level 5 and Capital Shield Emission Systems level 3 to train. The module only requires Invulnerability Core Operation level 1 to operate, and the skill increases the duration of the P.A.N.I.C. effect by 10% per level. This means that Rorqual pilots can strategically train the Invulnerability Core Operation skill to whatever level they wish and ensures that the Rorqual pilot and its fleet have more information about when the effect will end than the attackers do.
+
+P.A.N.I.C. Module:
+
+Requires Invulnerability Core Operation skill level 1
+Duration: 5 minutes base, up to 7.5 minutes based on skills
+200 km range
+Applies to all mining and industrial ships within the same fleet, except other Rorquals
+Runs once and then burns out
+Limit of one module per ship
+Bonuses to all affected ships:
+
++99.99% Shield Resists
+-90% Shield recharge duration (increases passive shield regen rate)
+All turret, missile, drone and smartbomb damage set to 0
++100% Mass
+-50% velocity
+Prevents warp, cloak, jump, dock, tethering (if already tethered do not apply)
+-75% scan resolution
+Mining remains unaffected so ships can continue to mine as normal while under the protection of the P.A.N.I.C. module.
+
+We are interested in hearing what the community thinks about cyno restrictions for ships affected by the P.A.N.I.C. module. We are currently leaning towards allowing cyno lighting and watching closely to see if this causes problems. If needed, we can change the effect to prevent cyno lighting and prevent ships with an active cyno from receiving the P.A.N.I.C. effect.
+
+The Rorqual represents the ultimate mining foreman vessel, providing the best possible bonuses with commensurate increases in investment and risk. The base Rorqual and all its modes provide the most complete expression of all three of the mining foreman pillars:
+
+Help fleetmates mine more effectively:
+
+Even without the Industrial Core active the Rorqual has the most powerful mining foreman bursts in the game thanks to a 5% per level strength bonus and 50% range role bonus. With the addition of the core for up to an additional 30% strength and 200% range the Rorqual gains the ability to supercharge its mining fleet across entire belts
++900% survey scanner range makes allows the Rorqual to scan asteroids up to 225 km away, gaining valuable information on remaining asteroid volumes to help coordinate its fleet
+Capital tractor beams and a buffed ore bay make the Rorqual the ultimate ore collecting machine
+The Rorqual can allow its fleet mates to refit while also carrying multiple mining ships in its Ship Maintenance Bay
+Defend the mining operation:
+
+Thanks to 125 mbits of drone bandwidth and a full sized drone damage bonus, the Rorqual can deal battleship-level damage. The addition of the Industrial Core doubles that drone damage and also adds a drone speed bonus to help the Rorqual’s deadly heavy drones chase down their targets
+On its own the Rorqual has the ability to fit capital-sized remote shield boosters with a massive 400% range bonus. With the Industrial Core active those remote shield boosters cycle much faster for more repairing and nimbler support of allies. When the Core is running the Rorqual is second only to Force Auxiliaries in remote rep potential
+If enemies realize they can’t break through the remote reps and decide to attack the sieged Rorqual directly they’ll be in for another surprise as the Industrial Core provides the Rorqual with one of the strongest local tanks in the game: on a similar scale to that of a Force Auxiliary.
+The Rorqual is tied with Caldari and Minmatar Command Ships for the most powerful Shield Command Bursts in the game, allowing it to provide max-strength defense boosts to its whole mining operation
+Finally, if the Rorqual has friends coming it can choose to pause the fight using the P.A.N.I.C. module and wait for the cavalry to arrive
+Contribute with powerful mining drones:
+
+The new Excavator drones give the Rorqual its own tiny mining fleet at its fingertips. Even without the Industrial Core running the Rorqual is the strongest solo mining ship in the history of New Eden. With the Core running this massive yield is multiplied 6x, making the Rorqual the ultimate belt destroyer. When the Industrial Core is running, each of the Rorqual’s 5 Excavator drones will individually pull in the ore yield of an Exhumer
+The Rorqual isn’t a small investment and the risk of using the Industrial Core in dangerous space can be significant, but in the hands of a wise pilot supported by friends and allies the Rorqual will be one of the most effective ships in the game. We’re very interested in hearing your feedback on these changes, and we’ve opened up a specific feedback thread here for discussion of the Rorqual and its modes.

@@ -1,0 +1,4 @@
+CORPORATION INSURANCE IN UPWELL STRUCTURES
+Corporation insurance is a feature that allows a corporation to insure a ship before distributing it to one of their members, which then sends the insurance payout to the corporation if the ship is destroyed.
+
+This is a longstanding feature of the insurance system in normal stations and outposts, but we were initially unable to add it to Upwell structures due to some technical differences between corporation hangar systems in different structure types. Recent improvements we have made behind the scenes have had the additional benefit of allowing us to add corp insurance to Upwell structures in August. This is another step towards full feature parity between stations/outposts and Upwell structures and will be especially useful to large corporations.

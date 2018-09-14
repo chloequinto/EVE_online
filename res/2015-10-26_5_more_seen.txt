@@ -1,0 +1,54 @@
+STRUCTURE HULLS
+
+
+We had a look at how various structures were currently built right now and we came up to the following conclusion:
+
+New structure hulls are going to replace Starbases, Outposts and Deployables over time (please refer to the end of this blog for more details). Most of those require Tech I materials and it would thus be illogical to introduce new material types to build their replacement, especially if the new structures themselves are going to have a Tech I level to start with.
+Deploying outposts through intermediate platforms (nicknamed the “eggs” by our playerbase) is an unnecessary and quite cumbersome step we wish to avoid. If anything we would like those new structures to work like Deployables: drag and drop them in space, and voilà, your delicious structure Soufflé is in the oven. No container to fill with materials, no extra downtime shenaningans. You just need to wait a few hours for it to deploy.
+We want to cover a very broad price tag with new structures. While the medium structures should be similar to a fully fitted Starbase, we want the X-Large to be quite an expensive goal to achieve. This should require significant effort to complete, not something easily achieved by just anyone.
+With all of this in mind, we came up to the following:
+
+Medium Structure hulls will cost around 350-700m ISK in materials to build.
+Large Structure hulls will cost around 3-7b ISK in materials to build.
+X-Large Structure hulls will cost around 30-70b+ ISK in materials to build.
+To do this, we are going to overhaul and use Station Components currently required to build Outposts.
+
+We are renaming them from Station to Structure Components
+Their composition of Planetary Interaction materials and minerals will change quite a bit to be more consistent.
+We are adding a new Structure Fuel Block type to manufacture Structure Components. More on how to build those will be explained later in this blog.
+We are adding 3 new components to fill our needs. They are: Structure Advertisement Nexus, Structure Telescope Lens and Structure Acceleration Coils. We are considering adding those around December to give players time to acquire and research them before the introduction of Citadels.
+Exact details are available below:
+
+
+
+Which thus give us this build layout for the Citadel Structures:
+
+
+
+The picture above doesn't show that we may add janitors, exotic dancers or other types of personel to be required in the final product manufacturing as well. After all, these structures aren't going to clean themselves.
+
+Which may be compared to Outpost composition on Tranquility there:
+
+
+
+Or if you prefer, here are the total PI, mineral and fuel block composition for the new structures versus existing Outposts:
+
+
+
+
+
+Structure hull volumes are set so that:
+
+A Medium structure hull may be deployed from an Industrial, Large and X-Large require a freighter. Yes, we do are aware this make things more complicated to deploy a Large or X-Large structure in low class wormhole space. This is intended.
+The hulls will not yield materials when being reprocessed to avoid compression shenanigans.
+Regarding the blueprints themselves:
+
+Like all Tech I blueprints, they will be seeded from specific NPC corporations through various areas of space, including high-security areas.
+The price tag will be ten times the hull cost, thus 6b ISK for a Medium Citadel, 70b ISK for a Large Citadel and 700b ISK for an X-Large Citadel.
+We want the prices to be that high to keep a long term goal and investment for industrial players, while making sure there is gameplay involved with selling blueprint copies to third parties. Please note the Citadel Hulls and their associated blueprints are the most expensive structure set due to the importance regarding asset safety and home defense. Other structures will vary in price based on their role and intended persistence.
+
+Details on the Citadel blueprint themselves are available below:
+
+
+
+On a similar note, we will most likely rename the Outpost Construction skill to Structure Construction, since Outposts currently are following the same evolution trend than dinosaurs.

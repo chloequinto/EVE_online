@@ -1,0 +1,11 @@
+THERE'S MORPHITE IN THEM THAR ‘ROIDS!: THE PROSPECT
+
+(click to enlarge)
+
+Dev Blog
+
+When the Venture mining frigate was introduced in late 2013 it quickly became one of the most popular ships in EVE Online history. The combination of a low barrier of entry, excellent mobility and decent mining yield attracted many pilots. In the Kronos release we are introducing a tech two progression path from the Venture, with the Prospect.
+
+The Prospect is the first in a new class of Expedition Frigates, designed for exploiting the deepest and most remote stretches of space. It sports improved ore mining capability, gas mining yield that matches its predecessor, a larger ore bay, improved defenses and most importantly, the ability to fit Covert Ops Cloaking Devices. This allows the Prospect to get to and from asteroid fields in the most dangerous areas of space, as well as take advantage of covert jump bridges from Black Ops Battleships to bypass deadly chokepoints.
+
+For more information on the Prospect’s stats, as well as other improvements to mining in dangerous space, check out our recent dev blog.

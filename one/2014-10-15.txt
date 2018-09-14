@@ -1,0 +1,112 @@
+With a thunderous humility I bring many greetings.
+
+My name is CCP RedDawn and on behalf of Team Space Glitter I’m here to tell you all about some of the features and improvements that we have been working on for the upcoming Phoebe release on the 4th of November.
+
+EXPLORATION
+So for starters we have something for all you intrepid explorers out there.
+The general consensus right now is that Relic sites are worth more than their Data site counterparts when it comes to the basic ISK per hour and this is something that we’ve had on our radar for a while.
+
+So for Phoebe, we’ve made the following exploration changes to help alleviate this:
+
+Lowered the volume of the most commonly dropped items (Electric Conduits for example) in exploration Data Sites from 1.0 (and above) to 0.5.
+The drop frequency of faction POS blueprints in all Data and Relic sites has been increased.
+The drop frequency of 'Optimized' items in all Data sites has been increased.
+Faction Materials have been added to the all the exploration Data site loot tables.
+These can be found in the Manufacture & Research > Materials > Faction Materials section of the Market.
+List of added items:
+
+Angel Simple Trigger Mechanism
+Angel Advanced Trigger Mechanism
+Angel Spatial Analyzer
+Angel Standard Trigger Mechanism
+Angel Dynamic Calibrator
+Blood Raider Weapon Integration Unit
+Blood Raider Limited Ballistic Control
+Blood Raider Regular Ballistic Control
+Blood Raider Extreme Ballistic Control
+Blood Raider Power Redistributor
+Guristas Gravity Focuser
+Guristas Medium Weapon Console
+Guristas Light Weapon Console
+Guristas Graviton Hardening
+Guristas Heavy Weapon Console
+Serpentis Complex Target Guider
+Serpentis Plain Target Guider
+Serpentis Basic Target Guider
+Serpentis Multi-tasking Processor
+Serpentis 3D Scanner Gamut
+
+Various Industrial Goods have been added to the all the exploration Data site loot tables. These can be found in the Trade Goods > Industrial Goods section of the Market.
+List of added items:
+
+High-Tech Data Chip
+High-Tech Scanner
+High-Tech Small Arms
+High-Tech Manufacturing Tools
+
+What this means is that the percentage chance of finding some lovely shimmery-like-things will be slightly higher.
+Moreover, the volume decrease of the most commonly dropped items means that you’ll be making fewer return trips to offload your wares.
+
+We’ve also added all of the Data and Relic exploration sites found in Null Security space to Wormhole Class 1, 2 and 3 systems. So feel free to venture forth into the deeper, darker unknown if you’re feeling dangerously loot frisky.
+
+![](//content.eveonline.com/www/newssystem/media/66598/1/DataSiteInWormhole.jpg)
+A Data Site in a wormhole
+A Data Site in a wormhole
+EXPEDITIONS
+Secondly we have touched upon Expeditions.
+
+For those of you that are in the dark regarding these so called ‘Expeditions’, (also referred to as Escalations), here’s a brief rundown to bring you up to speed.
+
+“Once in a while, battles in Deadspace tend to escalate due to you being able to track down the origins/destinations of enemy messages or finding compromising plans or data in ship wrecks. These are called Expeditions and normally escalate further and further, until you either reach a dead end or the final location (mostly found in Low Security Space).”
+
+The general bulk of the work has simply been to smooth out Expeditions by fixing all of the existing defects associated with them, (Bosses that didn’t spawn, triggers that didn’t work etcetera) but we’ve also touched upon a few other aspects.
+For example in some ‘parent’ anomalies and signatures (where you have the possibility of an escalating path occurring) most of the expeditions require you to interact in some way with the space scene.
+
+So we’ve added in some messaging to guide you towards these specific structures.
+
+![](//content.eveonline.com/www/newssystem/media/66598/1/ExpeditionNotification.jpg)
+Do it! We know you want to
+ We have also increased the percentage chance of the rarer types of Expedition occurring as we simply found these figures to be too low. These combined changes should help somewhat in bringing this ‘hidden’ content to the surface for you to enjoy.
+Additionally, a ‘Boss’ loot table revision is in progress and we’re adjusting where necessary.
+These changes are still in progress and will reach Singularity at a later date.
+
+CAREER AGENTS
+Lastly, we’ve been working on the Career Agent missions within the new player experience.
+
+In the spirit of these changes I’ll keep this short and simple as no one enjoys a wall of text.
+(Unless of course you have a wall of text fetish. But that’s none of my business).
+
+Basically, we’ve cut a lot of unnecessary text from all Career Agent missions to sharpen the focus on the objectives.
+
+[![](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText550.jpg)](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText.jpg)
+The new revised text on the left, the old ‘wall of text’ on the right.
+All of these changes (unless specified) are currently on our test server Singularity for your perusal.
+
+As usual, please share your thoughts, concerns and your feedback in the comments section which we will be monitoring closely.
+
+Until then, fly wild.
+
+CCP RedDawn (On behalf of Team Space Glitter)
+
+Do it! We know you want to
+ We have also increased the percentage chance of the rarer types of Expedition occurring as we simply found these figures to be too low. These combined changes should help somewhat in bringing this ‘hidden’ content to the surface for you to enjoy.
+Additionally, a ‘Boss’ loot table revision is in progress and we’re adjusting where necessary.
+These changes are still in progress and will reach Singularity at a later date.
+
+CAREER AGENTS
+Lastly, we’ve been working on the Career Agent missions within the new player experience.
+
+In the spirit of these changes I’ll keep this short and simple as no one enjoys a wall of text.
+(Unless of course you have a wall of text fetish. But that’s none of my business).
+
+Basically, we’ve cut a lot of unnecessary text from all Career Agent missions to sharpen the focus on the objectives.
+
+[![](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText550.jpg)](//content.eveonline.com/www/newssystem/media/66598/1/CareerAgentText.jpg)
+The new revised text on the left, the old ‘wall of text’ on the right.
+All of these changes (unless specified) are currently on our test server Singularity for your perusal.
+
+As usual, please share your thoughts, concerns and your feedback in the comments section which we will be monitoring closely.
+
+Until then, fly wild.
+
+CCP RedDawn (On behalf of Team Space Glitter)

@@ -1,0 +1,90 @@
+Hello prudent Capsuleers! Today we will be providing some more detail about the Starbase and outpost transition plans that we announced last week at Fanfest here in Reykjavik.
+
+This blog will cover details of the next couple steps in the long-term plan of phasing out Starbases, as well as the big transition event for upgrading all of New Eden’s outposts and conquerable stations.
+
+Starbase Industry and Resource Processing Structures
+
+In Fanfest 2015, when CCP unveiled the high level plan for what would become Upwell structures, we described an early plan for how the transition process would work.
+
+//content.eveonline.com/www/newssystem/media/67008/1/Transition2.png
+
+After new Upwell structures were introduced that replicated and improved upon the functionality of older structures, we would begin a gradual transition process to phase out the older technology.
+
+When the Engineering Complexes and industrial service modules were introduced in the Ascension expansion last year, Upwell structures reached feature parity with a large number of industrial Starbase modules. As we showed in the Fanfest keynote last week you have been taking full advantage of the new structures and have moved the majority of New Eden’s industry into Engineering Complexes:
+
+
+
+We now believe that we are approaching the right time to start phasing out the older Starbase industry structures and taking the next step towards eventually transitioning completely.
+
+The phaseout process for any Starbase structures will be a multi-stage process. We won’t be rushing things, but today we can talk about the timelines and some details for the next two steps in this process.
+
+In our May release we plan to end NPC BPO seeding and the building of new Starbase structures for the following Starbase structure groups:
+
+Starbase Compression Arrays
+Starbase Reprocessing Arrays
+Starbase Assembly Arrays
+Starbase Labs
+Then in our August release we will remove the bonuses from Reprocessing Arrays, Assembly Arrays, and Starbase Labs.
+
+This means that starting in August, Starbase Reprocessing Arrays will only provide a 50% refining yield, Starbase Assembly Arrays will not provide any material or time bonuses to manufacturing jobs, and Starbase Labs will not provide any time bonuses to research, copy, or invention jobs.
+
+These structures will continue to operate for some time longer and any jobs started before the August patch will complete with the bonuses intact.
+
+There are two faction Starbase industry structures that will be receiving special attention during this time: the Thukker Component Assembly Array and the Hyasyoda Research Laboratory. These structures will eventually be replaced by new Upwell items with a transition process beginning over the summer. More details about these replacement items will be announced as we get closer to their deployment date.
+
+The future steps in the Starbase phaseout process will include disabling of Starbase Moon Mining Arrays and Starbase Reactors when Refineries are released, as well as eventually removing the types associated with obsolete Starbase functions completely and distributing appropriate compensation to their owners.
+
+Developed Outposts Improvement and Transformation Program
+
+As we announced last week in the Fanfest keynote, we are also approaching the right time for the great Outpost transition event to complete. Upwell will be engaging in a massive program upgrading all of nullsec’s Outposts and Conquerable Stations to state of the art Citadel technology that can benefit you and your alliance!
+
+Outposts and Conquerable Stations are iconic structures that have been cornerstones of nullsec history and represented the pinnacle of achievement for Capsuleer alliances for many years. For structures this significant it wouldn’t be enough to simply replace them. We knew they deserved to go out with a bang in a celebration worthy of the EVE community.
+
+The centerpieces of this celebration will be a new set of faction Citadels that will be exclusive to the Outpost replacement program. These special upgraded Citadels will enter the game through this Outpost replacement event and then no more copies of these types will ever be added.
+
+There will be five faction Citadels available-- one to replace each of the Outpost types and one to replace the Conquerable Stations built long ago by the “Immensea” organization. The four Outpost replacement Citadels will use upgraded and rescaled versions of the Outpost visual models and will therefore look very familiar to current nullsec residents.
+
+
+
+The one Conquerable Station replacement Citadel type will look like a Fortizar with a new unique color scheme.
+
+Each of these new faction Citadels will have the stats of an improved Fortizar, and share the Fortizar’s docking restrictions. Each will gain a set of special bonuses connected to their former station identity: combining the defensive benefits of a Fortizar with extra bonuses usually reserved for more vulnerable structures.
+
+The Minmatar Outpost replacement Citadels will gain a bonus to reprocessing (smaller than the bonus on Refineries)
+The Amarr Outpost replacement Citadels will gain bonuses to manufacturing (smaller than the bonus on Engineering Complexes)
+The Caldari Outpost replacement Citadels will gain bonuses to research (smaller than the bonus on Engineering Complexes)
+The Gallente Outpost replacement Citadels will have an extra service module slot and gain a bonus to service module fuel use
+The “Immensea” Conquerable Station replacement Citadels will gain extra defensive benefits, hitpoints and slots as well as milder versions of the bonuses from the other four faction Citadels.
+These new faction Citadels will be able to be unanchored, scooped and redeployed just like any other Upwell structure. They will not be manufacturable by capsuleers.
+
+The faction Citadels replacing upgraded Outposts will receive another exclusive benefit: new special edition faction structure rigs. Which of these powerful rigs you receive will depend on the upgrades installed on the Outpost being replaced. The combined Outpost upgrades installed on each Outpost will all be added to a single faction rig so that the other two rig slots will remain free for use with normal L-set rigs.
+
+Like the faction Citadels themselves, these rigs will be exclusive to the Outpost upgrade event and no more will ever be added to New Eden. These rigs will begin installed and will be destroyed if removed or if their host Citadel is unanchored (just like a normal rig).
+
+The corporations receiving these faction Citadels will have a decision to make: whether to defend their new faction Citadel in its current location and keep the benefits of the faction rig, or to unanchor their new structure for sale or redeployment elsewhere. This may be a tough decision for many corporations, but both options have very significant benefits.
+
+New Eden’s 68 Conquerable Stations have an especially important place in EVE player history. For most of their existence they made ideal locations for alliance home systems spread across the entire cluster. Conquerable Station Systems like NOL-M9, H-W9TY, C-J6MT, 1V-LI2, VFK-IV, BKG-Q2, C9N-CC, JV1V-O and FAT-6P have all been host to amazing Capsuleer achievements and epic stories full of drama and suspense.
+
+Many of these stories can be difficult for newer players to find, so we realized that the end of the Conquerable Stations would be the perfect opportunity to add special monuments to the adventures you EVE players have led around those stations over the years. Each Conquerable Station will be replaced both with a new faction Citadel and with a special landmark site that will contain the ruined remains of the old station as well as a monument describing some of the historical significance of that particular system and station. The monument will also list the last alliance to control that Conquerable Station before the transition event. These landmarks will be a permanent reminder of the great things players have done in these systems over more than a decade.
+
+The Big Day
+
+//content.eveonline.com/www/newssystem/media/64034/1/EVE_Online_2012Holidays_2.jpg
+
+The Outpost replacement event is currently planned for this winter, in a patch some period of time after the expansion that contains the Refineries. As we get closer to release we will start getting more specific about the dates involved.
+
+During the downtime on the event day, the new faction Citadels will be automatically anchored at a location near the Outpost or Conquerable Station they are replacing. Whenever possible items that were inside the old Outpost or Conquerable will be moved directly into the new Citadel, with some items moved into asset safety as needed. Any of the items placed in the new Citadels can be manually placed into asset safety by their owners whenever they wish, just like all items in other Upwell structures.
+
+The new Citadels will come with a number of service modules for free, some of which will be automatically installed and online with a buffer of free fuel and some of which will be placed in the cargohold of the Citadel.
+
+The new Citadels will be owned by the corporation that owned the Outpost or Conquerable station before downtime. Citadels replacing stations that are in freeport mode when downtime hits will be given to the last owning corporation before the freeport period began.
+
+For the first week after the transition event these new faction Citadels will be invulnerable to allow their owners to set their preferred vulnerability schedule.
+
+We hope that this Outpost transition event will be exciting and anticipated by the alliances of New Eden, as they will be eligible to receive extremely valuable special edition Citadels as a reward for their collective efforts in taking and holding these stations.
+
+We will be listening closely to the EVE community’s feedback on all of these plans and we will keep you all up to date with more details as the big day approaches.
+
+Thanks!
+
+-Team Five O

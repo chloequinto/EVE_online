@@ -1,0 +1,38 @@
+APPENDIX 1: COMMON RANKS
+Rank	Types
+1	All T1 small ammo, T1 small drones T1 mining crystals
+1.6	All T2 small ammo, T2 mining crystals
+2	All T1 med ammo, T1 med drones, subsystems
+3	All T1 large ammo, T1 large drones, T1 lowslot/frigate modules
+3.2	T2 med ammo
+4	T1 cap ammo, capital T2 components
+4.8	T2 large ammo
+5	T2 small drones, T1 small rigs
+6	T1 medium/cruiser modules
+7	T1 deep core/strip/ice miners
+7.8	T2 small/frigate modules
+9	T1 large modules
+10	T2 med drones, T1 med rigs
+12	T1 Warfare links
+15	T2 large drones, proto cloaks, T1 large rigs
+15.6	T2 med/cruiser modules
+18.2	T2 strip/deep core/ice miners
+20	T1 frigates, T1 capital rigs
+23.4	T2 high/bs modules
+30	T1 destroyers
+31.2	T2 warfare links, Improved cloaks
+39	Covops cloaks
+40	T1 cruisers, fighters/bombers
+50	T1 battlecruisers, T2 small rigs
+60	T1 battleships, capital components
+100	Medium T2 rigs
+150	T1 Capital modules, T2 large rigs
+180	Fancy capital modules
+200	Non-super capitals, station components, T2 capital rigs
+240	Doomsdays
+300	Large towers
+400	Supercarriers, T2 frigates
+468	T2 siege/triage
+600	Titans, station eggs, T2 destroyers
+800	T2 cruisers
+1000	T2 BCs

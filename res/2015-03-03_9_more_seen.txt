@@ -1,0 +1,47 @@
+TARGET SELECTION
+I’m sure many of you are already skipping down to look at the new mechanics, but before we talk about implementation I think it’s important to review the clearly defined goals our game design team had for the new system.
+
+Goal #1: As much as possible, ensure that the process of fighting over a star system is enjoyable and fascinating for all the players involved
+This goal forms the core of what we want to accomplish with Phase Two. We have released many changes over the past few years that have focused on Nullsec income, industry and resources, and those changes have been very successful. However the gameplay surrounding conquering and defending space has not changed significantly since 2009 and this is the area where we see the most opportunity for improvement.
+
+It’s absolutely key that Sovereignty warfare provide exciting gameplay and opportunities for significant contributions by all the players involved. Players from coalition leaders to line members and everyone in between should be able to look forward to the gameplay surrounding defending their home or invading their neighbors.
+
+We hope to achieve this goal by rebuilding EVE’s Sov warfare mechanics to emphasize the best aspects such as strategic planning, empire building and dynamic PVP engagements, while minimizing the less exciting parts of the gameplay. We are well aware that Nullsec empires have mastered the strategy of weaponizing their opponent’s boredom, so our new system must be built around a core of engaging competitive gameplay.
+
+Goal #2: Clarify the process of taking, holding and fighting over star systems
+It is vital that the core mechanics involved in taking space be easily understood and flow logically. The best multiplayer game systems involve simple mechanics that combine with competing player interests to generate complex and unpredictable results. Sovereignty must be one of these systems.
+
+We hope to achieve this goal by focusing on an easily understood core game system that encourages player interaction and conflict. Unlike the Dominion Sovereignty system with its intertwined structures and states, the different structures in our new Sovereignty system operate independently to keep each structure simple and to give players freedom to choose their own priorities.
+
+Goal #3: Minimize the systemic pressure to bring more people or larger ships than would be required to simply defeat your enemies on the field of battle.
+One major flaw of the current Dominion Sovereignty system is that the use of structure hitpoint grinding forces players to use huge numbers of players or colossal capital ships to fight over space, even when they would otherwise prefer to work in smaller units. This also creates an artificial floor on the size of alliances or coalitions that can be successful in Sovereignty.
+
+A new Sovereignty system should not attempt to artificially determine the size of groups that can operate within it, either by forcing larger fleets or by forcing smaller ones. Instead, players should be able to work with numbers of friends that they consider appropriate for the situation.
+
+Rather than trying to enforce some arbitrary limit on how many friends or allies you have, this system is simply designed to give organizations and players more freedom to choose the size of coalition that they prefer.
+
+Bringing more players will always have some value, as it will provide advantages in direct fleet combat with your opponents. But a system that allows small numbers of players to conquer space as quickly as larger numbers ensures that if your fleet has the capability to win the fight, you automatically have enough people to take the Sovereignty objectives.
+
+Goal #4: Drastically reduce the time and effort required to conquer undefended space.
+Directly following from the goal above, it’s extremely important that we minimize the total player-hours required to take undefended and/or unoccupied space. The large time investment required to grind structure hitpoints under the current system allows alliances to effectively use fallow space as buffer zones and to wear down the will of an opponent through sheer boredom.
+
+With our new system we intend to reach this goal by tying the defense of Sovereignty directly to the actions of players, through both combat fleets during attacks and active residency gameplay in peacetime. Our realistic goal for the new Sovereignty system is that a very small group of players in virtually any ship types should be able to completely conquer an undefended system with a few ~10-30 minute sessions spread across a few days. On the other hand, evicting an alliance that actively uses and defends their space should be a very difficult task indeed, which leads us to the next goal.
+
+Goal #5: Provide significant strategic benefits from living in your space.
+It’s very important that active and prepared alliances be provided with the tools they need to defend their homes. Providing benefits for robust in-space activity has been one of the key drivers of many of the economic changes to Nullsec over the past few years, and those changes have been quite successful in shifting the focus of Nullsec economic activity from static assets to bottom-up gameplay. It’s now time to begin linking this same bottom-up economic activity more strongly with the world of strategic Sovereignty warfare.
+
+In the new Sovereignty, systems full of active occupants will be vastly easier to defend and control than abandoned ones, bustling empires with a variety of activities will be stronger than AFK ones, and disrupting your enemies everyday activities in their space will help you gain advantages both strategic and economic. More details on how we intend to begin achieving this goal will be discussed later in this blog.
+
+Goal #6: Spread the largest Sovereignty battles over multiple star systems to take advantage of New Eden’s varied geography and to better manage server load.
+By spreading objectives across multiple star systems we can provide unique tactical choices tied to the layout of individual constellations. This should help ensure variety and enable more dynamic engagements.
+
+Huge clashes between empires have become one of the most iconic symbols of EVE’s uniqueness and a source of well-deserved renown both for the game itself and for the fleet commanders who lead these battles. However anyone who has experienced these events firsthand will tell you that user experience suffers under the technical realities of battles containing such massive numbers of players. For the last 12 years, CCP has combined top-shelf hardware with innovative software techniques to fit more players on one star system than anyone ever imagined would be possible, and more advancements in both Tranquility’s server hardware and EVE’s codebase are in the works to push the envelope even further. However we must face the reality that player numbers will always outstrip our ability to increase server capacity. When we made 500 player battles smooth, alliances started bringing 1000. When we made 1000 player battles smooth (on reinforced nodes), 4000 of you folks decided to show up at once. This means that we need to do everything we can through design to spread battles out into multiple smaller simultaneous engagements which should each perform more smoothly.
+
+Goal #7: Any new Sovereignty system should be adaptable enough to be rapidly updated and to incorporate future changes to EVE.
+We are not under the illusion that some theoretical perfect Sovereignty system would ever be able to stand the test of time without changing. Sovereignty gameplay is the most ruthlessly optimized part of EVE and will always need to be adjusted and updated regularly to remain fresh.
+
+It’s also important that our new Sovereignty system be flexible enough to incorporate new improvements to EVE as they are released, especially improvements to structure gameplay that are being developed as we speak. The possibilities for engaging gameplay provided by the combination of complete revamps to Sovereignty and structures are nearly endless.
+
+To reach this goal, new Sovereignty is being designed to be as modular and flexible as possible. We have intentionally built many aspects of the new system that can be easily adjusted and tweaked. This will allow us to incorporate the feedback from the community before release, respond to problems or stagnation after release, and replace specific parts of the design with new types of gameplay as they are released in the future.
+
+You’ll see a great many numbers, durations and percentages in the rest of the blog, and it’s important to remember that they’re all open for adjustment.

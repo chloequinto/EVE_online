@@ -1,0 +1,29 @@
+HOW IS IT DIFFERENT?
+The patching mechanism is simpler
+This should result in fewer cases of failed patching. We no longer rely on HTTP 1.1 and ranged gets - files are simply downloaded as a whole. We are also planning on doing more diagnostics in the launcher to help identify connection issues.
+
+It checks the status periodically
+You can leave it running past TQ downtime and it will refresh automatically - not just on startup.
+
+It supports launching against test servers
+No more separate installs to run against Sisi or Duality. The binaries are downloaded in a very similar way to how the resources are downloaded on demand in the client, using the same sort of CDN setup and the same shared cache. A lot of the binaries and resources are the same between different servers so there is very little overhead in keeping binaries around for multiple servers.
+
+
+
+It supports multiple settings profiles
+For each client you launch, you can select a settings profile. This is somewhat simplistic, though - really all that is happening is you are selecting a settings folder to use for the client.
+
+
+
+It supports launching multiple instances
+You can set up logins to multiple accounts, and then launch multiple clients with one button click. The logins can be remembered between sessions if you want.
+
+The launcher also keeps track of clients it has launched so you won't accidentally launch on an account that is already logged. You can switch focus to any running client from the launcher, or close it down.
+
+
+
+It has functionality to maintain the shared resource cache
+Verifying, purging extra files and downloading the full resource cache are all handled by the launcher. You can also move the cache to a different location.
+
+Client logging
+You can select to run clients with logging, making it easier to gather logs for bug reports.

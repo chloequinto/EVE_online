@@ -1,0 +1,8 @@
+REWARDS AND MINI SKILL INJECTOR
+We have also created a new rewards structure for new players. One of our goals was to use rewards to teach players more about the game mechanics and also to set them up for success by teaching them ways to earn their own ISK or build their own items rather than just gifting everything as direct rewards.  For example, ISK rewards come from NPC bounties rather than just being gifted at the end of the mission and one of the tasks also requires new players to build their own data analyzer.  
+
+We have also created a new 'Mini Skill Injector' to gift to new players during the first few hours of their Inception experience.  This Skill Injector cannot be bought or sold on the market, can only be used on characters with less than 750,000 skill points, and it will give new players 80,000 unallocated skill points. It is also used as a training opportunity to bring characters from Frigates 3 to Frigates 4. 
+
+We highly encourage all existing players to try out the Inception NPE on the Singularity test server next week, where we will make sure all new characters get a crack at it.  You will need to create a new character to play through the storyline. Please hop on and let us know what you think!
+
+-Team Genesis

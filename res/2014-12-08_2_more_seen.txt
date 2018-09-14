@@ -1,0 +1,15 @@
+THE NEW PROBLEM
+Having adjusted our math to emulate better the behavior of light and materials in the real world, we plug those equations into EVE and everything is suddenly perfect, right?
+
+Well, no.
+
+PBR shows the state of our assets far more accurately than the simple model we have been using up to now. We used to rely on the physically inaccurate numbers to avoid certain display problems, but now we have to tackle those issues directly. Accordingly, many assets will only be perfected through additional attention.
+
+We are working to identify areas for improvement and determine the best courses of action to address them. In some cases we will rebake the normal maps. In some cases we will adjust the factional data.  And in some cases, we will execute complete redesigns. With the implementation of PBR in EVE, we hope capsuleers across New Eden can contribute to these ongoing graphic developments while enjoying increased pixel accuracy.
+
+Additionally, the new system allows for further improvement of our shaders. We could introduce a new material, apply dynamic dirt levels (older ships showing their age?), or generate ambient occlusion maps for sub-capital ships. And of course, there is always ship customization. By adopting a better system for determining the colors of our pixels, we have increased the options available for future feature work that realistically conveys the vision of EVE.
+
+That is the true benefit of PBR, and the reason that we have worked to provide it in Rhea.
+
+Since its creation, many improvements have been made to the Phong model. Especially with the introduction of GPU shading languages to replace the fixed function, programmers have gained significant freedom in the generation of each pixel on the screen. But despite adding improvements like normal maps, specular intensity maps, cubemap reflections, et cetera, the end results still rely on the basic principles of the decades-old model.
+

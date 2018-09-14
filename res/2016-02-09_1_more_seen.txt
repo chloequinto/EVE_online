@@ -1,0 +1,6 @@
+SETTINGS
+To accompany the new camera modes, we’ve cleaned up the camera settings section in the System Menu (ESC). We’ve unified all camera related settings under the one “Display & Graphics / Camera Settings” section, added settings for “Camera speed”, “Invert Y-axis” as well as options to disable the new Orbit Camera “Ship Speed Offset” and “Dynamic Field of View” as we recognize that the more dynamic behavior simply isn’t for everyone.
+
+
+
+For those of you that don’t agree with us that the old camera needed a bit of work can simply turn off those two options, crank the camera speed up a bit and stick with the Orbit Camera, making the experience pretty much identical to the old setup.

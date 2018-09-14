@@ -1,0 +1,18 @@
+CLARIFICATION ON SECTION 18 OF THE TERMS OF SERVICE
+In the discussions following our communication on botting, bans and other reprimands were discussed and some players brought up section 18 of EVE’s Terms of Service which states:
+
+“You may not publish private communications from CCP, their agents or representatives or EVE Online volunteers without authorization.”
+
+Whenever this clause is brought up, it’s obvious it carries with it a couple of misconceptions that we probably haven’t worked hard to adjust. Some argue that we set this rule to hide what happens between us and players, which is not possible and is absolutely not our goal.
+
+The actual reason the rule was originally set was to protect our staff from out of context posting and partial reposting intended to foster misinformation without us jumping in and clarifying. The thinking was (and to some degree still is) that this would put our staff in a position where unless they responded to every such post, it could be expected to represent proper context.
+
+In that sense it was always meant to improve discussion, not censor it.
+
+This clause also covers some pretty fair expectations regarding other forms of communication than ticket responses. Our staff converse with players through E mail, private messages on social media and on Discord about all manner of things and in that context the rule is in line with common courtesy.
+
+Another misconception is that we´ll ban people for posting ticket replies which is not accurate. Over 15 years we’ve very rarely banned players for violating this clause (single digit number) and it’s always been on the back of a stack of previous warnings or over a wilful attempt to falsify or misconstrue communication for nefarious purposes.
+
+Whether we need to clarify the wording of the TOS or whether having a conversation about what it means like we’re doing now is enough, is something we’ll consider.
+
+For now, the best way is to ask whether you can share the communication if you feel you need to and be fair about how you treat one-on-one communication.

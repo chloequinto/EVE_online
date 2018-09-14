@@ -1,0 +1,52 @@
+FIRE ZE MISSILES!
+
+Let’s start with a package of missile-related balance changes.
+
+First of all, we are introducing two entirely new module groups to enhance performance of all missile systems in the game.
+
+Missile Guidance Enhancers – these are passive, low slot modules that give bonuses to missile velocity, missile flight time, explosion radius of missiles, and explosion velocity of missiles.
+Missile Guidance Computers – these are active, scriptable, mid slot modules that give bonuses to missile velocity, missile flight time, explosion radius of missiles, and explosion velocity of missiles. Using ‘Missile Precision Script’ or ‘Missile Range Script’ you can double the bonus to either range or application, sacrificing the other.
+For both module groups we are starting with a Tech I variation, a ‘Compact’ meta variation with reduced fitting requirements, and a Tech II variation. You can find details on their statistics in this forum thread.
+
+The second change, which has been requested ever since the Great Drake Nerf of 2012, is a direct buff to Heavy Missile Damage.
+
+All heavy missile damage will be increased by 5%.
+
+We don’t necessarily expect Drakes and Tengus to once again blot out the sky, but, it may provide some more viability to certain hulls and also grant some more interesting choices between Heavy Missile Launchers and Rapid Light Launchers, especially when combined with Missile Guidance Modules.
+
+And lastly, for missiles, we are going to reduce the volume of all Torpedoes by half. This means you can fit twice as many torpedoes in your launchers before having to reload and also frees up some cargo space.
+
+Now, let’s tranision from making missiles better to making drones a little worse:
+
+
+
+Even though we have chipped away at the Ishtar’s power, and even though it’s popularity does seem to be in decline, it’s still pushing around twice as much pvp damage as other top tier ships so we don’t feel too bad going for one final tweak to it.
+
+In Aegis we will be making the following changes to the Ishtar:
+
+One mid slot removed, one low slot added
+Power grid lowered from 780 to 740
+Mass decreased from 1,100,000 to 1,060,000
+Velocity decreased from 185m/s to 175m/s
+Agility increased from .52 to .56
+Overall this should lead to a huge decrease in power for the vastly more popular shield fits, and especially for those using 100mn afterburners.
+
+We’ve done a lot of talking about the Ishtar in the last few months, but drone bonused ships in general have been performing extremely well. The Gila, Dominix, Tristan, Vexor, Vexor Navy Issue, and Stratios all make top lists for usage and damage in their respective classes. For this reason, in Aegis we will also be making a small nerf to all Drone Damage Amplifiers.
+
+You can find the details of that change in this forum thread.
+
+We were looking into a set of Battleship and Battlecruiser changes as well, but unfortunately we had to delay most of that pass until a later release. One of the intended adjustments will make its way into Aegis though, a nice buff for the Tempest.
+
+The Tempest’s Minmatar Battleship bonus to rate of fire will increase from 5% per level to 7.5% per level.
+
+And to finish things up, let’s not forget the best flying wing to be invented since Kit Cloudkicker’s ride in Tailspin, the Hecate.
+
+
+
+Here is some of what CCP Fozzie has to say about this little monster, “With 5 turrets and a 5% RoF bonus, the Hecate enjoys 10 effective turrets, one more than the Confessor and Svipul. It is also the first T3 destroyer with an active tanking bonus. Since both the damage bonus and the active tank bonus come in the form of RoF reductions, capacitor will be a definite challenge for the Hecate and cap boosters should be common.”
+
+If you want to know more, check out this forum thread!
+
+That’s all for now! Fly safe and we’ll see you next time.
+
+@CCP_Rise

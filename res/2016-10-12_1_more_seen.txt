@@ -1,0 +1,5 @@
+GOVERNING LAW AND EXCLUSIVE FORUM
+
+The EULA, and the rights and obligations of the parties hereto, shall be governed and construed by and in accordance with the laws of the Republic of Iceland. The EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods.
+
+The sole and exclusive forum for resolving any controversy, dispute or claim arising out of or relating to the EULA, or otherwise relating to any rights in, access to or use of the Software, System, Game, Game Content, User Content and/or the rights and obligations of the parties hereto, shall be the District Court of Reykjavík, Iceland, (Héraðsdómur Reykjavíkur). You hereby expressly waive and agree not to raise any and all objections based on personal jurisdiction, venue and/or inconvenience of such forum and agree to the jurisdiction of the District Court of Reykjavík, Iceland.

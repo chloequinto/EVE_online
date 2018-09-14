@@ -1,0 +1,4 @@
+**GATE MOVEMENT**
+Carriers, dreadnoughts, supercarriers, titans and capital industrials can now use stargates, provided they do not lead into a highsec system.
+We want to reduce the usage of jump drives (see below), but we don’t also want to lock ships into particular systems. We also want to encourage more gate-to-gate traffic and allow more ships to use gates!
+We’d like to allow capitals into highsec without restriction in the future, but it’s a major change that is for a later time. For now, this maintains the status quo in highsec.

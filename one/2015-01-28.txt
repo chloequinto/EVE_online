@@ -1,0 +1,102 @@
+We are just getting started this year, and the Tiamat release brings on February 17th both quality of life changes and some significant next steps on the developing story of New Eden. Log in, undock and go find out what is really going on! Here are the features coming to EVE Online in Tiamat:  
+
+New NPCs with new abilities
+
+Smarter and more cunning adversaries will begin to appear after the release of Tiamat. You should make sure that you keep an eye on what they're up to, and make sure that you stay locked and loaded whenever you come into contact with them. Things are moving in New Eden, be sure to follow in-game news and uncover these features in-game.
+
+Minmatar Tactical Destroyer - The Svipul
+
+The stance-switching tactical destroyer provides defensive, propulsion and sniper modes with different bonuses that can be switched between on the fly. Read all about this new ship in CCP Fozzie's latest dev blog: The Republic Strikes Back: The Svipul Tactical Destroyer and Projectile Changes in Tiamat.
+
+Projectile Weapons Rebalance
+
+Tiamat brings balance changes to Autocannons, Barrage ammunition, and Small Artillery modules. Read about the new module stats and provide feedback in the comments thread for CCP Fozzie's latest dev blog: The Republic Strikes Back: The Svipul Tactical Destroyer and Projectile Changes in Tiamat.
+
+Option to have CONCORD intervene in internal corporation conflicts
+
+With Tiamat, corporations can choose to have CONCORD intervene in acts of aggression between corporation members. The setting can be changed with a 24 hour notice and it will be visible to people joining a corporation if CONCORD intervention is active or not. Read more about this feature in an upcoming dev blog.
+
+Corporation Management Quality of Life Updates
+
+The corporation member list can be filtered, mailing lists can contain 5,000 pilots, the corp description can now be edited with links and other formatting options, closing office rentals is made easier, and a custom message can be added to rejected corporation applications, along with other smaller changes. Read an upcoming dev blog for a presentation of the changes and eventually the patch notes for the full list.
+
+New Physically-Based Rendering Additions
+
+
+New light effects on ships in warp - click for a [larger, animated version](//content.eveonline.com/www/newssystem/media/66860/1/warp.gif)
+New UI Icon Additions and More Themed UI Elements
+
+Following up from the revamped user interface released in Rhea, Tiamat brings a few new user interface icons and more interface elements are themed by the selected color theme. Read the patch notes for the full list of changes.
+
+Visual Updates to Structures in Missions and other Locations
+
+Shaders and effects for structures and objects found in sites are updated in Tiamat, along with rending performance improvements.
+
+Quality Settings for Sun Flares
+
+Tiamat brings quality settings to sun flares, improving performance by providing a less resource-intensive version of the effect on lower quality settings.
+
+Atmosphere Sounds for Pirate Faction Structures
+
+New sound atmosphere is added to Pirate Faction structures in sites and mission locations.
+
+Firing Aftershock Sound for Turret Weapons
+
+Turret weapon firing sound effects become richer in Tiamat through the addition of aftershock sound for individual shots.
+
+Audio Engine Performance Improvements
+
+An upgrade of the audio engine brings performance improvements to the EVE client as a whole in Tiamat.
+
+Tiamat Theme Music
+
+With Tiamat comes another soundtrack from our audio and music team. It will be up on our SoundCloud Page as soon as it’s done!
+
+In the weeks leading up to EVE Fanfest you’ll see more communication from the EVE team about features coming to EVE in 2015, such as upcoming steps on improving sovereignty mechanics. The EVE Keynote at Fanfest will give the next big update on the big picture roadmap for EVE. It’s best viewed in person so grab your tickets and I’ll see you there!
+
+Enjoy the Tiamat changes, you can check out many of the features on Singularity already.
+
+o7
+
+CCP Seagull
+Executive Producer, EVE Online
+
+Light reflections on ships from nearby planets - click for a [larger, animated version](//content.eveonline.com/www/newssystem/media/66860/1/proph.gif)
+[![](//content.eveonline.com/www/newssystem/media/66860/1/indirectlightingwarp550.jpg)](//content.eveonline.com/www/newssystem/media/66860/1/warp.gif)
+New light effects on ships in warp - click for a [larger, animated version](//content.eveonline.com/www/newssystem/media/66860/1/warp.gif)
+New UI Icon Additions and More Themed UI Elements
+
+Following up from the revamped user interface released in Rhea, Tiamat brings a few new user interface icons and more interface elements are themed by the selected color theme. Read the patch notes for the full list of changes.
+
+Visual Updates to Structures in Missions and other Locations
+
+Shaders and effects for structures and objects found in sites are updated in Tiamat, along with rending performance improvements.
+
+Quality Settings for Sun Flares
+
+Tiamat brings quality settings to sun flares, improving performance by providing a less resource-intensive version of the effect on lower quality settings.
+
+Atmosphere Sounds for Pirate Faction Structures
+
+New sound atmosphere is added to Pirate Faction structures in sites and mission locations.
+
+Firing Aftershock Sound for Turret Weapons
+
+Turret weapon firing sound effects become richer in Tiamat through the addition of aftershock sound for individual shots.
+
+Audio Engine Performance Improvements
+
+An upgrade of the audio engine brings performance improvements to the EVE client as a whole in Tiamat.
+
+Tiamat Theme Music
+
+With Tiamat comes another soundtrack from our audio and music team. It will be up on our SoundCloud Page as soon as it’s done!
+
+In the weeks leading up to EVE Fanfest you’ll see more communication from the EVE team about features coming to EVE in 2015, such as upcoming steps on improving sovereignty mechanics. The EVE Keynote at Fanfest will give the next big update on the big picture roadmap for EVE. It’s best viewed in person so grab your tickets and I’ll see you there!
+
+Enjoy the Tiamat changes, you can check out many of the features on Singularity already.
+
+o7
+
+CCP Seagull
+Executive Producer, EVE Online

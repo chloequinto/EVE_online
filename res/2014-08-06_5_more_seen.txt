@@ -1,0 +1,10 @@
+**MORE AND NEW RANDOMLY SPAWNING WORMHOLES**
+Feedback thread
+
+As I mentioned earlier, one of our goals in the Hyperion release is to provide players more avenues with which to enjoy the random and unpredictable elements of wormhole life. One way we intend to reach this goal is to increase the prevalence of random wormhole connections that appear in W-space systems. We will be significantly increasing the spawn rate of all the existing wormholes that originate in W-space, as well as adding a whole new class of random wormholes with unique properties.
+
+The new class of random wormholes will have a very low maximum jump mass, navigable only by frigates, destroyers and multi-bubble heavy interdictors. They will also enjoy a very high stable mass and will be the first wormhole connections in EVE to regenerate mass over time. This means that collapsing these wormholes will be nearly impossible, and they will virtually always last to the end of their 16 hour lifespan.
+
+These new small ship wormholes will only originate in W-space systems, and can lead to any other W-space systems or to nullsec space. The chance of connections between the extreme ends of the spectrum (very high class to very low class and vice versa) will be somewhat lower to ensure that low-class wormholes do not become flooded with frigate fleets from higher classes.
+
+We believe that these new random wormholes will provide new opportunities for players interested in flying lighter ships than are common in the current wormhole meta, and roaming into nullsec with fast wolfpacks. They should also make it more difficult for players to completely close off their systems from external connections, ensuring that emergent player interaction remains a constant influence in W-space. We are taking feedback on both of these changes to randomly spawning wormholes in this feedback thread.

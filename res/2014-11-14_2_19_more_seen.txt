@@ -1,0 +1,2 @@
+NO CLONE GRADES AND NO SKILL POINT LOSS ON POD DEATH
+Clone grades, clone upgrade cost and skill point loss when podded (except when losing a Strategic Cruiser) will be removed in Rhea.  Read more about these changes and the reasoning behind them in an upcoming dev blog by CCP Terminus, or watch Episode 2 of the o7 show (13:00 mark) to hear about these changes.

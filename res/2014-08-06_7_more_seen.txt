@@ -1,0 +1,494 @@
+**IN CLOSING**
+These proposals are not the only improvements we hope to make for wormhole space in the future, and we are actively discussing with the CSM other improvements that could be made. We encourage you to keep communicating your requests both directly to us here at CCP and to your hardworking CSM members.
+
+We hope you have enjoyed this dev blog and that you are looking forward to the Hyperion release as much as we are here in Team Five O. We are very interested in your feedback on all of these concepts and we encourage you to post your feedback, along with reasons for your arguments, in each of the individual feedback threads linked with each section of this blog. We will be hard at work over the next few weeks coding, refining designs, responding to feedback and testing changes for wormholes and we can’t wait to see how all you incredibly clever players find a way to pleasantly surprise us once again once Hyperion arrives on August 26th.
+
+As for the rest of the changes you should expect in the Hyperion release, CCP Seagull will be posting a "Coming in Hyperion" blog soon with an overview and we will be continuing to release more dev blogs with all the juicy details in the coming days.
+
+Good hunting!
+
+-CCP Fozzie
+
+Affected stat
+
+Wormhole class
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Damage
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Missile explosion radius
+
++15%
+
++22%
+
++29%
+
++36%
+
++43%
+
++50%
+
+Drone Tracking
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Targeting Range
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Tracking Speed
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Target Painter Strength
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Red Giant
+
+(click to enlarge)
+
+We’re quite happy with Red Giants overall, but we see an opportunity to push the theme even further through a new bonus to bomb damage. Bombs are less heavily used in wormhole space thanks to the prevalence of lower signature ships, but this bonus should help those players who wish to experiment with stealth bomber tactics in wormholes.
+
+Affected stat
+
+Wormhole class
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Heat Damage
+
++15%
+
++22%
+
++29%
+
++36%
+
++43%
+
++50%
+
+Overload Bonus
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Smart Bomb Range
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Smart Bomb Damage
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Bomb Damage
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Pulsar
+
+(click to enlarge)
+
+This is another fairly healthy effect. However we are a bit concerned with the strength of capital shield tanks in Pulsars, primarily due to the cap recharge bonus. Our planned solution is to strengthen the counters and provide more interesting variety in gameplay by adding a bonus to capacitor warfare.
+
+Affected stat
+
+Wormhole class
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Shield HP
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Armor Resists
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Capacitor recharge
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Signature
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+NOS / Neut Drain Amount
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Wolf Rayet
+
+(click to enlarge)
+
+The small weapon bonus in Wolf Rayet wormholes is currently underused and overshadowed by the far more applicable Magnetar bonus. We also have some concerns about the power of the armor resist bonus in this effect, especially when combined with capital ships. The solution is to swap the resist bonus into a flat HP bonus like the one found in Pulsars and push the small weapon bonus far enough to create a truly unique combat environment. This huge bonus to frigate weapons will create one of the most distinct combat environments in EVE, which should nonetheless remain quite accessible to all players since keeping a small ship doctrine for your corp requires relatively little in skillpoints, isk and SMA volume.
+
+Affected stat
+
+Wormhole class
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Armor HP
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Shield Resist
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Small Weapon Damage
+
++60%
+
++88%
+
++116%
+
++144%
+
++172%
+
++200%
+
+Signature Size
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Cataclysmic Variable
+
+(click to enlarge)
+
+For Cataclysmic Variables we are interested in buffing the smaller scale uses of the effect as well as preventing balance problems with spider-tanking carriers. The change here cuts the cap recharge time penalty in half (so that ships receive higher cap per second rates in Cataclysmic Variable wormholes) and add a new penalty to remote capacitor transmitters. Due to the nature of capacitor transfer bonuses on logistics cruisers and capital ships, this penalty is much more significant for carriers than for smaller ships.
+
+Affected stat
+
+Wormhole class
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Local armor repair amount
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Local shield boost amount
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Shield transfer amount
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Remote repair amount
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Capacitor capacity
+
++30%
+
++44%
+
++58%
+
++72%
+
++86%
+
++100%
+
+Capacitor recharge time
+
++15%
+
++22%
+
++29%
+
++36%
+
++43%
+
++50%
+
+Remote Capacitor Transmitter amount
+
+-15%
+
+-22%
+
+-29%
+
+-36%
+
+-43%
+
+-50%
+
+Overall we feel that these changes to the various wormhole effects will prove to be a significant improvement to the balance and gameplay depth in wormhole combat. We’re also interested in what you think about these changes, and we will be closely monitoring feedback on effect changes in this thread.

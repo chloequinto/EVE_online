@@ -1,0 +1,17 @@
+EXPEDITIONS
+Secondly we have touched upon Expeditions.
+
+For those of you that are in the dark regarding these so called ‘Expeditions’, (also referred to as Escalations), here’s a brief rundown to bring you up to speed.
+
+“Once in a while, battles in Deadspace tend to escalate due to you being able to track down the origins/destinations of enemy messages or finding compromising plans or data in ship wrecks. These are called Expeditions and normally escalate further and further, until you either reach a dead end or the final location (mostly found in Low Security Space).”
+
+The general bulk of the work has simply been to smooth out Expeditions by fixing all of the existing defects associated with them, (Bosses that didn’t spawn, triggers that didn’t work etcetera) but we’ve also touched upon a few other aspects.
+For example in some ‘parent’ anomalies and signatures (where you have the possibility of an escalating path occurring) most of the expeditions require you to interact in some way with the space scene.
+
+So we’ve added in some messaging to guide you towards these specific structures.
+
+![](//content.eveonline.com/www/newssystem/media/66598/1/ExpeditionNotification.jpg)
+Do it! We know you want to
+ We have also increased the percentage chance of the rarer types of Expedition occurring as we simply found these figures to be too low. These combined changes should help somewhat in bringing this ‘hidden’ content to the surface for you to enjoy.
+Additionally, a ‘Boss’ loot table revision is in progress and we’re adjusting where necessary.
+These changes are still in progress and will reach Singularity at a later date.

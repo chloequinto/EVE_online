@@ -1,0 +1,22 @@
+ADDING MULTIPLE OUTCOMES TO INVENTION
+Invention feels very absolute in its outcome right now - you either get the full results for your trouble or quite nothing, except for a soft pat in the back by a sympathizing CCP Fozzie. We would like to provide more outcome gradients between just a binary 0 or 1. This would be calculated as a % chance on success or failure, and give various outcomes.
+
+Example:
+
+Frankenstein is trying to invent a 425mm Railgun II blueprint copy out of 425mm Railgun I blueprint copy. Base chance is 40%, he has all skills to 5 and uses no decryptor, which results into a 50.4% chance to succeed.
+
+Old (left) versus new (right) Invention chance outcome:
+
+
+
+Outcome details:
+
+Success (exceptional): yields a ME 2 and TE 3 bonus to the outcome.
+Success (great): yields a ME 1 and TE 2 bonus to the outcome.
+Success (good): yields a TE 1 bonus to the outcome.
+Success (standard): basic unmodified outcome.
+Failure (standard): 50% of datacores returned
+Failure (poor): 25% of datacores returned
+Failure (terrible): 10% of datacores returned
+Failure (critical): no datacore returned
+This would give more granularity to the outcome, provides returns on investment when failing or establish a better sense of accomplishment when maximizing success chance. While this would mean less ISK sink into Invention, this is quite needed to counteract the success changes mentioned above.

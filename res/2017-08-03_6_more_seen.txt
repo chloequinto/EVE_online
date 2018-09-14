@@ -1,0 +1,18 @@
+PREVIOUSLY ON “STRUCTURE DEV BLOGS”
+Earlier this year we released a dev blog describing our three-pronged approach to continued Upwell structure development:
+
+Bug fixes, performance improvements, UI polish to make existing Structure features more reliable and easier to use
+Adding new universal features to all Upwell Structures, such as the addition of automatic capacitor/shield recharge functions and customizable public structure descriptions earlier this summer
+Preparing the next batch of structures and service modules: Refinery structures with moon mining and reaction services
+All three of these tracks are still advancing and all three will be represented in the August release. We want to once again thank all the players who participated in our Upwell structure survey earlier this year as we are continuing to use your community feedback to inform our priorities in structure work.
+
+As CCP Seagull announced in one of our recent Development Update videos, we are in the process of refocusing more of our ongoing structure update resources to the topic of structure defenses and siege mechanics. This design area has been one of the major topics we’ve been hearing about from the community over the past few months, and the August release includes some of the early fruits of our increased focus in this area.
+
+The changes coming in August include:
+
+Balance updates for structure weapons
+Improved UI feedback for structure deployment
+Improved usability for fueling structures
+The addition of the corporation insurance feature to Upwell structures
+The phase-out of legacy starbase industry bonuses
+The introduction of the new moon scanning UI in preparation for Refineries
