@@ -1,0 +1,5 @@
+2x IBM HS 22 - Intel X5690 @ 3.4GHz 96GB RAM (1333MHz)
+ 6x IBM Flex x240 Intel E5 2640 v3 @ 2.6GHz 386GB RAM (2133MHz)
+Database Server
+ 2x IBM X3960 X5 – Intel X7560 @ 2.26 GHz with 512GB RAM (1066 MHz)
+2x X880 X6 FlexNode – Intel E7-8893 V3 @ 3.2 GHz with 768GB RAM (1866 MHz)

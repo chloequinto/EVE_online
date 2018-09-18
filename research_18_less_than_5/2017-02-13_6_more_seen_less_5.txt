@@ -1,0 +1,4 @@
+We have tweaked the layout of the Probe Scanner so everything should flow a little better.
+The top section should include all the information about your probes:
+How many are launched?
+The strength, deviation, and duration of the scan.

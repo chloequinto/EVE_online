@@ -1,0 +1,2 @@
+Labels on online/offline notification
+When you see a character coming online or going offline, you might not remember why you added that person to your notification list. If you‘re super organized you‘ve assigned a label to that person. You can now mouse over the notification and see all the labels you‘ve assigned.

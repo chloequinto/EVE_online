@@ -1,0 +1,7 @@
+Dear capsuleers,
+Fanfest is over, and I think I finally lost my hangover.
+On behalf of the entire security team at CCP, thank you very much for attending, and thanks to those who watched us live on Twitch. We had some fun reviewing those chat logs afterwards!
+The purpose of this dev blog is to publish our presentation, which can be viewed on YouTube, here:
+We are continuing the tradition of publishing our slides this year as well. Please find a .pdf version here:
+Fanfest 2015 - Team Security slides - Better Safe Than Sorry
+We’ll try to answer your questions in the dev blog discussion thread. You can also find us on Twitter:

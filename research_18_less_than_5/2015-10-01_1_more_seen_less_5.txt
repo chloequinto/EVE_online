@@ -1,0 +1,17 @@
+Hi all!
+In the Vanguard release on September 29, 2015, we introduced a new feature called multibuy that will allow you to purchase multiple items from the market at once. The multibuy window should already look familiar to you, as it's very similar to the multisell window which we brought you last year.
+The ability to buy many items at a time has been a frequently requested feature by players and devs alike, so we are pretty excited to be adding it. Now reshipping after losing a ship will be so much easier :)
+The target user group for this feature is the crowd that wants to buy their stuff "here and now", even though that can come at a slightly higher price.
+Those who like to play the market game and focus on margins will probably in most cases want to have a full context for the orders of each item, so we decided to focus the user experience on the immediate buyers and keep things simple. Therefore, multibuy only offers immediate buys in a station in your current solar system, but you are still able to set up single non-immediate orders just like before.
+Convenience comes at a price, so with multibuy, the unit price you pay for each item type will be the price at which you can buy the quantity you requested. Similar to the multisell window, each item type in the multibuy window shows how the unit price compares to the average price, and a tooltip will show the best price in the station, solar system and region. If the price is not to your liking you can always remove those items from the buy order and buy them type by type from the market window. Just like in the multisell window, the market details for each of the item type can be easily accessed by clicking on the little icons representing the difference from average price (“equal” and up and down arrows).
+To make it easier on you to buy a few rounds of ships or blueprint materials, the multibuy window comes with the ability to specify how many orders you want to buy.
+In rare cases, the items you are trying to buy become unavailable or fail to buy for some reason or another. Then the multibuy window will repopulate with the items that were not successfully purchased. This will allow you to search for those items in other stations or make other arrangements for the items you are missing.
+Please note that when this happens, the order multiplier mentioned above is set to 1 and the quantity of each of the item types is adjusted.
+However, if all items in the window where successfully purchased when the Buy button was hit, the multibuy window will close automatically.
+The multibuy window can be accessed in a few ways:
+click a button in the Regional Market window to open the multibuy window and drag items into it
+click the "Buy All..." button in any saved fitting
+click the "Buy All..." button below materials in Show Info window for blueprints
+right click nodes in the industry window and select the "Buy All..." option
+right click two or more items in your inventory and select the "Buy All..." option
+right click a folder in the Market Quickbar and select the "Buy all..." option

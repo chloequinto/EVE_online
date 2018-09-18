@@ -1,0 +1,1 @@
+Copying times are now expressed per-run, and are always 80% of base build time for the blueprint (thus generally shorter for ships, longer for modules)

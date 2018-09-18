@@ -1,0 +1,1 @@
+Job value is based on the item or blueprint that represents the primary output of the job. For manufacturing, this is the value of the inputs required to build that output item, so for pretty much all build jobs it's the value of the job's input.

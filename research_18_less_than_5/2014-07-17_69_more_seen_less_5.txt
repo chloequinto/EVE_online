@@ -1,0 +1,3 @@
+30	T1 destroyers
+31.2	T2 warfare links, Improved cloaks
+39	Covops cloaks

@@ -1,0 +1,2 @@
+With these changes, the total mineral supply gained by mining out an entire Ore Prospecting Array anomaly (other than the small belts) will now more closely match the average mineral consumption across the EVE universe, allowing alliances to more easily source the bulk of their raw minerals locally for industrial activities. The relative compositions of each anomaly are slightly different, allowing each corporation or alliance to decide which best matches their personal industrial activities.
+Small:

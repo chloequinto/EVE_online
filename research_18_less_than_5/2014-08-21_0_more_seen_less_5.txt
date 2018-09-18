@@ -1,0 +1,9 @@
+All of the above changes are available on Singularity right now for testing if you wish to go and test them.
+Finally, and mainly just because it’s cool:
+We have made a change to how we do caching on public CREST. As users of CREST you shouldn’t notice anything different, it just gives us more control and more caching options. The result should be you getting more cache hits and so faster responses. This new caching option has only been implemented on the market history resource for now but the next thing will probably be the killmail resource for wars.
+If you notice anything wrong with the market history resource let us know.
+OK, one more thing, final thing I promise:
+If you are a user of the the image export, what we refer to internally as the IEC, I suggest you check it out once Hyperion rolls around. I have a feeling you may find some interesting new images in there, possibly relating to industry, ISIS, skills, and other things.
+Huge shout out to everyone who has been helping inform us of issues on the API and being patient as we work through fixing them.
+CCP FoxFour
+@RegnerBA

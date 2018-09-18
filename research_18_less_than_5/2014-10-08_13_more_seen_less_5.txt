@@ -1,0 +1,2 @@
+Greetings Capsuleers!
+It was back in the Odyssey expansion that the Sensor Overlay was added to EVE, a feature allowing Cosmic Anomalies and Signatures to be viewed in space instead of only existing as text entries in the scan window. We are now adding a number of other objects in space to the sensor overlay, along with filtering options and a new compass view. One of the biggest changes is the ability to see personal and corporation locations visualized in space in the sensor overlay. Without further ado, let me take you through the details.

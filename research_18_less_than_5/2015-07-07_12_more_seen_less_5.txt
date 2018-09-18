@@ -1,0 +1,7 @@
+Capital system details
+More details on structure launching and capture
+CREST and API details for third party tools
+Duality testing and the results of the playtest competition
+WHAT TO EXPECT ON PATCH DAY
+With the July 14th deployment date of the new sov capture system fast approaching, it’s important that everyone be aware of how the transition from the old system to the new one will play out.
+Since the basic functions of TCUs, IHubs and Stations are remaining constant, the transition for most of these structures will be fairly straightforward. We are endeavoring to cause as small of a disruption as possible to any sovereignty conflicts that may be in progress on patch day.

@@ -1,0 +1,7 @@
++5% Command Burst Area of Effect Range per level
+Fleet Command
++4% Command Burst Area of Effect Range per level
+Mining Foreman
++10% Mining Foreman Burst Effect Duration per level
+Mining Director
++10% Mining Foreman Burst Effect Strength per level

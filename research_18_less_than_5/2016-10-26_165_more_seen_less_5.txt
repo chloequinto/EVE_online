@@ -1,0 +1,4 @@
+Increases range of Warp Disruptors, Warp Scramblers and Stasis Webifiers
++12%
++32.34%
+Rapid Deployment

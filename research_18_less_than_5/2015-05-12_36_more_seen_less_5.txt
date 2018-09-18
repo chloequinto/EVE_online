@@ -1,0 +1,2 @@
+Energy Neutralizers are part of the utility high-slot suite of defensive modules and drain capacitor from the targeted ships. Their effect works exactly in the same manner as their ship module counterparts. They remain available for L and X-L structures.
+Two variations exist:

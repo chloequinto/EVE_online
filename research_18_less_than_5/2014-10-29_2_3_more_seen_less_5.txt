@@ -1,0 +1,3 @@
+Another example:
+![](//content.eveonline.com/www/newssystem/media/66622/1/kill_tooltip.png)
+This is a common tooltip for instance when you need to kill all NPCs to activate the acceleration gate to the next deadspace complex area.

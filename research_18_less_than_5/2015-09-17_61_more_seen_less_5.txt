@@ -1,0 +1,1 @@
+If the structure is vulnerable, it will display for how long it is going to be before becoming invulnerable again

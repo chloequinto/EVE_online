@@ -1,0 +1,2 @@
+Corp details improvements
+You can now resize the corp details window and make a better description of you corp with customizable font and links and what not.

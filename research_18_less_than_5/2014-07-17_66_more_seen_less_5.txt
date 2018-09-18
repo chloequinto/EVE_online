@@ -1,0 +1,6 @@
+100	Medium T2 rigs
+150	T1 Capital modules, T2 large rigs
+180	Fancy capital modules
+200	Non-super capitals, station components, T2 capital rigs
+240	Doomsdays
+300	Large towers

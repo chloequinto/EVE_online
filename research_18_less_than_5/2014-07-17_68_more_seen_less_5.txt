@@ -1,0 +1,2 @@
+40	T1 cruisers, fighters/bombers
+50	T1 battlecruisers, T2 small rigs

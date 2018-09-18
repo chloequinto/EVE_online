@@ -1,0 +1,4 @@
+(click to enlarge)
+See the work in progress effect in this YouTube video by Asayanami Dei.
+Wormhole effects indicating what ships can go through
+Updated effects on wormholes show different colors for different types of wormholes, to make it visible in space what maximum ship mass a wormhole can support. (You can also see this information in the "Show Info" for wormholes since the Hyperion release)

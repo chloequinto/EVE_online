@@ -1,0 +1,10 @@
+Application requirements
+To be eligible for the CSM, applicants must meet the following requirements.
+To apply your account must be older than 60 days at the time that candidacy applications close (that is, created no later than 2016-12-26)
+Both Alpha and Omega accounts are eligible to run
+You must have a history of honoring the EULA and the Terms of Service. We will screen every applicant thoroughly and EULA/TOS violations on your record can result in a rejected application.
+Your account must have updated and correct information at the time of your application. This includes; your real life name, correct date of birth and the same email you use to submit your application. To view and edit this information go to the account management system.
+Candidates must be a minimum of 18 years of age. If the legal adult age in your home country (the age at which you have the legal capacity to enter into a contract) is higher than 18, that number applies instead.
+As an applicant, you must consent to providing your personal details to CCP, including your real name and a copy of your passport or internationally accepted identification. A CSM candidate can share any real-life information about themselves with the player base at their own discretion but it is not required at any stage in their application or CSM term other than sharing their country of residence on their candidate information page. Further personal information is only visible to CCP staff and will not be revealed by CCP.
+To apply you must own a valid passport or verifiably be in the process of successfully applying for one at the time of your application. CSM members are expected to have the option of travelling to summits in Iceland. A passport is still required by applicants living in the EEA, as airlines may demand possession of a passport as a condition of carriage.
+If you control a character that is well known in the EVE community, CCP may require you to run under that identity and not one of an alt or a lesser known character.

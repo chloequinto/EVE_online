@@ -1,0 +1,2 @@
+Greetings industrious Capsuleers!
+This is CCP Fozzie bringing you another dev blog covering our Nullsec and Sovereignty changes coming on July 14th. Today’s dev blog covers the July round of our planned changes to Nullsec PVE and system infrastructure upgrades. This is the fifth major dev blog for the Summer of Sov. We’ll have one more blog summarizing the new system so that people don’t need to dig through five other blogs to get all the information, but this is the last blog that is expected to contain a lot of newly revealed information before our July 14th release date.

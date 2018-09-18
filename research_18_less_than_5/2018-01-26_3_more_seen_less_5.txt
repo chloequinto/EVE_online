@@ -1,0 +1,1 @@
+TTV can create small variances in the period of the transiting planet which severely inhibits the frequency analysis-based algorithms used to automatically search through this data. However, the wobbles are generally small enough that they can still be selected with our marker tool without going outside the allowed margin of error. A visual example of this is shown in this video.

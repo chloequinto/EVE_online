@@ -1,0 +1,2 @@
+-100 power grid
+-15 maximum velocity

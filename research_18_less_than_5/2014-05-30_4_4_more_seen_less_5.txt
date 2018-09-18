@@ -1,0 +1,5 @@
+(click to enlarge)
+The full menu looks like this. Previously there was only the left-most set of options controlling the master volume, UI sounds and music.
+The new menu splits the audio and chat tab into two separate tabs, so audio will have its own and chat will have its own. The key point is to allow for greater control of individual sounds in the advanced audio settings and to the right we have the option to choose which sounds are muted when you leave the client, more on both of them later.
+This menu allows players to shape their audio experience in the game in a new way, adjusting which sounds you want less of.
+In the future, we will continue to iterate on this system and one of the things in mind is a complete new mix of the sounds in EVE, allowing you to also turn up sounds – for now you will have to survive on the option to lower them only.

@@ -1,0 +1,3 @@
+Greetings spacefriends,
+We’ve been on a very exciting development journey this year to revamp the new player experience.  You got a glimpse into our plans during CCP Ghost's talk at Fanfest, but now it's time to go into details as we will release the first phase of our NPE revamp with EVE's November 8th expansion, Ascension.
+We are calling this phase Inception. 

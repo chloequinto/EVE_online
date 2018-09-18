@@ -1,0 +1,6 @@
+Fixes for some full-screen effects.
+Corrupt clouds in high shaders are fixed.
+Black graphical corruption in warp engine trails are fixed.
+Transparent character models from using a combo of "low" post-processing and anti-aliasing are fixed.
+You can expect to see several more dev blogs coming out before June 3rd, going into more detail on some of the features coming in Kronos.
+/@CCPSeagull

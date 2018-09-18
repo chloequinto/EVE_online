@@ -1,0 +1,2 @@
+Capacitor (amount / recharge / cap per second) : 3500 / 875s / 4
+Mobility (max velocity / agility / mass / align time): 100 / 1.5 / 4,500,000 / 9.36s

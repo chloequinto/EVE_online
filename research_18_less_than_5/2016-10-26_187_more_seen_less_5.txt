@@ -1,0 +1,3 @@
+Increases shield hitpoints
++8%
++21.56%

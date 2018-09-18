@@ -1,0 +1,9 @@
+Probe Scanner
+The really big changes here are:
+Enabled hotkey for Analyze, mappable via the Shortcuts tab in the System menu (Esc)
+Moved Destroy Probes button away from Recall Probes button
+Moved Recall Probes button away from Analyze button
+Added hotkeys to filter options.  1-5 now allows you to show/hide types on the fly
+Ignored signatures can be re-added individually
+Added a button to access the Solar System map
+Made Probe section of window collapsible and resize-able

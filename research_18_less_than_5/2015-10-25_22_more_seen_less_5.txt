@@ -1,0 +1,2 @@
+The carriers of the Citadel Expansion will launch squadrons, made of up to 12 fighters of the same type.
+These squadrons act as a singular unit. Carrier pilots give orders to an entire squadron. You lock an entire squadron as one unit, except instead of Shields, Armor and Hull, the number of fighters remaining in that squadron are shown.

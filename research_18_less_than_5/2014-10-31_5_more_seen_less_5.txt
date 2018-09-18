@@ -1,0 +1,9 @@
+(Click image for a larger version)
+(Click image for a larger version)
+THE OVERVIEW STATES AND “ALWAYS SHOW”
+The ability to have a "war target"/"fleet member" only Overview has been a commonly requested feature and it is arriving with Phoebe. We will be adding a third entity display setting called "Always Show" to the overview. Before I explain what that means, let me go over how the display settings currently work:
+Entities (ships, drones, etc.) on the same grid as you in space are displayed in the Overview as long as they do not match a state that is filtered out. This can be quite tricky and confusing because any one entity commonly has multiple states (war target, outlaw, etc).
+For example, you can have a corp(1) and alliance(2) mate in the same fleet(3) as you, but is also a supspect(4) with security level below 0 (5), and he‘s neutral(6) to you. If you filter out any of those 6 states he matches, he will not appear in your Overview, which is not always ideal. This has for example caused war target hunters some issues, because in order to have war targets in the Overview, they cannot filter out all those random neutrals they meet on their travels, since their war targets might be neutrals too.
+So what is this new display setting? As I mentioned above, we refer to it as "Always Show", and what it means is that if an entity has a state that is set to "Always Show", it does not matter if any of the other states it also matches are filtered out, the entity will always appear in your Overview.
+If an entity does not have an "Always Show" state, it's displayed by default as long as it does not have a state that is filtered out, just like before.
+To summarize:

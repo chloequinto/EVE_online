@@ -1,0 +1,5 @@
+Expanded Cargohold I-2017.50-15
+Type-D Restrained Expanded Cargo-1522.50-13
+Expanded Cargohold II-2327.50-18
+'Basic' Expanded Cargohold-517.50-20
+Expanded Cargohold I – Structure Hitpoint penalty reduced from -25% to -20%

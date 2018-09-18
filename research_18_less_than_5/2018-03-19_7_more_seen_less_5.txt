@@ -1,0 +1,4 @@
+Many pilots out there, yours truly included, find it hard to figure out which solar systems they can enter without the Faction police hunting them down. To make that easier, we have now included a tooltip on your security status in the 'Character sheet', informing you in which solar systems you should watch out for the police.
+securityStatus
+Other changes we have in the March release:
+The results from ship scans are now organized by slots

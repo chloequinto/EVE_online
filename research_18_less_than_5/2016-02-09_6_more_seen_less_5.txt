@@ -1,0 +1,10 @@
+Manual FOV zoom by holding ALT while zooming. Dolly zoom by holding CTRL while zooming.
+Tracking now works in the same way as all other in-space commands work instead of having a special mode toggled on/off previously; you either click the new “Track” button in the “Selected Item” window, radial menu or right click menu. The shortcut key for Tracking is still the same though; C. The tracking camera implementation has also changed so that we now always keep the tracked object center-screen, while pushing the foreground object to the side as we zoom in.
+New chase mode is activated by tracking the ship you’re already looking at, locking the camera straight behind your ship. This mode works amazingly well with manual flight! If you’re already looking at your own ship, this mode can be triggered by pressing the ship HUD Orbit Camera button again, or using the corresponding shortcut.
+The “Look at” command is now also available for items far away, but instead of the camera travelling light years, we just rotate it in place so the object is centered at the screen, which is very handy for, say, directional scanning.
+TACTICAL CAMERA
+The Tactical camera (ALT+1) is designed to be purely practical and works in a similar manner to Real Time Strategy cameras by allowing panning. Objects can be attached to by performing the “Look At” command, and detached from by panning away with the right mouse button. In this mode, we don’t have any of the cinematic effects of the orbit camera present.
+Features:
+Field of view is fixed at a wide angle and none of the cinematic shenanigans of the orbit camera is present.
+Panning is done by dragging with the right mouse button.
+Camera is attached to an object by Performing “Look At” and detached by panning

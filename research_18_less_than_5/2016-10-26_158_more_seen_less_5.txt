@@ -1,0 +1,3 @@
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+-15%
+-57.13%

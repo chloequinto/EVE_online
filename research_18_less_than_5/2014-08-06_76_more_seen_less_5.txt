@@ -1,0 +1,1 @@
+The next major change we are proposing to wormhole mechanics is a variable adjustment to the distance that ships appear at after jumping through wormholes.

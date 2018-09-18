@@ -1,0 +1,2 @@
+Weekly vulnerability hours: 14
+Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8

@@ -1,0 +1,4 @@
+Serpentis researchers have recently made a major breakthrough in neural engineering, managing to create implants that replicate the effects of their popular Exile boosters on capsuleer brain chemistry. These implants boost armor repairer effectiveness and unlike booster-based enhancement they do not wear off over time or cause direct combat side effects. Rumors of increased aggression among long-term test subjects have been categorically denied by Serpentis officials who claim the whispers are part of an Upwell misinformation campaign.
+These implants are essentially the armor equivalent of the existing Guristas 'Crystal' implant sets. They increase the amount of armor repaired per cycle by local armor repairers. They apply to both normal and ancillary repairers, but do not impact capital repairers or remote repairers.
+They are available in low, mid and high grade sets.
+ 	

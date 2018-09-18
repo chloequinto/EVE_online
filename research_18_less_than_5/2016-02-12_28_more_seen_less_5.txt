@@ -1,0 +1,4 @@
+You can find out more details about these here! Only fitable to battleships and capitals.
+Capital Scriptable Armor & Shield Hardeners
+Similar to Armor Hardeners and Shield Hardeners, but they can be scripted to provide either very weak protection from all damage types or high protection from a single damage type. These modules will allow capital pilots to react to incoming damage in a more customizable fashion than is possible with Reactive Armor Hardeners.
+COMBAT REFITTING

@@ -1,0 +1,2 @@
+However keep in mind these numbers may change up until the release on the 22nd. We will do our best to keep the SDE updated and shared with everyone on the forums. The big changes to the SDE in Crius are that we have moved all of the blueprint-related data from BSD (Branched Static Data, stored in database tables) into what we call FSD (File Static Data, stored in plain text YAML files).
+Removed table invBlueprintTypes

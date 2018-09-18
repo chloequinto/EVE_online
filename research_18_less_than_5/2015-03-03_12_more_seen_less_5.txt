@@ -1,0 +1,6 @@
+Disabling and Enabling Station Services
+Capturing Command Nodes during Sovereignty capture events
+This means that Entosis Linking will replace shooting of structures in every part of the Sovereignty system. After the June release, shooting of structures will not play any part in Sovereignty.
+Before occupancy defensive bonuses are applied, exerting uncontested control over Territorial Claim Units, Infrastructure Hubs and Outposts will take 10 minutes (plus the duration of the first cycle) and enabling/disabling station services will take 5 minutes (plus the duration of the first cycle). Like everything in this plan, these numbers are subject to change based on playtesting and discussion.
+The Entosis Link will be added to the game about a month before the launch of this Sovereignty system to allow players adequate time to manufacture stockpiles.
+This basic Entosis Link gameplay is used repeatedly throughout the Sovereignty capture and defense gameplay, so it’s worth making sure you’ve fully read the previous section before moving forward.

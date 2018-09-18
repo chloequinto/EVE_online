@@ -1,0 +1,8 @@
+Window Polish
+We’ve polished the team view in the industry window quite a bit, based on testing and feedback. For example, here’s some that came from players trying things out on Singularity, our test server:
+When a blueprint is selected, the team list is automatically filtered based on the blueprint, showing the correct filtering settings.
+Once a blueprint has been selected, it is possible to filter teams based on job type on that blueprint, for example copying teams or manufacturing teams.
+Filtering team Specialties is now better, with better sorting and an improvement to comparing between teams.
+We added an option to limit the view to active teams in the system the selected blueprint is in, to support setting up jobs remotely better.
+(click image for a larger version)
+(click image for a larger version)

@@ -1,0 +1,1 @@
+To align the new modules better, we’re also reducing the CPU of the tech I Cargo Scanner from 5 to 4.

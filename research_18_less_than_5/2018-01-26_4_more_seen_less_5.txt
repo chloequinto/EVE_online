@@ -1,0 +1,9 @@
+We ended up solving this by removing the highest difficulty of task (level 5) from this training period and resetting the accuracy of all players that had dropped below 50%. We decided to only reset those below 50% since anyone above that accuracy rating had proven themselves adept at the task.
+These players who were getting stuck in the training set also raised another issue - some of the level 5 difficulty tasks were simply too hard for many of our players to solve at all. Watching the feedback from players and examining the samples they were having trouble with led us to the discovery that some of them were only solvable by looking at other data alongside the curve or by using frequency analysis, since the transits were obscured by the general noise of the sample.
+After some discussions with Michel Mayor's team, we concluded that these could safely be excluded, as they couldn't realistically be found by eye and didn't further the scientific goals of the project.
+ui3
+The Many Paths of Discovery
+As some of you know and have pointed out, there are many powerful methods for frequency analysis that already exist such as Fourier Transforms, Least-Squares Spectral Analysis and Box-Fitting Least Squares Algorithms.
+So why don’t we use them?
+Project Discovery is aimed at compensating for weaknesses inherent in those algorithms, namely their reliance on perfectly periodic data and their ineffectiveness at dealing with noise.
+While expecting perfectly periodic data sounds like a fair assumption when dealing with the orbits of planets, systems that include multiple planets in close proximity don't exhibit perfectly periodic orbits, since their gravitational pull affects the orbit of other planets in the same system in a phenomenon known as Transit Timing Variation (TTV).

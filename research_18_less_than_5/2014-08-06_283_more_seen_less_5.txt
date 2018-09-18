@@ -1,0 +1,3 @@
+K162 appearance only on first jump
+Loosening of bookmark copying restrictions
+Ensuring that scan signatures stay consistent over downtime

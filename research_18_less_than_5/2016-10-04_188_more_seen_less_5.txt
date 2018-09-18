@@ -1,0 +1,3 @@
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+100% remote repair impedance (prevents other ships from repairing the Rorqual)

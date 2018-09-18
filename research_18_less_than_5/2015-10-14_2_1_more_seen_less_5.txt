@@ -1,0 +1,1 @@
+For couple of months we will have both sites operational in parallel. Then, when we are ready, we will swap over with the goal to have as short of a downtime as possible.

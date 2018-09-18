@@ -1,0 +1,2 @@
+Name	Structure Hitpoint Bonus (%)	Cargo Capacity Bonus (%)	Velocity Modifier (%)
+Civilian Expanded Cargohold	-30	10	-20

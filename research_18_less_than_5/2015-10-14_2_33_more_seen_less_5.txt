@@ -1,0 +1,4 @@
+THE SEXY TQ DATABASE MACHINE
+Let’s take a deeper look at the cluster, starting with TQ's database machines.
+The 4x Microsoft SQL Database machines will have a whopping 768GB of RAM each running on 1866MHz. They have 2 Intel E7-8893 v3 - 3.2GHz CPU's with 4 cores (8 hyper-threaded) and 45MB cache which are ideal for database-intensive workload.
+To go into little bit more detail on the DB side, here are some notes from the Database Administration team.

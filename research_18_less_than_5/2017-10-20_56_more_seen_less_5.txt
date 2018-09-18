@@ -1,0 +1,15 @@
+The Standup Moon Drill I Service Module is installed as a regular service module in a structure, taking a Service Module slot, but it is exclusive to Refineries that have been deployed in a valid Moon Mining location. Once they have been fitted, they grant access to the Scheduler (described below) from which Moon Mining extractions can be controlled. Fitting this module requires the same access as any other structure fittings, and like other service modules, it requires fuel to Online and to run.
+Fittings: 10,000 PWG, 200 CPU
+Fuel usage: 360 fuel to online / 5 fuel per hour
+SCHEDULING YOUR EXTRACTIONS
+All pilots who have access to Take Control of a Structure will be able to Schedule and initiate a Moon Mining Extraction. However, only those pilots with the Station Manager role will be able to cancel an ongoing extraction.
+Through the Scheduler, Structure Controllers will be able to determine how long they wish an extraction to take and to find a time that suits them and their miner buddies to gather for the harvest. The amount of time chosen will determine the size of the moon chunk being extracted on a linear scale. Extractions can be set at any period between 6 days and 56 days to complete.
+Ratios/types/volumes reflect not the final stats in-game
+The Extraction Scheduling window allows:
+Setting a Ready date by manually entering a desired time and date, or through manipulating the slider
+Determining when an extraction will be ready in conjunction with when the Structure will be vulnerable
+Estimating the volume of ore that the moon chunk will hold, for better organization of your mining fleet needs
+Ability to add the Extraction event to your Corporation Calendar, to inform your members when to assemble for the harvest
+Once a Moon Extraction has been set, the Moon Drill will fire at the moon and begin to draw a chunk of the moon towards the Refinery. This process will take several days, and during this time the chunk cannot be disrupted, except by those with the Station Manager role (who are able to stop the drilling process), or if the Moon Drill Module is offlined or the structure is destroyed. If this happens whilst an extraction is in progress, the chunk will be destroyed and a new extraction will have to be started from the beginning.
+Ratios/types/volumes reflect not the final stats in-game
+Once the extraction time has passed and the chunk of moon has been pulled into position next to the refinery, the next stage of the process can begin.

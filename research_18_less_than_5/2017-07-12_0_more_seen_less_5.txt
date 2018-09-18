@@ -1,0 +1,7 @@
+Captain's Quarters is scheduled for removal in the August release and Twitch Integration in the September release. The retirement of these features hands back a substantial number of man hours to the development team that can be spent on other aspects of gameplay in New Eden.
+While some of these man hours will go into producing new content, a large proportion of them will be dedicated to new engineering efforts that will improve and advance the technologies that we use, bringing better visual fidelity EVE Online client and allowing the team to build on technologies that improve its performance and reliability.
+One of the first things that we want to investigate is to release a 64-bit EVE client to better utilize your available system memory when playing. Compiling a 64-bit client has been held back by the outdated middleware that was needed by captain’s quarters.
+As always, we’d love to hear your feedback on this and clear up any queries or concerns you guys have!
+Please feel free to dive into the comments thread for this blog!
+Fly safe!
+@CCP_Falcon

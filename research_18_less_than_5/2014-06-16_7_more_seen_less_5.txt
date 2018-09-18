@@ -1,0 +1,2 @@
+Rapid Equipment Array material waste now is 5% instead of 20%.
+X-Large Assembly Array is being renamed Capital Ship Assembly Array to better reflect what it actually does.

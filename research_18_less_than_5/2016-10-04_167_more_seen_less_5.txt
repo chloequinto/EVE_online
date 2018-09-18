@@ -1,0 +1,2 @@
+Tanking and Remote Repair Bonuses:
++140% Local shield booster repair amount

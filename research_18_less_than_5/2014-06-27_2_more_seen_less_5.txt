@@ -1,0 +1,4 @@
+With Crius, the sound environment in stations will change based on the type and amount of industrial activity in the station.
+New API endpoints for industry features
+With Crius, we are releasing a number of new industry related features in both the EVE API and Public CREST that 3rd Party Developers and crafty individuals can use to create tools. Read all about it in this devblog.
+Fleet Warp Opt-out

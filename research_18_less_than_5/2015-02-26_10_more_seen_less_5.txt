@@ -1,0 +1,2 @@
+What are the goals?
+We want to ensure that all items which exists in the game and have a uniquely defined role, function or purpose should have their own distinctive icon.

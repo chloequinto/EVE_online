@@ -1,0 +1,2 @@
+-90% Shield recharge duration (increases passive shield regen rate)
+All turret, missile, drone and smartbomb damage set to 0

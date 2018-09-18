@@ -1,0 +1,2 @@
+Reactions in Refineries can be taxed by the owners of the structure, and the level of tax will be defined by them through Access Control Lists. This tax is independent of other activities being performed in the Refinery.
+NEW REACTIONS SKILLS 

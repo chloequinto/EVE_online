@@ -1,0 +1,4 @@
+Mac Client Improvements
+Client stability and performance improvements for the Mac client.
+Fly safe, and see you around!
+o7

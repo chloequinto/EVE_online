@@ -1,0 +1,3 @@
+Our aim with all these changes is to improve the overall visibility in the solar system view so it is always clear which signatures you are scanning.
+Probe Manipulation
+Positioning your probes is kind of a big deal when scanning, so we decided to address some of the pain points that both systems, old and new, have been causing for people.

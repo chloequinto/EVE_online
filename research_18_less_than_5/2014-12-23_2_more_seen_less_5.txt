@@ -1,0 +1,1 @@
+Inertial Stabilizers are now consistently named Inertial Stabilizers instead of some being Inertia Stabilizers and some Inertial Stabilizers.

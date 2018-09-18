@@ -1,0 +1,1 @@
+Corporation members with enough roles to do so will have full information on vulnerability, reinforcement, capture timers. Notifications will be sent for those particular states to make sure people can respond and defend their structures in a timely manner.

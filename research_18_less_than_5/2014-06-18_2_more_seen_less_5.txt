@@ -1,0 +1,6 @@
+Added char/IndustryJobsHistory and corp/IndustryJobsHistory:
+Will return the same kind of data as industryJobs but will include both running and completed jobs.
+This is cached for 24 hours and as of now will include up to 1,000 rows.
+We are working on a better way of controlling the amount of rows returned so expect that to change.
+Same requirements for corp jobs as the IndustryJobs endpoint.
+The above is all on Sisi right now so you guys can get testing and update your stuff. We will be listening to your feedback in the comments of this dev blog and we still have plenty of time before Crius goes live to change how we are doing this if that is deemed the correct course of action.

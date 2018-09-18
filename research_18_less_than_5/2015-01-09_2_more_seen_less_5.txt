@@ -1,0 +1,10 @@
+Technical Rules
+1920x1080 resolution with a 1:1 pixel aspect ratio.
+Either 30 or 29,970 frames per second, adverts will not be accepted at any other frame rate.
+Time length can span 15 – 30 seconds, no more, no less.
+If you are using Royalty Free / Creative Commons Music then credit the author somewhere in the end plate of your video. An end plate is where you typically put your Logo, Url and such
+Video codec should be Mp4 or MOV file with H.264 as a compressor at 15 to 20Mbps.
+Label your video file descriptively and clearly.
+Advertisement submissions should be sent to evetv@ccpgames.com with the subject “o7 advertisement”. If you have questions you need to ask before diving into production, you can also EVE mail me (CCP Guard) directly.
+In the submission e-mail please tell us a little bit about what you’ve created. If the advertisement is regarding something time sensitive, be sure to tell us about that too so we can more likely schedule it properly.
+We look forward to seeing what you come up with!

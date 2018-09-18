@@ -1,0 +1,7 @@
+Total resources (default): Filters out all modules that given current rigs and skills, will never function on the hull you are working on. This will help filter out modules that you can fit, but don't have enough CPU or powergrid output on the hull to ever online.
+Remaining resources: Filters out any module that requires more CPU, powergrid or calibration than the simulated hull has available, based on its current fit. This should help out when you're designing a tight fit.
+Skills
+When on, it will filter out all the equipment you do not have the skills to use. While in an Alpha clone state, this will filter out any modules that require Omega state
+.
+DRONES, FIGHTERS AND CARGO ITEMS
+Once in simulation mode, Drones can be added to a fit, either by double clicking them in the module browser or by dragging them to the drone icon on the lower left side of the ship in the center. To add more than one drone, you can hold down Shift when dragging a drone to the drone icon to get a pop up to specify how many you are adding or alternatively modify the number of drones after they are added by clicking on the quantity text of the drone.

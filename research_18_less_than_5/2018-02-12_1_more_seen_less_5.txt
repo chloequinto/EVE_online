@@ -1,0 +1,6 @@
+Making sure your email is secure is obviously of utmost importance.
+A good way to see if your email has possibly been compromised in a data breach is to go to:
+https://haveibeenpwned.com/
+...and check there. There is also a lot of interesting information about various data breaches they have collected on the page. Many of the breaches listed have had a direct impact on our situation. For example, anyone using a yahoo email for EVE Online would be well advised to secure the email to avoid unwanted attention from thieves looking for stuff to steal.
+We will leave you with a handy list of things you can do to keep your stuff safe from the naughty.
+Make sure your email is secure. Hijacked emails are THE way thieves get access to your stuff. Put 2FA on your email.

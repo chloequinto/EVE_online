@@ -1,0 +1,1 @@
+Unlike existing Starbase reinforcement timers, those reinforcement timers are based on vulnerability hours to operate. This is to ensure the reinforcement timer always ends during a vulnerability window, when defenders are online and committed to defend it.

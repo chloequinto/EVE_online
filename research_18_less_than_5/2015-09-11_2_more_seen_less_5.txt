@@ -1,0 +1,7 @@
+Alongside the Interceptor change in Vanguard, this change is intended to add a new tool for adjusting the balance between asymmetric attackers and defenders. It makes defending your sov structures against uncommitted attackers less of a chore.
+All Entosis capture progress for owned structures, command nodes for owned structures and online station services will regenerate towards full owner control if nobody has an active link running. This regeneration only applies when the structure is partially contested, not while reinforced.
+The pace of this automatic regeneration will be slower than active linking from defenders, but it provides another option for defenders to choose between after they have driven off their attackers.
+Under the current plans, station services that have been disabled won't regen (in any direction) until someone re-enables them. Structures and nodes with no player owner (such as recently dropped structures and freeport capture event nodes) won't regen either.
+Our currently planned numbers for the regeneration pace are as follows:
+(click to enlarge)
+An unattended capture node event will self-complete in < 196 minutes (assuming all solar systems in the constellation have been visited by at least one player since downtime)

@@ -1,0 +1,4 @@
+Based on the damage mitigation numbers above, we end up with the following HP and resistance profiles for Citadels:
+M
+L
+XL

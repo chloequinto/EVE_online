@@ -1,0 +1,8 @@
+Inactive client sounds
+Here we have the option to choose which sounds are audible when not using the actual client.
+A typical setup would be to either have the master or music always checked, especially if you are using several clients, this would allow for the music to be playing all the time, but gently fade between the clients depending on your location in space.
+Some of these are the same as the sliders; shield, armor and hull warnings affect the same areas as the sliders, but only if you leave the client. So checking the Shield Warning will make it so that you won’t hear any kind of warning sound from your shields on the clients you are not using.
+All of these have to be set individually for each client, they do follow your account, but you may want different settings for each client, so make sure they are set correctly.
+Stargates, wormholes and jumping: are all the ambient sounds and the actual jumping effect.
+So if you are auto piloting, you may not want to hear all the jumps, but if you are scouting a gate or a hole, you may want the sound specifically on, but not everything else.
+Aura: autopilot jumping, to be turned off from the client you are not using at the moment.

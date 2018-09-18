@@ -1,0 +1,5 @@
+More k-k wormholes in lowsec
+We were talking to you guys and girls at Fanfest about what you love about lowsec, and someone said “lowsec is great because it’s well connected and it makes it easy to meet new people (and kill them)”, and we thought “hey, that’s cool – maybe we can do more of that”. So, more wormholes from lowsec to other areas of k-space is a thing now.
+Armor Resistance Phasing skill now reduces cap need more
+The Armor Resistance Phasing skill  used to make cycle time reduce faster than cap need, which meant you actually needed more cap per second after training the skill. You pointed out this was unhelpful, we agreed, so we fixed it. Cycle time and cap need both reduce by 10% per level now.
+That’s it for now. Fly safe lovers <3

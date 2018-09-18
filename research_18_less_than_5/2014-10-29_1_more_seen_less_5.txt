@@ -1,0 +1,4 @@
+Unfortunately, while CSM9 has additional time for the summit, they won’t have any additional time for their actual term. Furthermore, they will be a short-term CSM as we will be announcing the new council during the keynote at FanFest 2015, which has been moved forward to March 21 to coincide with a solar eclipse here in Reykjavik.
+For all people who want to try themselves at this tough job, I will start accepting the applications for CSM10 on January, 30th and the elections themselves will happen on February, 25th.
+Don’t worry if you don’t know anything about the process, I will be publishing another dev-blog regarding the elections closer to that date. 
+Internal changes

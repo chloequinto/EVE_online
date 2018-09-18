@@ -1,0 +1,35 @@
+Dedicated to intelligence gathering.
+Service module possibilities: Being able to increase, decrease or block Star Map filters in the solar systems they’re deployed, act as solar system wide D-scan blockers, disrupt ship intelligence in the solar system, take over player tracking capabilities from NPC agents or be able to affect or pinpoint cloak users. We are considering basing their effectiveness through a network coverage (like cell phones) so that a single one may not be that useful, but maintaining a bunch of them in space could give a significant advantage.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+F.      Gates
+Structures specialized toward movement in general.
+Service module possibilities: Being able to affect warp speed in a solar system (positively or negatively), affect jump capabilities for capitals, alter ship movement inside a solar system, allow vessels to travel to other solar systems and modify wormhole spawning behavior.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+G.     Administration Hubs
+Structures affecting solar system control and ownership as a whole.
+Service module possibilities: territorial Sovereignty flag, modifiers to change the security status of a solar system, to change NPC agents spread in the solar system, to switch NPC faction control or NPC security forces.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+H.     Advertisement Centers
+Structures mainly aimed toward propaganda spreading.
+Service module possibilities: Text advertisement, billboard replacement, being used as gigantic monuments with no purpose (except to show how big your e-peen is by showing the statue of your glorious alliance leader). Could also involve frozen corpses somehow.
+Rigs** possibilities**: Anything affecting what’s above.
+4.     ACQUISITION
+We want to significantly unify and improve structure acquisition as a whole. As such they will involve:
+Acquiring the blueprint original (seeded on markets for Tech I variants). If Faction or Tech II variations are released, they will be available through loot and Invention respectively.
+Manufacturing the item from the blueprint.
+Deploying the structure in space by drag and dropping it. The interface should be clear enough to tell you if there are location restrictions and where to go to avoid them.
+We don’t want to force the user to select which group they wish to use it for before deploying anymore. Instead, we want the user to make a conscious choice after it has been deployed, and decide if they want personal, corporation, alliance or public use. That’s right, we want those structures to be used for the wider audience, so if you wish to establish your own Market Hub somewhere, make it open to everyone and set your taxes to be shamelessly expensive go right ahead. In a similar manner, if you have permission from your corporation or alliance, nothing should prevent you to deploy a structure for your own personal use.
+5.     HOUSING
+Proper housing of player items and ships is a critical must-have if we wish those structures to be used over NPC stations. As such, we have different ideas up our sleeves to make that happen.
+First, docking will still be available for the largest structures, as long as you have rights and your ship isn’t too big for this kind of purpose (we are looking at you, Supercarriers and Titans).
+For the smallest structures, or if your e-peen is too large for docking, mooring will be preferred option. Replacing forcefield mechanics, this will make your ship invulnerable and not being able to be bumped as long as you are within a specific radius of the structure. Of course, when that is the case you will not be able to interact with the outside world either. The idea for the mooring capabilitis are that they are configurable and have a finite limit, so multiple structures will be required to house particularly large fleets.
+6.     FATE OF STORED ITEMS ON STRUCTURE DESTRUCTION
+This is again a hot topic that needs to be addressed. We are currently discussing the following options:
+Wreck: when a structure is destroyed, it could leave behind a non-destructible wreck. This wreck houses all the items the structure possessed at its destruction, and only the respectful owners could salvage them back. Players docked inside the structure would still remain docked inside the wreck (and still be invulnerable to attack), but will be unable to do so again should they choose to undock. Moored ships would however become vulnerable and up for grabs by anyone.
+Containers: when a structure is destroyed, all assets are moved into special containers. A container exists for each individual that stored items in the structure, as well as corporation entities and are spread around planets. When this happens, an entry would appear on the owner journal giving a warp-in point to go to. Please note such containers would not be destructible at all, and could not be scanned until the rightful owner comes to retrieve his or her loot. The duration at which those entries would stay remains entirely dependent to the structure type and player condition when it was destroyed (logged off, account lapsed etc…). Player docked inside the structure would be spread around the solar system, while moored ships would become vulnerable and up for grabs.
+7.     MANAGEMENT
+Proper management is a priority as well, and we have given some thought on improving corporation assets and how to interact with them.
+Players with sufficient roles would no longer need to travel to individual structures to configure them
+Preset configuration profiles could be applied to multiple structures at once
+Various assets would show proper states, location and conditions at first glance
+Roles could be applied in a mail recipient fashion, where the manager only has to type names of players or groups he wishes to configure instead of scrolling through a raw table of entries.

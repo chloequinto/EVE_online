@@ -1,0 +1,14 @@
+New Mail
+When a Character’s Skill Queue is Empty
+When a Skill has completed training
+When you have a new contract assigned to you
+When a PLEX is donated to one of your characters
+When a new Corporation Vote has been initiated
+When you have been awarded a new medal
+When the CEO of your corporation has been replaced
+When a one of your corporation applications has been accepted or rejected
+When a pilot has been removed from a corporation
+When you have declared war or had war declared on you
+When you have received a new calendar invite
+You can choose to disable push alerts and visibility in the activity feed for each separate entry to make sure you only get the notifications you care about. We will be adding more notifications in the future, so let us know which ones you would find most useful in the dev blog comments thread.
+Mail

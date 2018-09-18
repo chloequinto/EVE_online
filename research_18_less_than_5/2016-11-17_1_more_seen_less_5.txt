@@ -1,0 +1,1 @@
+During the development of the fitting simulation, a number of other changes and improvement were made to the fitting window, and they can be found in the Ascension patch notes.

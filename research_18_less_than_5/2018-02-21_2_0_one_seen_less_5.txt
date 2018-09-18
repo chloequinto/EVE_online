@@ -1,0 +1,10 @@
+There are several reasons why we want to do this:
+We want to break up the EVE game server into more manageable parts and this is one of the steps that gets us closer to a Microservices Architecture.
+Text chat accounts for a significant portion of CPU use on the game server's proxy nodes.
+Running text chat as a standalone service with an industry standard protocol opens up new future of possibilities.
+Easier access to text chat logs for Customer Support.
+In the short term, this change should not affect you at all - if we did it right then you will hardly notice a change.
+In the long term, this a step towards keeping EVE alive forever, and future proofing New Eden for decades to come.
+As always, we'd love to hear feedback, so please be sure to head on over to the feedback thread for this dev blog on the official EVE Online forums.
+There'll be a more detailed blog in the coming weeks once the March release has been deployed that explains this change in more detail.
+Until then, fly safe!

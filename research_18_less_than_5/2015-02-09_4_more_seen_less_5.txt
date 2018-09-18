@@ -1,0 +1,2 @@
+Custom message with rejection mails
+Finding a character after you’ve rejected his application to send him an EVE mail with the reason why is not the greatest usability experience for our beloved players. That’s why we added an option to send a custom message with the corp rejection mail, and of course we know that you will only be sending those people love letters and kind words.

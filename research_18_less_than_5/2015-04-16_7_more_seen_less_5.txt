@@ -1,0 +1,3 @@
+DO NOT use premultiplied alpha.
+Alliance Requirements
+Alliances must be formed and active for 6 months before they are eligible to have an alliance logo approved.

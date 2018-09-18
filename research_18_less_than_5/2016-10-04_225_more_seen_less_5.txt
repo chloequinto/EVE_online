@@ -1,0 +1,4 @@
+The newly refinished Orca will be a mining powerhouse, a heavy duty ore hauler, a significant combat deterrent, and the strongest foreman burst platform available in highsec space.
+We’re listing the full stats below. Changes from the old stats will be in brackets. Take particular note of the four extra slots, huge drone damage and drone mining role bonuses, and tripling of its old ore hold volume.
+**Orca:**
+Industrial Command Ships bonuses (per skill level):

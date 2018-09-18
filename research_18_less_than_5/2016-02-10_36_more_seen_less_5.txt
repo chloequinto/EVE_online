@@ -1,0 +1,3 @@
+We have listed most of the structure modules and rigs that will be shipped in the first release in the “Building your Citadel, one block at a time” blog. Now is the time to give you more details on what those modules actually do.
+As usual, please note all names and numbers are subject to change based on time and playtests.
+Service slots

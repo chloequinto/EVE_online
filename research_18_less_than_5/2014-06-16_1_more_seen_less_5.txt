@@ -1,0 +1,3 @@
+This structure will give 25% reduction in manufacturing time, 10% reduction in manufacturing required materials and may only be anchored in low-security solar systems. It may only be used to build Capital Construction Components and Advanced Capital Construction Components.
+Skill changes:
+We are changing the Starbase Defense Management skill to only require Anchoring at 4 instead of 5, in order to ease entry of access into Starbase manual control.

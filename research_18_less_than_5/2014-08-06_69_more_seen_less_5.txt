@@ -1,0 +1,3 @@
+The new base distance would scale as high as ~14km from the wormhole for the largest ships, and the random factor for each jump would range from 2km (for a fresh wormhole) to 5km (for a crit wormhole) in either direction. The distance from a wormhole that ships must be within to jump will remain 5km as always. The potential distances for several types of common ships would be:
+Ship
+Mass

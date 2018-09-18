@@ -1,0 +1,6 @@
+Political symbolism may not be submitted for use as an alliance logo.
+Religious symbolism may not be submitted for use as an alliance logo.
+Imagery related to narcotics, drugs, slavery and other illegal activity may not be submitted for use as an alliance logo, unless these are clearly based on in game references to existing backstory, factions or organizations.
+Submission Technical Requirements
+Logos must be submitted in 512x512 resolution.
+Formats accepted are 4 channel .PNG or .TGA with three color channels and one alpha (transparency) channel.

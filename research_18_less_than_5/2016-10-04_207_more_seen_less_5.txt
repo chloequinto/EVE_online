@@ -1,0 +1,1 @@
+The Industrial Core module deploys the Rorqual into a fixed mining foreman platform and shares many of the same powerful features of the Triage and Siege modules.

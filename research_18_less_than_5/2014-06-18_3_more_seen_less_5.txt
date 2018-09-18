@@ -1,0 +1,4 @@
+Updated char/IndustryJobs and corp/IndustryJobs:
+Conforms to the new data being returned for jobs within EVE.
+To see the corp jobs you must be director, CEO, or have the factory manager role.
+This endpoint will return all running jobs and is cached for 1 hour.

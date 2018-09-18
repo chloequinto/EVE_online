@@ -1,0 +1,4 @@
+The new compass with and without overlay icons
+What the compass looks like when warping through a system
+Overlay Stacking
+We've also tried to make the system more integrated with the normal EVE UI. Therefore the overlap system and info boxes for the overlay have been retired. Instead, overlay brackets are now displayed in the same way as any other in space bracket, meaning that there now shouldn't be situations where the overlay stops you from clicking something behind it, or obscures things with its large info pane. Clicking an overlay bracket will also yield all the usual menus you would expect (Right click menu or radial menu), and some additional options have also been added to the radial menu where appropriate. Additionally, we’ve added camera tracking support to overlay locations and the ability to double click them to align your ship, just as you can with any other in space bracket.

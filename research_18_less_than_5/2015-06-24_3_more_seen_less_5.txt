@@ -1,0 +1,2 @@
+After feedback and discussion, we’ve done some magic on our code and now a wider range of objects will be broadcastable as a Warp-To:
+Mission locations

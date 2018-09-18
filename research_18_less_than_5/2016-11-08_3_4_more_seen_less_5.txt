@@ -1,0 +1,2 @@
+Activity Feed
+The activity feed allows you to see when particular events of interest occur in-game. It will also cause your phone to alert you when the event occurs with push notifications, which can be disabled for each type of event to suit the preferences of individual pilots. At release, it will list the following events:

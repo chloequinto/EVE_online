@@ -1,0 +1,4 @@
+Docking allowed for: all subcapital ships, freighters
+The required materials for building an Athanor are:
+Structure Construction Parts
+1

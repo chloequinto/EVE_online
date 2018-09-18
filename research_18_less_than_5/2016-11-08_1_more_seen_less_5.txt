@@ -1,0 +1,1 @@
+There's a new API coming to EVE, called the ESI. It's based on the OpenAPI Specification, is fully documented and will make your life easier if you choose to develop an application for EVE Online. It's been ramping up for a few months, and is currently serving up to 4.5 million requests a day.

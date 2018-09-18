@@ -1,0 +1,3 @@
+Moon Ore Stability - these rigs effect the radius of the asteroid belt created when the moon chunk is exploded, making them easier and faster to mine. They also effect the stability of the ores, increasing the time until the chunk automatically explodes and increasing the time the asteroids take to decay.
+Moon Ore Stability Rig M Tech 1 - Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%
+Moon Ore Stability Rig M Tech 2 - Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%

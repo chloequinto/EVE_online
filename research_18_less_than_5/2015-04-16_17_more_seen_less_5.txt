@@ -1,0 +1,7 @@
+Good afternoon pilots!
+Last year after a number of issues relating to the ownership of alliance logos, we placed logo submissions on hold temporarily while we reviewed our alliance logo usage policy and the submission process that players use to have their logo displayed in game.
+During the review process, we worked through several different proposals for how we could display the identity of alliances within the EVE Universe, some of which included the creation of a template system much like corporation logos, generating logos from a pre-assigned template set and color palette, and some of which relied on player created submissions.
+After a little experimentation, we feel that the best course of action is to continue to allow organizations in EVE Online to create a unique identity within New Eden by using player submitted content for alliance logos.
+For us to do this, we need to make changes to the alliance logo submission process along with the technical requirements and specifications for alliance logos that are submitted for approval. This is for a number of reasons.
+First, this is to allow members of the community to retain the ownership of their alliance logos so that usage and ownership does not fall into dispute. Second, it allows CCP to protect the intellectual property of the EVE Universe by owning all content that is included in the EVE Online client.
+With this in mind, alliance logo submissions are now re-opened, but with a few changes to the submission process and how logos are displayed in game.

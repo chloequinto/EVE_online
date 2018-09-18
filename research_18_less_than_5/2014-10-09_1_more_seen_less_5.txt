@@ -1,0 +1,10 @@
+Bug fixes
+Adding links to GM, ISD and CSM badges bringing you to the next relevant post
+External links containing ampersands should now be correctly parsed, following an external link warning
+Links containing parentheses should now be parsed correctly in cases where the URL tag isn't used
+Clicking the name of a character containing an apostrophe should correctly display the option popup
+The forum login should now correctly redirect users to the page/topic they were viewing
+RSS Feed bug fixes by CCP Avalon who just created a Twitter account
+The topics feed should now display threads in correct order, with newest updates at the top. As opposed to having only displayed threads from 2011 – 2013
+All feeds should now contain an author and datetime where applicable
+The syndication feed (viewed from Chrome) now displays author and DateTime of last update, having been the only feed/browser completely without either

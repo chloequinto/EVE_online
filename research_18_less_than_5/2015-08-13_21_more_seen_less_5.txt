@@ -1,0 +1,2 @@
+Reinforcement duration may change depending on the structure type and size – larger structures may have a reinforcement timer set to half the vulnerability window, while smaller ones may have longer reinforcement timers to give owners more time to react.
+Example:

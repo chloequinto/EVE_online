@@ -1,0 +1,2 @@
+More Camera Options
+More options for camera controls allow for increased cinematic and tactical depth. Please note that this feature is completely opt-in.

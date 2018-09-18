@@ -1,0 +1,23 @@
+CCP DeNormalized 
+FRIDAY, FEBRUARY 26TH – UNEXPECTED DATABASE DOWNTIME
+At this stage we were preparing to go live and things looked good with AlwaysOn capabilities in place and old TQ stable after the DB upgrade, which we had expected after multiple prior upgrades.
+Confidence was high but at around 19:50 GMT we started seeing errors in our SQL log backups with so-called dirty pages accumulating in memory of the SQL server.
+After a quick look we decided to take down TQ at 20:15 GMT to prevent loss of data vs. trying a live fix. So now that the server was down we could investigate properly and collaborated with Microsoft Premier Support.
+We started a “Severity A” call with them and about 30 min later we had a senior SQL engineer on Skype in a screen share session which proved to be really fast debugging situation vs slow email / phone debugging.
+After a little while we heard him say “Ahh it’s EVE! I should get back into EVE!”--great to know a capsuleer was on the other line!
+He had a pretty cool method to safely flush these dirty pages from RAM to Disk so we could essentially get them backed up--basically reducing the allocated RAM in small increments to make the dirty pages decline slowly and allow backups to continue.
+Then to be absolutely sure, we wanted to make one full backup of TQ while TQ was still in VIP so it took quite some time, pushing VIP-mode lift to 23:50.
+The root cause was hinted to be around old replication features which should not have affected anything, but as it is so often in the IT business unexpected things pop up.
+Once we had the issue under control and our dirty pages in order, we had an intensive discussion back and forth on how best to proceed.  Least risk won out and we decided to do the actual move using traditional backup and restore.
+MONDAY, FEBRUARY 29TH - LEAP DAY – THE MOVE
+Since we had opted away from SQL AlwaysON, we adjusted our timeline predictions and we were confident to make the 14:00 GMT mark.
+Everyone was in and ready for action at 08:00 GMT.  
+Following the final GO (as opposed to NO GO), the atmosphere was electric and huge excitement for the day to come. At 09:00 TQ went down for the last time in its old home.  
+Then we progressed through the services needed, feeling good about our timeline as we approached the 10:30 marker. We started TQ for the first time ran a couple of checks and took TQ then back down.
+At 11:00 we started a full stack EVE server, meaning it had all the auxiliary services like SSO, VGS, API, etc. followed by various QA tests from the development teams
+Lots of small issues were discovered and fixed on the fly, like an emergency room where we had sudden influx of patients and the OPS team and EVE Developers just operated on them by severity and one by one we got to the point where every service was in a functional state.
+The schedule was getting tight at this point, but it was clear that we did not want any quick workarounds. We wanted to do things right and if needed we would just extend the downtime.
+Which we eventually had to do at 13:30, requesting an hour.
+Shortly after that announcement things actually came together and at 14:20 GMT we started TQ in VIP with one last round of checks just to be 100% sure and then finally at 14:27 GMT we lifted VIP and it was a glorious moment when we saw the flood of players coming in…
+..and then we got quickly pulled back to earth from our celebration when the Launcher showed almost an immediate stress signal and the web sites also went really high in utilization. After a while things calmed down and logins started flow correctly then the big bang came. Not the good kind.
+BOOM TQ Database CPU went up to 100% without any warning or any indication that load was increasing, almost instant jump so what follows now is the tale of five startups: 

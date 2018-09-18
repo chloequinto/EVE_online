@@ -1,0 +1,4 @@
++18% Targeting Range
++9% Scan Resolution
++48.52% Targeting Range
++24.26% Scan Resolution

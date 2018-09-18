@@ -1,0 +1,7 @@
+With the help of capsuleers in EVE Online, however, this data becomes much more manageable and we’ve already found and eliminated several issues.
+We’ve even reached the point of sending the first batch of data off to Geneva for follow up research.
+UI2
+Initial Patterns and Problems
+At launch, we employed a "training period" system from the previous Project Discovery, where players would be presented with increasingly difficult tasks until they had solved at least one at each difficulty level.
+This was used successfully with the Human Protein Atlas without any issues. However, after launching Exoplanets on Tranquility we quickly encountered an issue where players were getting stuck in this training period because they couldn't solve the higher difficulty tasks. This would cause them to get stuck in a loop where they would only be served the higher difficulty tasks we had to offer as they had completed all lower difficulties, and they wouldn’t be able to move onto analyzing unsolved samples.
+This resulted in an extremely frustrating experience, with most players having to try and guess their way out of the training period with extremely low accuracy scores.

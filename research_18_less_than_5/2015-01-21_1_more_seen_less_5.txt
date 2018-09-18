@@ -1,0 +1,1 @@
+For autocannons of all sizes, we wanted to improve the weapon class slightly while reducing the reliance on the excellent Barrage T2 ammo type. To that end, we are increasing the base falloff of all subcapital autocannons and decreasing the falloff bonus provided by Barrage ammo to match.

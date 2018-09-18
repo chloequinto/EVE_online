@@ -1,0 +1,3 @@
+Reduces cycle time and capacitor use for local and remote armor repairers
+-8%
+-21.56%

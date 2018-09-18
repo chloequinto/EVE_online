@@ -1,0 +1,3 @@
++2% bonus to Mining Foreman Burst Strength and Duration per skill level
+Orca
+Can fit three Command Burst modules

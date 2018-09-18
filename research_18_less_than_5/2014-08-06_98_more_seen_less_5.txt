@@ -1,0 +1,7 @@
+Local shield boost amount
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%

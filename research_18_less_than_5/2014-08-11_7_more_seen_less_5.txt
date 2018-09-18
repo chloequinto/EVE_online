@@ -1,0 +1,2 @@
+Rebalanced system effects in wormholes
+Black Holes get a big update to be based fully on speed, and all other types of wormhole system effects get changes in order to make wormhole exploration and combat more interesting.

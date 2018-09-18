@@ -1,0 +1,2 @@
+Command Processor Rig
+If ship is allowed to fit Command Burst Modules, can fit +1 additional Command Burst Module

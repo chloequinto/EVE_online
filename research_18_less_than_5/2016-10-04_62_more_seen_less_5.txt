@@ -1,0 +1,2 @@
+Signature radius: 11500
+Base jump drive range: 5ly (+2.5)

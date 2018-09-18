@@ -1,0 +1,5 @@
+Medium Class
+Battlecruiser; Command Ship; Cruiser; Industrial Ship; Heavy Assault Cruiser; Heavy Interdiction Cruiser; Logistics; Mining Barge; Recon Ship; Strategic Cruiser
+Large Class
+Battleship; Black Ops; Marauder
+Capital Class

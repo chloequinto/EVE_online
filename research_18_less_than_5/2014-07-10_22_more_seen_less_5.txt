@@ -1,0 +1,2 @@
+Returns a list of running and completed jobs for your character, up to 90 days or 10000 rows.
+Modified /corp/IndustryJobs.xml.aspx (cache: 15 minutes)

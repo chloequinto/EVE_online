@@ -1,0 +1,2 @@
+Probe Scanner Interface
+The new Probe Scanner window has a sleek, polished look, bringing it in line with our UI modernization efforts.  It retains its former functionality, but has moved some things around.

@@ -1,0 +1,1 @@
+These new small ship wormholes will only originate in W-space systems, and can lead to any other W-space systems or to nullsec space. The chance of connections between the extreme ends of the spectrum (very high class to very low class and vice versa) will be somewhat lower to ensure that low-class wormholes do not become flooded with frigate fleets from higher classes.

@@ -1,0 +1,2 @@
+EVE: Citadel Expansion
+Any carrier with a triage module fitted (T1 or T2) in station, contract or ship maintenance array will be changed to a Force Auxiliary of the same faction.

@@ -1,0 +1,3 @@
+Reduces cycle time and capacitor use for local and remote shield boosters
+-8%
+-21.56%

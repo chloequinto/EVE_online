@@ -1,0 +1,2 @@
+THE JOURNAL
+The Journal is a bit of a different beast, and has served as an outlet for a lot of in game content over the years.  We wanted to make sure that we kept our efforts focused while overhauling it, so we hooked up some metric tracking to the Journal window.

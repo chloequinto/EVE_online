@@ -1,0 +1,9 @@
+The pictures below will show some examples of what the Incursion cards will look like, including a new card to host the Incursion and display the Constellation, Staging System, the Stage of the Incursion (Established, Mobilized, Withdrawing), the current level of Incursion penalties and if the Mothership is active.
+Basic:
+Expanded:
+As with Factional Warfare, with the archetype system we can now display Incursion site cards as their own content. We have also moved all the relevant information into the expanded card.
+Basic:
+Expanded:
+Epic Arcs
+Epic Arcs were included with the initial release of The Agency but with the disjointed nature of the Agent being in the Agency and the lore text being in the Journal we thought it was worth looking at if we could make a more immersive experience for players on the Epic Arcs.
+Let us introduce the new and improved Epic Arc cards for The Agency.

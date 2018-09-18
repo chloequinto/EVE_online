@@ -1,0 +1,6 @@
+Alongside the jump fatigue reductions above, we are also looking at making changes to another commonly discussed issue with jump travel. The introduction of Upwell Structures and tethering with the Citadel expansion opened new ways for capitals to move with extreme safety by jumping directly from one structure to another and receiving tethering at both the origin and the destination of the jump.
+This is a significant increase in safety compared to the previous use of starbases and we have been hearing concerns about this mechanic from the community for the last two years.
+We are currently planning a change for March that would delay tethering for a short time after a cynosural jump. This delay would not impact docking, so if a ship jumps to an Upwell Structure that is large enough for them to dock then they will still be able to dock immediately after the session change timer.
+This change would mainly impact the use of medium structures as a safe travel network for combat capital ships. For more details and to let us know what you think of this proposal we encourage everyone to check out the forum thread here.
+epjagentosis
+SOVEREIGNTY CAPTURE AND ENTOSIS LINK CHANGES

@@ -1,0 +1,3 @@
+Sensor strength: 11 Ladar
+Signature radius: 50
+Cargo capacity: 430

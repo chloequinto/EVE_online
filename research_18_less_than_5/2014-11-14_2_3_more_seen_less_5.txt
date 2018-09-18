@@ -1,0 +1,8 @@
+KILL REPORT AND CONTRACT NOTIFICATIONS
+Kill reports and contracts will be available in the new Notification system, fully configurable.
+IMPROVEMENTS TO MARKET SELL ORDER CREATION
+Following the original release of this feature in Phoebe, Rhea brings better feedback when dragging items to the sell window and a larger entry when selling single items.
+PUBLIC CREST API UPDATES FOR EVE TOOL CREATORS
+The entire item type collection from EVE becomes available in Public CREST, along with market orders for items available on the market. Go to developers.eveonline.com for news and updates on APIs and other developer tools for EVE Online.
+OLD TRIAL ACCOUNT CHARACTER NAMES FREED UP
+With Rhea, we are freeing over six million character names used on old trial accounts that never became subscribing accounts.

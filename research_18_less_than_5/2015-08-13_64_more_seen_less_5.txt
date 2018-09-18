@@ -1,0 +1,2 @@
+This phase happens periodically while the structure is working normally and has not be set into reinforcement yet.
+Players owning the structures set the vulnerability time themselves (if they have enough roles) – this can be done in advance, before deploying the structure.

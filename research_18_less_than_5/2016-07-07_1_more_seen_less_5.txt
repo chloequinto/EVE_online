@@ -1,0 +1,3 @@
+The team which starts the banning phase is decided randomly.
+All ships that are eligible for competition are eligible for banning.
+Bans are done in 1 – 2 – 1 order. For example: Team A will take the first ban, Team B will take the second and third ban, and Team A will finish the banning phase with the fourth ban.

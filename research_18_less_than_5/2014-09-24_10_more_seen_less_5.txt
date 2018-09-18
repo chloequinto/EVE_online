@@ -1,0 +1,5 @@
+Greetings, Capsuleers! 
+CCP Mankiller (never convicted) here to tell you a little bit about how we save the data for our spaceships. Now, by “data” I mean visual data only; no gameplay stats, number of high slots, drone bay volume, etc. I am strictly talking about the things you can see while in space: the materials, the lights, the decals.
+I know, I know! Most of you care more about your Dominix’s speed and armor than the color or orientation of that small Gallente decal there at the back by the boosters. Graphics are nice, sure, but EVE is about spreadsheets so I’ll make this as short as possible! ;)
+How it used to be – red files
+EVE has many spaceships. Some are very different from one another (e.g. Moros and Incursus), and others not so much (Scorpion and Rattlesnake). No matter the degree of difference between any two ships, we used to save every single ship in a single unique file known as a “red file”:

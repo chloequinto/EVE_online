@@ -1,0 +1,6 @@
+After new Upwell structures were introduced that replicated and improved upon the functionality of older structures, we would begin a gradual transition process to phase out the older technology.
+When the Engineering Complexes and industrial service modules were introduced in the Ascension expansion last year, Upwell structures reached feature parity with a large number of industrial Starbase modules. As we showed in the Fanfest keynote last week you have been taking full advantage of the new structures and have moved the majority of New Eden’s industry into Engineering Complexes:
+We now believe that we are approaching the right time to start phasing out the older Starbase industry structures and taking the next step towards eventually transitioning completely.
+The phaseout process for any Starbase structures will be a multi-stage process. We won’t be rushing things, but today we can talk about the timelines and some details for the next two steps in this process.
+In our May release we plan to end NPC BPO seeding and the building of new Starbase structures for the following Starbase structure groups:
+Starbase Compression Arrays

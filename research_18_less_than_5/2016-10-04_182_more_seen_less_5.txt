@@ -1,0 +1,6 @@
++25% Mining foreman burst strength
++150% Command burst range
+Tanking and Remote Repair Bonuses:
++120% Local shield booster repair amount
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use

@@ -1,0 +1,2 @@
+Similar to the Sickle, instead of slashing though space this beam is stationary. It neutralizes capacitor, then fires along a path, pulsing every second and doing damage to anyone who stays in its effect radius.
+Doomsday Codename: Hand of God

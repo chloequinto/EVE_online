@@ -1,0 +1,1 @@
+We initially announced a new fuel block type that would be produced from all racial isotopes, but after much internal debate we’ve come up to the conclusion this creates a certain number of issues, one of which being too much hassle to import all the materials around.

@@ -1,0 +1,3 @@
+WHEN CAN I TRY IT?
+Right now! Download it from here: //binaries.eveonline.com/EveLauncher-969236.exe
+To begin with we'll offer this new launcher as an alternative to the current one. It is still in an early state and we want your feedback before we commit to switching over. The current launcher will continue to be offered until we are fully confident that the new launcher provides a better experience for all players.

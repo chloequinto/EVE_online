@@ -1,0 +1,1 @@
+To transition old blueprints, we'll be adding 6 to ME and TE for all T2 BPCs, and then converting them according to the above scheme. Thus an un-decrypted blueprint at ME-4, PE-4 will first become ME2, PE2 and then be converted to ME-7%, PE-14%. This is a one-time windfall to make the DB scripts for the transition simpler and more robust, so enjoy it while it lasts!

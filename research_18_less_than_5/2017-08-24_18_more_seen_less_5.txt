@@ -1,0 +1,4 @@
+Greetings capsuleers!
+As outlined in the last devblog about the changes to moon mining and further details about the Refinery structures coming this winter to EVE Online, we in Team Five-0 are happy to now bring you details about the changes that will be happening to Reactions in all their forms. 
+Reactions are the industrial activity that turns moon materials into more advanced materials that can be used for a number of advanced industries, such as creating Boosters or Tech II ammunition, modules and ships. Currently, there are five different types of Reactions; each requiring a different type of module in a POS Array.
+The current schema will end with the winter release. Instead, Reactions will become EXCLUSIVE to Refineries, in both the Athanor (Medium Refinery) and the Tatara (Large Refinery). Reaction activity will be tied to Service Modules which can be fitted to either of these structures and will act just like other Upwell Services. 

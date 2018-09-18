@@ -1,0 +1,3 @@
+Hello capsuleers,
+I’m going to get straight to the point with this dev blog as I know a lot of people are going to want a straight answer after reading the title. As of early October (tentatively October 11), we will be removing the in-game browser (IGB) from the EVE client.
+This gives third-party developers over three months to move their applications over to using CREST where possible and remove any IGB functionality. For those that haven’t been keeping up to date with the development blog at developers.eveonline.com, we’ve added several functions available in the IGB to CREST:

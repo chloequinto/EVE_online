@@ -1,0 +1,3 @@
+NETWORK UPGRADE
+At this stage, we have talked a lot about fast servers with a ton of fast storage. But something needs to connect that all together and then to the place with all the funny cat pictures (the Internet). Otherwise EVE Online is not so much... online.
+Over to our Network Team for more info.

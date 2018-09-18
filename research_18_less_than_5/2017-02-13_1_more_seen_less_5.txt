@@ -1,0 +1,9 @@
+We’ll be adding a couple UI elements to the Directional Scanner window
+An icon column should hopefully help newer players
+The buttons for "Show Scan Cone" and "Align with Camera" have been moved from the Solar System map header to the Directional Scanner window
+We are also working on improving the use and feedback of the scan cone and camera inside the Solar System map.
+We noticed with the CSM that when people had the "Align with Camera" option enabled, but then went to do something else and did not realise "Align with Camera" was still enabled it would seem like the camera was broken. We are going to change how this works so when you pan the camera or click on a bracket the "Align with Camera" will be disabled.
+The scan cone appearance when "Align with Camera" is enabled has had a little touch up to improve the overall appearance and visibility when using it. 
+We have changed the color of the directional scan shape from blue to green.
+Defect Fixes
+Along with all the changes listed above, we have also been working on cleaning up as many probe and directional scanning related defects as possible.

@@ -1,0 +1,6 @@
+Market Hub: provides Market service to the structure. Cannot be fitted on Astrahus. Market orders are region wide, except in Wormhole space where they are system wide
+Cloning Center: provides medical and jump clone capabilities to the structure. Cloning Centers in Wormhole space structures will not allow players to jump clone back into the system, but can be used to swap clones around
+Reprocessing Plant: provides reprocessing capabilities to the structure
+Compression Plant: provides compression capabilities to the structure
+High-slots
+Anti-capital Launcher: launcher fitted with missiles dedicated at taking capitals and supercapitals down. Their large explosion radius and poor explosion velocity are not suited for shooting subcapital ships.

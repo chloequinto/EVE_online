@@ -1,0 +1,3 @@
+Charge types for the Mining Foreman Burst:
+Name
+Effects

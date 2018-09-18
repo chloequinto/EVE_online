@@ -1,0 +1,4 @@
+Docking allowed for: all subcapital ships, standard capital ships
+The required materials for building a Sotiyo are:
+Marines250
+Janitor500

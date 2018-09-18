@@ -1,0 +1,1 @@
+This index is then used in conjunction with job value to create a base cost. (For those of you who want to do the actual math, we suggest taking a read of this devblog.)

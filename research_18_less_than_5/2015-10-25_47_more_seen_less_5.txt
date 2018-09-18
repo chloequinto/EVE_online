@@ -1,0 +1,5 @@
+Obtaining and mastering capital ships, as well as fighting and destroying them, should be a compelling aspirational goal for players.
+Capital ships are the premier weapon for killing structures.
+Capital ships should be effective in most combat situations without completely dominating the battlefield and without invalidating other ship types.
+ROLES
+Time to reimagine and clarify capital roles. Currently, players choosing 'My First Capital' almost always chose a Carrier. They provide more utility than a Dreadnought through the use of fleet hangars, ship hangars, damage, and repair abilities.

@@ -1,0 +1,3 @@
+Warp Scramble in Effects Bar
+When you get into trouble with some bad guys, it's pretty valuable to know if they are warp scrambling you or warp disrupting you considering the differences between the modules and their ranges. We all know that, so it was about time to separate those two things in the Effects Bar and give you the information you need as you scramble for your life (yeah, I know, I also want to pod myself for that pun).
+Protip: Did you know that you can target the closest pilot applying each effect by CTRL-clicking the icons in the Effects Bar?

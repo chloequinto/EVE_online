@@ -1,0 +1,4 @@
+Improved usability for fueling structures
+The addition of the corporation insurance feature to Upwell structures
+The phase-out of legacy starbase industry bonuses
+The introduction of the new moon scanning UI in preparation for Refineries

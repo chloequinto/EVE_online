@@ -1,0 +1,7 @@
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 70km (+10) / 75 / 7 (+5)
+Sensor strength: 30 Magnetometric (+15)
+Signature radius: 1000
+Cargo Hold: 30,000 m3
+Ore Hold: 150,000 m3 (+100,000)
+Fleet Hangar: 40,000 m3
+Ship Maintenance Bay: 400,000 m3

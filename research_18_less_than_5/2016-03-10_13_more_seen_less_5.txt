@@ -1,0 +1,10 @@
+Network connectivity
+Simplicity of our footprint by moving TEST servers to Iceland
+With all that in mind, and knowing that our current contract was coming to an end on the last day of March, we set the goal to be live on the 29th of February, AKA leap day.
+Let’s start a few days before the big move to get the whole story.
+WEDNESDAY, FEBRUARY 17TH – “EVEREST” NODE BLUE SCREENED 
+After years of dedicated, solid service, the “Everest” node which was responsible for the main trade hub in the game, Jita, blue screened, and market and player activity was moved over to a less powerful node
+I just wanted to mention this event as the node had done so well for us and literally had 12 more days to go. Thankfully it recovered with a reboot and went back into action at next downtime and finished its tour of duty.
+WEDNESDAY, FEBRUARY 24TH – UPGRADING OS AND SQL 
+On Wednesday 24th of February we had an extended downtime to upgrade current TQ databases to Windows 2012 R2 Operating system and SQL 2014. For the details here is CCP DeNormalized with a little backstory…
+What has 5 members, lives in 2 buildings and spans oceans and continents?

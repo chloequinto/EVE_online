@@ -1,0 +1,3 @@
+Ship movement
+Basic combat
+Looting

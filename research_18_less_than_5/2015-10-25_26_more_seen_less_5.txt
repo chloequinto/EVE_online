@@ -1,0 +1,3 @@
+All of these modules, HP and damage will be re-balanced in accordance with structures. We're not ready to release any figures yet, but watch for more devblogs full of graphs and spreadsheets! A few quick notes...
+Existing Guns & Turrets
+These will be re-balanced to the new Capital EHP levels. They will also have their effectiveness on sub-capitals greatly reduced.

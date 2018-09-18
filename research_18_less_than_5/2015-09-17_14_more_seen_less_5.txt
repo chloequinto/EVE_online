@@ -1,0 +1,9 @@
+As mentioned in the previous blog, all structures will have warpable signatures like combat anomalies. They will also show up in space / overview whenever the player can dock inside them
+Timers related to the current state, or next available state will always be visible on the structure icon, in a manner very similar with the existing deployables. Of course, players not belonging to the corporation owning the structure need to be on grid to see them
+Some examples:
+If the structure is invulnerable, a timer will be shown counting how much time left before it is vulnerable again
+If the structure is vulnerable, it will display for how long it is going to be before becoming invulnerable again
+If the structure is being repaired, a timer also will be shown before it fully regenerates – if the timer is paused due to incoming damage this particular condition will also be displayed
+VARIATIONS, GENERAL NOTES AND YOU
+There is a certain number of special cases we wish to tackle specifically in this blog, to avoid the recurring questions we’ve had in the past.
+The current plan is for those structures not to have auto-defenses. This is still left to be debated, but we do believe existing auto-defenses on Starbases are nothing but a false promise to safety, since they are so easily abused and bypassed by attacking parties. They just give the owner a feeling of safety where none actually exists, like having a completely out-of-date firewall and anti-virus on your computer.

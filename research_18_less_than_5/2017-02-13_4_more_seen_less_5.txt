@@ -1,0 +1,4 @@
+These will show the player's base values taking into account any bonuses they are receiving from Skills, Ships, Modules, Rigs, and Implants.
+We hope that by exposing these we can increase a player’s ability to discover how they are able to improve their scanning potential.
+Scanning Difficulty
+As an attempt to improve usability, we’ve introduced the concept of scanning difficulty. This should hopefully help new players understand why they simply cannot pin down a very difficult site, as well as creating a nice reveal moment that can also help with deciding if it’s worth proceeding with the scan or not as difficulty roughly correlates with the value and risk of the site.

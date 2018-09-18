@@ -1,0 +1,4 @@
+Number of Frigates to reach damage mitigation
+10-20
+30-60
+150-300

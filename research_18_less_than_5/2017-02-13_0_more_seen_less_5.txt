@@ -1,0 +1,7 @@
+Including this one where you want to ignore a signature but you have another one selected.
+WHAT IS HAPPENING WITH THE OLD SYSTEM?
+In short, the old system is going to be removed when we are happy with the new implementation, but we are committed to this being as soon as possible.
+For the initial release we will keep the “old” system in place and replace the current system with a “brand new” system that’s the default for all new players.
+Thanks for reading and we look forward to seeing your feedback once we get this in your hands.
+Go forth and explore or hunt or both,
+Team Psycho Sisters

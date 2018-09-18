@@ -1,0 +1,2 @@
+Info Window Cleanup
+In recent releases we have been cleaning up the Show Info windows little by little. In the Rubicon expansion we grouped the four damage resistance attributes for shield, armor and structure (hull) for ships and drones, giving you a cleaner and more consistent view of them. In the Kronos release we continue with that work, and now we group the damage types, sensor strengths, as well as other resistance attributes for all items, making them easier to read and reducing the clutter in the Show Info window.

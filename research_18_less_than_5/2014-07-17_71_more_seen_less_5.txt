@@ -1,0 +1,13 @@
+1.6	All T2 small ammo, T2 mining crystals
+2	All T1 med ammo, T1 med drones, subsystems
+3	All T1 large ammo, T1 large drones, T1 lowslot/frigate modules
+3.2	T2 med ammo
+4	T1 cap ammo, capital T2 components
+4.8	T2 large ammo
+5	T2 small drones, T1 small rigs
+6	T1 medium/cruiser modules
+7	T1 deep core/strip/ice miners
+7.8	T2 small/frigate modules
+9	T1 large modules
+10	T2 med drones, T1 med rigs
+12	T1 Warfare links

@@ -1,0 +1,2 @@
+Type-D Restrained Capacitor Power Relay	1	4	-10	22
+Mark I Compact Capacitor Power Relay	1	2	-8	22

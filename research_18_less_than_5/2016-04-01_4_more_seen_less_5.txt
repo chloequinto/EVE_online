@@ -1,0 +1,1 @@
+Dynamic Exploration Route Planner (DERP): This was a great little entry. It targets a specific task and makes a minimal but very complete tool to solve the problem. Definitely something a few of us at the office will be actively using. This is the first project the author has distributed to the public, and definitely one to be proud of.

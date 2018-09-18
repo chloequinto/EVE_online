@@ -1,0 +1,5 @@
+ORBIT CAMERA
+The Orbit camera (ALT+2) is active by default when you first enter the game and is fixed on orbiting around an object in space. You can switch to a new object by performing the “Look At” command on that object. This camera is designed to give the player a somewhat cinematic feeling and try to emphasize things like scale and speed while behaving pretty similar to the old camera in other regards.
+Features:
+Dynamic Field of view (FOV), decreased as you zoom in, providing a much more epic sense of scale and a wider view angle when zoomed out for better overview of the action.
+Ship position on screen is offset based on the speed vector of your ship, giving a much improved sense of speed and trajectory.

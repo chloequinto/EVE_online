@@ -1,0 +1,1 @@
+Moon Ore Stability Rig M Tech 1 - Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%

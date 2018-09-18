@@ -1,0 +1,4 @@
+FACTION-THEMED STATIONS
+In Kronos, all stations that are owned by a NPC corporation are now recognizable in space as they are now reconstructed with the same visual identity previously only shown on ships.
+SOUND CUSTOMIZATION ON A WHOLE NEW LEVEL
+In Kronos, we want to offer players even more ability to decide their own aural experience, so we have overhauled the audio menu to allow fine grained control over different sounds in EVE. There is also added support for controlling which sounds are heard or disabled while the client does not have focus in the operating system.

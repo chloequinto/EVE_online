@@ -1,0 +1,2 @@
+However great this is, it obviously has some pretty great security concerns. You can read an article on our support page about how to verify some of these security concerns here: //support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-
+The main points to take away from this are:

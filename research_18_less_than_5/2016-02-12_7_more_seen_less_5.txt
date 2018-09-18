@@ -1,0 +1,7 @@
+Some of you may have seen preliminary stats for these ships gleaned from early test server builds. It's important to remember that making predictions from unannounced test server details is always done at your own risk.
+In particular we want to reassure wormhole players that the mass values for the Force Auxiliaries on our test servers are designed to be released alongside an increase in the maximum jump mass of the existing capital-capable wormhole connections. This per-ship mass limit increase is also designed to accommodate capitals fitting the new capital armor plates. Wormhole connections that currently allow Dreadnoughts and Carriers to pass through will continue to accommodate Dreadnoughts, Carriers and Force Auxiliaries, and will continue to disallow Supercarriers and Titans.
+There will also be corresponding changes to the stats of capital remote repair modules and triage modules at the same time. For instance, don't worry about the loss of the range bonuses on the hulls as the range will be added to the base modules to compensate.
+TRIAGE CARRIER TO FORCE AUXILIARY TRANSITION
+Force Auxiliaries are going to completely take over the old Triage role from Carriers, leaving Carriers to focus on their new offensive capabilities. As a result, we want to make sure that our transition plan accommodates all Carrier pilots. Here’s how we’re planning to handle it:
+February Release
+We seeded Light Fighter and Support Fighter skills. You can begin training them immediately in preparation for the expansion!

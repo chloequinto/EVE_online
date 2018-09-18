@@ -1,0 +1,2 @@
+High Angle Weapon Batteries
+New rapid firing anti-sub-capital weapon batteries are specifically designed to fire at sub-capitals. However their damage will be considerably lower than current XL weapon systems (in the 1 to 2k DPS range on a Sieged Dreadnought). They are short range guns, and their tracking will probably be somewhere in the battleship gun range.

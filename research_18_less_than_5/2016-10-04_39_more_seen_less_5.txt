@@ -1,0 +1,3 @@
++120% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
++100% Drone damage and hitpoints

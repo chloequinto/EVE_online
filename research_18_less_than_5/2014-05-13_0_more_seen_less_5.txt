@@ -1,0 +1,4 @@
+(In animated format)
+This work has been built up from some initial A/B testing efforts and then a deeper dive into how tooltips and other contextual information can benefit all players and assist in crafting a much better new player experience.
+This is the only just the beginning and we have plans to considerably extend the scope of new tooltips in EVE and to offer advanced tooltips in the future. We hope these improvements are useful to you all as you navigate your way around the many opportunities New Eden has to offer.
+@CCPDelegateZero

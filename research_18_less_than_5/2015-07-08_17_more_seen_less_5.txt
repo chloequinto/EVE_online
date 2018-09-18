@@ -1,0 +1,11 @@
+This blog!
+Final blog summarizing the new capture system in one place.
+Unlike yesterday’s blog which covered quite a few disparate topics, today’s blog will be focused on changes to PVE and system upgrades. We’ll discuss the changes made earlier this year, the changes planned for the big deployment on July 14th, and begin some discussions on changes we’re working on for later this year.
+Looking back at the Mosaic changes
+Coming in July: Pirate Detection Array
+Coming in July: Survey Networks and Entrapment Array
+Coming in July: Nullsec and Lowsec Incursions
+Coming in July: Nullsec Wormhole Connections and the Quantum Flux Generator
+Looking to the future: More comprehensive Activity Defense Multipliers
+Looking to the future: Encounter Surveillance System
+Looking to the future: Dedicated group PVE from Infrastructure Upgrades

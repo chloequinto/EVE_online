@@ -1,0 +1,29 @@
+To support the new Ice Harvesting drones, we are adding functionality to the whole line of Drone Mining Augmentor rigs. They will now also reduce Ice Harvesting Drone cycle time by 10% (15% for the T2 rigs).
+It’s worth noting that we are not adding any Mining Foreman Bursts that impact mining drones at this time. The drone mining bonuses on the mining foreman ships are extremely strong and we believe that extending the impact of the Mining Foreman Bursts would potentially take them too far.
+Now that we’re covered the new Mining Foreman Burst and Mining Drone changes, let’s get to the details of the ships that will be using them!
+MINING FOREMAN SHIPS
+In the November expansion we are planning huge buffs to the existing Orca and Rorqual mining foreman ships, as well as adding a new inexpensive and mobile Industrial Command Ship to fill out the lower-end of the progression. Each of these ships hits a different price point and have significant differences in mobility and access to different areas of space.
+As you’ll remember from the start of the blog, we’ve divided the Mining Foreman ship progression into four stages:
+The new affordable and mobile Porpoise-class Industrial Command Ship
+The Orca-class full-sized Industrial Command Ship
+The Rorqual-class Capital Industrial Ship – without the Industrial Core module active
+The Rorqual – with the Industrial Core module running
+I’ll cover each of these ships individually in the following section, with specific focus on how each ship fulfills each of the three pillars of mining foreman gameplay.
+INTRODUCING THE PORPOISE
+(Click image for a larger version)
+Porpoise Feedback Thread
+The Porpoise-class Industrial Command Ship is the most affordable and mobile mining foreman platform ever released in New Eden. This new ship fills the hole at the bottom of the mining foreman ship progression line. Although it shares a group with the larger and more expensive Orca, the Porpoise is as cheap as a tech one battlecruiser.
+Thanks to ORE’s tireless work advancing hull materials technology to reduce mass, the Porpoise is light enough to travel through small-ship wormhole connections.
+This new ship should be perfect for mining operations in more dangerous space where lower cost ships minimize exposure to loss for the operation. It’s improved agility and warp speed also make it the best choice for providing coverage of mining groups at multiple locations with one ship.
+**Porpoise:**
+Industrial Command Ships bonuses (per skill level):
+5% bonus to ship cargo capacity and ore hold
+2% bonus to Mining Foreman Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:
+50% bonus to drone mining yield
+400% bonus to Remote Shield Booster optimal range
+90% reduction in powergrid requirements for Mining Foreman Burst modules
+90% reduction to effective distance traveled for jump fatigue
+Can fit two Command Burst modules

@@ -1,0 +1,4 @@
+Spodumain: 300000
+Medium:
+Arkonor: 28000
+Bistot: 38700

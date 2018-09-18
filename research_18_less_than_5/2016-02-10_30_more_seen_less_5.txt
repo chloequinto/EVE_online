@@ -1,0 +1,6 @@
+Since fuel costs are tied to individual service modules, it will be possible to consume more than existing Large Control Towers, or less than Small Control Towers depending on which activities are available. Below is a list of the four service modules we intend to ship with the Citadels and their associated fuel costs.
+Service Module
+Onlining cost
+Recurring cost
+Market Hub
+2880 fuel blocks

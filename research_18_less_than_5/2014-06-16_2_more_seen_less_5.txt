@@ -1,0 +1,3 @@
+Whole and single items will not be affected by this calculation. This is most relevant for Tech I items required to manufacture Tech II variations. For example, building 10 Paladins will not require 9 Apocalypse if you have a 10% ME.
+Thukker Component Assembly Array
+As we mentioned some time ago, we are also going to introduce a new type of Component Assembly Array to help low-security Capital ship builders to compete with the reprocessing changes.

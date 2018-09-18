@@ -1,0 +1,4 @@
+Items in cargo bay with amount(i.e., Antimatter Charge M x1)
+Here is a truncated example fit:
+Tengu, my random Tengu fit
+Internal Force Field Array I

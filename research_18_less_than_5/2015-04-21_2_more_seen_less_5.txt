@@ -1,0 +1,8 @@
+As an addendum, there are a few ships we would like to convert over in the future, and will be doing so in subsequent releases.
+The Rattlesnake Victory Edition has some technical issues with the underlying model, but once those are sorted it will be converted to a SKIN.
+The Capsule - Genolution 'Auroral' 197-variant is currently created from an implant (Genolution 'Auroral' AU-79) in a very specific and roundabout way. This will be removed in the future in favor of standardizing it with the rest of the ships as a capsule SKIN.
+NEW SHIP SKINS COMING TO THE NEW EDEN STORE
+Below is a list of all new SKINs which will be added to New Eden. All of the SKINs below will be available for purchase from the NES and can be resold on the market. If you are interested in purchasing Aurum in order to purchase SKINs from the NES, this can be done from the account management website.
+ClassRaceSkinPricePreview
+FAQ
+We would like to address some common questions which have been asked over the course of developing the SKINS feature:

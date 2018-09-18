@@ -1,0 +1,4 @@
+It will no longer be possible to online Entosis Links on Interceptors
+We've been observing activity closely since the Aegis release, and after internal discussion and thought we have decided to propose a restriction on Entosis Links for Interceptors. We continue to be committed to leaving the maximum possible player choice and allowing strong options for asymmetrical warfare, however we think this restriction will help encourage greater variety of ships in Entosis gameplay and create more interesting combat opportunities. We'll be closely watching the results of this change and we are leaving all options open for future changes, including potentially adding more restrictions or even rolling back these changes depending on the observed results.
+****
+Parallax Release (November 3rd)

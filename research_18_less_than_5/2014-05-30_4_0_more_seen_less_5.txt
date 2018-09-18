@@ -1,0 +1,8 @@
+The Audio Conclusion
+These settings are here to help you get a better audio experience when playing EVE and exert more control over the sounds of the game when multiboxing.
+The system will be under constant development and if something is unclear, a slider doesn’t do what you would expect it to do or an inactive client checkbox does not respond in a way you would expect it to, let us know and we will continue to work on it.
+This is the first step of many towards a better sounding EVE Online experience.
+We at Team Klang hope that you enjoy this new feature and use it to its full potential. Join the discussion on the forums and help us by telling us what you would like in the game. We cannot guarantee that your specific needs are fulfilled, but this system is the product of many hours of discussions with players and others and the combination of many ideas and prototypes spawned only because players, as yourself, said you wanted something different.
+All the best from Team Klang
+Cheers,
+@CCP_WhiteNoiseTrash

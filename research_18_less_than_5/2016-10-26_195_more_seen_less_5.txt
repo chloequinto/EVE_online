@@ -1,0 +1,5 @@
+Increases armor hitpoints
++8%
++21.56%
+Name
+Effects

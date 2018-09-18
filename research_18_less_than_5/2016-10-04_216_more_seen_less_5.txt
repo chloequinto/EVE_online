@@ -1,0 +1,3 @@
+250% bonus to Tractor Beam range
+100% bonus to Tractor Beam velocity
+500% bonus to Survey Scanner range

@@ -1,0 +1,1 @@
+For Survey Scanners, the only thing that really matters there is the range. So we’re going for one named variation, focused on range and called Scoped Survey Scanner.

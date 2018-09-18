@@ -1,0 +1,2 @@
+Discussion thread
+This upcoming March release will also include a set of tweaks to the Entosis Link module and to sov capture events. The primary goals of these changes are to shake up the sov combat metagame and give players new gameplay options to optimize and master.

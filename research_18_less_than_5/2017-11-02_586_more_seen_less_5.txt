@@ -1,0 +1,2 @@
+SUPPORTING CHANGES
+We are making one other very important change to the way Alpha Clones work in this release to support the expanded skill set: Free Alpha Skill Training will stop when a character reaches 5 million total skill points.

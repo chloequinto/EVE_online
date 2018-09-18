@@ -1,0 +1,1 @@
+For those of you wanting to see the votes themselves, they can be found here, alongside the code (in Python) used to run the election. The election is run using the same system as last year, the Wright STV system. More details on the formatting of the .blt file can be found here in section 3.1.

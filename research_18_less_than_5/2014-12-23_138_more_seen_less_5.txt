@@ -1,0 +1,2 @@
+NameMetaPowergrid UsageCPU UsageCPU Penalty (%)Mining Amount Bonus (%)
+Mining Laser Upgrade I0130105

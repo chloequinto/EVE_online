@@ -1,0 +1,3 @@
+Bombs; Crystals; Hybrid Ammo; Missiles & Rockets; Projectile Ammo
+Capacitor Boosters
+None

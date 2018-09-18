@@ -1,0 +1,4 @@
+The mail icon opens up mail for the currently selected character, allowing you to see all mails that they have received, including corporation and alliance mails. You can also compose new mails, with the “To:” field featuring character name matching similar to the client. Mail arrival can also trigger phone notifications, so you’ll know any time someone sends you fan mail.
+Calendar
+The calendar allows you to see upcoming events for the currently selected character. This includes personal, corporation and alliance entries. You can also accept, decline or tentatively accept invitations on the calendar. This is an especially useful feature for smaller corporations or alliances as it allows them to broadcast events to their members and get responses, even if they’re offline.
+Store

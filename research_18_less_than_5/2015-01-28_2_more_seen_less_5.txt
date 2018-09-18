@@ -1,0 +1,6 @@
+Atmosphere Sounds for Pirate Faction Structures
+New sound atmosphere is added to Pirate Faction structures in sites and mission locations.
+Firing Aftershock Sound for Turret Weapons
+Turret weapon firing sound effects become richer in Tiamat through the addition of aftershock sound for individual shots.
+Audio Engine Performance Improvements
+An upgrade of the audio engine brings performance improvements to the EVE client as a whole in Tiamat.

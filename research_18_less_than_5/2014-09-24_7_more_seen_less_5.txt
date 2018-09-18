@@ -1,0 +1,1 @@
+Scorpion: model/ship/caldari/BattleShip/CB2/CB2_T1.red

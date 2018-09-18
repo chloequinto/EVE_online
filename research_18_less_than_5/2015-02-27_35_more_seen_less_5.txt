@@ -1,0 +1,4 @@
+10% bonus to Drone hitpoints and damage becomes 10% bonus to Light, Medium, and Heavy Drone hitpoints and damage, 5% bonus to Sentry Drone hitpoints and damage
+During this analysis we noticed that Bouncers are a lot more popular than other sentry types so we’re going to adjust their range slightly
+All bouncers Optimal Range reduced by approximately 15%, falloff increased by the amount taken away from optimal, details here
+THOSE GOSH DARN TENGUS

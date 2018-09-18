@@ -1,0 +1,2 @@
+What are the planned changes?
+As announced: Fleet Commanders, Wing Commanders and Squad Commanders will only be able to fleet-warp to public objects and other fleet members. This means you cannot fleet-warp to the following:

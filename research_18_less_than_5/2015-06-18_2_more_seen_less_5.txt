@@ -1,0 +1,2 @@
+Improve drone distinction
+Another common feedback was the drone icons were still too complex and easily confused with ships. We’re also looking at ways to make drones on grid easier to separate from ships at a glance.

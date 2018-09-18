@@ -1,0 +1,4 @@
+Charge types for the Shield Command Burst:
+Name
+Effects
+Base Bonus

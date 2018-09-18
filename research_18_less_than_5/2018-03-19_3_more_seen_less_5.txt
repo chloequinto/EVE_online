@@ -1,0 +1,1 @@
+To help you better distinguish it from the normal radial menu, this one is tinted in the fleet color (usually purple). This radial menu will allow FCs to broadcast their commands, such as target, warp to and align to. In addition, it allows normal squad members to broadcast for reps, either by activating the menu on themselves or their ship, or by activating it in empty space.

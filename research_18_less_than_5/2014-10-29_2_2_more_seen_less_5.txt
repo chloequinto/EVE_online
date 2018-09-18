@@ -1,0 +1,2 @@
+This is not an exhaustive list of all the states or tooltips. We’ll have that in the patch notes, so check them out when they are published for more details.
+The mission system is an old bastard in many ways and creating a generic system to cover all the ancient snowflakes still floating around in it is far from easy. So while the Mission Objective Guidance system does cover the vast majority of missions, there are a few for which we can only give very vague hints. Often, this means simply telling the player to refer to the Journal for further information.

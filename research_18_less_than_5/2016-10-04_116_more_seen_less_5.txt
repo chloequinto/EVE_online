@@ -1,0 +1,3 @@
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+MINING DRONES REVISITED
+Mining drones have been a part of New Eden since the earliest days of EVE Online, but were generally eclipsed when Mining Barges and later Exhumers were added, increasing the mining yield baseline. The mining foreman ships will be receiving significant bonuses that make mining drones excellent options on those ships, and this has provided us an opportunity to flesh out the line of mining drones and mining drone skills.

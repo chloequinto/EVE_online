@@ -1,0 +1,1 @@
+'Basic' Power Diagnostic System	6	8	5	2	5	2.5	2

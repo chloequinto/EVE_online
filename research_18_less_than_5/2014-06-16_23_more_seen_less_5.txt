@@ -1,0 +1,1 @@
+Control Towers will no longer require faction standings to be anchored in high-security space. Moreover, Control Towers will now be anchorable in previously restricted solar systems like 0.8 and above.

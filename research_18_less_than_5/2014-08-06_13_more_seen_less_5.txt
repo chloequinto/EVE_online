@@ -1,0 +1,1 @@
+This change should go a long way to make the lives of AUtz wormholers much easier as they will no longer need to rescan every signature in their wormhole chain after each downtime.

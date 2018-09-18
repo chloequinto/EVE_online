@@ -1,0 +1,1 @@
+If the structure is being repaired, a timer also will be shown before it fully regenerates – if the timer is paused due to incoming damage this particular condition will also be displayed

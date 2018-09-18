@@ -1,0 +1,4 @@
+system_activity_index is the index we’re creating, the formula is:
+This index is then used in conjunction with job value to create a base cost. (For those of you who want to do the actual math, we suggest taking a read of this devblog.)
+Job value is based on the item or blueprint that represents the primary output of the job. For manufacturing, this is the value of the inputs required to build that output item, so for pretty much all build jobs it's the value of the job's input.
+For copying and ME/TE research, this is fairly straightforward: it's 2% of the inputs for a job using that blueprint.

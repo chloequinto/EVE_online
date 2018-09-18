@@ -1,0 +1,8 @@
+10 MODULE GROUPS REBALANCED
+In a substantial package of balance changes that are part of the "Module Tiericide" project, the following modules groups will see changes: Capacitor Rechargers, Capacitor Power Relays, Power Diagnostics Units, Mining Lasers, Mining Laser Upgrades, Expanded Cargoholds, Nanofiber Internal Structures, Reinforced Bulkheads, Inertial Stabilizers and Overdrive Injectors. Threads for feedback will be posted in the Features & Ideas forum.
+NEW VISUAL EFFECTS IN ASTEROID BELTS
+Originally scheduled for Rhea, new dust effects, light rays, and rock fragments will be added to asteroid belts in Proteus to create a more immersive experience.
+NEW FEATURES FOR THE BETA STARMAP
+The new star map released as an opt-in feature in Rhea will see several updates. Additions likely to make it into the Proteus release are things like a standalone system view, probe scanning support, directional scanning cone visualized in the system view and mouse-over information on stars, planets and moons.
+SMALL SCALE MINING ANOMALIES IN STARTING SYSTEMS
+To make sure there are enough mining opportunities in starter and career agent systems, Proteus will bring a new kind of small scale ore anomalies suitable for young capsuleers.

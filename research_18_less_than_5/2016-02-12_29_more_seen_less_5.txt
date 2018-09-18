@@ -1,0 +1,2 @@
+When activated, pushes the hull resists to 99% for 20 seconds. However, it burns out after cycling once. This module is a type of Damage Control, so you will have to decide if you want an Emergency Hull Energizer or standard Damage Control. 
+Heavy Stasis Grapplers

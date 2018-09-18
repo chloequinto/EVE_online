@@ -1,0 +1,4 @@
+PILLAR #3: STRUCTURE COMBAT OVERHAUL
+The third major pillar of this Upwell structure revamp is the largest set of structure combat balance changes since the introduction of Citadels. Combat alongside, against, and near Upwell structures is an important part of the EVE metagame and it needs continued iteration to ensure that the experience is the best it can be.
+The key goals of these changes are to make structure combat more interesting and enjoyable for structure gunners, structure defenders, and structure attackers. This means focusing on mechanics that provide players with choices and opportunities to display their skill, and that have effective counterplay available.
+**Superweapons**

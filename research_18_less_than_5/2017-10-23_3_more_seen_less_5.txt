@@ -1,0 +1,1 @@
+Each piece of content is going to have a basic card that will appear as a list on the left of the window.

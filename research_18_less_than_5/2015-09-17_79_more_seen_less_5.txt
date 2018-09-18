@@ -1,0 +1,4 @@
+Number of Dreadnoughts* to reach damage mitigation
+1
+2-4
+10-20

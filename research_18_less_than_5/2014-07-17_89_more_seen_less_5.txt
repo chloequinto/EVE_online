@@ -1,0 +1,1 @@
+The base component of pricing is the system activity index. This value is tracked per activity (Manufacturing, Copying, ME research, TE research, Invention, Reverse Engineering), per system, so Jita will have a separate index for each of the six job types.

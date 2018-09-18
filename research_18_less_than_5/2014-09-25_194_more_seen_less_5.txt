@@ -1,0 +1,8 @@
+Compact Reactor Control Unit
+1.12
+16
+1
+Reactor Control Unit II
+1.15
+22
+5

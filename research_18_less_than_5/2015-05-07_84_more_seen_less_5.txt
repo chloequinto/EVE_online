@@ -1,0 +1,4 @@
+25km range
+Fitting requirements: 10 PWG, 1 CPU
+Capacitor use: 50 Capacitor per cycle (0.1666 cap/s)
+Consumes 1 unit of Strontium Clathrates per cycle

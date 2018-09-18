@@ -1,0 +1,3 @@
+High level:
+There will be a new item type called ‘Transneural Skill Packet’ that can be consumed to give any character unallocated skillpoints
+A Transneural Skill Packet is created by extracting some of your trained skills and combining them with a ‘Transneural Skill Extractor’ which can be purchased in the New Eden Store for Aurum (The Transneural Skill Extractor is analogous to the PLEX service fee in the character bazaar).Both Transneural Skill Extractors and Transneural Skill Packets can be freely traded on the market for ISK

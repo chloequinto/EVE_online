@@ -1,0 +1,8 @@
+100% bonus to Tractor Beam range
+50% bonus to Tractor Beam velocity
+300% bonus to Survey Scanner range
+Slot layout: 4H, 4M, 2L
+Fittings: 420 PWG, 350 CPU
+Defense (shields / armor / hull) : 6000 / 3000 / 8000
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10

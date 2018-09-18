@@ -1,0 +1,4 @@
++24.26% RSD/WD Resistances
+Charge types for the Skirmish Command Burst:
+Name
+Effects

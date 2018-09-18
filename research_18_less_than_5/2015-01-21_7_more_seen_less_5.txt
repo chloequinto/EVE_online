@@ -1,0 +1,3 @@
+Fittings: 78 PWG, 215 CPU
+Defense (shields / armor / hull) : 800 / 700 / 550
+Base shield resistances (EM/Therm/Kin/Exp): 50 / 40 / 40 / 50

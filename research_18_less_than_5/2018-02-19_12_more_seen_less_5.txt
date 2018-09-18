@@ -1,0 +1,2 @@
++20 maximum velocity
+-750,000 mass

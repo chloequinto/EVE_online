@@ -1,0 +1,2 @@
+Manufacturing (Nullsec conquerable)	0.6	0.8
+Caldari Research Outpost	0.6	0.5

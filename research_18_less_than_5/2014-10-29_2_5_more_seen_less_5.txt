@@ -1,0 +1,4 @@
+This icon is then updated when the player does something that progresses the mission to a new state. Here is another icon example:
+![](//content.eveonline.com/www/newssystem/media/66622/1/kill.png)
+When a mission is completed, the icon changes to the mission complete icon:
+![](//content.eveonline.com/www/newssystem/media/66622/1/complete.png)

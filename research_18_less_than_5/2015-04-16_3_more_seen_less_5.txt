@@ -1,0 +1,3 @@
+Name of the executor corporation.
+Name of the alliance for which the logo has been submitted.
+The logo should be sent as an attachment to this email with formatting as detailed in “Submission Technical Requirements”

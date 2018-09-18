@@ -1,0 +1,6 @@
+BETA OPT-IN!
+We here on Team Lopapeysa are not only excited about the feature itself, but also the way we get to release it. Rather than pushing back a release to allow time for us to tune and polish based only on feedback from testers on Singularity, we are going to ship it to Tranquility and give you the option of turning it on. There’s a few great things about doing it this way:
+We will (hopefully) get a lot more exposure than we would on Singularity which means more feedback
+Players choosing to try the feature will be getting realistic amounts and types of notifications so their feedback and our data will be more accurate and informative
+If there’s anything wrong with the feature, we don’t have to worry about it negatively affecting the entire player base before we get a chance to make changes (hello tooltips)
+So, after Oceanus has launched, if you want to try the new notifications (and we would really appreciate if you did), just open the ‘general’ tab in the ESC menu and click the box to activate new notifications.

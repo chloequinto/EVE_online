@@ -1,0 +1,6 @@
+Quality Settings for Sun Flares
+Tiamat brings quality settings to sun flares, improving performance by providing a less resource-intensive version of the effect on lower quality settings.
+Atmosphere Sounds for Pirate Faction Structures
+New sound atmosphere is added to Pirate Faction structures in sites and mission locations.
+Firing Aftershock Sound for Turret Weapons
+Turret weapon firing sound effects become richer in Tiamat through the addition of aftershock sound for individual shots.

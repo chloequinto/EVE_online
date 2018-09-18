@@ -1,0 +1,2 @@
+THE NEW PROBLEM
+Having adjusted our math to emulate better the behavior of light and materials in the real world, we plug those equations into EVE and everything is suddenly perfect, right?

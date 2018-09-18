@@ -1,0 +1,1 @@
+Reinforcement timers last for a specific amount of vulnerability hours:

@@ -1,0 +1,3 @@
+Howdy Ishtar lovers
+Although us balance-oriented folks have been very busy working on things like the NPE and Sov (!?), we took some time aside to put together a high-impact pass for Scylla (March 24) and I want to tell you about it!
+As always, we are reading your feedback, monitoring spaceship trends in New Eden and doing retrospectives on our past changes. Based on those channels, I want to go through some of issues that we feel warrant change and also discuss one that we feel doesn’t.

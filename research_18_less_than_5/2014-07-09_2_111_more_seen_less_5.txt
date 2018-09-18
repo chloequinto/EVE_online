@@ -1,0 +1,7 @@
+Extra Cheese
+We added more types of teams in addition to manufacture teams, so in Crius there will be teams for time research, material research and copying. Invention teams are part of the invention changes coming later.
+We added tooltips, notifications and wallet entries relating to the industry landscape (teams, costs, etc.), so players have a better understanding of what is going on and how to do things.
+We added API support, giving third party tools the data required for active teams, teams in auction and so on.
+We added filtering options in the starmap, allowing players to filter by industry activity and cost. This helps greatly in giving players an overview of what is happening where.
+(click image for a larger version)
+We will be monitoring how people use the bidding system and listening to feedback to see if it will require us to do any further iterations on it.

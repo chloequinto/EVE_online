@@ -1,0 +1,5 @@
+15	T2 large drones, proto cloaks, T1 large rigs
+15.6	T2 med/cruiser modules
+18.2	T2 strip/deep core/ice miners
+20	T1 frigates, T1 capital rigs
+23.4	T2 high/bs modules

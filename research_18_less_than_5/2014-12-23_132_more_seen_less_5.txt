@@ -1,0 +1,2 @@
+NameMetaPowergrid UsageCPU UsageCPU Penalty (%)Cycle Time Bonus (%)
+Ice Harvester Upgrade I013010-5

@@ -1,0 +1,3 @@
+Cap Warning: low capacitor warnings.
+Remember that the shield, armor, hull and cap thresholds for when you want to be warned can also be adjusted in the center UI menu, to the left of all your modules.
+Atmosphere: the atmospheric sounds of CONCORD, asteroid belt wind and similar.

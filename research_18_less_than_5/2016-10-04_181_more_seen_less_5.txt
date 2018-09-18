@@ -1,0 +1,6 @@
++100% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
++80% Drone damage and hitpoints
++25% Drone MWD speed
++400% Drone mining yield
+-75% Drone ice harvesting duration

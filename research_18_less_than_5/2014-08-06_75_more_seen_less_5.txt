@@ -1,0 +1,1 @@
+This change is intended to ensure that all attempts to control the local wormhole environment are open to risk of player disruption. We are not satisfied with how easy and safe it is to close wormholes that could potentially allow other players to interact with W-space operations, as the risk of player interaction should always be the main source of tension and danger in W-space.

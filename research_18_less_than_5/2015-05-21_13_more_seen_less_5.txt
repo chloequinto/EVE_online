@@ -1,0 +1,4 @@
+What’s the Point?
+As before, this project has required special attention to ensure that everything is just right. Artists adjusted, redrew, or repainted every map. Tech Art provided tools to repack and republish the .dds files
+We are confident to the edge of hubris that capsuleers across New Eden will enjoy touring the stars in these fully operational V5++ ships. That said, the opinions of the EVE Online community are the true test. We look forward to reading comments, feedback, and questions on the forums and will happily investigate defects submitted via the in-game bug reporting tool.
+But before storming the forums, please login to the Singularity test server and give your favorite hull a spin or two. Better yet, undock with it and explore the far reaches of your local planetary system. To quote a great leader and personal hero of mine:

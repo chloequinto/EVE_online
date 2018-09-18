@@ -1,0 +1,4 @@
+Rattlesnake: model/ship/caldari/BattleShip/CB2/Guristas/CB2_T1_Guristas.red
+The problem here is that the actual content of CB2_T1 and CB2_T1_Guristas is almost identical! Even when you compare GDn1_T1 and GF4_T1 you’ll find some similarities; the decal setup, for example, since both are Gallente ships.
+Maintaining this kind of redundant data is bad practice and leads to inconsistencies between our ships. Plus it is a nightmare to work with. If we wanted to change the colored tint of the Sarum glow lights for example we would have to open, edit, save and QA the red files for every Sarum ship!
+On top of all this: how would this red file system work with ship customization? The answer is simple: it wouldn’t!  And we know from years of Fanfests and trial blueprint offerings just how much our pilots want ship customization. “Spreadsheets” be damned we say! So we had to come up with something new…

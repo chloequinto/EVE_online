@@ -1,0 +1,1 @@
+Moon Drilling Proficiency Rig L Tech 2 - Volume/time up by 2.4%, Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%

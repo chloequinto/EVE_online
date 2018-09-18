@@ -1,0 +1,2 @@
+Operations	Manufacturing output multiplier	Research output multiplier
+Amarr Factory Outpost	0.5	0.6

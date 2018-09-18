@@ -1,0 +1,4 @@
+Slightly improved hitpoints and agility
+37.5% reduced mass to match ORE’s commitment to improved wormhole utility
+23% more capacity for the Bowhead’s Ship Maintenance Bay
+TL:DR

@@ -1,0 +1,5 @@
+Flag exempt from fleet warp
+A thing that has annoyed me greatly when I‘m rolling in my Titan is when I accidentally take fleet warp. So we have now added a feature benefitting all those Titan pilots out there (okay, also scouts and people flying interceptors as well as just any other people who like to be in charge of their own warping), where you can flag yourself exempt from fleet warp.
+We discussed how to do this in the best possible manner with the CSM and agreed on not adding more work for the fleet commander and letting individual pilots manage this for themselves. In the top left settings menu you now find a setting to flag yourself exempt from fleet warp and that will add an icon to your entry in the fleet menu visible to everyone. That makes it easier to explain to the cute little newbies why they didn‘t follow into warp. 
+This also means that a pilot with roles to fleet warp a bunch of people can set themselves exempt from the fleet warp and just warp their fleet/squad/wing.
+And yes, because I know you‘re going to ask: the default setting will be that you take fleet warp.

@@ -1,0 +1,2 @@
+When drones have been added, they can be marked as being active by clicking on the drone icon, and check the checkboxes on each of the drone types. This allows you to see how your damage output changes with different drones. We have also added a tooltip to each of the drone types, give you important information about the drone, taking your skills into account.
+In order to allow you to save fits with charges, fuel and fighters, you can add them in the same way as drones, except by dragging them onto the cargo and fighter icons in the fitting window.

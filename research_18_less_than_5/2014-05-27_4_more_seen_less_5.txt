@@ -1,0 +1,2 @@
+Highlighting in Personal Assets
+A while ago we added yellow highlighting to market orders to show which ones were at a station in a solarsystem on your current autopilot route. You have asked us to do something similar for Personal Assets and, when noobing around on Tranquility, I too have often really wished it was a thing. So in the Kronos release we are delivering that to you. An added bonus is that now you can drag the stations from Personal Assets and link them in chat.

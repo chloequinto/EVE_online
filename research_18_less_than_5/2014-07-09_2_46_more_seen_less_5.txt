@@ -1,0 +1,2 @@
+Starbase Core; Starbase Weapons; Starbase Defense; Starbase Processing; Starbase Production; Starbase Storage
+Deployables

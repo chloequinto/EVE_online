@@ -1,0 +1,8 @@
+33.3% bonus to all shield and armor resistances while Defense Mode is active
+66.6% reduction in Microwarpdrive signature radius penalty while Defense Mode is active
+Propulsion Mode:
+66.6% bonus to maximum velocity while Propulsion Mode is active
+33.3% bonus to ship inertia modifier while Propulsion Mode is active
+Sharpshooter Mode:
+33.3% bonus to Small Projectile Turret tracking while Sharpshooter Mode is active
+100% bonus to sensor strength, scan resolution and targeting range while Sharpshooter Mode is active

@@ -1,0 +1,1 @@
+All reprocessing rigs (M, L and XL) will be unfitted from their current locations and placed in the Corp Deliveries hangar of the structure in which they are located. The owners of the structure will then be able to decide if they wish to keep them in their current location or move them to a new Refinery once it has been built

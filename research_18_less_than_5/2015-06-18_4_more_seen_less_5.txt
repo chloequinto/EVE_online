@@ -1,0 +1,2 @@
+Next Steps
+The new icons brought major change to the way in-space entities are represented in EVE’s UI, but we’ve also identified several areas of improvement thanks to your feedback. Here are the top items on our list to tackle:

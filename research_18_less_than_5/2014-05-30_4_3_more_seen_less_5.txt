@@ -1,0 +1,26 @@
+Advanced Audio Settings
+The advanced audio settings can be switched on and off by clicking the checkbox at the very top, offering even more customized control of sounds.
+Most of the sliders names are self-explanatory, but I will go over them here with you:
+Turrets: The sound of your and other players’ turrets firing.
+Impacts: The sound of the damage done when you or others are hit by enemy fire.
+Stargates: The sound of the stargates in between systems.
+Wormholes: The ambient sound around wormholes, also the sound of its state and stability.
+Jump Activation: The actual jump sounds, be it yours or others – so if you are scouting a wormhole or a gate, you would most likely want this on.
+Crimewatch: The timer in the upper left corner when you have been naughty or have been attacked, the sounds of its activation and its state when it’s about to run out.
+Explosions: this should explain itself rather well
+Engine: The sound of the boosters on the ship, the thrusters themselves and if you have attached a Micro Warp Drive or an Afterburner.
+Station Interior and exterior: Interior is everything when in a station, exterior is everything outside coming from the actual station.
+Modules: things like adaptive invulnerability field, EM Ward, repairers, cloaking and so on.
+Ship Ambiance: Every ship has a small sound, depending on faction and ship type.
+Warping effect: when you warp, the warp wind and the warp thud sound when you enter warp.
+Map and ISIS: The soundscapes that play while you use these two features.
+Locking: If you can’t be bothered with the sound playing when you are locking and locking is achieved on a target.
+EVE Store: The EVE store, where you shop and do your business.
+Planets: The ambient sounds coming from planets and suns, including when doing Planetary Interaction.
+UI Click: The click when you hover or click items in the UI.
+Radial Menu: The sounds of opening the menu dial by holding the left mouse button.
+UI Interaction: Fitting your ship, submitting stuff in PI, entering any kind of menu item.
+Aura: you can control her voice in two places now.
+Hacking: Data and Relic site sounds.
+Low Shield, Armor and Hull Warnings: if you are armor tanking and don’t want to hear the shield warning sound at all or vice versa.
+Ship damage: all the warning sounds from your ship, so if you want to not hear shield sounds at all you do it in the shield warning slider, but if you want them all to be slightly dampened, this is the slider for you.

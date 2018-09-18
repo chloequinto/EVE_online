@@ -1,0 +1,3 @@
+ 6x IBM x240 - Intel E5-2667 v3 CPU @ 3.2GHz with 128GB (2133MHz)
+ESXi / Virtual hosts
+4x IBM HS 22 - Intel E5620 @ 2.4GHz 146GB RAM (1333MHz)

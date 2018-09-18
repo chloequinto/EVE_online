@@ -1,0 +1,2 @@
+Time multiplier for Research ME: 0.7 (was 0.75).
+Time multiplier for Research TE: 0.7 (was 0.75).

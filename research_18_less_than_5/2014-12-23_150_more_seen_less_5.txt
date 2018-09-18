@@ -1,0 +1,5 @@
+Expanded Cargohold I – Structure Hitpoint penalty reduced from -25% to -20%
+Expanded Cargohold II – Structure Hitpoint penalty increased from 20% to -23%, Velocity modifier increased from -10% to -18%
+These three changes should bring the T1 and T2 Expanded Cargoholds better in line with other module types, with the T2 version of a module giving the best performance but with higher drawbacks than T1.
+'Basic' Expanded Cargohold – Structure Hitpoint penalty reduced from -10% to -5%. This should allow players who care more about keeping as much structure hitpoint as possible an attractive option, at the cost of cargo capacity.
+Inertial Stabilizers

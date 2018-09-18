@@ -1,0 +1,5 @@
+As part of the submission, all entries must provide a public Git repository link that should provide sufficient documentation, including a demo if at all possible. We'll be using the following criteria to determine the winners of the challenge:
+Technical difficulty
+Creativity/Originality
+Clarity/Presentation
+General polish

@@ -1,0 +1,8 @@
+With the release of Refineries, reactions will be moved from starbases to a special set of service modules exclusive to Refineries. These service modules will enable reactions as a new type of industry, using the same interface as manufacturing and research. These new service modules will have the same security status restrictions as the existing starbase structures, meaning that reactions will be limited to lowsec and below. Like other industry, the new reactions system will not have hard limits on the number of jobs per structure, and will have per-character limits that can be increased with a new skill.
+The existing reactions will be converted to new blueprints that enable the reaction process in the new system, and new reactions will include small amounts of ice products in each run to compensate for the lower number of starbase towers needed for advanced industry.
+Thanks for joining us for this look ahead at the work-in-progress Upwell Refineries! A big reason for releasing early dev blogs like this is that we want to hear from all of you, on the forums as well as in person at Fanfest!
+If you haven’t already done so, I highly recommend checking out the companion blog to this one that covers the past and near-future of Upwell Structures and includes a survey so you can have your say in our prioritization of changes.
+Everything in this blog is subject to change as we respond to feedback and adjust designs and get closer to release. We’ll be keeping you up to date on these and other structure changes through more blogs as well as our official forums.
+Fly safe and happy building!
+-Team Five O
+alt

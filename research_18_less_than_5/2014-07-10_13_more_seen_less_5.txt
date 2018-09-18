@@ -1,0 +1,2 @@
+/industry/teams/ (cache: 1 hour)
+vnd.ccp.eve.IndustryTeamCollection-v1

@@ -1,0 +1,3 @@
+Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20
+DPS Cap: 15,000
+Fighter Slots: 3 Tubes, 3 Light, 2 Support

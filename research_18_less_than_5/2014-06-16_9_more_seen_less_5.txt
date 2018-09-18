@@ -1,0 +1,2 @@
+Based on the same forum thread:
+All assembly arrays receive a 2% material reduction to manufactured products (except for the Drug laboratory, Subsystem System Array, Rapid Equipment Assembly Array and Supercapital Assembly Array). Assembly Arrays will keep their 25% time reduction.

@@ -1,0 +1,2 @@
+Modules: Sized 3/6/9/120, multiplied by 2.6 for T2; unsized modules are sized S/M/L by low/medium/high slot
+Some modules have had their ranks adjusted to be more "interesting", principally cloaks, warfare links, mining modules and "specialist" modules that are generally intended for use on specific ship groups, such as interdiction launchers, doomsdays and so on. Still multiplied by 2.6 for T2 variants.

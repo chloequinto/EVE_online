@@ -1,0 +1,13 @@
+7.8T2 small/frigate modules
+9T1 large modules
+10T2 med drones, T1 med rigs
+12T1 Warfare links
+15T2 large drones, proto cloaks, T1 large rigs
+15.6T2 med/cruiser modules
+18.2T2 strip/deep core/ice miners
+20T1 frigates, T1 capital rigs
+23.4T2 high/bs modules
+30T1 destroyers
+31.2T2 warfare links, Improved cloaks
+39Covops cloaks
+40T1 cruisers, fighters/bombers

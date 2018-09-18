@@ -1,0 +1,8 @@
+Sensor strength: 20 Magnetometric
+Signature radius: 300
+Cargo Hold: 500 m3
+Ore Hold: 50,000 m3
+Fleet Hangar: 5,000 m3
+Cost: ~50-60 mil ISK
+Max Mining Yield: ~980 m3 per minute + drone travel time
+Max DPS: ~400 dps

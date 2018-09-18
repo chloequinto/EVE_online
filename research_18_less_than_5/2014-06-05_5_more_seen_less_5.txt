@@ -1,0 +1,2 @@
+TEST SERVER
+We have recently opened up the ability to generate API keys for the Sisi API which means you can actually test these and future updates: //community.testeveonline.com/support/api-key

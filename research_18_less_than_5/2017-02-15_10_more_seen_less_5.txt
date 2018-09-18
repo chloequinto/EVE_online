@@ -1,0 +1,1 @@
+    Be::Time nnow = BeOS->GetActualTime();

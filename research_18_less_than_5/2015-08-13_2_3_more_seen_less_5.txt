@@ -1,0 +1,2 @@
+As such:
+A notification will be sent for each destroyed structure the player (or corporation) had items in.

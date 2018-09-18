@@ -1,0 +1,2 @@
+In addition to this, we added this tooltip to a few handpicked numbers, such as the total in the Sell Item window and the total in the Buy window. If you know of other places where this tooltip would be useful, please let us know ??
+In Lifeblood, we also added a new type of radial menu, the fleet broadcasting radial menu. To use it, you need to assign a shortcut through the ESC window, and when that key is held down and a radial menu is activated, you get the broadcasting options rather than the normal options.

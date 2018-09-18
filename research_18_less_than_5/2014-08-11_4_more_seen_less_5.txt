@@ -1,0 +1,12 @@
+New Overview setup sharing
+All the relevant settings for the overview will be captured, stored on the server, and linkable. An upcoming dev blog will present the changes, and discussion about it is ongoing in this forum thread: //forums.eveonline.com/default.aspx?g=posts&t=362210
+A new kind of Level 4 missions
+Take on a single, powerful enemy using fitting skills and combat tactics in new optional level 4 missions for frigate size ships that will be available from all security agents in Empire space. An upcoming dev blog will present the new missions.
+Incursion Scout Sites improved to be viable for small groups
+Run the revamped Scout Sites while waiting for bigger incursion fleets to form. Hyperion also brings other changes to the enemies and rewards from Incursion sites. Stay tuned for a dev blog, and in the meantime you can read more here.
+Ishtar, Eagle and Muninn ship balance updates
+See this forum thread for all the details: //forums.eveonline.com/default.aspx?g=posts&t=361722
+Lowered activation cost for 100MN Micro Warp Drives
+Capacitor activation cost is cut in half for all 100MN Micro Warp Drives.
+Redeem PLEX for game time to another character
+Activate game time for the account of another character using PLEX. This feature is designed to help those who need to keep multiple accounts active for themselves or others, and also gives anyone a simple way to use PLEX to give away game time.

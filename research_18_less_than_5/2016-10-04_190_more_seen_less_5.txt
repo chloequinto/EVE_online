@@ -1,0 +1,3 @@
+Enables Ore and Ice Compression
+Movement Effects:
+-100% Rorqual velocity

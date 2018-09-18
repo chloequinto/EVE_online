@@ -1,0 +1,4 @@
+1% bonus to Armored Warfare and Information Warfare Links effectiveness
+50% reduction in CPU requirements for Warfare Links
+Can fit Triage modules
+Minokawa (6 high slots, 7 mid slots, 4 low slots)

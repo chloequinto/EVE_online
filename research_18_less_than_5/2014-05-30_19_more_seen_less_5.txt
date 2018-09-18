@@ -1,0 +1,5 @@
+Since the Serpentis theme was working so well, the changes to their ships in Kronos are more subtle than the other pirate factions. The Vigilant cruiser needed the most help and is receiving significantly more targeting range and speed. The Daredevil frigate and Vindicator battleship are already in a very good place and will be receiving smaller tweaks.
+Guristas
+The Guristas ships are receiving a new and unique trait, the ability to field small numbers of superpowered drones. Each ship receives a gigantic role bonus to the damage and hitpoints for drones of a specific size: light drones for the Worm frigate, medium drones for the Gila cruiser, and both heavy and sentry drones for the Rattlesnake battleship. These bonuses allow the Guristas ships to field two superpowered drones that fight with the ferocity and durability of much larger drone swarms.
+The Guristas ships also enjoy impressive shield defenses through a resistance bonus and punishing missile damage with either kinetic or thermal damage.
+Angel

@@ -1,0 +1,1 @@
+NameMetaPowergrid UsageCPU UsageStructure Hitpoint Bonus (%)Cargo Capacity Bonus (%)Inertia Modifier (%)

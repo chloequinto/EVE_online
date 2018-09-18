@@ -1,0 +1,1 @@
+Mining Drone Specialization: 2% bonus to the mining yield and max velocity of drones requiring Mining Drone Specialization per level.

@@ -1,0 +1,6 @@
+Here is a picture from the current scanning system live on our game server Tranquillity:
+There are lots of things going on in a busy scene and the intensity of some items, and the color of others makes it quite hard to see what you are actually trying to do. This represents some of the biggest areas of feedback as to why people are still using the old scanning system. 
+To increase visibility of the important items, we have reduced the visual intensity of a number of items in the scene, such as:
+Spheres in the scene including scan probes and signatures
+Sun
+Solar System rings

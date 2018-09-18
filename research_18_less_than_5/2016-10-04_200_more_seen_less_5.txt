@@ -1,0 +1,5 @@
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue

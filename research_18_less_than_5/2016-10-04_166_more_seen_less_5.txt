@@ -1,0 +1,3 @@
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use
++120% Remote shield booster optimal and falloff range

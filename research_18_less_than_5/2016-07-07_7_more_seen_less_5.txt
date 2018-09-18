@@ -1,0 +1,13 @@
+Navy Faction ammunition, missiles and capacitor boosters are allowed.
+Only standard T1 (Tech One) drones and sentry drones are allowed. This means that T2, faction, augmented and integrated drones are NOT allowed. The Gecko is NOT allowed.
+T2 logistics drones are NOT allowed.
+All electronic warfare drones are allowed.
+Attribute Enhancers that give bonuses to anything other than perception, intelligence, willpower, memory, and charisma are NOT allowed.
+Genolution "CA-" implants are NOT allowed.
+With the exception of Leadership Mindlinks, ONLY Hardwirings that have a name ending in "1", "2" or "3" are allowed.
+All Leadership Mindlinks (including navy mindlinks) are allowed.
+Boosters (drugs) are NOT allowed.
+Flagships
+Any standard T1 or Faction battleship hull may be designated as a flagship.
+Team captains must indicate to the GM managing their match if they intend to use their flagship in any given match, and which pilot is flying the flagship.
+Flagships may ignore meta level restrictions for the following module types (this means they may fit faction, officer, cosmos, and deadspace versions):

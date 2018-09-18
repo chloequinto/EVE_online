@@ -1,0 +1,1 @@
+For Cargo Scanners, Duration and Scan Range are both important stats, while there’s not a lot of option for a fitting variation. So we’re going for two variations. One that has reduced duration, called Enduring Cargo Scanner. It has reduced cycle time and reduced cap need (3 instead of 4). The other has better range and is called Scoped Cargo Scanner.

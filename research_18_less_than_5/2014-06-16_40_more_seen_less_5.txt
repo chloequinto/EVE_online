@@ -1,0 +1,2 @@
+Remote usage station changes
+Another drastic change is that blueprints safely stored in a regular station can no longer be used for jobs in Starbase structures. Players will still be able to remotely start Starbase jobs from several solar systems away, but the blueprints will now have to be physically available in the structure for it to properly start.

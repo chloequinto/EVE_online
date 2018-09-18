@@ -1,0 +1,2 @@
+CCP FoxFour
+*Note on Overwolf. It used to be that it only worked on DX9 and not DX11 for EVE. That is actually the reverse now and it does work for DX11.

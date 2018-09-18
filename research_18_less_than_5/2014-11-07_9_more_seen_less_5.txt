@@ -1,0 +1,10 @@
+For the sake of clarity, I have prepared a list of the goals we set out to reach with the UI Modernization effort.
+Roll out a complete new UI that will define the visual direction for EVE UI in the coming years
+Less operating system, more Sci-Fi, and militaristic looking UI
+Functionality and usability should feel modern and intuitive
+Have the UI complement the beautiful New Eden view, instead of blocking it.
+Better consistency between UI control look and feel.
+Use colors in a sensible way.
+Simpler, and more recognizable icons with a clear distinction between icons that represent items vs icons that represent UI controls and labels.
+Now, let me explain a bit further.
+LOOK AND FEEL

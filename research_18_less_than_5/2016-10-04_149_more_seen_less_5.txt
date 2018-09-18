@@ -1,0 +1,1 @@
+All turret, missile, drone and smartbomb damage set to 0

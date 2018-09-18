@@ -1,0 +1,3 @@
+Improved Empire’s Might Site
+The original version of the Empire’s Might site had quite long voiceover periods where the player had no active tasks and was just listening to the mentor and fleet members. We wanted to increase the activity within the site and make this a more meaningful experience for new players.
+Therefore, we have reordered the tasks to make sure the player was doing something within the site while listening to the mentor, and also added a new task to encourage players to travel through the site.

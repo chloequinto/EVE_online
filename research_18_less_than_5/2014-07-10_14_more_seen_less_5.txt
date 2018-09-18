@@ -1,0 +1,3 @@
+/industry/specialities/ (cache: 1 hour)
+vnd.ccp.eve.IndustrySpecialityCollection-v1
+Lists all specialties that can be associated with teams and what groups those specialties modify.

@@ -1,0 +1,1 @@
+NameMeta LevelCPUShield Recharge Rate Bonus (%)Shield Hitpoint Bonus (%)Capacitor Recharge Rate Bonus (%)Powergrid Bonus (%)Capacitor Capacity Bonus (%)

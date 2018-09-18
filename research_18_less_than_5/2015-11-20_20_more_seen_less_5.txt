@@ -1,0 +1,2 @@
+Temporal Anti Aliasing
+Anti-aliasing smooths out edges, removing “jaggies” and other imperfections that can happen during 3D rendering. Temporal Anti-Aliasing (TXAA) is a technique designed specifically for games, correcting flickering and other issues common to rendering moving objects.

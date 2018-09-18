@@ -1,0 +1,2 @@
+For anchoring:
+The structure goes into a 24 hour invulnerability timer. No damage can be done during that time and the owner cannot cancel this action once it has been confirmed

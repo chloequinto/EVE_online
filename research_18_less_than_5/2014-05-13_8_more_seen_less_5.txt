@@ -1,0 +1,2 @@
+NeoCom sidebar buttons
+Character Sheet sidebar buttons (also new format applies to skills listing)

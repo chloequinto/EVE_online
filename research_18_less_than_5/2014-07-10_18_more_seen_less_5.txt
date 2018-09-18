@@ -1,0 +1,3 @@
+/market/prices/ (cache: 23 hours)
+vnd.ccp.eve.MarketTypePriceCollection-v1
+Returns the list of trade-able types and their average market price, as shown in the inventory UI in the EVE client. Also includes an adjusted market price which is used in industry calculations.

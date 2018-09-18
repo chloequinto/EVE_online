@@ -1,0 +1,5 @@
+Character Listing
+The first button opens the character listing. From here, you can see an overview of all of the characters you have added already, and add additional characters if you wish. Characters must be added one at time, even if they are on the same account. However, you can add characters from multiple accounts.
+Adding a new character - Click for full size
+Touching one of the character entries will open up further details on the character.  Swiping a character entry to the left will remove the character from the list.
+The character sheet shows a number of details:

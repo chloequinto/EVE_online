@@ -1,0 +1,2 @@
+We are continuing to use the authenticated XML API to give access to secure data. We have added new endpoints and repurposed some existing ones.
+Added /corp/Facilities.xml.aspx (cache: 1 hour)

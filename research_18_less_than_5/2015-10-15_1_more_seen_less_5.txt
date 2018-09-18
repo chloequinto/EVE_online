@@ -1,0 +1,16 @@
+Zooming in:
+Creating a Transneural Skill Packet requires approximately 500,000 skillpoints (we will fiddle with this number a bit to make it most practical considering common skill level denominations)
+Characters with less than 5 million skillpoints may not use Skill Extractors, they can still use Skill Packets
+Trial characters may not consume Skill Packets
+Extractors are consumed on creating Packets and Packets are consumed on use
+Characters consuming a Transneural Skill Packet will receive the following amounts of unallocated skillpoints, based on the total skillpoints trained before consumption:
+0 – 5 million skillpoints = 500,000 unallocated skillpoints added
+5 – 50 million skillpoints = 400,000 unallocated skillpoints added
+50 – 80 million skillpoints = 200,000 unallocated skillpoints added
+80 million skillpoints = 50,000 unallocated skillpoints added
+As you can see, this design favors skill transfers for younger characters and makes them very inefficient for older characters. We’ve designed it this way so that we protect the prestige associated with long commitment to a single character.
+Why have diminishing returns at all? We want to make sure training decisions are still very important and that rapid respeccing of skills is not an efficient choice at any point. Note that respeccing below 5mil SP is not possible because characters that new are not allowed to create the SP items.
+Feedback on how exactly to set up the diminishing returns, or even alternate ideas to reach the same goals would be very helpful here. We think we are in the ballpark but getting the numbers right is very important.
+By putting more control of your characters in your hands we hope to improve the game for everyone. Whether you’re an older player who would rather have ISK than those mining skills you don’t use any more, a clever new player looking to invest your fortune into your character, a Corp leader trying to move everyone into a new doctrine or someone like me who just realized that they would rather fly Armageddon’s than Stilettos, this feature has you covered. This all fits nicely to our overall game design philosophy of giving you control over your experience through cooperation and competition with each other.
+There is a lot to be careful about here though, and we understand that. The skill system is a fundamental part of EVE so we need to make sure we account for all outcomes, which is why we're talking to you now. We hope that because this feature is modeled from the Character Bazaar, a long-standing and well-established feature, we are already pointed in a good direction. We would like feedback on everything from how the diminishing returns work to what ways you could see this feature being exploited to what ISK price to expect a Skill Packet to fetch so please let us know what you think.
+Oh, and one last note on the Bazaar, it won't go anywhere for now. It still offers something unique and valuable so we don't see a need to remove it. We just think this is our best route to providing a better skill trading experience.

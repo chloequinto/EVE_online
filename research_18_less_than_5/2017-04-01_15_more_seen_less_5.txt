@@ -1,0 +1,4 @@
+Greetings intrepid capsuleers!
+Welcome to another dev blog in which we’ll discuss further development in the rapidly advancing world of Upwell Consortium hardware.
+Over the course of the last few weeks you’ve heard more about the ever growing range of Upwell Consortium Structures that are on offer, as well as a little more about the next generation of structures, Refineries, which will also be arriving soon™.
+Today we’d like to talk about another Upwell project that will be arriving not too far from now, as we continue to invest in the future of player built infrastructure in New Eden. In an effort to branch out and also dominate the deployables market, the Upwell Consortium have devised a new deployable; the Organic Mass Granulator.

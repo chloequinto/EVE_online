@@ -1,0 +1,10 @@
+How does this work?
+Here is a summary of what’s changing in bullet point form:
+Renaming of the current Skill Injector to ‘Large Skill Injector’
+Introduction of a new injector called ‘Small Skill Injector’
+Adding right-click option to break Large Injectors into 5x Small injectors or combine 5x Small Injectors into 1x Large Injector
+Using a Small Skill Injector will award a maximum of 100,000 skill points and will give the following amounts, depending on total SP on the character using the Injector:
+For characters with less than 5mil SP:  100k SP
+For characters with 5mil – 50mil SP:  80k SP
+For characters with 50mil – 80mil SP:   60k SP
+For characters with more than 80mil SP:   30k SP

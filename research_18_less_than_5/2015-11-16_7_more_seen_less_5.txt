@@ -1,0 +1,6 @@
+Hello space friends!
+Today is a good day, but the day we released Parallax on November 3rd was a GREAT day. As many of you know we released Brain in a Box with Parallax. What is less known is that we also released an update to our CREST API that allows third-party applications such as killboards and fitting applications to save fits directly to your character. This means that if you give them permission you can directly manage your saved ship fittings from outside the client. For example when you see a fit on zKillboard that you really like you could with just a few clicks have that fit saved to your character in EVE.
+How does this actually look though? Here is an example of how it works on zKillboard:
+The above video was recorded on Tranquility.
+One of the greatest parts about it is how you can have your EVE client open at the same time and almost instantly see the new fit that zKillboard created show up in my clients saved fittings. This is a huge! To give you an idea of what this made me feel here is a picture of how stupidly full of excitement I was watching this go live on Tranquility.
+There are very few games out there that offer something like this and we are excited to see what kind of things our community creates with this new ability.

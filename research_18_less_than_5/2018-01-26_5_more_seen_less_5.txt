@@ -1,0 +1,1 @@
+After investigating the situation, we determined that this was primarily caused by the fact that the most difficult tasks in the Exoplanets project were much more difficult than the most challenging Human Protein Atlas tasks.

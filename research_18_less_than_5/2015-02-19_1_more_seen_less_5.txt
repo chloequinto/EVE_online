@@ -1,0 +1,3 @@
+A/B TESTING AND ROLL OUT
+Team Pirate Unicorns has been very happy with the results of our previous soft releases (opt-in notifications, beta star map, etc.) which gave us great opportunity (!) to hone and study the impact of each new feature, and so this NPE release will be no different.
+Starting some time shortly after the official release of Tiamat, we will begin adding sets of new players to test groups where we can measure their experience without having to expose the entire player base at once. This will give us a chance to spot problems and gather feedback before going live to everyone.

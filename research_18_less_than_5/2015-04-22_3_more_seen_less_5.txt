@@ -1,0 +1,9 @@
+Continuous updates to EVE Online
+EVE Updates was introduced during the EVE Online keynote at EVE Fanfest in March, and marks a change in how we communicate about what's coming up in EVE Online. Below is a repeat of that information, for those who did not catch the keynote.
+What you really need to know is that from now on, all information about upcoming changes to EVE Online can be found on EVE Updates - and as we announce features, we will put information about them there. For each date where we are making an Update to EVE Online, you'll see a section with the features that are coming on that date. Bigger updates will get a code-name once the main features are locked in.
+We will continue to do bigger code deployments about every five weeks – and these are the dates we have planned for 2015: 
+But we’re now in this great place where we release things to EVE so often, that putting all this focus on the release dates has stopped making sense like it used to. Many features will of course still go live on those dates:
+But more and more features are possible for us to release in between these bigger deployments:
+Changes like the length of the trial, two factor authentication, or new ship skins or clothing, or even balance changes or activation of bigger features such as new exploration sites, are now possible for us to release to you as a player at pretty much any time, not just on these deployment dates.
+To reflect this new reality, we needed a new way to communicate what’s upcoming in EVE.
+With so much change going on in EVE, it's also harder to keep up with what has changed if you have been away from EVE for a while, so that's another thing we wanted to address.

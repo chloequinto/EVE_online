@@ -1,0 +1,2 @@
+HOW IT WORKS
+Many endeavours in scientific research require substantial amounts of human processing on enormous sets of data. Examples of such processing include annotating images to indicate where anomalies are present (e.g., finding stars in an image of the night sky) or classifying images into one of several categories (e.g., to identify which proteins are present in an image of a cell). Performing such tasks computationally is very difficult, but non-experts can learn to do so proficiently with only minimal, example-based training.

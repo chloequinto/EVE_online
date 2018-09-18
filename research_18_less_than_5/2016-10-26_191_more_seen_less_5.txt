@@ -1,0 +1,3 @@
+Increases all shield resistances
++8%
++21.56%

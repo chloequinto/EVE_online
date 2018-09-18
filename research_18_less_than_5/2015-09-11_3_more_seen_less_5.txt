@@ -1,0 +1,1 @@
+Passive regeneration of structure capture progress

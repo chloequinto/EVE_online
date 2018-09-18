@@ -1,0 +1,6 @@
+Requires Industrial Reconfiguration skill level 5
+Duration: 5 minutes
+Consumption: 1500 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+-100% Rorqual velocity

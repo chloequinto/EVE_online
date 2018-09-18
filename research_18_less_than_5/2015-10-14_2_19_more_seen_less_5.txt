@@ -1,0 +1,3 @@
+ Will run on Eve proxies
+EVE Proxy Node
+5 x IBM HS23 - Intel E5-2643 0 @ 3.30GHz with 64GB RAM (1600MHz)

@@ -1,0 +1,3 @@
+(click to enlarge)
+When playing Project Discovery, you will be presented with a light curve graph representing a star’s luminosity over time, which you’ll analyze primarily by looking for regular dips in luminosity. 
+These dips can indicate the transit of a substantially large celestial body between the star being measured and the telescope here in Earth’s orbit. Generally, the only object large enough to cause such dips are exoplanets or other stars.

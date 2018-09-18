@@ -1,0 +1,6 @@
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+80% sensor dampener resistance

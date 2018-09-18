@@ -1,0 +1,3 @@
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:

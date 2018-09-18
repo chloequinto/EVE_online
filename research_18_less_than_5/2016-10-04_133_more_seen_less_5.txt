@@ -1,0 +1,4 @@
+Fleet boosts (including mining boosts) are becoming AoE buffs that only work on-grid
+There’ll be three mining foreman ships: the new inexpensive Porpoise, a buffed Orca and a buffed Rorqual
+Each Mining Foreman Ship will be able to fulfill three roles at once:
+Help fleetmates mine more effectively

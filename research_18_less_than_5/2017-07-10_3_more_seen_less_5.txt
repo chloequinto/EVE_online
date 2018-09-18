@@ -1,0 +1,1 @@
+All four Strategic Cruisers have had their Scan Probe Launcher CPU reduction bonus moved from their old probing subsystem onto the hull itself, making it available no matter your configuration

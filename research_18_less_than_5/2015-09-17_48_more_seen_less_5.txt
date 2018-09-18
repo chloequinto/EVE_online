@@ -1,0 +1,1 @@
+Note the weekly vulnerability window would normally end at 20GMT, but was overruled due to the repair timer being active.

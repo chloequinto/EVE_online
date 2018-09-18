@@ -1,0 +1,2 @@
+/industry/facilities/ (cache: 1 hour)
+vnd.ccp.eve.IndustryFacilityCollection-v1

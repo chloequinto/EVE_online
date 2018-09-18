@@ -1,0 +1,2 @@
+Hi Mates!
+As first revealed at EVE Vegas 2015, we are making some major changes to capital ships in EVE in the upcoming EVE: Citadel Expansion and you can expect additional dev blogs as more details become ready to announce.  In this blog I’m going to cover the new Force Auxiliary capital class, our transition plan for current carrier pilots, new capital modules, and some design discussion on combat refitting!

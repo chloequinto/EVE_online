@@ -1,0 +1,3 @@
+The Stabber has always gotten a pretty bad rap and that's reflected in its popularity. That said, it's a solid support killer and shows very high kill efficiency among those pilots who do use it. After considering a few options we are going to go with the Tempest treatment rather than change the slot layout. Frigate Pilots beware!
++2.5% Rate of Fire bonus per Minmatar Cruiser level (7.5% per level total)
+Tristan

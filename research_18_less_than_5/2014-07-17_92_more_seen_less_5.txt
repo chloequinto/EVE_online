@@ -1,0 +1,1 @@
+Invention only requires one run from a blueprint copy, and deducts it exactly as if you'd built from the blueprint

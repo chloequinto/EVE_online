@@ -1,0 +1,3 @@
+Hey capsuleers,
+This will be a fairly simple and to the point dev blog aimed at third party developers. So if you work with the XML API or public CREST read on.
+Blueprints:

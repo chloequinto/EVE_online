@@ -1,0 +1,9 @@
+Evasive Maneuvers
+Reduces signature radius and inertia modifier
+-6%
+-16.17%
+Interdiction Maneuvers
+Increases range of Warp Disruptors, Warp Scramblers and Stasis Webifiers
++12%
++32.34%
+Rapid Deployment

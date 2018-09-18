@@ -1,0 +1,1 @@
+With this value (input costs for manufacturing, 2% of output's input costs for research), we then multiply by the activity index for the activity in question to get the base build cost. Example: let's say the manufacturing index in Jita is 5%, and you want to build an Apocalypse whose base materials cost 200m ISK. Base build cost is 200m*5% = 10m.

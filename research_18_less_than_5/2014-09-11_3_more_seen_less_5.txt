@@ -1,0 +1,13 @@
+We would like to tweak base success chance on various item types so they are a bit more consistent with ship sizes. Base invention chances currently are:
+Modules and Ammo have a base probability of 40%
+Frigates, Destroyers, Freighters and Skiff have a base probability of 30%
+Cruisers, Industrials and Mackinaw have a base probability of 25%
+Battlecruisers, Battleships and Hulk have a base probability of 20%
+We would like to tweak those numbers to:
+All modules, rigs and ammo have 40%
+All Frigates and Destroyers have 35%
+Cruisers, Battlecruisers, Mining Barges, Industrials, ORE industrial have 30%
+All Battleships, Industrial Command Ship have 25%
+Capitals and Capital Industrial Ships have 20%
+So basically it results into a 5% base chance increase for all ships, except Freighters that drop down from 30% to 20% and Exhumers, which get a 0 to 10% boost depending on the exact hull.
+Tech III subsystem selection

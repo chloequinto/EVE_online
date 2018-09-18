@@ -1,0 +1,5 @@
+This blog!
+Blog covering details on changes to REDACTED.
+Final blog summarizing the new capture system in one place.
+Today’s blog will be a bit of an information dump, covering quite a few topics related to the new system and its rollout to the Tranquility server.
+Transition: What to expect on patch day

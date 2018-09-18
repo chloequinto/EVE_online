@@ -1,0 +1,6 @@
+Changes to logos on submission
+Upon accepting logos, the original design that is sent to CCP will be altered slightly and watermarked to create a derivative work that will be used to represent the alliance in the EVE universe. This derivative work will be packaged with the client and will be the property of CCP in order for us to ensure that all content within the EVE client remains the property of CCP.
+The original logo will then continue to be owned by its original creator, and can be used however the alliance it represents sees fit outside the EVE Universe.
+Examples of watermarked logos, which contain a texture to differentiate them from the original are shown below. These versions will be displayed within the EVE Universe
+Before:
+After:

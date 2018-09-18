@@ -1,0 +1,1 @@
+Also note: nullsec outpost upgrades which previously added manufacturing lines to the station, will instead offer a 1% material use reduction (i.e. an additional ME-1%) per upgrade installed.

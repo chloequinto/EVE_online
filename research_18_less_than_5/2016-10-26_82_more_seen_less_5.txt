@@ -1,0 +1,7 @@
+Increases all shield resistances
++8%
++21.56%
+Active Shielding
+Reduces cycle time and capacitor use for local and remote shield boosters
+-8%
+-21.56%

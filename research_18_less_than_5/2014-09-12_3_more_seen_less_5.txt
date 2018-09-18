@@ -1,0 +1,7 @@
+Ship visuals under-the-hood updates
+In Oceanus we are releasing a big under-the-hood update to how we store and manage the visual data about the ships in EVE Online, in preparation for being able to deliver visual customization of ships in the future. Everything should look the same – but if you see unexpected changes, this might be why. An upcoming dev blog by the art and graphics team TriLambda will go into the juicy technical details.
+CIDER upgrade for the EVE Mac client
+The underpinnings of the EVE Mac client gets a big update with Oceanus that addresses several issues.
+All of these features are coming to EVE Online on September 30th. Many features can already be tried on Singularity, our public test server. The patch notes page will have the full list of changes just before the release.
+What about changes to null sec and sovereignty?
+The design team of EVE Online are working actively on changes to the game mechanics impacting null security space. The Council of Stellar Management are coming to Reykjavik for the CSM Summit next week, and directly after the summit we will bring the full discussion about the plans to the EVE community. Read more in this forum thread.

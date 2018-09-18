@@ -1,0 +1,3 @@
+More clickable names
+Your name in the character sheet is now a clickable info link so you can more easily show info on yourself (sometimes you just want to get to know yourself a little better, right?)
+The names in the trade window are now clickable info links so you can with one click see who you‘re trading stuffz with.

@@ -1,0 +1,4 @@
+A lot of you have been waiting for this, and we did promise to get it to you in the middle of August. The 26th seems close enough to the middle if you apply CCP_ROUND(). :)
+This is pretty straight forward. We have added two new endpoints, char/Blueprints and corp/Blueprints, that will return a complete list of all your blueprints. Well, it SHOULD return all your blueprints. It's limited to 200,000 so if you somehow have more than that... go sell some. This 200,000 max is compared to the 30,000 max that the client will return.
+The endpoint itself is really straight forward and requires a corporation or character key with the asset list access mask. Here is a sample of the output:
+2014-08-21 10:56:59

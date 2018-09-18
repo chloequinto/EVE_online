@@ -1,0 +1,5 @@
+THE TASK
+Without a doubt, Tranquility Tech III (upgrading and moving EVE Online’s main game server) is the single biggest assignment the CCP Operations Department has taken on. It involved one year of planning, debating best approaches, tons of paperwork, complicated transfer logistics, and then finally moving safely between sites.
+We took a good look at the current Tranquility Server (TQ) setup and there were a few low hanging fruits and some very big opportunities for updates.
+The goals we set out for TQ Tech III were to improve:
+Reliability and stability of the hardware

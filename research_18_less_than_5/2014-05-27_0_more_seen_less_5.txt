@@ -1,0 +1,13 @@
+Other Things
+Other things you've asked us for and we are happy to deliver to you in the Kronos release:
+Targets can now be locked in place so they cannot be dragged around. This is done through a right-click option on the Target Origin.
+The Jump Clone locations in the Character Sheet have been given a proper right-click menu, allowing you to set the autopilot destination from there.
+The "Plug In" right-click option on implants has been promoted to be below the "Show Info" option.
+It's now possible to drag some chat channels from the Channels window to any text field to create a link from which people can join the channel. Channels such as corporation, alliance and solarsystem channels cannot be linked.
+Characters and other entities can now be dragged from the Channel Settings window to be linked in chat and other input fields.
+If a corporation has no war history, it will say so in the "War History" in the corporations Show Info window, so you no longer have to wonder if it's just taking the war history a long time to load.
+Paths starting with "//" or "//" can now be linked in the "Generate Link" window.
+Hyperlinks will now show the web address (URL) in a tooltip, making it harder for mean pilots to trick innocent and unsuspecting pilots into clicking questionable links masked as something else.
+Incoming conversation requests are now logged in the "Notifications and Logs" window.
+And that’s it! Hope you enjoy these changes :)
+-@CCP_karkur of EVE’s Team Pirate Unicorns

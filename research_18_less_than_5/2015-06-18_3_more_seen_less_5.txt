@@ -1,0 +1,4 @@
+Improve Scaling issues
+We’re looking at way to make the icons more useable at 90% scale in the short term while a longer-term technical solution to UI scaling is being developed.
+Improve NPC and player ship distinction
+We agree with much of the feedback that the subtle interior fill to indicate NPCs is simply not drastic enough, so we’re looking at other ways to make NPC brackets more clearly identifiable compared to player-controlled ships.

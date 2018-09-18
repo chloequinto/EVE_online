@@ -1,0 +1,6 @@
+Fights are limited to 10 minutes. If a fight reaches time, it will be stopped and whichever team has the higher total points value will be declared winner. See "Victory Conditions", below.
+Intentional pod killing is NOT allowed and may result in the offender being punished. All podkills will be reimbursed.
+The match simulation is taken as is. Teams are advised to spend the pre warp-in time to verify that their ships are completely operational.
+Penalties
+A player found breaking any rules can be penalized to various degrees, depending on the severity of the offence. All penalties are incurred at the tournament referee's discretion. Decisions are final. Penalties may be levied against a player or team and may include, but are not limited to:
+Points deduction

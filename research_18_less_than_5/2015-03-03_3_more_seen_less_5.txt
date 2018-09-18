@@ -1,0 +1,2 @@
+This system of occupancy defensive bonuses is intentionally built to be modular and adjustable. In future iterations of the Sovereignty system we plan to refine the process for measuring activity, including expanding what kinds of activities are counted towards the bonuses.
+USER INTERFACE

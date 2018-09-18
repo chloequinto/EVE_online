@@ -1,0 +1,9 @@
+Small Projectile Turret
+5
+Gunnery
+1
+                                        256,000
+Leadership
+3
+Leadership
+1

@@ -1,0 +1,2 @@
+A. Software License
+Subject to the terms of the EULA, CCP grants you a limited, non-exclusive, revocable license to use the Software and its accompanying documentation solely in connection with accessing the System in order to play EVE using a single valid Account.

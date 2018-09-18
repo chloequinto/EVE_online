@@ -1,0 +1,1 @@
+Clicking on the basic card will open an expanded card offering more details about the content.

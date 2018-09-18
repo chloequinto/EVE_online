@@ -1,0 +1,3 @@
+    return ret;
+}
+The SleepWallclock function creates the channel, stores it in the Sleeper object, puts the Sleeper object in the heap and calls receive on the channel. The receive call returns after Synchro::Tick has called send on the channel. That unblocks it, causing it to be scheduled. The tasklet could also be killed, in which case receive returns a nullptr. Let's take a look at a snippet from Synchro::Tick:

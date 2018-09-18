@@ -1,0 +1,2 @@
+Greetings Industrialists!
+As part of the industry-focused Crius release earlier this year, a feature was added to supplement industrial gameplay called Teams. This mechanic allows you to hire teams of specialist non-player character (NPC) workers to boost your industry jobs in various ways.

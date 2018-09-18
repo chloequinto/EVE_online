@@ -1,0 +1,2 @@
+Mining Drone Specialization requires Mining Drone Operation level 5 in order to start training.
+In the November expansion, only two new drone types (‘Augmented’ Mining Drones and ‘Excavator’ Mining Drones) will require and gain benefits from Mining Drone Specialization. At a later point after players have had ample time to train it, we plan to eventually add Mining Drone Specialization level 1 to the skill requirements of the Mining Drone II which will extend the benefits of this skill to those drones.

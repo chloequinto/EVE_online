@@ -1,0 +1,8 @@
+Wormhole jump changes
+The jump-in point will change based on ship mass, and signatures for wormhole exits will not appear until a ship jumps through.
+More wormholes connecting across wormhole space
+With Hyperion, there will be both more random wormhole connections appearing in wormhole space, and a whole new class of wormholes that regenerate mass over time and are only navigable in smaller ships.
+Class 4 wormhole systems get a second static connection
+This will make C4s exceptionally well-connected to other W-space systems and a great choice for corporations who want to enjoy a variety of travels within wormhole space.
+Bookmark copying gets faster and less restricted
+In Hyperion, copying large sets of bookmarks between people will be significantly faster.

@@ -1,0 +1,1 @@
+Column costMultiplier added to ramAssemblyLineTypeDetailPerCategory

@@ -1,0 +1,2 @@
+The Look at command preserves zoom distance, so we essentially just pan the camera. This way battlefield overview and awareness is preserved as well.
+Tactical overlay is turned on by default, but can still be toggled on or off.

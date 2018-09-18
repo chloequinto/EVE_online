@@ -1,0 +1,14 @@
+Voting is performed through the CSM portal on the EVE Community website. The voting site will not be accessible until voting opens on March 6.
+To vote your account must be in Omega state at the time of voting. This is due to the increased ease of voting manipulation by mass creating alpha accounts specifically for voting purposes. Despite this, Alpha players are eligible to run and serve on the CSM.
+Accounts must be at least 30 days of age before they can vote.
+Every active Omega account gets to vote once, but each vote allows you to choose up to 14 characters in the order of your preference, from highest to lowest.
+Votes cannot be edited or revoked after they are submitted
+The voting system we use is called Single Transferrable Vote.
+The code used to tally votes is available on Github in this repository. The voting data will be made available after the election results have been announced if you wish to verify the results of the tally.
+More CSM for you:  Upcoming Summit and White Paper re-write
+CSM 11 will be having its second and final summit here in Iceland from January 30 through February 2. They’ve had a fruitful term and will leave a good runway for whoever get elected next. We will try to keep you updated as best we can with what’s happening at the summit, and of course we will release meeting minutes of all their sessions in the week following the summit. More about all of that in upcoming news and social media posts!
+The White Paper, the document outlining everything that the CSM aims to be has seen previous revisions but given some subtle and not-so subtle changes made both to the CSM process and the CSM philosophy in the last year, we are working on an overhaul to formally reflect these changes. We aim to publish a rewritten document after the summit, at the same time the application period opens. We will discuss the changes we make to the CSM process and the document with CSM 11 at the summit.
+That’s it for now. Keep your eyes open for posts from us, as well as any updates from the amazing community sites covering the election.
+If you have any questions or suggestions, please feel free to contact us by a ticket under CCP Community team or leave a comment in the comments section.
+On behalf of CCP,
+CCP Guard and CCP Logibro

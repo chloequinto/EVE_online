@@ -1,0 +1,5 @@
+The required materials for building a Tatara are:
+Structure Construction Parts
+8
+Structure Hangar Array
+4

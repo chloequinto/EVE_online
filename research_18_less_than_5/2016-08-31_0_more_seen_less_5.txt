@@ -1,0 +1,8 @@
+Q: Will there be things I used to get as part of my subscription that I will now have to pay separately for?
+A: No – if you are subscribed to EVE Online, you will have all the same benefits and resources available to you as you always have as a subscriber.
+Q: Will customer support work the same for Alpha and Omega states?
+A: We are creating and implementing concrete plans to make sure we can provide the same level of support for all of our players.
+Q: Will Alphas be allowed on test servers?
+A: Not most of the time, but possibly for certain events.
+Q: What happens if my subscription ends while I'm logged in, will I be converted to Alpha in the middle of a fight?
+A: In these cases, you will remain an Omega until the next time you log out. We won't ever turn skills off during the middle of a session.

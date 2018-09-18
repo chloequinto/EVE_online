@@ -1,0 +1,3 @@
+Hello Capsuleers!
+This is CCP SoniClover from Team Super Friends, one of EVE’s dev groups working as part of the Industry revamp. The bulk of what we’ve been doing will be coming your way in Crius on July 22. The major portion of our labor has been the industry landscape, namely scaling of job costs based on activity and teams. Teams are specialized NPC workers that can modify your industry jobs. We’ve discussed the basics of these features in previous dev blogs, namely here for cost changes and here for teams.
+This dev blog will go over some of polish and iterations we’ve done based on testing and feedback from the Council of Stellar Management and players like you. Also, at the end I will discuss the team specialties in a bit more detail than in the previous blog.

@@ -1,0 +1,11 @@
+To become an eligible candidate, a player must be 18 years of age or older, unless the legal age of majority in your home country is higher than 18, in which case the minimum age is the age of majority.
+To become an eligible candidate player must have an account in EVE Online that has been active for at least two months (60 days).
+CCP employees, ISD volunteers, CCP interns, CCP affiliates, CCP strategic partners or employees of other gaming companies/games and family members of CCP are all ineligible to run for the CSM.
+To become an eligible candidate a player must consent to provide their personal information to CCP. A CSM candidate can publish their personal information to the player base at their own discretion. On the application page field “Country” is visible publicly. But the following information is only visible to CCP staff and will not be revealed by CCP. 
+To become an eligible CSM candidate player must not have any records of serious breach of the EULA and/or TOS. The player’s account will be submitted for a security background check. If any violations are revealed, the candidate will be removed from the election process. Please ensure that your personal information is correct in the account management system. 
+To become an eligible CSM candidate, player must provide a copy of a valid, internationally recognized identity document to CCP. This is required to confirm identity of the candidate and to prove the ability to sign a Non-Disclosure Agreement.
+If due to candidate’s real-life circumstances or medical conditions they are not able to physically attend any of the CSM summits or other CCP or player hosted conventions – we don’t require them to. Participation in all CSM activities is entirely voluntary.
+After the application is submitted it cannot be edited. Take your time when submitting your application.
+You can share your application with other people by sharing the link to your full application, that should look like this:
+//community.eveonline.com/community/csm/candidate?id=000111233
+You can publish and let players discuss your CSM campaign on the forums in the “CSM Campaigns” section.

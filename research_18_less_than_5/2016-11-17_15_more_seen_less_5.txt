@@ -1,0 +1,5 @@
+Hi spacefriends!
+With the expansion EVE Online: Ascension we introduced the new Fitting Simulation, an in-game fitting tool which is integrated into the fitting window. Fitting Simulation will let you engage more easily in the fitting meta-game and will help capsuleers, young and old, learn more about the ships they are flying or want to fly and the equipment they use.
+Fitting Simulation allows you to simulate just about any ship or structure in EVE Online. You can then fit those hulls with simulated modules and see how certain stats, such as velocity, signature radius, and damage output, change as you activate and overheat your weapons, boosters, microwarpdrive, or damage repair modules. This allows you to experiment on your fit and you’ll be able find out before you buy all the modules and ship for your dream fit that you are actually 1% short on CPU.
+This update of the fitting window also includes the addition of three browsers: Hulls & Fits, Modules, and Charges.
+In this blog, we'll introduce you to the new features of the fitting window, but we hope it's all pretty self-explanatory for those of you who are already familiar with the fitting window.

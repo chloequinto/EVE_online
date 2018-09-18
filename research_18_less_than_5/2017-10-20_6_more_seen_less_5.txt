@@ -1,0 +1,1 @@
+Please note that if no one detonates the moon chunk once it is ready, it will automatically explode into a field after 3 hours (or longer if the appropriate rig is fitted). This could happen if no one fires the laser, or the Moon Drill runs out of fuel after the extraction has finished, or if the structure has been reinforced.

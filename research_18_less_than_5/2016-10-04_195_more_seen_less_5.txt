@@ -1,0 +1,7 @@
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 200km (+40) / 75 / 7
+Sensor strength: 115 Magnetometric
+Signature radius: 11500
+Base jump drive range: 5ly (+2.5)
+Jump drive fuel consumption: 2000 Oxygen (+500)
+Cargo Hold: 40,000 m3
+Ore Hold: 300,000 m3 (+50,000)

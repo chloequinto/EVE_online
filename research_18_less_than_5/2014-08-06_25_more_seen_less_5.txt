@@ -1,0 +1,1 @@
+Although K162 signatures will not appear as soon as a player warps to them (as they do currently), they will have a random chance to appear every several minutes once the wormhole connection has less than 15 hours of natural lifetime remaining.

@@ -1,0 +1,9 @@
+This Command Node has been idle for around 10 minutes, and so will automatically capture for the defenders after a further 88 minutes
+This Command Node has been idle for around 10 minutes, and so will automatically capture for the defenders after a further 88 minutes
+For structures with daily vulnerability intervals, when the structure has completely re-secured itself by defensive regeneration, it will be able to enter an invulnerable period as normal.
+If any ship begins capturing a structure with an Entosis Link module (after the module has completed its warm-up cycle), the defensive regeneration is disabled. If a ship stops capturing the structure for any reason, the structure will immediately resume the defensive regeneration.
+As a defender, manually re-securing your structures (or capturing your Command Nodes) with an Entosis Link module will always be faster than relying on the defensive regeneration. It does mean however that you aren't always forced to re-fit in order to undo a small amount of capture progress by an uncommitted attacker once you’ve chased him off. Just keep the area secure from further interference and the structure will take care of itself.
+Note that if a Station Service Module has been completely disabled by an attacker, it will not have any regeneration and will need to be manually re-enabled by the defender. However an enabled Station Service Module that has partial attacker progress but was not fully disabled will be able to regenerate back to fully secured.
+The following table shows the regeneration times for each type of item. (Values are unchanged from the previous blog)
+ Base capture time (sec)Regen Speed MultiplierRegeneration time (min)
+Station service235x 0.0498

@@ -1,0 +1,18 @@
+SMARTER NPCS IN FACTIONAL WARFARE
+Some tweaks are coming to Factional Warfare complexes so that NPCs will arrive repeatedly in an attempt to defend their base and will now behave a bit differently than before. Additionally the usage of cloaking devices has been prevented within 30 km of the capture points. You can read more detailed information here: //forums.eveonline.com/default.aspx?g=posts&t=343137
+UPDATES TO MINING BARGES AND EXHUMERS
+In 2012, we completed a balance pass on the Mining Barges and Exhumers, creating unique roles for each Tech I and Tech II pair. For Kronos, we are accentuating these role differences further in order to offer multiple viable choices for miners. You can get all the information here: //forums.eveonline.com/default.aspx?g=posts&t=333931
+DRONES FROM ALL RACES BECOME VIABLE FOR A RANGE OF TACTICS
+In Kronos, drones from all races are updated to be more specialized and give more tactical choice, bringing back Caldari and Amarr drones as something worth training for.
+NEW EFFECTS FOR SHIPS WARPING IN AND OUT
+In Kronos, you can clearly identify both incoming and outgoing warps in your area of space by monitoring your environment, allowing for improved visualization and immersion whether you are playing your favorite mission or participating in a massive fleet fight.
+THE NEW MOA AND ITS VARIANTS
+In Kronos, we are upgrading the visuals of the Moa hull and its variants - the Eagle, Onyx and Gila - in order to proudly represent both the Caldari visual heritage and retain its place as one of the more controversial but popular ship designs in EVE Online.
+THE NEW CONDOR AND ITS VARIANTS
+In Kronos, we have upgraded the visuals for the Condor hull and its variants - the Crow and Raptor - aiming to capture its speed and agility in the design of the hull.
+RIGS FOR FREIGHTERS AND UPDATED DEEP SPACE TRANSPORTS AND BLOCKADE RUNNERS
+To make the Deep Space Transports and the Blockade Runners even more viable in their roles as 'behind enemy lines space haulers, their roles have been revisited.
+Read about the Deep Space Transports here: //forums.eveonline.com/default.aspx?g=posts&t=345284
+Read more about the Blockade Runners here: //forums.eveonline.com/default.aspx?g=posts&t=345277
+Additionally you will now be able to customize your Freighter with rigs, thus allowing it to carry more, align faster or warp more quickly through space.
+Update: We have revised the approach to the Freighters and Jump Freighters. Those ship classes will be getting Low powered module slots, not Rig slots. Make sure to read the update here: //forums.eveonline.com/default.aspx?g=posts&t=345280

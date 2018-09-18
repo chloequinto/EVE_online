@@ -1,0 +1,2 @@
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+Capacitor (amount / recharge / cap per second) : 8000 (+3800) / 1200s (+400) / 6.67 (+1.42)

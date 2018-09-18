@@ -1,0 +1,2 @@
+Since it reduces cycle time instead of increasing yield this skill is a bit more powerful than Mining Drone Operation.
+Ice Harvester Drone Specialization: 2% reduction in cycle time and bonus to max velocity of drones requiring Ice Harvester Drone Specialization per level.

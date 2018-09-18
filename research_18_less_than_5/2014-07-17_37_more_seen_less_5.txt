@@ -1,0 +1,1 @@
+Decryptors have been adjusted to the new system with the TE bonuses doubling to reflect the fact that TE goes up to 20%. This leaves them in a somewhat unbalanced state, which will be addressed with the aforementioned upcoming Invention/Reverse Engineering changes coming after Crius.

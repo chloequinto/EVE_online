@@ -1,0 +1,2 @@
+Directional Scanner
+On the subject of the Directional scanner, we have made some changes to the way that that works, too.  The first, and one you will likely be aware of if you follow updates.eveonline.com, is the visualized Directional scanner in the Solar System map.

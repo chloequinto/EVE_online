@@ -1,0 +1,1 @@
+The user can interact with the structure in question. A structure set to accept neutral parties will be displayed publicly for such pilots. Another structure set for alliance use only will not appear to any neutral pilot at all.

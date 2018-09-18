@@ -1,0 +1,6 @@
+Rocket Science
+To compensate for this change, all those skills will now give a 1% Time Efficiency bonus for the Tech II manufacturing job they are required for, which is still going to give an incentive for players to train those up, or give an edge for players that already trained them.
+Please note this will however not affect the training structure for construction skills, as you still need the smaller advanced ship construction skill before you can train for the next size.
+Current manufacturing skill requirements (left) versus Phoebe (right) for an Arazu:
+So after the change, the Arazu manufacturer would gain a 15% TE bonus if he / she had Advanced Medium Ship Construction, Gallente Starship Engineering and Electronic Engineering skills at 5.
+Advanced Small Ship Construction skill would however give no bonus here since it is a prerequisite of Advanced Medium Ship Construction.

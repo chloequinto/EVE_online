@@ -1,0 +1,8 @@
+The last tab is the Rookie Help channel. That is absolutely the place to seek assistance and ask questions! There are a lot of seasoned players in this channel who will assist and guide you, along with members of our wonderful ISD STAR Volunteer Team who are here to help. They will be highlighted in chat with a different color of text to regular players, and the prefix "ISD" before their character name.
+If you ever lose one of these channels, don't worry. You can click the little chat bubble and find them listed there. Most notably, this is where the help channels are listed under the Help category. This button will be at the top of your Neocom menu, on the left side of your screen, unless you decide to move it.
+Above: The default location of the channels list in your Neocom.
+Above: The default set of chat channels stacked into one window with tabs, including a surprised GM and ISD Volunteer in local.
+CONCORD PROTECTION
+Above: An Enforcer-class CONCORD police cruiser on patrol duty.
+CONCORD (the NPC police force in New Eden) are there for your protection, but are a reactive rather than a proactive force. They respond to incidents within high security space (0.5 - 1.0 security), taking punitive action against players who attack others.
+Please be aware, however, that in the world of New Eden there are very few rules on player interaction and there may be some people out there who are looking to take advantage of others. Always be careful of who you trust, espcially when striking up deals with other players in chat channels or in space. 

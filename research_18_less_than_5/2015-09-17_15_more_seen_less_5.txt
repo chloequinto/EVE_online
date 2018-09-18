@@ -1,0 +1,5 @@
+As a side note, there won’t be hull, armor or shield hardeners, or anything that increases structure EHP since we do not want attack time to drag on forever. There may be modules that switch the resistance profiles however, from, for instance, 20% EM / 20% thermal / 20% kinetic / 20% explosive to 0% EM / 80% thermal / 0% kinetic / 0 explosive.
+VISIBILITY
+We want the various timers and states to be visible to the owners and players partaking in structure attack, as such:
+Owners with sufficient roles will be able to see the full weekly vulnerability window calendar. Corporation members without roles, or external parties will not. This information will not be publicly available throughout the API: we want people to actively scout or infiltrate the target corporation to know the most favorable moment to attack
+Proper notifications will be sent whenever a structure state needs attention

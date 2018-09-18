@@ -1,0 +1,14 @@
+Carriers & Super-Carriers will launch up to 5 separate squadrons at a time. We are intending on introducing 3 classes of fighters, these will replace all existing fighters and fighter-bombers.
+**Light Fighters**	Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**	Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**	Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+**Light Fighters**Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+The number and types of squadrons a carrier or super-carrier can launch will be limited.
+Management of fighters ready on the launch decks will be an important consideration for carrier pilots. It takes time to swap one squadron of ready fighters out for another, or re-arm your Heavy Fighter Torpedo squadrons.
+Abilities
+Each fighter squadron can have up to three abilities. These are similar to modules on ships, however there is no fitting for fighter squadrons.
+Some of the abilities we're considering to include
+Microwarpdrive
+Micro Jump Drive

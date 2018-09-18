@@ -1,0 +1,7 @@
+Here you can see Pyfa asking which character you would like to export the current fit to.
+Pyfa now also allows you to import fits from EVE easily. Great for those times when you don't have EVE installed and want to play around with a saved fit from one of your characters.
+Being as awesome as they are the Pyfa team even allows you to select between using Singularity or Tranquility.
+You can get the newest release put together by Sable Blitzmann of Pyfa from their GitHub releases page here: //github.com/DarkFenX/Pyfa/releases
+zKillboard
+Ever been browsing zKillboard and found that one fit that blew your mind as being not complete shit in your opinion? Well guess what, Squizz Caphinator has been kind enough to update zKillboard so that while browsing zKillboard, not on company time, you can easily click one button and have the fit saved to your character.
+To try it out just visit any kill from zKillboard: //zkillboard.com/

@@ -1,0 +1,2 @@
+The following existing ships will be converted to the new SKIN system:
+ClassRaceExisting ItemNew SkinPrice / AquisitionPreview

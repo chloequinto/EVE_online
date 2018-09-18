@@ -1,0 +1,5 @@
+The settings are saved so you don't have to keep setting the duration and it will remember if you want to use the corp wallet (if you have access to it) for your convenience. The default quantity is the number of items in the stack you're selling. The default price is the regional average unless your duration is set to immediate, in which case the best matchable bid price is used.
+To see detailed information on an item you can hover over the delta icon on the far right. This icon indicates whether your price is above or below the regional average. If you click the icon you'll see market details on that item.
+[![](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2_550.jpg)](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2.png)
+_(Click image for a larger version)_
+The multisell window is still work in progress so please go try it out on Singularity and give us some constructive feedback.

@@ -1,0 +1,1 @@
+Effect Generators are the replacement for the old passive bonuses from Titans. Titans will be able to fit these new modules (one per race) that warp the fabric of reality across a very large area of effect. Unlike Command Bursts, Effect Generators impact ALL ships within their defined area (friend or foe).

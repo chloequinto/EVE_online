@@ -1,0 +1,3 @@
+During discussions about the input multiplexing and broadcasting issue on forums and in tickets, we have noticed a frequent misunderstanding we would like to take this opportunity to address.  Any use of macros to interact with the game world is prohibited by EULA now, and has always been. The EULA clearly stipulates:
+Conduct
+A. Specifically Restricted Conduct

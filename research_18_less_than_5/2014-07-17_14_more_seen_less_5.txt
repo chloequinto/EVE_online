@@ -1,0 +1,10 @@
+Special edition ships (including all the skins) have their build time set to 10 seconds
+Note: Special edition ships also have an attribute set so that they never cost any ISK to build - The New Eden Painters’ Union still isn’t on speaking terms with the Interstellar Industrial Workers Union.
+Copy times are, as noted above, always 80% of base build time. Due to the interaction of various skills, copy and build end up having the same max throughput. We may revisit this in future to give copying an additional edge.
+Research times are always rank * 105 for the first level, with scaling for additional levels as described earlier.
+Invention time is slightly more complex. We wanted to line the base stats up so that, assuming a 50% success rate, research time would match up roughly with build time, so a max-skilled character can supply itself with enough T2 BPCs to fill its manufacturing slots. Yes, we know invention job length is problematic. See previous point about tackling invention more thoroughly once we're done with Crius!
+Base invention time is thus:
+Time to build a max-run BPC of the possible job output(s)
+Divided by 2 due to the assumed 50% success rate
+Minus time to make the T1 copy
+Thus, 2*(T1 copy + invent)=T2 build.

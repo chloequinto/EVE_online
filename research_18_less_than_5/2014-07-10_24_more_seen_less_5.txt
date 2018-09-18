@@ -1,0 +1,2 @@
+Returns a list of all outpost and POS industrial facilities your corporation owns.
+Added /corp/IndustryJobsHistory.xml.aspx (cache: 6 hours)

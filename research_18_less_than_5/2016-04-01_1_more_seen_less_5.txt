@@ -1,0 +1,2 @@
+OSXNeocom: Neocom is an awesome little OSX app for managing your characters skill queues, PI installations, looking up prices on the market, and a fitting tool. The way the fitting tool splits up modules by slot type is really intuitive, and the way it uses CREST to store and send fittings to the client makes it easier than ever to share/modify fits between your characters. This app has a ton of polish and is definitely worth checking out if you have a mac.
+For a full list of all entries see this spreadsheet.

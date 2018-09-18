@@ -1,0 +1,4 @@
+Upping limit on mailing lists
+Your communities keep getting bigger and more popular, with groups such as Spectre Fleet and RvB Ganked getting close to the maximum mailing list size. To enable them to keep growing, we’ve upped the limit on mailing list membership from 3000 people to 5000.
+Adding a filter to the member list
+When you have a corporation with a few thousand members we get that it’s near impossible to find a specific member. That’s why we’ve added a filter to the member list.

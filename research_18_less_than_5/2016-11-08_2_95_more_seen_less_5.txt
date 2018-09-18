@@ -1,0 +1,7 @@
+ENGINEERING RIG SECURITY STATUS SCALING
+Another area of similarity between the new Engineering Rigs and the existing Citadel Rigs is that the bonuses provided by these rigs changes depending on what type of space their structure is anchored within.
+Each Engineering Rig has three sets of bonuses:
+One base value for highsec space
+One for lowsec space that has a 90% higher bonus than the base value
+One for nullsec and wormhole space that has a 110% higher bonus than the base value
+Tech 1 rigs that provide manufacturing material input benefits have the following bonuses:

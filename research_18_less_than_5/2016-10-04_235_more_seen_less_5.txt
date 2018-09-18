@@ -1,0 +1,5 @@
+This is the second tier specialization skill for the new ice harvester drones.
+Ice Harvester Drone Specialization is a rank 5 skill.
+From day one all advanced ice harvester drones (T2, Augmented, and Excavator) will require Ice Harvester Drone Specialization and therefore gain its benefits.
+To go along with these new skills, we are also fleshing out the lineup of mining drones themselves!
+(Click image for a larger, animated version)

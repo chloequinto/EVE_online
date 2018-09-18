@@ -1,0 +1,4 @@
+Capital Assembly Array is being renamed Supercapital Ship Assembly Array for the same reasons.
+Assembly Arrays have their cargohold increased to the following amounts:
+Corporate Hangar Arrays: from 1,400,000 m3 to 3,000,000 m3.
+Ammunition Assembly Array: from 150,000 m3 to 1,000,000 m3.

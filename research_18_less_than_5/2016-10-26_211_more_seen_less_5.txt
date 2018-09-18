@@ -1,0 +1,7 @@
+LET’S SEE SOME NUMBERS!
+I want to start this section by making it clear that all these numbers are subject to change as we continue development of this feature. We are sure we’ll receive a lot of really valuable feedback from the EVE community over the next couple months and we’ll be updating the plan to take advantage of this feedback. We still have plenty of time before release so don’t consider any of these numbers set in stone.
+Our plan for skill requirements in the new system significantly reduces the barrier to entry for this role.
+Tech 1 Command Bursts will only require Leadership level 1 and their basic group skill such as Armored Command (formerly known as Armored Warfare) level 1
+Tech 2 Command Bursts will require Leadership level 5 and their group specialist skill such as Armored Command Specialist (formerly known as Armored Warfare Specialist) level 1
+We are also planning to adjust the skill requirements for flying the Tech 2 boosting ships such as Command Destroyers and Command Ships, which will reduce the training time to enter those ships slightly. More details to come in an upcoming blog.
+Let’s start off with the common stats across all Command/Foreman Bursts:

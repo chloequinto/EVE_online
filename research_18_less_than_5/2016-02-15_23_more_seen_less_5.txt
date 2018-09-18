@@ -1,0 +1,1 @@
+Continuing our efforts to support third-party developers, we are incredibly happy to announce The EVE Online API challenge: Create a piece of software that primarily focuses on use of the CREST API.

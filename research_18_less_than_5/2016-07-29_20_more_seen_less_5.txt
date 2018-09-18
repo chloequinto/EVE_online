@@ -1,0 +1,10 @@
+25% bonus to Small Energy Turret falloff range
+Minmatar Frigate bonuses (per skill level):
+20% bonus to Stasis Webifier range
+20% reduction in Cloaking Devices CPU requirement
+Covert Ops bonuses (per skill level):
+10% bonus to Core and Combat Scanner Probe strength
+25% bonus to Energy Nosferatu and Energy Neutralizer falloff range
+Role bonus:
+400% bonus to Small Energy Turret damage
+10+ bonus to Relic and Data Analyzer virus strength

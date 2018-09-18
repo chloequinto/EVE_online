@@ -1,0 +1,5 @@
+200% bonus to Cargo Scanners range
+Slot layout: 8H (+2), 7M, 4L (+1)
+Fittings: 420,000 PWG (+115,000), 1200 CPU (+280)
+Defense (shields / armor / hull) : 90,000 / 60,000 (+30,000) / 300,000 (+50,000)
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50

@@ -1,0 +1,1 @@
+As it comes out of invulnerability, the Medium Citadel armor is now susceptible to attack. As it is damaged, the Medium Citadel immediately starts a 15 minutes repair timer.

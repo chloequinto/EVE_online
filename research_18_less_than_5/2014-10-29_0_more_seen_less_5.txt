@@ -1,0 +1,8 @@
+With the new release cadence, we have realized that we need as an efficient team as possible and we can’t afford to have a CSM that is only partially functioning. We simplified a lot of internal processes and we are also working on updating the CSM White Paper right now. There will be more discussion of this and finalization at the CSM9 Winter Summit.
+The main change that some of you might have noticed – we found a new way to deal with resigning members. This is thanks to your feedback from this thread, by the way!
+Before now, we would just run a short staffed team. This will be changing and we will be replacing members if they decide or have to leave (we are also looking into a possibility to deal with inactive members).
+We will be removing the person who has left from the ballot and re-running the elections with an updated ballot.
+However, this will only be done if there are three or more release cycles left till the end of the term. We are still polishing this idea, so please, leave your feedback in the discussion thread for this dev blog.
+Please expect more information about this and other changes with the CSM later in the future.
+<3
+@CCP_Leeloo

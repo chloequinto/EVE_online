@@ -1,0 +1,14 @@
+**JUMP DRIVE RANGES**
+Jump Drive Calibration (JDC) skill bonus reduced from 25%/level to 20%/level.
+Primarily to allow us to make base ranges whole numbers while hitting our target ranges – a 2.25x multiplier leads to lots of repeating decimals.
+Titan base jump range reduced from 3.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Supercarrier base jump range reduced from 5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Carrier base jump range reduced from 6.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Dreadnought base jump range reduced from 5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Combat capitals (i.e. the above listed classes) brought down to a universal 2.5LY base range, for uniformity, ease of fleet logistics, and to make multiple jumps still be necessary in many situations over the shorter deployment ranges expected post-Phoebe.
+Rorqual base jump range reduced from 3.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Rorqual is – for now – keeping its 20%/level drone damage bonus, and consequently being balanced alongside other combat capital ships. This ship needs further balance work, and these numbers will probably change when that happens.
+Jump Freighter base jump range remains at 5LY, for a new maximum range of 10LY with skills.
+Jump freighters are slightly reduced in range, but the max range we want is achieved by the JDC change without needing further adjustments to the ships themselves.
+Black Ops base jump range increased from 3.5LY to 4LY, for a new maximum range of 8LY with skills.
+Minor range increase after JDC changes are taken into account, to create nicer numbers and err on the side of being generous to Black Ops given the impact of other changes.

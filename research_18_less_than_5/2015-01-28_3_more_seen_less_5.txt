@@ -1,0 +1,6 @@
+New UI Icon Additions and More Themed UI Elements
+Following up from the revamped user interface released in Rhea, Tiamat brings a few new user interface icons and more interface elements are themed by the selected color theme. Read the patch notes for the full list of changes.
+Visual Updates to Structures in Missions and other Locations
+Shaders and effects for structures and objects found in sites are updated in Tiamat, along with rending performance improvements.
+Quality Settings for Sun Flares
+Tiamat brings quality settings to sun flares, improving performance by providing a less resource-intensive version of the effect on lower quality settings.

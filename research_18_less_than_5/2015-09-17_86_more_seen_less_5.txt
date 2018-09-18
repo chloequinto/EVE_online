@@ -1,0 +1,4 @@
+As usual, any damage done to the structure while it is vulnerable will cause the repair time to start. Please note however that in this case the structure will only have hull layer available – it is not a fully operational battle station yet, and as such is even more susceptible to damage than usual. Which means if attackers can take it to 0 hit points it will be destroyed on the spot, there will be no further invulnerability phase.
+For unanchoring:
+Unanchoring may only be started if the structure has full shields and is not within a repair timer. This is to prevent some early bail-out should it be attacked
+Once the unanchoring process has started, the structure will become invulnerable for a specific amount of time

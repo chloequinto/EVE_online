@@ -1,0 +1,2 @@
+Bottom line:
+Apart from this one-time step of converting the existing resource files into new files in a shared location, you should really not notice any difference in playing EVE Online with this version of the client. 

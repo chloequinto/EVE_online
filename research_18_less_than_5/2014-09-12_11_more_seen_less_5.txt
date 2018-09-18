@@ -1,0 +1,3 @@
+New cloaking effect
+A new effect for ships cloaking on gate jumps and when using cloaking modules.
+See the work in progress effect in action on Singularity in these videos on YouTube:  TheMittaniTV, Michael B, CCP Manifest

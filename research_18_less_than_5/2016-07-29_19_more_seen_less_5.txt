@@ -1,0 +1,9 @@
+Can fit Covert Ops Cloaking Device and Covert Cynosural Field Generator
+Cloak reactivation delay reduced to 5 seconds
+No targeting delay after Cloaking Device deactivation
+Energy Nosferatu fitted to this ship will drain targeted ship's capacitor regardless of your own capacitor level
+Rabisu
+Rabisu
+6 Highslots
+3 Midslots
+6 Lowslots

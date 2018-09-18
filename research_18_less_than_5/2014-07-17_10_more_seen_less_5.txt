@@ -1,0 +1,5 @@
+50T1 battlecruisers, T2 small rigs
+60T1 battleships, capital components
+100Medium T2 rigs
+150T1 Capital modules, T2 large rigs
+180Fancy capital modules

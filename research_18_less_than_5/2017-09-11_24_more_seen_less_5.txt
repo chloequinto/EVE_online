@@ -1,0 +1,2 @@
+The Rifter has always been the most popular Minmatar frigate (and still is), but it isn't performing quite as well as its competition. We are going to switch the utility high, which doesn't get used very often, to a low. Hopefully this makes way for some new options as an armor brawler or an artillery platform that will serve to separate the Rifter from the Slasher and the Breacher.
+-1 High slot

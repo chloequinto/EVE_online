@@ -1,0 +1,2 @@
+Moon Drilling Proficiency - These large rigs combine the benefits of both Moon Drilling Efficiency rigs and Moon Ore Stability rigs
+Moon Drilling Proficiency Rig L Tech 1 - Volume/time up by 2%, Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%

@@ -1,0 +1,5 @@
+As mentioned above, new structures are going to use a new type of fuel block, which will be required to manufacture the various hulls, modules and online service modules.
+As a consideration for players living in null-security space, we are investing coming up with more ways to build such fuel block to reduce the logistic hassle to haul four types of isotopes around. For example, we are considering adding 4 more blueprints to build the new fuel block with one racial isotope instead of 4, but increasing the amount to compensate.
+SO IT BEGINS, THE GREAT MARKET SPECULATION OF OUR TIME
+Please remember all of those numbers and requirements are work in progress and subject to change before the release. Nevertheless, we wish you happy stockpiling and merry market manipulation hunger games. See you guys for our next blog, which will tackle structure hull fittings, bonuses, layout and why it’s usually better to upgrade to a larger sized structure if you have the means to do so.
+Big shout-out to CCP Maximum Cats for graciously allowing us to use various Citadel concept arts for this blog.

@@ -1,0 +1,5 @@
+Individually resizing each probe through right-click menu in the solar system map
+We are adding 2 buttons to quickly change the camera angle between a top and side view. This will also be bound by default to a double click anywhere in the solar system map that is not a bracket or the probe object.
+The goal here is to make manipulating probes easy, accessible, and not frustrating.
+Window Management and Layout
+We are maintaining the window states that were introduced with the “new” scanning system and building on them. You will still have the options for full screen, dock left, dock right, and floating. With the changes you will be to dock the Probe Scanner and Directional Scanner windows within the Solar System map view. You will still be able to open both windows without having the solar system map open.

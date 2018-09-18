@@ -1,0 +1,2 @@
+Dynamic pricing across the universe
+Limitations on slots for science and industry jobs in stations will be removed in Crius. Instead the cost of running jobs are affected by the amount of activity in a solar system that competes for the same workforce, the kind of facility you choose, and a number of other factors that you can make decisions about. These changes were introduced in this blog, and another blog with the latest updates is in the making.

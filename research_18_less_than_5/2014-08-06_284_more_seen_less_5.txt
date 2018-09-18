@@ -1,0 +1,2 @@
+More randomly spawning wormholes
+Mass-based spawn distance after wormhole jumps

@@ -1,0 +1,1 @@
+This tab is going to be removed and the contracts window should be able to handle everything this tab does.

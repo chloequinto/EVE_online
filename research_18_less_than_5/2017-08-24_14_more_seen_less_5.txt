@@ -1,0 +1,3 @@
+NEW REACTIONS SYSTEM COST INDEX
+Reaction jobs will contribute to their own System Cost Index when calculating the cost of installing the job. This System Cost Index will use the same formula as current industrial activities:
+TAXATION

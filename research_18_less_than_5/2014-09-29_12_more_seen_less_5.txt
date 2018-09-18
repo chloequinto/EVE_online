@@ -1,0 +1,3 @@
+So what is this format?
+It's made up of a few sections that are separated with empty linebreaks:
+First line lists the ship and fitting name, separated by a comma (i.e., Raven, karkur's little raven fit)

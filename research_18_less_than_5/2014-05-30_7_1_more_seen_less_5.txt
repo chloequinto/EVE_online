@@ -1,0 +1,5 @@
+About the Site
+EVE Planets looks simple at first glance, but actually contains quite a lot of information. You can look at individual planet types to see what materials can be harvested and produced on them. Alternately, you can look for specific tier-1 materials to see which planets you can harvest them from.
+Of course, this simple information is easy to find, but the more in-depth tools are awesome. By selecting one of the schema, you can see every resource needed and a full production flow chart. Additionally, you can see each of the resources and what planets they appear on, so you can quickly find what combination of planets you'll require to manufacture the product.
+And perhaps the most powerful tool is the system search. If you have a home system you're looking to exploit, you can see exactly what sort of goods you can produce in it, all in one simple page.
+For Planetary Interaction, there are few tools as useful.

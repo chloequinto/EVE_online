@@ -1,0 +1,4 @@
+2011 - TQ Database Upgrade
+In the continued commitment to EVE Forever, it is time for TQ to level up again, with new methods and technology having emerged to help inform us in our approach to running the super-complicated service and game and universe that is New Eden.
+TQ Tech III has a many highlights which I’ll go over and enlist fellow devs to explain.
+Warning: It’s about to get super tech-freaky up in here!

@@ -1,0 +1,5 @@
+TECH III SUBSYSTEM BALANCING
+Other changes that are coming for Phoebe are the removal of Data Interface and Subsystem Data Interfaces. Those will be properly reimbursed at market price. Blueprint copies will be reimbursed at a static price.
+With the removal of those items, players will be able to directly pick and choose the exact race and subsystem type they want instead of relying on a random number generator (RNG) mechanic.
+Below is the updated UI for picking subsystems:
+To compensate for this and to stimulate the market for Tech III materials, some changes are being made to the build requirements of various Tech III components.

@@ -1,0 +1,1 @@
+system_activity_index is the index we’re creating, the formula is:

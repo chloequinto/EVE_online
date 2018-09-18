@@ -1,0 +1,15 @@
+As the middle ship in the mining foreman progression path (and top of the pack for highsec) the Orca is extremely capable in all three of the mining foreman pillars:
+Help fleetmates mine more effectively:
+Three command bursts, a 3% per level bonus to Mining Foreman Burst strength, and a 50% role bonus to Command Burst area of effect make the Orca a great choice for providing mining boosts
++500% survey scanner range makes the Orca a perfect coordination platform
+The Orca retains its existing Ship Maintenance Bay, enabling fleetmates to refit their mining ships and allowing storage of mining vessels for transport and backup
+Alongside the unchanged bonuses to tractor beams, the ore hold of the Orca has been tripled in size. The Orca is a perfect vessel for storage and hauling of ore
+Defend the mining operation:
+Thanks to a +10% per level bonus and +100% role bonus to drone damage, the Orca can deal battleship-level damage with a flight of fast medium drones
+A 400% bonus to Remote Shield Booster optimal range allows the Orca to effectively aid in the defense of its allies using large remote shield boosters.
+A bonus to Shield Command Burst strength allows the Orca to improve the tank of its allies, providing useful resistance from all kinds of assaults (including suicide ganks)
+Contribute with powerful mining drones:
+With both skill and role bonuses to mining drone yield, the Orca can pull in similar ore volumes to an exhumer
+We’re really interested in hearing your feedback on these Orca changes! Head to this forum thread for all the discussion focused specifically on the Orca.
+THE RORQUAL
+(Click image for a larger, animated version)

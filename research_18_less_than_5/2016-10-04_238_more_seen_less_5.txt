@@ -1,0 +1,1 @@
+Ice Harvester Drone Operation: 5% reduction in ice harvester drone cycle time per level.

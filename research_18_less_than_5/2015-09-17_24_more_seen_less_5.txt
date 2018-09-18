@@ -1,0 +1,4 @@
+Even if they’re not going to be directly involved any longer, we do believe Entosis Links promote beneficial gameplay in the sense they do create a more level playing field between various player entities: using an HP metric as an attack system alone strongly encourages blobs to pile up on structures. This in turn encourages us to create structures with lots of HP to make sure blobs take time to bring them down. Which removes any incentive for the smaller gangs to engage in structure assaults, thus reinforcing large blob attacks.
+This is a vicious circle we intend to break while singing dirty French limericks and wielding a garlic-infused baguette. How? By introducing damage mitigation on structures.
+The way damage mitigation is going to work is pretty simple:
+We set a maximum limit on a structure, say, 4000 DPS

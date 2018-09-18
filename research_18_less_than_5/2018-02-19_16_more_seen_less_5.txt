@@ -1,0 +1,4 @@
+Minmatar Battlecruiser bonus per level: 7.5% to Heavy Missile Launcher and Heavy Assault Missile Launcher rate of fire (was 5%)
+Eagle:
+The Eagle has had a place before in the fleet meta and may find one again between the Assault Damage Control and the Ferox nerf, but we still feel some added utility is a good idea.
++12 maximum velocity

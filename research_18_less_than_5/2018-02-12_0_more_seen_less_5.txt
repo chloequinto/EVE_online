@@ -1,0 +1,5 @@
+Use strong passwords. Create unique passwords that use a combination of numbers, lower and upper-case letters. Don't use standard dictionary words since those can be easily cracked by various password-cracking tools available online. Stuff like "qwerty", "123456", "password" and "user" etc. are bad passwords that can easily be guessed or cracked.
+Don't re-use usernames and passwords for multiple different accounts or sites. Most of the breached EVE accounts this year are from password reuse (in the case of the email, which they have access to).
+Use a password manager to ease the burden of remembering a trillion complex passwords, an impossible feat.
+Don't share your login details with anyone. Your friend might have poor operational security.
+Stay cool and fly safe!

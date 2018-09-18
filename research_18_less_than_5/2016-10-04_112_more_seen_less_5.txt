@@ -1,0 +1,2 @@
+Mining Drone Specialization is a tier 5 skill.
+Mining Drone Specialization requires Mining Drone Operation level 5 in order to start training.

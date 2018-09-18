@@ -1,0 +1,4 @@
+Some of you who are used to the old system or are decently tech savvy might be looking to the URL to do some viewing of other bug reports. We have put measures in place to prevent any of your reports being viewed by an account that didn‘t file the report.  If you attempt this, you will be greeted with the following screen:
+We also fixed some style issues with the old system.  Increasing the height of the comments text area for example, and we increased the length of the build field so that you can see all pertinent details, even if our branch names are long.
+o7
+CCP Goliath

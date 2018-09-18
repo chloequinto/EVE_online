@@ -1,0 +1,1 @@
+Structure brackets are going to be visible in space and in the overview if:

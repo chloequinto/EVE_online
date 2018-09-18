@@ -1,0 +1,4 @@
+Shield, armor and hull resistances
+20%
+20%
+20%

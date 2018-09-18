@@ -1,0 +1,2 @@
+How about them apples?!
+At the next big milestone we aim to allow you all to log in while the Tranquility Tech III hardware is still in Iceland for some initial testing. Please note though, there are about extra 40ms of network latency added compared to London as the intertubes go through the Atlantic Ocean, a glacier, some hot springs and couple of volcanoes before reaching CCP Headquarters here in Iceland.

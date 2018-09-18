@@ -1,0 +1,3 @@
+30x IBM x240 - Intel E5-2637-V3 CPU @ 3.5GHz CPU with 64GB RAM (2133MHz)
+Enhanced SOL Nodes
+9 x IBM HS23 - Intel Xeon CPU @ 3.30GHz with 64GB RAM (1333MHz)

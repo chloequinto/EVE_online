@@ -1,0 +1,9 @@
+Our solution is to keep the core concept of a “speedy” wormhole but make it truly useful by cutting the inertia penalty in half and rebuilding the other bonuses around high speed missile skirmishing. With bonuses to missile velocity, missile explosion velocity, targeting range and a new penalty to stasis webifier strength this wormhole should provide a new and exciting environment that is unlike anything else in EVE.
+Affected stat
+Wormhole class
+1
+2
+3
+4
+5
+6

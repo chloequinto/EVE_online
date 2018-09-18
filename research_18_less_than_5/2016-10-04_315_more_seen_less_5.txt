@@ -1,0 +1,9 @@
+MINING FOREMAN BURST DETAILS
+If you’ve read the previous dev blog and forum thread covering the Command Burst system, you’ll already be familiar with most of the information this section. In that case feel free to skip to the next section most of this will be repeated information. However, we want to include a quick refresher on the basic information so that people who just want to learn about mining foreman gameplay can get everything they need in one blog.
+Command Bursts are high-slot modules that can be fit on the same classes of ships that can currently fit Warfare Links and will be replacing their functionality. There will be five types of Command Burst modules at launch, one for each of the existing fleet boost groups: Armor, Shield (formerly known as Siege), Information, Skirmish, and Mining.
+These modules must be loaded with ammo in order to activate, and the ammo choices determine which bonus the module will provide to nearby fleetmates. Ammo can be swapped in the field to change bonuses as the situation changes, although a reload time of between thirty seconds and one minute means that choosing the right time to swap bonuses is important.
+The ammunition for Command Bursts will be compact, inexpensive and manufactured by players primarily from the raw materials of ice products.
+The burst charges themselves are planned to have a volume of 0.01 m3, and the modules themselves will have a capacity of 3 m3. This means that if you don't want to change ammo types you can boost for 5 hours continuously without reloading.
+The blueprint originals for each of these charge types will be sold by NPCs, just like other T1 charges.
+The current plans for material requirements for batches of the burst charges are as follows (base values for an unresearched blueprint):
+Batch size for all burst charges is 500.

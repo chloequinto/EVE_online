@@ -1,0 +1,2 @@
+We've done a fairly comprehensive overhaul of blueprint stats, to try and bring them into a more consistent and interesting pattern.
+Firstly, we've assigned all blueprints a behind-the-scenes rank, which dictates a lot of the values. You can see examples in Appendix 1, and here are the rules we used to determine them:

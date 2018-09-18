@@ -1,0 +1,8 @@
+The Retriever and Mackinaw continue to enjoy the greatest ore holds of any mining ships and are receiving smaller changes since they are already the most popular barges by far.
+The Covetor and Hulk will be gaining even more yield to strengthen their position as the most profitable mining ship in all of EVE Online. They are also gaining a completely new bonus to strip miner and ice harvester range that will allow them to more efficiently clear their asteroid belts, especially when working in teams.
+For all the juicy details on these barge and exhumer changes, as well as connected changes to mining crystals and gang links, check out this forum thread.
+SPACE TRUCKIN’: FREIGHTERS AND JUMP FREIGHTERS
+Forum thread
+Freighters and Jump Freighters are the most heavy duty haulers in New Eden, and serve as the life blood of EVE Online’s living economy. These ships have always been very powerful and effective movers of freight, but before Kronos they have lacked any choice or customization gameplay. Player freedom is at the core of everything we do at CCP and we are always striving to ensure that every aspect of EVE provides interesting choices for players to make.
+We have worked through several different approaches for providing this crucial player choice to Freighters and Jump Freighters. After discussion with you and with the CSM we have settled on low-power fitting slots as the best method. In Kronos, each Freighter and Jump Freighter will have three low power slots that can be used to customize your ship to meet your specific needs at any given time.
+The stats of each freighter and jump freighter are being changed to work with the new low slots, so for all the details and to provide feedback go check our forum thread in the Features and Ideas section.

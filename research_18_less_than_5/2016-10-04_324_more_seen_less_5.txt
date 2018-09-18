@@ -1,0 +1,8 @@
+Hello prolific capsuleers!
+The EVE Online team is continuing to work hard on the upcoming November expansion, and today we’re ready to share another dev blog with all of you!
+This is the second dev blog in our series on “Command Bursts”, the new and improved system for providing bonuses to your allies.
+The first blog covered the goals of the new system, the new mechanics, and the plan for leadership skills and other modifiers. We’ve been continuing to update that original blog as we’ve made changes to the plan thanks to your feedback, so it’s a great reference for getting an overview of the system as a whole.
+This blog will go into detail on the changes to mining foreman gameplay, including the Mining Foreman Bursts, changes to the Rorqual and Orca, and the new Porpoise-class industrial command ship.
+Blog three will focus on the balance tweaks being made to combat-focused boosting ships that will release alongside the new system.
+Blog four will be released right before the November expansion and cover all the changes to the plan we made thanks to your feedback. It will also summarize all the ship and module balance changes in the November release for easy reference.
+This will be a giant blog covering several topics related to mining foreman gameplay, so we’ll start with a table of contents. If you don't have time right now for 7000 words and just get to the TL:DR click here.

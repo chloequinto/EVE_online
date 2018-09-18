@@ -1,0 +1,4 @@
+Advanced Small Ship Assembly, Small Ship Assembly
+1%
+27%
+In practice, this means that stacking 13 Medium Ship Assembly, Advanced Medium Assembly or Subsystem Assembly Arrays will reduce the total cost to start a manufacturing job at any of those structures by 26%. Those bonuses are not system wide, which means that structures at two different locations inside the same solar system will not stack together.

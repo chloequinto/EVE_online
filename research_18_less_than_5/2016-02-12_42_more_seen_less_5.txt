@@ -1,0 +1,7 @@
+FORCE AUXILIARIES
+One of the biggest components of our capital changes this spring is the new class: Force Auxiliaries, which some of our players have taken to calling FAX or FAux. This class represents capital repair logistics in a fully dedicated form. Here’s the beautiful new ships and their preliminary bonuses as of now:
+Apostle(6 high slots, 4 mid slots, 7 low slots)
+Amarr Carrier Bonus (per skill level):
+5% bonus to Remote Capacitor Transmitter and Remote Armor Repairer amount
+4% bonus to all armor resistances
+5% bonus to maximum capacitor pool

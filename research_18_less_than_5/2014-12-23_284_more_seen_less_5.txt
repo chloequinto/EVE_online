@@ -1,0 +1,2 @@
+Hello Capsuleers!
+This is CCP Terminus bringing you another devblog, this time covering our continuing Module Tiericide project. For reference to what the Module Tiericide project is all about and what that will mean to your modules please refer to CCP Fozzies previous devblog here: Rebalancing EVE, One Module at a Time. The Proteus release on January 13th will see the second round of this work, with changes to 10 different module types of various categories.

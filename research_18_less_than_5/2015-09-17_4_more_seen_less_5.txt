@@ -1,0 +1,2 @@
+As it comes out of invulnerability, the Medium Citadel armor is now susceptible to attack. As it is damaged, the Medium Citadel immediately starts a 15 minutes repair timer.
+Since IKS doesn’t show up to damage the armor, the structure successfully repairs itself at 19:55GMT on day 2, causing all its shields, armor and hull to be fully repaired. Since there is no weekly vulnerable window set up on Sunday, the structures becomes invulnerable as soon as the repair timer runs out.

@@ -1,0 +1,4 @@
+Small Projectile Turret
+5
+Gunnery
+1

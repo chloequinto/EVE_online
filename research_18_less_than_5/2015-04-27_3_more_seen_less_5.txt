@@ -1,0 +1,2 @@
+Probe scanning improvements
+The use of scan probes in the new map was made possible in the last release, but there were some usability issues that needed to be ironed out. As of Mosaic, probing for both sites and hostiles should feel noticeably smoother.

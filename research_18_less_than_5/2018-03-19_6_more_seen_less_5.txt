@@ -1,0 +1,3 @@
+The HQ listed in Show Info windows for corporation will now be a link
+A tooltip has been added to the standing icon in the show info window to show what that icon is based on (player to player, player to corp, alliance to corp etc).
+The height of the 'Duration' drop down in market orders have been increased, so all entries fit without scrolling

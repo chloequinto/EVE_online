@@ -1,0 +1,7 @@
+Hello capsuleers,
+As CCP Seagull said in her Hyperion overview dev blog, we have some changes coming to Incursions with Hyperion on August 26th. This dev blog is going to give a more detailed explanation of what those changes to Incursions are.
+If you would like to know more about what Incursions are, check out this really good article over on the EVE University wiki about Incursions.
+Reducing the re-spawn time of Incursions
+Right now when an Incursion finishes there is between a 24 and 48 hour delay until another Incursion spawns in the same security space replacing the one that ended. For example, if all of the Incursions in high sec are completed within a short time span of each other, it means that for a period of time there will be no Incursion in high sec.
+This change is aimed at helping make sure that Incursion runners will always have them available when they log in. You may have to move to get to it, but at least the option is there for you to go do it.
+More specifically we are reducing the min and max time between an Incursion being completed and it re-spawning elsewhere from 24 and 48 hours respectively to 12 and 36 hours respectively.

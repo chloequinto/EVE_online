@@ -1,0 +1,2 @@
+With Inception, we are shifting from the current Opportunities NPE to Operations and Tasks. We are using these Operations and Tasks to create a storyline driven experience for players where the mentors will give context and backstory about the operations and Aura will deliver the tasks to complete. This is just the first chapter of a much larger system coming out in a later release.
+NEW SITES

@@ -1,0 +1,8 @@
+Repel trolling attempts from a single player trying to capture them with an Entosis module
+Act as force multipliers to deal with attacking fleets and promote asymmetric warfare (less defenders are required than attackers)
+Have engagement inertia, meaning they require time to acquire and switch targets
+Require support from defending fleets to successfully fend off attacks
+While structure weapon systems will deal considerable amount of damage to compensate for their static nature, most of them will require Electronic Warfare assistance from defending ships to be fully operational (like Stasis Webifiers or Target Painters).
+While Citadel structures are specialized in repelling attacks (through specific bonuses and attributes), keep in mind most structures will be able to fit defensive options--if they have enough slots and fittings of course.
+With that in mind, let’s have a look at what we are planning so far for defensive modules. Also remember this remains work in progress and is susceptible to change.
+Single Target Weapons

@@ -1,0 +1,2 @@
+Power Diagnostic Systems
+Name	Meta Level	CPU	Shield Recharge Rate Bonus (%)	Shield Hitpoint Bonus (%)	Capacitor Recharge Rate Bonus (%)	Powergrid Bonus (%)	Capacitor Capacity Bonus (%)

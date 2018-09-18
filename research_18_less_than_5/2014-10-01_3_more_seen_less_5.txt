@@ -1,0 +1,10 @@
+Does this make it too difficult for new pilots to get out into 0.0?
+Yes, it probably does. Following further discussion after publishing this dev blog, we have come up with the following additional feature:
+For players less than thirty days old, once per player corporation joined, or
+For all players greater than thirty days old, once per year:
+You may push a button in your corp interface (while a member of a player corp and docked) that:
+Moves your medical clone to a station designated by your corporation, and
+Then moves you to the (new) station containing your medical clone
+The exact method of corporations designating the target station is still being ironed out, but it will involve at the very least being able to designate a default station for all corp members and will likely be allowed for any station with a corp office, regardless of system sec status. This seems to us like it solves the "I want to recruit people to Nullsec" concern, and also gives non-Nullsec recruiters an easier way to get genuinely new players to the right location quickly and easily.
+Is the balance for Black Ops final?
+No. Please give feedback!

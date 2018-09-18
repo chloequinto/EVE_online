@@ -1,0 +1,6 @@
+Hello Capsuleers! 
+CCP Terminus here to talk about Super Kerr-Induced Nanocoatings (aka SKINs), the new visual customization system coming to the spaceships of New Eden.
+Following the successful prototype Ship Painting Pilot Program we introduced last year and months of offering ship skins in the store, we have created a new more robust system, which provides a multitude of customization and usability benefits. It allows us to maintain and upgrade our ship catalog in a much more sustainable manner, and provides a multitude of interesting options for future developments. We believe the SKIN system will accentuate the visual experience of living in New Eden and allow you to put a personal mark on the ships you love most. 
+This blog will also go into the details on how we will be converting from the old system to the new SKINs, which will launch with 102 brand new SKINs. If you're wondering how the old system worked or are curious as to the reasons behind the change, please reference CCP FoxFour's excellent dev blog.
+How many of you DIDN'T try to ship spin that amazing image? If you didn't then I suggest leveling up your ship spinning skill and trying again.
+BASICS

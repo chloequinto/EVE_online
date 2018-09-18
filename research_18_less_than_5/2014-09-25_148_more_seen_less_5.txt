@@ -1,0 +1,1 @@
+Micro Auxiliary Power Cores (MAPCs) will also only need one named specialization, but in this case we are making special consideration for owners of the currently Meta 4 Micro 'Vigor' Core Augmentation. The current metas 1-3 named MAPCs will be converted into the new Compact Compact Micro Auxiliary Power Core but the Vigors will be turned into Navy MAPCs over downtime.

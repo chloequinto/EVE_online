@@ -1,0 +1,2 @@
+(click to enlarge)
+Items and materials reprocessing changes to provide more options for specialization through skills and choosing the right kind of facility. The new interface gives clear breakdowns of the outcomes of reprocessing. These changes were introduced in this blog.

@@ -1,0 +1,11 @@
+Range and Falloff is -20% (you need to get up close and personal to your target)
+Cap Use is -25% (mostly to accommodate the increased RoF)
+Fitting (CPU and Power Grid requirements) is approximately -10%
+Capacity for the ones requiring charges is +200% (i.e. you can fit three times as much ammo/missiles)
+The modules are Tech II, meta-level 9 modules. They thus have the same skill requirements as Tech II, but they also benefit from the specialization skills. They require their Tech II counterpart to manufacture
+The price of those weapons should make them not a feasible choice for suicide ganking but only just so, so that their price does not dictate their use too much. This will likely require some future adjustments to drop rate and bill of materials
+They have the Sleeper's shader to distinguish them visually
+And to restate, when fitted all resistance are set to 0 and can’t be raisedby other means
+In creating these modules we’re using the same philosophy as we did when creating the modules in the Inferno expansion: they should offer a new tactical niche that supplements rather than replaces existing ones. While the Inferno modules were a bit hit-and-miss, the more successful ones like the Ancillary modules and the Micro Jump Drive succeeded in creating new tactical elements without obsoleting existing modules. It would be easy to make modules that were just strictly more powerful than existing stuff, but we’re trying to avoid starting down the road of power creep that design would result in. We expect the Polarized weapons will lead to fun, but minor, shifts in EVE's complex tactical metagame and that pilots will experiment with them and find some cool, niche uses for them. We do not anticipate or desire these weapons to become a stable in every fight everywhere.
+Well, that’s it for now. The Limited Sleeper Cache site and the Polarized weapons are already live on Tranquility for you to explore. Look out for the Standard and Superior Sleeper Cache sites to hit the test server Singularity in the next few weeks and start appearing on Tranquility in the Rhea release on December 9th.
+Now, go explore!

@@ -1,0 +1,4 @@
+When a fitting is imported into EVE, any charge that is listed after a module, will be listed as a cargo item. Please note that we are not changing what's allowed in the cargo in a fitting, and therefore only charges and ice products can be imported in the cargo.
+It's only possible to import/export fittings in English, but this will work in any localized client.
+How to import
+To import a fitting in plain text format, copy it from wherever you are working. Open the Fitting window, and open up your Fitting Management window by clicking the button "Browse". There you should see a button that says "Import from Clipboard" and upon clicking that button, a window will open with the fitting you just copied.

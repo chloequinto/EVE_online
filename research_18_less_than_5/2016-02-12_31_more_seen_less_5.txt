@@ -1,0 +1,3 @@
+No More Force Auxiliary Skills
+Our original plan was to introduce a new dedicated Force Auxiliary skill. After player feedback we've decided to go another direction. Force Auxiliaries will instead use a renamed Carrier Skill. If you've already purchased a Force Auxiliary skillbook, the purchase price and any skillpoints trained will be refunded.
+MODULES

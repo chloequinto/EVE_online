@@ -1,0 +1,5 @@
+Ships and Bans
+Banning of ships will occur before all matches.
+Team captains must be online and available to conduct ship bans 45 minutes before the start of each match. At 44 minutes before each match if the captain is unavailable their team’s bans are forfeit.
+Each team gets two bans.
+The way the banning phase works is as follows:

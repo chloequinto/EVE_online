@@ -1,0 +1,3 @@
+Manufacturing: baseCost x numberOfRuns
+**Research:** Sum for each level[ baseCost x 0.02 x researchMultiplierForLevel (see table below) ]
+Copying: baseCost x 0.02 x runsPerCopy x numberOfRuns

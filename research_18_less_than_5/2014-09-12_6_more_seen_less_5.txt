@@ -1,0 +1,2 @@
+New notifications – opt-in
+In Oceanus, you will be able to try our new notification system that gathers notifications in a single place, makes them more usable and better looking, and lets you configure in detail what notifications you want and how they behave. You opt in to use the feature by enabling it in the Settings window. All the details are in an upcoming dev blog.

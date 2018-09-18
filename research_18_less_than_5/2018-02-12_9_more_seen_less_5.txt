@@ -1,0 +1,9 @@
+Bans in January.
+A little over 1800 accounts were banned for botting/automation in January. Mining bots were the largest group represented, with ratting bots coming in a close second.
+About one third of the affected accounts received permanent bans as repeat offenders, while the rest was temporarily banned on first offense.
+CCP is committed to keeping EVE clean and your assistance is greatly appreciated - please keep those bot reports coming!
+How to report a bot in-game
+Follow these 3 steps to report a bot suspect in-game:
+1. Open the Character Information Window
+2. Select the Report Bot entry from the Actions Menu
+3. Confirm the submission of the report

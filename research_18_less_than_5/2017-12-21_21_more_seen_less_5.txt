@@ -1,0 +1,4 @@
+Factional Warfare and Incursions
+With access to the new archetype information it means we can display the Factional Warfare and Incursion content in The Agency.
+The pictures below will show some examples of what the Factional Warfare cards will look like, including a new card to host the factional warfare system and display the current owner of the system and what state it is in (Stable, Vulnerable etc)
+The updated basic card to differentiate from other combat sites.

@@ -1,0 +1,6 @@
+It’s instant with no cooldown
+Ores and ices of different types may be compressed at the same time
+Compression is done via right-click and may be used on multiple selected items at once.
+Ore amounts don’t need to perfectly fit the compression ratios. Any left-overs will automatically be saved
+Removal of slots for stations and starbases, to be replaced with tax scaling
+As explained in “the Price of Change”, manufacturing and science slots are going away, to be replaced with a cost scaling system. While Starbases will be subject to the same global formula, use of them won't suffer taxation as NPC stations do.

@@ -1,0 +1,1 @@
+Moros: model/ship/gallente/dreadnought/GDn1/GDn1_T1.red

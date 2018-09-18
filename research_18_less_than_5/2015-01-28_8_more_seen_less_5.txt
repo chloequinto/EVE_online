@@ -1,0 +1,2 @@
+Audio Engine Performance Improvements
+An upgrade of the audio engine brings performance improvements to the EVE client as a whole in Tiamat.

@@ -1,0 +1,4 @@
+The character’s location
+The current skill queue, including time remaining on each skill
+Any jump clones, their locations, and the implants they have installed.
+The Character Sheet - Click for Full Size

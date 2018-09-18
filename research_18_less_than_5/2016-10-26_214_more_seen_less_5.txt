@@ -1,0 +1,9 @@
+It’s happening!
+We here in Team Five 0 are preparing a massive reimagining of the fleet support roles in EVE, and we are ready to go into detail on the current plans and move to the next phase of the player feedback process.
+“Command Bursts” will form the backbone of the new system, completely replacing the existing Warfare Link system. These new modules will apply timed bonuses to all fleet-mates within a defined area of effect. To go along with these new Command Bursts, we will also be reworking the bonuses provided by leadership skills, mindlink implants, and boosting ships.
+These changes are currently scheduled for our big November release, and we have four dev blogs planned between now and then to go over the new system and many associated changes.
+This blog will cover the goals of the new system, the new mechanics and the plan for leadership skills and other modifiers.
+Blog two will go into detail on the changes to Mining Foreman gameplay, including the Mining Foreman Bursts, changes to the Rorqual and Orca, and the new Porpoise-class industrial command ship.
+Blog three will focus on the balance tweaks being made to combat-focused boosting ships to release alongside the new system.
+Blog four will be released right before the November release, covering all the changes to the plan we made thanks to your feedback and summarizing all the ship and module balance changes in the November release for easy reference.
+:Updates to mining foremand and information command burst numbers made on August 30th, for more details see this thread:

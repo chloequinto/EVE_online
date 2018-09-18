@@ -1,0 +1,3 @@
+2x X880 X6 FlexNode – Intel E7-8893 V3 @ 3.2 GHz with 768GB RAM (1866 MHz)
+Node role
+TQ Tech II

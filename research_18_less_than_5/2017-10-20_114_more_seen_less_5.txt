@@ -1,0 +1,19 @@
+Greetings industrious capsuleers!
+As some of you will have seen, the new Refineries and Moon Mining are available for testing on our test server Singularity and we are actively gathering your feedback in the forums. In this devblog, we will be giving you a bit more information about the structures themselves, the new rigs that will influence their performance and also introduce the Scheduler, which you use to set and initiate Moon Mining extractions. All of these additions to New Eden will be released in the Lifeblood Expansion on October 24th 2017.
+UPWELL CONSORTIUM DELIVERS THE THIRD LINE OF STRUCTURES: REFINERIES
+Just as the Engineering Complexes brought diversity to the specialization of structures with their bonuses to Manufacturing and Science, and Citadels continue to be indomitable strongholds throughout New Eden with their combat focused hulls, the new Refineries stake their claim as the exclusive locations for both Moon Mining and Reactions activity, as well as the favored facilities for Reprocessing with their bonuses in these functions.
+As with both the Citadels and the Engineering Complexes, Upwell has seen to keep some of the existing systems. As such, the key similarities between all Upwell Structures are:
+All Upwell Structures use the same vulnerability, reinforcement and damage cap system for defense. The damage caps for each size of structure remain the same whether that structure is a Citadel or Engineering Complex or Refinery
+All Upwell Structures use the same asset safety system for recovering contents when destroyed or unanchored
+All Upwell Structures use the same access list system for managing access to the structure and its services
+All Upwell Structures are dockable and include tethering for nearby friendly ships. 
+All core functions like refitting, repair, insurance, contracts and direct trade are available in all lines of structures.
+Some of the major differences between the classes of structures are:
+Each type of Upwell Structure hull is bonused to a different strength:
+Citadels gain bonuses to combat rig strength and Citadel service module fuel use
+Engineering Complexes gain bonuses to manufacturing/science jobs and engineering service module fuel use
+Refineries gain bonuses to reprocessing and are the only structures that can be used for Moon Mining or to run Reactions
+Both the Medium Refinery (Athanor) and the Large Refinery (Tatara) will require 20 hours of vulnerability weekly 
+Medium Refineries allow docking of subcapital and Freighter vessels, the same as their Citadel  and Engineering Complex counterparts
+Large Refineries share the same docking restrictions as Medium structures but will also allow the docking of Rorquals. No other capital ships can be docked at these structures.
+DEPLOYMENT

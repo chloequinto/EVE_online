@@ -1,0 +1,4 @@
+We want both Dreadnoughts and Carriers to be a valid choice for 'My First Capital'. We're going to split off the remote repair role from the Carrier and instead they will focus on fighters and support abilities.
+Their repair role will go to a brand new set of capital ships.
+FORCE AUXILIARY CAPITALS
+Four brand new massive internet spaceships! Force Auxiliary Capitals will take over the remote repair role from Carriers. They will be the only class able to fit the Triage module and the only capital class with bonuses to remote repair modules. They will have limited combat abilities of their own, being unable to fit any guns or launchers. However, we will be giving them a drone bay for self defense. They will never be the damage dealers of the fleet, but instead, they will become the new logistics backbone.

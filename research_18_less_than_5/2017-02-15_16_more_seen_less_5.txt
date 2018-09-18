@@ -1,0 +1,6 @@
+    // Go to sleep and wake up! *(the sender releases the channel)
+    PyObject *ret = PyChannel_Receive(sl.channel);
+    if (!ret) {
+        //we were killed, so lets try and find us in the queue, to release resources.
+        RemoveSleeper( mWallclockSleepers, sl );
+    }

@@ -1,0 +1,3 @@
+A message from the Project Discovery devs
+Project Discovery is always a continuous process. Along the way, we’ve found some issues, some solutions and some improvements to guide us to even greater heights.
+Working on Project Discovery has been a unique challenge for several reasons, not least of which has been the sheer amount of data we are working with. The magnitude of the data makes checking it by hand more or less impossible, so when problems arise they need to be classified in such a way that we can automatically detect problematic samples, since combing through the data by hand would be infeasible.

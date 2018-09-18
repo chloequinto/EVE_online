@@ -1,0 +1,3 @@
+Structure cost scaling
+Removing slots from industry jobs discourage players from stacking more than one Starbase structure of the same type at a Control Tower. To counteract this point, we are going to give specific bonuses when Starbase structures of the same type are stacked together at the same control tower.
+This bonus is going to be a flat reduction on the whole job cost price, whose amount and total bonus varies depending on the Starbase structure itself.

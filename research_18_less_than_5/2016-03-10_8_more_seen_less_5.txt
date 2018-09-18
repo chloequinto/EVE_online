@@ -1,0 +1,2 @@
+PERFORMANCE CHANGES
+Tech III combined with "Brain in a box"(BiaB) have dramatically improved EVE Server performance, but by how much exactly? To give you some sense of scale here and how these changes are likely to affect your gameplay, here are a few graphs to show how load has changed:

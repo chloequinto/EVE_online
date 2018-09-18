@@ -1,0 +1,10 @@
+A revamp of scout sites
+Scout sites are the lowest level of Incursions site available for players to run. When Incursions first launched their goal was to provide an environment for introducing players to Incursions. When we look at metrics such as how often these sites are run, who runs them, and then talk to players from the Incursion community it becomes fairly obvious that Scout sites are not achieving their original goal. Time for a rebalance!
+While looking at them we decided to change their purpose from being an introduction to Incursions to something you could run while waiting for a spot in a fleet running Vanguards or when you don't quite have enough people to run Vanguards.
+To achieve that goal we bumped up their rewards from 50,000 ISK to 3,500,000 ISK and from 50 LP to 400 LP per pilot, still keeping them less desirable to run than Vanguards. We then also adjusted the number and types of NPC you find in the Scout sites to balance out the increased reward.
+Putting an end to the NCN wall
+If you regularly run assault sites in Incursions you may be familiar with a term known as “NCN wall.” This generally means that the system with assault sites only has Nation Communication Network (NCN) sites available to run. We are making a change that will make sure assault systems are never 100% NCN's.
+Since putting these changes live on our testing server Singularity we have been getting some wonderful feedback. We have a few more minor tweaks to the Scout sites before they hit Tranquility with Hyperion on the 26th. One of the huge benefits of EVE being on this new 6 week release cadence is that, after we release this content in Hyperion, we plan on reviewing the changes again in a release or two. Something that would have been much harder before.
+So that’s all for now on the Incursion front. I hope you are all as excited as me to begin running Scout sites next week.
+CCP FoxFour on behalf of team Space Glitter
+@RegnerBA

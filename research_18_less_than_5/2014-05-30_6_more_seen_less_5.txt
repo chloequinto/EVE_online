@@ -1,0 +1,5 @@
+CAPSULEERS’ BEST FRIEND: COMBAT DRONES REBALANCE
+(click to enlarge)
+Dev Blog
+Drones are one of the most popular weapon systems in EVE and are used on a huge variety of ships in a huge variety of situations. In the Kronos release we are introducing a huge set of changes to all kinds of combat drones in order to improve the experience for all drone users.
+We are balancing drones between different factions (meaning that Amarr and Caldari drones should now be much more useful), rarity levels and sizes, we are making drones easier and more consistent for new players to train for, and we are adding new low slot Omnidirectional Tracking Enhancers.

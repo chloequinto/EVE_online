@@ -1,0 +1,5 @@
+With Crius, players in a fleet will be able to opt out of taking fleet warps, which is useful for a number of roles in a fleet.
+Fit modules without having the required skills
+With this change, those preparing ships for others can do so without having the skills required to fit the modules. Skills are still needed to online modules.
+There will be a few other things slipping in as we get closer to release. Keep an eye out for updated dev blogs on all of the above. May the factories of New Eden run hot!
+CCP Seagull

@@ -1,0 +1,2 @@
+The Space Object Factory
+The Space Object Factory (SOF) is a single software module reading in all ship data and producing each and every ship identified by a minimum of strings. For example, the SOF describes the above mentioned ships are all uniquely described by:

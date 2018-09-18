@@ -1,0 +1,2 @@
+Lastly, I want to mention a few small changes we have implemented recently but not had the opportunity to tell you about:
+Added a Booster Timer that clearly shows you how much time you have left on your active boosters, their benefits, and side effects. This timer is displayed next to other timers such as Weapon and Limited Engagement timers.

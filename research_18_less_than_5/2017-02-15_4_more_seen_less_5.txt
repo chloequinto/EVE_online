@@ -1,0 +1,5 @@
+    }
+    if( it != sleepers.end() )
+    {
+        //Ok found us.  Let's delete us.
+        sleepers.Remove( it );

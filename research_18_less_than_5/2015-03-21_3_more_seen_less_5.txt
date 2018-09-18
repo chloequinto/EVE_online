@@ -1,0 +1,21 @@
+New sizes:
+3.     ROLES
+While most modules can be fitted in any of the new structures, if they fit powergrid, CPU, calibration or size restrictions, we want to incentivize further specialization in roles, like we currently do with ships. To that end, we are going to release various structure lines, each focusing in a specific area and provide various bonuses to that purpose.
+For instance, the new equivalent to Research Laboratories could manufacture or reprocess items if fitted accordingly, but may not be able to do so as effectively as the new version of our Manufacturing or Reprocessing Arrays. The new roles currently being discussed are:
+A.     Assembly arrays
+Mainly dedicated to production and item assembly.
+Service modules possibilities: manufacturing of modules, ammunition, components, fuel blocks, capital components, subsystems and ships, among other things. One module will be required for the manufacturing of each category mentioned above. This means manufacturing will be less generalized as it is currently working within Starbases.
+Rigs possibilities: Material Efficiency (ME), Time Efficiency (TE) and NPC cost reduction bonuses. We want to ensure those new rigs provide more specialization than currently offered by Starbases and Outposts to offset for the generalization changes.
+B.     Research Laboratories
+Related to any kind of science profession or functionality.
+Service modules possibilities: Research ME, research TE, copy, Tech II invention, Tech III invention and datacore spawning. We want those new structures to ultimately replace our existing Datacore system – one way of doing so would be to have Datacore caches spawn near the Research Laboratory that refill at various intervals. Those caches could be set to be looted by anyone, but with a specific tax set up by the structure owners.
+Rigs possibilities: TE, NPC cost reduction bonuses, as well as increased success chance bonuses for Tech II and III invention.
+C.     MARKET AND OFFICE HUBS
+Heavily focused toward trade and serve as the primary home for social groups. More on that further below.
+Service modules possibilities: market, corporation offices, player to player cloning services, ship insurance service defined by corporation (to aid with ship replacement programs), character customization. They will also take over the role of Customs Offices, if placed near planets. Finally, we are considering adding Interbus Shipping abilities, which could reduce logistic hassle for small volume of items to fit a ship, but at a specific cost: a NPC convoy would spawn and manually move to the destination, being highly susceptible to disruption from other player groups. We are also considering giving those a tax advantage next to NPC stations (either by increasing NPC taxes or having tax reductions on the player-made variations).
+Rigs possibilities: Anything increasing office, jump clone capabilities or what’s mentioned above. We also are discussing giving increased range to fit ships around the structure without having to dock, allow drones, fighter and fighter-bombers to be automatically recovered in case of connection loss or provide increased safety for stored items should the structure be destroyed.
+D.     Drilling platforms
+Focused on resource harvesting as a whole.
+Service module possibilities: Reprocessing, moon harvesting, reactions, mining, gas harvesting. We also are considering new harvesting gameplay mechanics. We could for instance have pollution gas clouds form around drilling structures that see high activity, or seed small planetoids in specific asteroid belts and scanable sites which require a drilling platform to break it down in smaller harvestable rocks.
+Rigs possibilities: Anything that improves reprocessing, moon harvesting, reaction, tractor beam range effectiveness.
+E.      Observatory arrays

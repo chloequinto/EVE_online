@@ -1,0 +1,1 @@
+The CSM requested we use an example to help illustrate the new attack system, which we thought was a good idea. We are going to start with a corporation owning a Medium Citadel in high-security space, the Croque-Monsieur Conglomerate™ (CMC).

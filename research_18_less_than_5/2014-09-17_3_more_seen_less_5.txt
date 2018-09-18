@@ -1,0 +1,3 @@
+(click image for larger version)
+One of the most commonly requested stats about the Burner Missions has been the number of friends that most players call in to defeat them. Thankfully CCP Masterplan adventured deep into the logs and was able to provide us with the breakdown of how many characters engaged each Burner NPC between their spawning and destruction.
+It turns out that just over 50% of defeated Burners were killed by single characters, and the average dead Burner faced just over 2 characters before biting the dust. The most characters involved in any single Burner’s destruction is 32, and a total of five Burner were engaged by 29 or more characters before dying. Here’s the breakdown in graph form:

@@ -1,0 +1,4 @@
+Mobility (max velocity / agility / mass / align time): 60 / 0.26 (+0.1) / 150,000,000 (-100,000,000) / 54.07s (-1.38)
+Warp Speed: 2 au/s
+Drones (bandwidth / bay): 50 / 200 (+125)
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 70km (+10) / 75 / 7 (+5)

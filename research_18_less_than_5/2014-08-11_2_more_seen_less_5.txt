@@ -1,0 +1,14 @@
+(Click to enlarge)
+Character Re-sculpt and Multiple Character Training available through the New Eden Store
+As a small step to ease the use and discovery of these character services, we will introduce new items that can be purchased from the New Eden Store that can be activated for character re-sculpting or multiple character training. These items can also be traded on the market.
+Visual upgrades to structures like defenses, battle stations and containers
+A number of structures commonly seen in missions and exploration sites get a small visual overhaul and are upgraded to use the latest rendering technologies.
+Planetary Industry in claimed 0.0 space becomes available to people outside the sovereignty holding alliance
+In Hyperion, it becomes possible for players outside the alliance holding sovereignty in a system to operate planetary colonies.
+New EVE XML API endpoints for blueprints
+With Hyperion we are releasing new API endpoints in the EVE XML API for private and corporation blueprints with their ME/TE values. There will also be a range of fixes to the API endpoints for Industry released with Crius.
+We hope you’ll enjoy these changes. A few more small things might make it in as well.
+Feels like just yesterday that Crius shipped, and Hyperion is already here. After that, we have three more releases this year: Oceanus on September 30, Phoebe on November 4th and Rhea on December 9th. In the dev blog presenting me as the new Executive Producer for EVE Online I said this about these upcoming releases:
+“We will use these releases to the fullest to make EVE an exciting place. We will make changes to nullsec, add new ships, balance and revamp ships, modules and structures, add new missions and new kinds of dynamic content, add new invention gameplay and continue to improve industry. We will take the next steps towards our vision of player built stargates and, behind the scenes, we will start work on next generation structures and big changes to corporations and alliances.”
+Join us for a fall that will bring in the new era of this kind of release – Kronos and Crius were delivering plans that were originally made to be a classic expansion, from Hyperion and onwards we are really using the new model for planning and developing features. We are listening to feedback so keep it coming.
+That’s it for now – enjoy Hyperion and the upcoming dev blogs that will go into more details about the features.

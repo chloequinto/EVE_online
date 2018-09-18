@@ -1,0 +1,1 @@
+Once a wormhole has been jumped through once, the K162 signature will remain scannable for the lifetime of that wormhole. This scannable state will persist across downtimes.

@@ -1,0 +1,4 @@
+SKILL RESTRICTION CHANGES
+We will be removing the trial restrictions from a lot of currently restricted skills. Some new restrictions will be put in place, but most of these are to inform trial players about what is achievable within the trial period, or are directly associated with already trial restricted ships. As mentioned earlier we will be keeping a close eye on how trial accounts use these skills and we will not hesitate to restrict some of them again if they are leading to misuse or exploits.
+Skills which are currently restricted that we will be allowing trial accounts to train are:
+Anchoring

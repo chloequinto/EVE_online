@@ -1,0 +1,2 @@
+Gamma Adjustment
+A new slider has been added to the Settings Menu to brighten or darken the display to fit your room’s lighting conditions and tailor the visual experience to your personal tastes.

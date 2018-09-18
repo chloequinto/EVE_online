@@ -1,0 +1,2 @@
+There are a huge number of changes coming for the Rorqual in this patch, and the full stats can be seen below. Changes from the old stats will be in brackets. Since they might be easy to miss in the rest of the changes I want to bring special attention to the three extra slots, reduced mass (allowing the Rorqual to travel through the same wormholes as Freighters), and increased jump range to 5ly base (10ly with max skills, the same as Jump Freighters).
+**Rorqual:**

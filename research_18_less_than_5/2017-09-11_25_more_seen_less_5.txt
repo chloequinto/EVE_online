@@ -1,0 +1,8 @@
+Balance Team?
+Let’s start with talking a little about how we do balance work and what is changing.
+The most important thing to know is that game balance is a complex effort which incorporates every gameplay team working on EVE. Whether our devs are working on structures, events, ships, modules, territory ownership, or the new player experience, you can be sure that there will be reverberations in the economy, in the combat meta, and in activity levels across all different types of space. Balance work requires careful, widespread consideration and it’s a constant effort by all parties involved to adjust EVE as carefully as possible.
+The changes we are making now are meant to increase our overall bandwidth and investment in ship and module related work specifically. The Council of Stellar Management (CSM) has been advocating heavily for more rapid and consistent balance changes, and we agree that it’s a good time to put more focus on this area. We are also allocating more time to experiment with totally new mechanics and concepts for ships and modules. Rather than forming a totally new team, Team Size Matters will be shifting priorities in this direction.
+You should still expect to see balance work from all the EVE dev teams, but hopefully in the coming months you see more focus on ships and module balance and some brand-new mechanics introduced to EVE.
+Frigate, Destroyer and Cruiser Balance Changes
+With that covered, let’s talk about the changes coming up in the Lifeblood expansion on October 24th. These changes are aimed at providing some new options for players flying Tech I Frigates, Destroyers and Cruisers. They are a long time coming but we are happy to finally get them in. Here’s what we have planned:
+Rifter

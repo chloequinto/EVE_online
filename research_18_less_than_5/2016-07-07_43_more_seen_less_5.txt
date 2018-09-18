@@ -1,0 +1,18 @@
+Once word is given, teams warp in to the arena beacon specified, at a range of their choosing, up to a maximum of 50 km. Team members are allowed to warp in at different ranges.
+The arena will measure 125 km radius around the central beacon.
+The arena contains nine Mobile Micro Jump Unit structures, one placed in the center and eight placed 87km away from the center in the direction of each of the eight team beacons. These outer structures form a cube around the center of the arena with sides approximately 100km in length. These Mobile Micro Jump Units are indestructible and usable by all.
+The host will begin a countdown. When the countdown ends, the host will break target locks of all ships in the arena.
+If a player warps out/leaves the arena, his/her ship will be destroyed. This includes disconnection emergency warps. This rule is in effect before and during the match.
+Warping within the arena is NOT allowed.
+Boarding a ship during the match is NOT allowed.
+Deploying cargo containers, anchorable items, upwell structures or mobile structures into space is NOT allowed. Dropping regular jettison containers is allowed.
+The following restrictions are in place after teams have warped to the arena beacon, until the match begins:
+Locking players before the match starts is NOT allowed.
+Activating aggressive or targeted modules before the match starts is NOT allowed.
+Launching drones before the match starts is NOT allowed.
+Moving before the match starts is NOT allowed.
+Beginning the activation cycle of a Micro Jump Drive or Mobile Micro Jump Unit before the match starts is NOT allowed.
+Ships & Points
+Each team has 100 points with which to select their ships.
+Each team may have up to 10 ships on the battlefield.
+Teams may field no more than 2 of a given ship. This applies to specifically named ships only and not ship hulls. For example, 2 Merlins, 2 Hawks, and 1 Harpy would be legal.

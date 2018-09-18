@@ -1,0 +1,18 @@
+Hello adaptable capsuleers!
+In this dev blog, we’ll be discussing some early information you need to know in preparation for the big Strategic Cruiser rebalance coming this summer.
+We’ll recap the high-level plan, give you the first of many notices about how the patch day transition will affect you, and highlight the start of our new Strategic Cruiser Focus Group.
+At the Ship and Module Balance presentation during Fanfest 2017 we discussed the plans for a major rebalance of Tech 3 Cruisers later in the year. This segment is available for viewing on our YouTube channel if you missed it.
+The short version of the plan is that we want to address a few key issues with the current Strategic Cruiser design:
+Rigs in their current state lock T3 hulls into a specific set of bonuses and prevent T3 Cruisers from achieving the goal of a “strategic” ship that you can adjust from day to day to meet your needs by changing subsystems
+T3 Cruisers overlap too much with other ships (especially Heavy Assault Cruisers and Recon Ships) and their dominance can reduce ship variety
+Many of the subsystems and subsystem combinations are underpowered and rarely used
+The current state of T3 Cruisers is unsustainable from a technical graphics perspective
+To solve some of these issues we are currently working in the following directions:
+Condense the available subsystems into a smaller number of more powerful and useful choices.
+The current plan is to have four subsystem slots with three choices in each slot
+A general rebalance of the T3 Cruiser class which would include (among other things):
+New faction-specific build components sourced from WH space
+Dual tank bonuses for the Loki
+Some power reductions to long range combat alongside the nullification subsystem
+An increase in signature radius and mass
+Allowing rigs to be freely removed from Strategic Cruisers without destroying them

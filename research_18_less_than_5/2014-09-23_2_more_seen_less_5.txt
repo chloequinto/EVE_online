@@ -1,0 +1,8 @@
+Cloaking transition, WIP
+But fully transparent is not what we want! Pilots need to see their ships, remember, so we have a static effect that pulses along the surface of the ship from the spot where the cloaking started. In addition there is screen space distortion over the transparent bits because your camera drones are having a tough time reversing the polarity of the cloaking science field (I should totally write EVE lore). The distortion is only available with shaders set to HIGH.
+A cloaked ship waits for prey at a gate. WIP graphics.
+For the first time we will differentiate between onboard cloaking modules and gate cloaks. The gate cloaking is largely the same but will have some slight differences. Please note that both effects are actively being worked on (changed from programmer art to actual art by CCP Myrkur) and in constant flux.
+When you jump it‘s the gate that cloaks you. This effect is visually different from normal cloaking (done by your ship.
+As before your own ship is the only one you will be able to see when it is fully cloaked, while you will only see the cloaking and uncloaking transitions for other pilots. These are cosmetic changes and cloaking will behave exactly as it does now from a game play point of view.
+To see the effect in action, check out this video made by CCP Manifest. Please note that this was earlier in the development and therefore is a little outdated, but still quite cool.
+Look forward to lots of transparent beauty come Oceanus on September 30th.

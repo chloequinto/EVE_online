@@ -1,0 +1,10 @@
+THE BOWHEAD – ORE FREIGHTER
+Move assembled ships in this new freighter from ORE that comes with a large ship maintenance bay. If a Bowhead is destroyed, there is a chance that assembled ships can be found amongst the wreckage. Read about the stats and capabilities of the Bowhead in this forum post. 
+SLEEPER SCOUT DRONES ROAMING IN KNOWN SPACE
+A new type of roaming scout drones, seemingly originating from wormhole space Sleeper sites, will be investigating something in known space. Engage them at your own risk. These NPCs and the Artificial Intelligence code that will power them will be highlighted in an upcoming dev blog.
+SLEEPER CACHE HIGH END EXPLORATION SITES AND POLARIZED WEAPON MODULES
+Rhea will bring Standard and Superior versions of the Sleeper Cache high-end exploration sites, where you can find the new Polarized weapons that have some great benefits but reduce your resists to zero. Read about these mysterious sites in this dev blog from CCP SoniClover: Sleeper Cache Exploration Sites & Polarized Weapons
+SHIP RENDERING AND LIGHTING UPDATED WITH PHYSICALLY BASED RENDERING TECHNIQUES (PBR)
+“Physically Based Rendering” is a term for cutting edge rendering methods that closely model how real light bounces off different surfaces. Rendering ship models and lights using this approach results in materials and surfaces that look more realistic and light that falls and reflects beautifully. With Rhea, all ships except T3 strategic cruisers get rendered with PBR techniques. Upcoming releases will continue to apply these methods to more parts of EVE. Read about the technology and vision in an upcoming dev blog from CCP Mankiller.
+NEW UI LOOK, WINDOW TRANSPARENCY OPTIONS AND INTERFACE ICONS
+The EVE Online UI gets a big update in Rhea to improve the user experience and make EVE look more modern with new Neocom and window and station service icons, new window skins and faction color themes, and new UI effects.. A number of options and settings will be available to customize the experience. Read more in this dev blog from CCP Optimal: A new look for EVE’s UI – feedback needed!

@@ -1,0 +1,5 @@
+Greetings capsuleers,
+We're coming up on EVE Online's fifteenth anniversary and that means fifteen years of content being added to the game. With so much to do in New Eden it is sometimes very difficult to find exactly what you're looking for. In fact, for new players it can be overwhelming.
+To help you narrow down your content search within EVE’s various gameplay systems, we've come up with a feature so you can view lots of content in one place. Introducing The Agency
+But don’t we already have a feature called The Agency?
+We do, and it will be assimilated to this new and improved version of The Agency so that we have one UI that will be a hub for all PVE content. Industry, Planetary Interaction and other “non versus” gameplay will still be housed in their particular UIs.

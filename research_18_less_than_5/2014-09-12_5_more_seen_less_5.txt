@@ -1,0 +1,6 @@
+Named Module updates
+In the first set of changes to a long term initiative to make sure rare and advanced modules are useful and “make sense”, Oceanus will bring updates to Capacitor Flux Coils, Survey Scanners, Cargo Scanners, Ship Scanners, Reactor Controls, Co-Processors and Micro Auxiliary Power Cores. The whole initiative, similar to the long running ship balancing project, will be presented in an upcoming dev blog.
+Interceptors and Interdictors get balance updates
+Keep an eye on the Features and Ideas forum for a thread coming soon with details and the possibility to give feedback.
+Tooltips for market groups and categories
+Tooltips are being added to more market groups and categories, to make browsing the market and discovering ships and equipment faster and easier.

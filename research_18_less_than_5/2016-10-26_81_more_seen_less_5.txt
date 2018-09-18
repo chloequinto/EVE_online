@@ -1,0 +1,11 @@
+Shield Extension
+Increases shield hitpoints
++8%
++21.56%
+Charge types for the Information Command Burst:
+Name
+Effects
+Base Bonus
+Maximum Bonus
+Sensor Optimization
+Increases targeting range and scan resolution

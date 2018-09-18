@@ -1,0 +1,2 @@
+SEARCH FUNCTIONALITY
+We also added a search field in the role management where you can search by a member name. The search widget is a new EVE UI component that gives you results from your text input in a dropdown that you can then select your results from

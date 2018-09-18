@@ -1,0 +1,7 @@
+Support Team
+We’ve continued to help out Game of Drones with their mammoth task of overhauling the whole industry process, to make sure we deliver a stellar industry feature.
+We made a few small changes to starbases:
+We removed the standing restrictions for deploying starbases in hi-sec.
+We added a minimum corp age of 7 days for deploying starbases.
+We continued to polish the reprocessing UI. We also adjusted the reprocessing stats of Outposts a bit. You can read more about reprocessing changes here.
+We moved the Planetary Interaction (PI) window out of the old Science and Industries  window. It is now under the EVE menu in the Neocom, under Business.

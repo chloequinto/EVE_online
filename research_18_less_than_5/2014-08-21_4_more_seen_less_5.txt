@@ -1,0 +1,10 @@
+        One One
+        Gallente
+        Gallente
+        98000001
+        One One Corporation
+        2014-04-28 14:23:00
+        0
+    2014-08-21 11:04:44
+IndustryJobs Caching Issue:
+We have two changes to the IndustryJobs endpoints. The first is specifically just for the two corporation endpoints (corp/IndustryJobs and corp/IndustryJobsHistory). When we released this we were returning incorrect cachedUntil values. The information was being cached on our end, but we were often not returning a cachedUntil value which mean if you used that to know when to query again things might not work out so well. This should now return the proper value.

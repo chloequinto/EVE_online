@@ -1,0 +1,5 @@
+When a state changes, the icon in the agent info panel blinks to indicate this.
+When the mission is specifying a particular object, for instance a structure to destroy, clicking on the state icon will move the camera to show the object. This will only work if you have the camera tracking on. This is an exception to the rule of not giving too strong hints, because we want to improve how players can find objects in the space scene without having to resort to the overview.
+If the tooltip references a specific item, clicking on the name of the item in the tooltip will bring up the show info window for that item. This includes destination system, allowing you to set destination.
+Future iterations on this feature will cover more of the special snowflake missions that we can’t track adequately at the moment and will possibly offer further polish on the visual side, especially in making people more aware of mission objectives in their surroundings.
+The Mission Objective Guidance system is on Singularity right now, so head over there if you want to test it and please give us feedback if you run into anything strange.

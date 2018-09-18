@@ -1,0 +1,3 @@
+-75% scan resolution
+Mining remains unaffected so ships can continue to mine as normal while under the protection of the P.A.N.I.C. module.
+We are interested in hearing what the community thinks about cyno restrictions for ships affected by the P.A.N.I.C. module. We are currently leaning towards allowing cyno lighting and watching closely to see if this causes problems. If needed, we can change the effect to prevent cyno lighting and prevent ships with an active cyno from receiving the P.A.N.I.C. effect.

@@ -1,0 +1,2 @@
+600	Titans, station eggs, T2 destroyers
+800	T2 cruisers

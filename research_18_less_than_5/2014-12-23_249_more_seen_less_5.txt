@@ -1,0 +1,6 @@
+Nanofiber Internal Structures
+In addition to the module tiericide, 'Basic' Nanofiber Internal Structures will be losing the Hull Upgrades I requirement. This keeps them in line with other 'Basic' modules by having low overall power, with low fitting and skill requirements.
+Name	Meta	Skill Requirements	Structure Hitpoint Bonus (%)	Velocity Modifier (%)	Inertia Modifier (%)
+Nanofiber Internal Structure I	0	Mechanics I Hull Upgrades I	-15	7.75	-13
+Type-D Restrained Nanofiber Structure	1	Mechanics I Hull Upgrades I	-10	8.50	-14.5
+Nanofiber Internal Structure II	5	Mechanics I Hull Upgrades II	-20	9.50	-15.75

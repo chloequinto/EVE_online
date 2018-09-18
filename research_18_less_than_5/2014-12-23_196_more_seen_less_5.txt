@@ -1,0 +1,1 @@
+Capacitor Power Relay I	0	4	-10	20

@@ -1,0 +1,5 @@
+Building Up
+When Planetary Interaction was first introduced to the game, Anariser decided to explore it. “I just found I was missing much information,” he says, “which I needed in order to decide what and where I can produce.” He quickly realized that other players would also lack this information in a quickly sortable format, so he decided to fix it.
+Luckily, the official EVE database dump contains information on all solar systems and their planets. While the dump did not contain information on production schema, he was able to find an XML online which contained it, and integrated it with the database dump.
+Anariser took a fairly unique approach to designing the site. “I took my sketchbook and drew all the pages with a pencil, then I started coding and created all the major functions and pages.” This entire process took several hours.
+Then, because he “hates to code HTML”, he asked a friend to code the website for him. After securing the agreement, he went to work in Photoshop, turning his pencil designs into digital reality. The next day, he showed his designs to the coder and a working prototype for the site; later that day, the site was complete.

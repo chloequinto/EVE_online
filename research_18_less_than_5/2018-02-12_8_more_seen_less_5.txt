@@ -1,0 +1,3 @@
+Steps with illustrations:
+To bring up the Character Information Window, right-click on the Character you want to report and select "Show Info" from the Menu. You should now see the Character Information Page as shown in the picture below:
+1

@@ -1,0 +1,2 @@
+Tracking your character’s location
+Opening the market details for a specific item type

@@ -1,0 +1,2 @@
+Mac Client Improvements
+Client stability and performance improvements for the Mac client.

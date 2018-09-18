@@ -1,0 +1,5 @@
+Build times are generally rank * 300 seconds.
+T2 ammo is multiplied by a further x10, keeping their current batch sizes
+T1 capital ships are multiplied by a further x25
+T2 capital ships are multiplied by a further x4 (not cumulative with the x25 multiplier above)
+Components have not had their build times changed at all, as they're balanced around specific build chains

@@ -1,0 +1,5 @@
+250km range
+Fitting requirements: 100 PWG, 10 CPU
+500 Capacitor per cycle (4.166 cap/s)
+Consumes 1 unit of Strontium Clathrates per cycle
+More details about the Entosis Link module mechanics as well as the design goals for the module can be found in this forum thread.

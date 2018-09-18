@@ -1,0 +1,3 @@
+These changes will be familiar to those of you who remember our energy weapon tweaks from the Rhea release, as they are once again focused on two goals: improving the quality of small artillery weapons slightly and reducing the reliance of all autocannon weapons on their ‘Barrage’ Tech Two ammo.
+**Small Artillery:**
+In Tiamat we are making some adjustments to small artillery weapons to help keep them in line with other similar weapon systems. We will be increasing damage multipliers slightly while reducing tracking speed.

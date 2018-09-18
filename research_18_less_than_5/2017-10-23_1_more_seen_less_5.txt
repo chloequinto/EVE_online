@@ -1,0 +1,2 @@
+With these expanded cards we are going to try and expose all the relevant information that will be required for participation in the content and the possible rewards that can be received. The expanded card should be clearly explaining what the content is, how to participate if you cannot already (ship restrictions), what progression mechanics it ties into (standings), and how to get to it based on your current location (Set Destination, Warp to).
+Some examples of extra information that will be included:

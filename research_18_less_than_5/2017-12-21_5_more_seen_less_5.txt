@@ -1,0 +1,5 @@
+Agent Finder
+In addition to all these changes, we are removing the Agent Finder as it is currently known.
+With the introduction of The Agency, we effectively introduced a new Agent Finder and we felt this was an opportunity to encourage people to use The Agency, while simplifying the process of finding an Agent to work with.
+If you filter the Agency to "Specify" for "Agents" you will basically get all the filters that were in the Agent Finder.
+All pictures included in this dev blog are works in progress and subject to change.

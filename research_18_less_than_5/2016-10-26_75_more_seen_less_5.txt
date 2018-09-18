@@ -1,0 +1,25 @@
+Increases speed boost from Afterburners and Microwarpdrives
++12%
++32.34%
+Charge types for the Mining Foreman Burst:
+Name
+Effects
+Base Bonus
+Maximum Bonus
+Mining Laser Field Enhancement
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
++30%
++114.26%
+Mining Laser Optimization
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+-15%
+-57.13%
+Mining Equipment Preservation
+Reduces volatility of mining crystals
+-15%
+-57.13%
+Available modifiers to Command Bursts:
+Modules and Rigs
+Bonus
+Tech 2 Command Burst Modules
++25% Command Burst Effect Strength

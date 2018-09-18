@@ -1,0 +1,4 @@
+Each type will have a unique colored symbol to make them distinguishable from each other (similar to the Overlay icons you are already familiar with), as well as a bracket that will again often be familiar to you. When a bracket didn't already exist (such as for missions) a shiny new one was created!
+![](//content.eveonline.com/www/newssystem/media/66567/1/SOSymbols.png) _Left to Right: Signature, Anomaly, Landmark, Objective, Personal Location, Corp Location?_
+Filtering
+With so many new icons being added to the Sensor Overlay, and so many different play-styles and situations for which it will be useful, it was important for us to include a robust filtering system so that players can define what they want to see and what they want to hide. Therefore we added a compact filtering menu that allows each type to be toggled, as well as giving you the option to turn the entire overlay off should you wish (You spoilsport you!).

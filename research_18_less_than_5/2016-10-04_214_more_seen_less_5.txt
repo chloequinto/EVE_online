@@ -1,0 +1,2 @@
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10

@@ -1,0 +1,4 @@
+Charge types for the Information Command Burst:
+Name
+Effects
+Base Bonus

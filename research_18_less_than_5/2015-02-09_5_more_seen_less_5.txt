@@ -1,0 +1,4 @@
+Unrenting offices made more obvious
+The option to unrent an office is currently in a rather too-well hidden spot. When viewing your list of offices, a button will be displayed for each office giving an easy way to unrent it. Don’t worry about accidently clicking it though, it does check for confirmation first!
+Inviting a character from the applications tab
+Wouldn’t it make sense to be able to find a character and send him an invitation to join your corp directly from the corp window? Yes we thought so too, that’s why we added a button in the applications tab to search for a character and then send them an invitation.

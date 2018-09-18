@@ -1,0 +1,2 @@
+Import ship fittings from clipboard
+Importing fittings from killboards or third party fitting tools into EVE gets a lot easier in Oceanus, with support for importing fittings in the text format used by many tools and websites like EFT, pyfa and BattleClinic, right from the clip board. Read more about it in this forum thread and in an upcoming dev blog.

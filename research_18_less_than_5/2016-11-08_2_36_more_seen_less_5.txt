@@ -1,0 +1,2 @@
+Max Locked Targets: 8
+Docking allowed for: all subcapital ships, freighters

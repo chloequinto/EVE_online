@@ -1,0 +1,4 @@
+VIRTUALIZE ALL THE THINGS!
+Before we go further, keep in mind that this is a proof of concept that we have yet to test. It is entirely possible we'll ditch this and just go with plain normal clusters (that still happen to be running on insanely UltraMegaShiny hardware from the heavens).
+ Our plan is to create a 4 node ESXi cluster farm with the 4 monster nodes.  On top of the hypervisor we'll build both of our SQL Server clusters with one cluster node per ESXi server - as if they were physical.  No real change there!  
+But...

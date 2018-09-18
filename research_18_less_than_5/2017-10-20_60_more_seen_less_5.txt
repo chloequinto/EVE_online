@@ -1,0 +1,1 @@
+The strength of the reprocessing bonuses provided by all reprocessing rigs will be reduced slightly (a 1% absolute reduction in the base highsec yield for both T1 and T2 rigs)

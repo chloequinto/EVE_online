@@ -1,0 +1,1 @@
+A structure that is successfully deployed then enters normal operation mode. Players may use its services, dock, man the defenses or do whatever else is allowed by them. The structure also becomes vulnerable to attack during specific times.

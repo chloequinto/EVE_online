@@ -1,0 +1,3 @@
++150% Command burst range
+Tanking and Remote Repair Bonuses:
++120% Local shield booster repair amount

@@ -1,0 +1,6 @@
+Scoped Cargo Scanner
+4
+4
+4000
+65000
+1

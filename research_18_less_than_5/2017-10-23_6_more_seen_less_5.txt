@@ -1,0 +1,12 @@
+On release we will have two top level, user configurable filters to narrow down to the content you want. The first filter is "Range", which lets you to select your current system, 2 jumps, 5 jumps, 10 jumps or any distance to indicate the maximum distance you're willing to travel.
+The second filter is “Content Type”, which breaks down in the following way:
+Suggested - This will be a mix of all the available content to you
+Combat - This will be a mix of all available combat content, such as Security Agents and combat sites
+Mining - A mix of all available mining content, such as Mining Agents and Asteroid Belts
+Specify - One specific type of content. In some cases, this comes with content type specific filtering, such as, faction, corp, level and type for agents, to give players more precise control:
+Agents
+Sites
+Asteroid Belts
+Signatures
+Epic Arc Agents
+At this point, the Agency will provide a shortlist of the most suitable content based on the user selected filters, location, standings, skillpoints and other relevant parameters. The details of how we come up with the shortlist would probably require a blog of its own, but the mantra is that we always give you the best, nearest content you can actually participate in right now, while avoiding redundant choice.

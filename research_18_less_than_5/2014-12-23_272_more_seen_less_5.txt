@@ -1,0 +1,1 @@
+Gallente Mining Laser	8	3	60	10	10	60	45

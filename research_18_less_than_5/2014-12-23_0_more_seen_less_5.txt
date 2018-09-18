@@ -1,0 +1,2 @@
+Type-D Restrained Inertial Stabilizers8-18.50
+Type-D Restrained Inertial Stabilizers – Signature Radius penalty decreased from 9% to 8%

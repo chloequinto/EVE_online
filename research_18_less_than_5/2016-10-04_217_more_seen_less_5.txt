@@ -1,0 +1,4 @@
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit three Command Burst modules
+50% bonus to Command Burst Area of Effect Range

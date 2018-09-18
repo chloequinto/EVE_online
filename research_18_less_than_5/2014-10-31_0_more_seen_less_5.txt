@@ -1,0 +1,6 @@
+Added the ability to select which overview preset to use when scanning with the Directional Scanner.
+Added a visual timer in the HUD on modules (such as micro jump drives and cloaking devices) that have cooldown time to indicate how much was left of the cooldown.
+Added the ability to name your jump clones. This can be done through a right click option on the jump clones in the Character Sheet
+We hope these small changes make your stay in New Eden a little bit more pleasant.
+Fly Safe,
+@CCP_karkur

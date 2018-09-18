@@ -1,0 +1,4 @@
+Kill Report Filtering
+We have added a filter for the Kill Report lists, both in the personal list in the Character Sheet as well as the list in the Corporation window. This filter will try to match your input text to the beginning of a report's ship name, victim name, corporation and alliance, and if none of them match, the report is not displayed in the list.
+It's worth stating explicitly that this is not a "search" that will search all the reports, it's a filter for the current page of the list.
+While I was at it, I fixed the issue where the list would sometimes stutter when it was loaded, so the experience should be smoother now.

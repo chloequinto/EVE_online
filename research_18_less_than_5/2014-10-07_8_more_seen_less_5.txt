@@ -1,0 +1,4 @@
+The Story so Far
+Yesterday the Sanctuary Corp (the leaders of the Sisters of EVE) published a research paper that highlighted unusual new behavior among Sleeper Drones in W-Space.
+Today all four faction navies have put out the call for help from capsuleers across the cluster. Although nobody knows the original cause of this new Sleeper activity, the navies are eager to take advantage of any opportunity to learn more about Sleeper technology and its potential applications.
+The empire navies are requesting donations of Neural Network Analyzers and Sleeper Data Libraries to help them reverse engineer the code changes that have triggered this novel behavior.

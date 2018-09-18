@@ -1,0 +1,10 @@
+Starbase structures: Sized 20/30/40 for S/M/L turrets, 100/200/300 for towers, 40/60/80 for other structures based on CPU usage (40 is below 200, 60 is below 750, 80 is above that)
+Rigs: sized 5/10/15/20, multiplied by 10 for T2
+Everything else: assigned on a case-by-case basis
+With a few exceptions outlined below, the combination of rank, classification and tech level determine a blueprint's stats.
+Build times are generally rank * 300 seconds.
+T2 ammo is multiplied by a further x10, keeping their current batch sizes
+T1 capital ships are multiplied by a further x25
+T2 capital ships are multiplied by a further x4 (not cumulative with the x25 multiplier above)
+Components have not had their build times changed at all, as they're balanced around specific build chains
+Special edition ships (including all the skins) have their build time set to 10 seconds

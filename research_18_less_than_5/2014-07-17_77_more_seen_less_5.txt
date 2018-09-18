@@ -1,0 +1,2 @@
+There are a range of modifiers that further affect the final price.
+1. A reduction in price based on the stations and upgrades present in a system. Stations, Factional Warfare upgrades and certain outpost upgrades provide beneficial multipliers to costs. For any applicable job in a given system, the multipliers for all the stations and upgrades in that system are multiplied together with the base price. See Appendix 2 for a full list.

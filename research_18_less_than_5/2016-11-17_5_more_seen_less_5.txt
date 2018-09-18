@@ -1,0 +1,1 @@
+Using this filter will filter out all equipment that for some reason or another is not allowed on your hull

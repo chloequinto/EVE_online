@@ -1,0 +1,1 @@
+Structures that are successfully attacked through entosis links during their vulnerability windows go into an invulnerable mode for a specific amount of time, at the end of which another vulnerability window may occur.

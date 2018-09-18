@@ -1,0 +1,2 @@
+IndustryJobs Probability Fix:
+Due to me (I blame the evil Socksfour side of my personality) having a slight misunderstanding of certain things the probability field in all 4 of the IndustryJobs endpoints would only be returned as 0 or 1. This is basically because I was attempting to cast the value returned from the database to a byte value instead of what it actually should have been. My mistake, but here is a fix for all you wonderful industrial folks. You should now get the actual probability value, usually around the 0.5 mark, when you query any of these endpoints.

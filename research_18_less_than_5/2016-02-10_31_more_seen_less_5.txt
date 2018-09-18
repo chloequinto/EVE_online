@@ -1,0 +1,5 @@
+FUEL USAGE
+Unlike existing Starbases, new structures will only require fuel when service modules are online.
+The fuel cost is split up in two:
+One time cost for onlining, to discourage players from swapping service modules on and off to save fuel
+A recurring cost, charged at the beginning of each new hour, not 60 minutes after the module was activated. This is made to simplify fuel calculation costs for the user when faced with multiple modules

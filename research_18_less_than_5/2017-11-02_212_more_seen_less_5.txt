@@ -1,0 +1,9 @@
+Rapid Firing
+4
+Gunnery
+2
+                                          90,510
+Sharpshooter
+4
+Gunnery
+2

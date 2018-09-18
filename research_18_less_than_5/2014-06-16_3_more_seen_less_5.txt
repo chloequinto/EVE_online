@@ -1,0 +1,3 @@
+We are modifying how Material Efficiency (ME) reduction works on materials. Instead of being applied on individual runs, they will now apply to a whole job. That means that manufacturing a large batch of items will still give some reduction on Assembly Arrays instead of being simply negated.
+Some rules:
+We will be rounding up to the next significant digit, which means that 14.4 Tritanium required to manufacture 10x cheap-quality holoreels will actually be rounded to 15.

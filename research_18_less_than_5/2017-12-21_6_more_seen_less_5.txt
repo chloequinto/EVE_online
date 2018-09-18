@@ -1,0 +1,2 @@
+We are also moving almost all the Incursion tab to the Agency, however we have not found a good home for the loyalty point log, so with the January release we will keep this in the Journal and everything else will move to The Agency.
+We would like to know what you use the Loyalty Point Log for, so please provide us some feedback in the comments thread for this devblog. For Example: Do you only use this to see your current pool of LP?

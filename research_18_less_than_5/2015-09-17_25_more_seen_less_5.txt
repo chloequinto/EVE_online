@@ -1,0 +1,3 @@
+Once the unanchoring process has started, the structure will become invulnerable for a specific amount of time
+Once the invulnerability timers runs out, the structure will be vulnerable for damage yet again, with having a repair process identical of what’s been mentioned above. This time however, shields, armor and hulls will be fully available
+DAMAGE MITIGATION

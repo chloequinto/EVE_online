@@ -1,0 +1,6 @@
+Moon Composition and Distribution
+Moon composition to be a percentage of different ores
+Mix of moon ores and existing ores
+Full reset of moon distribution on Expansion Release
+Moon Survey Improvements coming in August
+Friendlier looking UI for results of Moon Composition

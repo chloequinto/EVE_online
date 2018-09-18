@@ -1,0 +1,2 @@
+Nullsec: 21%
+Tech 2 rigs that provide science cost reduction benefits have the following bonuses:

@@ -1,0 +1,1 @@
+Caldari Battlecruiser bonus per level: 10% to Heavy Missile and Heavy Assault Missile damage (was 4% to shield resistances)

@@ -1,0 +1,6 @@
+Can fit Triage modules
+Ninazu (6 high slots, 5 mid slots, 6 low slots)
+Gallente Carrier Bonus (per skill level):
+5% bonus to Remote Armor Repairer and Remote Shield Booster cycle time
+7.5% bonus to local Armor Repairer amount
+10% bonus to capacitor booster charge strength

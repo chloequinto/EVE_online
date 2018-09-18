@@ -1,0 +1,1 @@
+Advanced Assembly arrays no longer 10% have material waste. They now all have 2% material reduction like their regular counterparts.

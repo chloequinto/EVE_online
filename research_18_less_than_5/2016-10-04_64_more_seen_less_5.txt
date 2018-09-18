@@ -1,0 +1,4 @@
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+Capacitor (amount / recharge / cap per second) : 67,500 (+12,940) / 4500s (+600) / 15 (+1)
+Mobility (max velocity / agility / mass / align time): 60 / 0.07 (+0.02) / 800,000,000 (-380,000,000) / 77.63s (-4.16)
+Warp Speed: 1.5 au/s

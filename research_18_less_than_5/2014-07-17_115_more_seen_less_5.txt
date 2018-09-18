@@ -1,0 +1,3 @@
+Greetings space-Rockefellers,
+This blog is going to go over everything we're doing with research and costs in Crius, to explain the "final form" of what we're shipping so you can see everything that's happening in one place, and to act as long-form release documentation (the patchnotes of course go into significant bullet-pointed detail).
+If something relating to cost or research is not listed here, then it isn't happening, even if it was mentioned in a previous blog or post.

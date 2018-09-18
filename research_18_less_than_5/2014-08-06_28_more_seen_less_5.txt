@@ -1,0 +1,1 @@
+As of Hyperion, we are planning to have K162 signatures appear as soon as the first player jumps through their wormhole connection. This prevents players in the destination system from receiving unfair early intelligence while also ensuring that a vigilant player can determine if a potentially hostile intruder has entered their system through a new wormhole connection.

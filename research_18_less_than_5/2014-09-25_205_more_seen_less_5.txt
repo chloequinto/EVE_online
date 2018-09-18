@@ -1,0 +1,1 @@
+The Reactor Control Unit II is receiving a small increase in CPU use, to help balance out the value of the different Reactor Controls.

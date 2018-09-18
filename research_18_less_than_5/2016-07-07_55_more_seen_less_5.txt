@@ -1,0 +1,3 @@
+Full ban cap transfer
+Limit of one WDFG (unique Heavy Interdictor warp disruptor) per ship
+Banning MJFG (unique Command Destroyer Micro Jumpdrive)

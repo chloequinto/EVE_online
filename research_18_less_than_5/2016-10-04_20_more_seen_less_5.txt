@@ -1,0 +1,2 @@
+-75% scan resolution
+Mining remains unaffected so ships can continue to mine as normal while under the protection of the P.A.N.I.C. module.

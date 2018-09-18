@@ -1,0 +1,11 @@
+Q: Where can I see what skills Alphas will be allowed to train and use?
+A: The full list is at the bottom of this page. Note that it is a work in progress and we will be adjusting the list based on your feedback.
+Q: If I upgrade my account to Omega does it affect all my characters?
+A: Yes, all the characters on an account share a clone state. Note that you can still only train one character at a time, per account (unless you have a multiple character training certificate).
+Q: Can Alpha clones inject and extract skills?
+A: You can Inject skills regardless of your clone state. Currently, we are planning to require Omega state for skill extraction and also not allow the extraction of skills in the Alpha set.
+Q: Are there restrictions on simultaneous log on for Alpha Clones?
+A: We have not decided whether the simultaneous log on restrictions from the current trial system will apply to Alpha Clones. The decision will partly depend on your feedback, as well as our technical investigations over the coming months.
+Q: Can other players see my clone state?
+A: No, only you will be able to see your clone state. We think that seeing the clone state of other players would provide too much strategic value to make it public.
+Questions about returning players:

@@ -1,0 +1,4 @@
+Adding a new location in space
+The improved Sensor Overlay is arriving on the test server Singularity for you to mess around with. Please note that that it is not yet fully complete and various changes and tweaks may happen to the look and feel of it before its release. We would appreciate any and all feedback as we going into the final stages before it hits Tranquility, which will likely be in Phoebe.
+Fly safe space friends,
+CCP Lebowski (On behalf of Team Five 0)

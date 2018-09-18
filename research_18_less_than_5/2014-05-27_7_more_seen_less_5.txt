@@ -1,0 +1,3 @@
+Collapsing Windows
+Have you ever misclicked in the Selected Item window, collapsed it, panicked and lost your ship as a result? No, me neither; but for those of you who are maybe not as amazing at clicking as I am, we have changed the collapse functionality of all windows so now they are only collapsed if their header area is double-clicked, and not if any empty space in them is double-clicked. Don’t worry, you can still drag windows around by grabbing any empty space.
+I hope that will save you a few capsules and ships.

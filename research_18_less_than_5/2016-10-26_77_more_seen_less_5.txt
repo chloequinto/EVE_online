@@ -1,0 +1,5 @@
+Charge types for the Skirmish Command Burst:
+Name
+Effects
+Base Bonus
+Maximum Bonus

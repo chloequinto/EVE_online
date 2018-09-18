@@ -1,0 +1,2 @@
+Amarr Effect Generator: +Capacitor, -Speed, -EM Resistances, +Kinetic Resistances
+Minmatar Effect Generator: -Signature Radius, -Turret Optimal Range, -Explosive Resistances, +Thermal Resistances

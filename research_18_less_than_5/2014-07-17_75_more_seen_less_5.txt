@@ -1,0 +1,5 @@
+Modules: Sized 3/6/9/120, multiplied by 2.6 for T2; unsized modules are sized S/M/L by low/medium/high slot
+Some modules have had their ranks adjusted to be more "interesting", principally cloaks, warfare links, mining modules and "specialist" modules that are generally intended for use on specific ship groups, such as interdiction launchers, doomsdays and so on. Still multiplied by 2.6 for T2 variants.
+Ships: Sized 20/30/40/50/60 for frigate/destroyer/cruiser/battlecruiser/battleship, with industrials sized as cruisers, and multiplied by 20 for T2. Capitals are 200, except for supercarriers at 400 and titans at 600.
+Charges: Sized 1/2/3/4, multiplied by 1.6 for T2
+Drones: Sized 1/2/3/40, multiplied by 5 for T2

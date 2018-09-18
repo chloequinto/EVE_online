@@ -1,0 +1,1 @@
+One very commonly request feature by wormhole residents, especially those who live in Australia and other territories where their playtime often straddles downtime, is for scan IDs of signatures and anoms to remain consistent across server downtimes.

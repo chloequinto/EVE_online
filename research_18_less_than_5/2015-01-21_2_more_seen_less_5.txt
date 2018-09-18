@@ -1,0 +1,4 @@
+All small artillery will be receiving:
++10% damage multiplier
+-3% tracking speed
+**Autocannons and Barrage:**

@@ -1,0 +1,3 @@
+Well crud,
+It's been some time since there was a dev blog on API related stuff. This will be a pretty brief dev blog but should contain a few interesting things.
+This dev blog is aimed at Third Party Developers for EVE and contains technical details for new API endpoints. Without further ado let’s get this show on the road.

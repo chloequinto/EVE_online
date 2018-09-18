@@ -1,0 +1,305 @@
+Targeting Range
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Tracking Speed
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Target Painter Strength
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Red Giant
+(click to enlarge)
+We’re quite happy with Red Giants overall, but we see an opportunity to push the theme even further through a new bonus to bomb damage. Bombs are less heavily used in wormhole space thanks to the prevalence of lower signature ships, but this bonus should help those players who wish to experiment with stealth bomber tactics in wormholes.
+Affected stat
+Wormhole class
+1
+2
+3
+4
+5
+6
+Heat Damage
++15%
++22%
++29%
++36%
++43%
++50%
+Overload Bonus
++30%
++44%
++58%
++72%
++86%
++100%
+Smart Bomb Range
++30%
++44%
++58%
++72%
++86%
++100%
+Smart Bomb Damage
++30%
++44%
++58%
++72%
++86%
++100%
+Bomb Damage
++30%
++44%
++58%
++72%
++86%
++100%
+Pulsar
+(click to enlarge)
+This is another fairly healthy effect. However we are a bit concerned with the strength of capital shield tanks in Pulsars, primarily due to the cap recharge bonus. Our planned solution is to strengthen the counters and provide more interesting variety in gameplay by adding a bonus to capacitor warfare.
+Affected stat
+Wormhole class
+1
+2
+3
+4
+5
+6
+Shield HP
++30%
++44%
++58%
++72%
++86%
++100%
+Armor Resists
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Capacitor recharge
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Signature
++30%
++44%
++58%
++72%
++86%
++100%
+NOS / Neut Drain Amount
++30%
++44%
++58%
++72%
++86%
++100%
+Wolf Rayet
+(click to enlarge)
+The small weapon bonus in Wolf Rayet wormholes is currently underused and overshadowed by the far more applicable Magnetar bonus. We also have some concerns about the power of the armor resist bonus in this effect, especially when combined with capital ships. The solution is to swap the resist bonus into a flat HP bonus like the one found in Pulsars and push the small weapon bonus far enough to create a truly unique combat environment. This huge bonus to frigate weapons will create one of the most distinct combat environments in EVE, which should nonetheless remain quite accessible to all players since keeping a small ship doctrine for your corp requires relatively little in skillpoints, isk and SMA volume.
+Affected stat
+Wormhole class
+1
+2
+3
+4
+5
+6
+Armor HP
++30%
++44%
++58%
++72%
++86%
++100%
+Shield Resist
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Small Weapon Damage
++60%
++88%
++116%
++144%
++172%
++200%
+Signature Size
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Cataclysmic Variable
+(click to enlarge)
+For Cataclysmic Variables we are interested in buffing the smaller scale uses of the effect as well as preventing balance problems with spider-tanking carriers. The change here cuts the cap recharge time penalty in half (so that ships receive higher cap per second rates in Cataclysmic Variable wormholes) and add a new penalty to remote capacitor transmitters. Due to the nature of capacitor transfer bonuses on logistics cruisers and capital ships, this penalty is much more significant for carriers than for smaller ships.
+Affected stat
+Wormhole class
+1
+2
+3
+4
+5
+6
+Local armor repair amount
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Local shield boost amount
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Shield transfer amount
++30%
++44%
++58%
++72%
++86%
++100%
+Remote repair amount
++30%
++44%
++58%
++72%
++86%
++100%
+Capacitor capacity
++30%
++44%
++58%
++72%
++86%
++100%
+Capacitor recharge time
++15%
++22%
++29%
++36%
++43%
++50%
+Remote Capacitor Transmitter amount
+-15%
+-22%
+-29%
+-36%
+-43%
+-50%
+Overall we feel that these changes to the various wormhole effects will prove to be a significant improvement to the balance and gameplay depth in wormhole combat. We’re also interested in what you think about these changes, and we will be closely monitoring feedback on effect changes in this thread.
+**SECOND STATIC FOR CLASS 4 WORMHOLES**
+Feedback thread
+This is another change that we have been discussing from players and hearing requests for quite a long time. Players are telling us that Class 4 wormholes are currently underwhelming, without a clear area of value. This is backed up by our metrics, which clearly show C4s as the outliers when it comes to player activity.
+(click to enlarge)
+As you can see in the above chart, Class 2 wormholes fall below the curve in NPC kills, but are extremely healthy in other metrics. This is due to the unique position C2 wormholes occupy thanks to their dual static connections. This makes C2 wormholes especially well connected to both W-space and K-space and an excellent choice for corporations who are particularly interested in PVP.
+In the Hyperion release we are planning to provide C4 wormholes with their own area of expertise, by adding a second W-space static connection to each of them. This will make C4 wormholes exceptionally well-connected to other W-space systems and a great choice for corporations who want to enjoy a variety of travels within wormhole space.
+The new static connections from C4s will have the same mass and lifetime values as the existing C4 statics, and will all lead to a different class of wormhole space than the system’s existing static connection.
+We expect that this change will add a lot of value to Class 4 wormholes and create a new class of hub systems that allow for exceptional access to wormhole space. We will be listening to your feedback on that proposal in this thread.
+**MORE AND NEW RANDOMLY SPAWNING WORMHOLES**
+Feedback thread
+As I mentioned earlier, one of our goals in the Hyperion release is to provide players more avenues with which to enjoy the random and unpredictable elements of wormhole life. One way we intend to reach this goal is to increase the prevalence of random wormhole connections that appear in W-space systems. We will be significantly increasing the spawn rate of all the existing wormholes that originate in W-space, as well as adding a whole new class of random wormholes with unique properties.
+The new class of random wormholes will have a very low maximum jump mass, navigable only by frigates, destroyers and multi-bubble heavy interdictors. They will also enjoy a very high stable mass and will be the first wormhole connections in EVE to regenerate mass over time. This means that collapsing these wormholes will be nearly impossible, and they will virtually always last to the end of their 16 hour lifespan.
+These new small ship wormholes will only originate in W-space systems, and can lead to any other W-space systems or to nullsec space. The chance of connections between the extreme ends of the spectrum (very high class to very low class and vice versa) will be somewhat lower to ensure that low-class wormholes do not become flooded with frigate fleets from higher classes.
+We believe that these new random wormholes will provide new opportunities for players interested in flying lighter ships than are common in the current wormhole meta, and roaming into nullsec with fast wolfpacks. They should also make it more difficult for players to completely close off their systems from external connections, ensuring that emergent player interaction remains a constant influence in W-space. We are taking feedback on both of these changes to randomly spawning wormholes in this feedback thread.
+**MASS-BASED SPAWN DISTANCE AFTER WORMHOLE JUMPS**
+Feedback thread
+The next major change we are proposing to wormhole mechanics is a variable adjustment to the distance that ships appear at after jumping through wormholes.
+This change is intended to ensure that all attempts to control the local wormhole environment are open to risk of player disruption. We are not satisfied with how easy and safe it is to close wormholes that could potentially allow other players to interact with W-space operations, as the risk of player interaction should always be the main source of tension and danger in W-space.
+A proof of concept version of this change appeared on our Singularity test server over the weekend, which caused some consternation among parts of the wormhole community. I want to remind people that unannounced changes appearing on test servers are not a reliable guide for what might reach Tranquility. The version on SISI had distance values that are very different than the ones we had been discussing with the CSM most recently.
+The basics of this proposal is for the mass of any individual ship to influence the range that they appear from the wormhole when they emerge on the other side. This should provide a more interesting tactical environment in wormhole combat and ensure a basic level of risk to rolling a wormhole without proper support.
+This change would indeed increase the amount of time involved in “ragerolling” (intentionally collapsing static wormhole connections repeatedly to search for targets), but we believe that with the correct values ragerolling can still be viable and that the increase in random wormholes will provide a secondary outlet for players looking for fights without needing to rageroll as often.
+After continued discussion with the community we have made some adjustments from the original plan. We are reducing the base range significantly for large ships, and changing the random element to the jump distance. Now the maximum deviation from the base distance will increase for jumping through wormholes that have had significant amounts of mass pass through them. The deviation will be a maximum of 2km for fresh wormholes, and will increase to as much as 5km (in either direction) for a wormhole that is about to collapse. There will also be a lower bound of 2.5km set to prevent the wormhole from decloaking ships.
+We beleive these changes will help ensure that the average time to return to a wormhole after jumping will be reasonable, while also keeping an element of risk and randomness. The variable deviation will also allow players to strategically choose how and when to jump ships through a wormhole to reach their desired outcomes.
+The new base distance would scale as high as ~14km from the wormhole for the largest ships, and the random factor for each jump would range from 2km (for a fresh wormhole) to 5km (for a crit wormhole) in either direction. The distance from a wormhole that ships must be within to jump will remain 5km as always. The potential distances for several types of common ships would be:
+Ship
+Mass
+Base Distance
+Distance to jump range
+   
+Min
+Max
+Covert Ops Frigate
+           1,280,000
+5.5 km
+0 km
+5.5 km
+Plated T3 Cruiser
+         14,300,000
+6.9 km
+0 km
+6.9 km
+Plated Bhaalgorn
+       101,000,000
+8.8 km
+0 km
+8.8 km
+Orca
+       250,000,000
+10.1 km
+0.1 km
+10.1 km
+Average Carrier
+   1,120,000,000
+13.5 km
+3.5 km
+13.5 km
+Average Dreadnought
+   1,240,000,000
+13.8 km
+3.8 km
+13.8 km
+After discussion internally and with the CSM, we believe these values would ensure a significant amount of risk in jumping capitals through wormholes while also allowing players to effectively roll wormholes using supported capitals and orcas. We expect that creative players would adapt by using specialized fits to speed up their wormhole rolling and we are perfectly fine with this.
+We know many of you will be interested in providing feedback on this plan, and we will be reading and considering all reasonable feedback posted in this thread.
+**CHANGES TO K162 SIGNATURE APPEARANCE**
+Feedback thread
+As many of you may know, we have been thinking about the mechanics surrounding K162 wormhole appearance for quite some time.
+Currently, as soon as the first player initiates warp to a new wormhole, the other side of that wormhole connection (the K162) appears and is visible to probes and to the sensor overlay in the destination system. This provides an unfair amount of early warning to players in the destination system since they receive warning of an impending incursion before the first player jumps into their system. The addition of the sensor overlay in Odyssey made this problem more visible, but it has always existed through the probe system and has never been good gameplay.
+We floated an early proposal concerning this issue on the wormhole forums, which discussed the option of implementing a delay after players jump through a wormhole before the K162 wormhole is visible. After discussing this idea on the forums and at Fanfest with members of the W-space community, we heard the major concern that the idea as proposed would have caused players to feel helpless, like there was nothing they could do to detect the potentially hostile players in their system. This is a very legitimate concern, so we went back to the drawing board.
+The result is our next proposal, which we believe effectively navigates the concerns of the hunters and the hunted.
+As of Hyperion, we are planning to have K162 signatures appear as soon as the first player jumps through their wormhole connection. This prevents players in the destination system from receiving unfair early intelligence while also ensuring that a vigilant player can determine if a potentially hostile intruder has entered their system through a new wormhole connection.
+Once a wormhole has been jumped through once, the K162 signature will remain scannable for the lifetime of that wormhole. This scannable state will persist across downtimes.
+After discussion with the community we have decided to make some adjustments to this plan to ensure that enough wormhole connections become visible to keep travel options open.
+Although K162 signatures will not appear as soon as a player warps to them (as they do currently), they will have a random chance to appear every several minutes once the wormhole connection has less than 15 hours of natural lifetime remaining.
+We are looking forward to your feedback on this change, and will be reviewing it from this thread.
+**LOOSENING OF BOOKMARK COPYING RESTRICTIONS**
+Feedback thread
+This final change is a bit more focused, but should still be of interest to most wormhole residents. Over the years we have implemented certain restrictions to bookmark copying, since it has historically been a major source of database load for EVE. At this point after many other gameplay changes wormhole residents are the most common users of the bookmark copying system, and the request was passed to us from the CSM to investigate loosening the restrictions around this activity. We have done some investigation and it does appear that we can safely reduce these restrictions.
+So as of the Hyperion release, you will be able to copy more bookmarks at once and the operations should complete significantly more quickly. We will continue to investigate loosening the restrictions further if the first set of changes works out well. While you wait for us to finish the ongoing work that will eventually enable the long-requested alliance bookmarks, this should at least be a helpful change to tide you over.
+As always, we are interested to hear your feedback on this change and to hear what else you would like to see from the bookmark system in the future. Feel free to post all your bookmark feedback in this thread.
+**ENSURING THAT SCAN SIGNATURES REMAIN CONSISTENT OVER DOWNTIME**
+Feedback thread
+This section covers a change that wasn't included in the original version of the dev blog, but that we were able to complete in recent weeks.
+One very commonly request feature by wormhole residents, especially those who live in Australia and other territories where their playtime often straddles downtime, is for scan IDs of signatures and anoms to remain consistent across server downtimes.
+We were initially unsure if we could achieve this change but thanks to the diligent work of CCP Masterplan we now have it working and deployed to our Singularity test server.
+This change should go a long way to make the lives of AUtz wormholers much easier as they will no longer need to rescan every signature in their wormhole chain after each downtime.
+Feel free to post your feedback on this change in this thread.
+**IN CLOSING**
+These proposals are not the only improvements we hope to make for wormhole space in the future, and we are actively discussing with the CSM other improvements that could be made. We encourage you to keep communicating your requests both directly to us here at CCP and to your hardworking CSM members.
+We hope you have enjoyed this dev blog and that you are looking forward to the Hyperion release as much as we are here in Team Five O. We are very interested in your feedback on all of these concepts and we encourage you to post your feedback, along with reasons for your arguments, in each of the individual feedback threads linked with each section of this blog. We will be hard at work over the next few weeks coding, refining designs, responding to feedback and testing changes for wormholes and we can’t wait to see how all you incredibly clever players find a way to pleasantly surprise us once again once Hyperion arrives on August 26th.
+As for the rest of the changes you should expect in the Hyperion release, CCP Seagull will be posting a "Coming in Hyperion" blog soon with an overview and we will be continuing to release more dev blogs with all the juicy details in the coming days.
+Good hunting!
+-CCP Fozzie

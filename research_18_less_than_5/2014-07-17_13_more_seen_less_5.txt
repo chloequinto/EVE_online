@@ -1,0 +1,7 @@
+We've then played with the numbers a bit further, multiplying invention time for rank 3 or less blueprints by 0.9, and by 1.1 for blueprints above rank 7. This means "larger" items are more invention-bound while "smaller" items are more build-bound. Obviously, various bonuses available will mess with this balance; dealing with those is deliberately left as an exercise for the player :)
+Max runs have been adjusted to be more consistent, based around build times:
+Most T1 items are set to ~2 days' production time
+Components are set to ~7 days' production time
+T2 ships and rigs are set to 1 run
+All other T2 is set to 10 runs
+We then round, to the nearest 100 if the build time is above 1400, and to the nearest 10 otherwise.

@@ -1,0 +1,1 @@
+3. Facilities can impose a tax on jobs within that facility. For NPC-owned facilities, this is a flat 10%, meaning a 1.1x multiplier to the job price. For player-run outposts, this can be configured by the owners. For starbases, setting taxes won't be supported in the initial release but we are investigating supporting this in future after player feedback.

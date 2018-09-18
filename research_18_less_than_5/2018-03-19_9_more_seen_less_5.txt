@@ -1,0 +1,1 @@
+I find the Compare tool pretty useful but to be honest, it can be a bit difficult to find what differs between the items you are comparing because there are so many attributes and many of them have exactly the same values for the compared items.

@@ -1,0 +1,6 @@
+We created base shapes in a similar way we did for ships and different bulkiness feel to each size within a class to identify the sizes of the drones. Using the base shapes we then added attribute icons in the upper-right corner to identify the primary role, function or purpose of each drone. This will give a huge advantage for players that need to take strategic decisions regarding drone targeting as well as knowing at a glance what drones you, your allies or your foes have on grid.
+Drone Group Icons – Design Sheet:
+In-game sizes for Drone Group Icons:
+STRUCTURES
+We are currently doing extensive discovery (research) work on Structures in EVE so it made sense to make a longterm strategy for how we would display icons for them in the client. The rollout of this will of course rely on the progress of the much larger plan for structures so no promises for when this will go out, but we still wanted to show it to you to give you all the details of our complete icon strategy.
+Structure Group Icons – Design Sheet:

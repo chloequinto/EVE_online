@@ -1,0 +1,2 @@
+Split insurance list
+For those with the appropriate corporation roles, browsing through the insurance list could be a bit confusing. To make things easier we have now split the insurance list into two lists:--a list of personal ships and a list of corp ships.

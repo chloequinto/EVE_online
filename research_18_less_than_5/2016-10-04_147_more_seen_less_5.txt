@@ -1,0 +1,2 @@
+-50% velocity
+Prevents warp, cloak, jump, dock, tethering (if already tethered do not apply)

@@ -1,0 +1,5 @@
+NEW MOON SURVEY PROBING UI
+We are also deploying a set of improvements for the moon survey probing system this August. All the details of these changes can be found in this dev blog, and are another step preparing New Eden for the arrival of the new Upwell Refinery structures later this year.
+We want to extend our thanks to those players who have already passed along their feedback on the moon survey probe changes. In addition to the previously announced changes, we can also announce that the August release will include a buff to the Tech Two version of the Survey Probe launcher, giving it a flat 10% bonus to the speed of moon probing.
+We hope that you all enjoy the changes coming this release, and our whole team wants to reiterate our thanks to all the players who are passing along your feedback on Upwell structures through our survey, the forums, bug reports, the CSM, and many other avenues.
+All the changes described in this blog are available for testing on the Singularity test server that can be found in your EVE launcher, and we highly encourage people to try them out and let us know what you think.

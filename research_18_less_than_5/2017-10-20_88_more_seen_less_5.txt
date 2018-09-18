@@ -1,0 +1,5 @@
+Fighter Slots: 4 Tubes, 3 Light, 3 Support
+Weekly vulnerability hours: 20
+Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8
+Max Locked Targets: 8
+Docking allowed for: all subcapital ships, freighters, Rorquals

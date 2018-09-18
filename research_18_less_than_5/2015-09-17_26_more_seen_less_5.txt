@@ -1,0 +1,1 @@
+Unanchoring may only be started if the structure has full shields and is not within a repair timer. This is to prevent some early bail-out should it be attacked

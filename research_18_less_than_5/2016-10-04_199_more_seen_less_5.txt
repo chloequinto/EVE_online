@@ -1,0 +1,4 @@
+Can fit Clone Vat Bay
+Can fit Industrial Core
+Can operate Excavator Drones
+Can fit three Command Burst modules

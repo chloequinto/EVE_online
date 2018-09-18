@@ -1,0 +1,3 @@
+I.e., where:
+system_activity_job_hours is the total duration of all jobs of that activity type in that system over the last 28 days, and:
+global_activity_job_hours is the total duration of all jobs of that activity type in the universe over the last 28 day, and:

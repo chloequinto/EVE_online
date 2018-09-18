@@ -1,0 +1,4 @@
+UI Changes
+We’ve enabled highlighting of multiple UI elements at the same time and added the ability to position UI highlights.  This allows Aura to explain more clearly by highlighting specific areas of the screen for new players and also lets us combine tasks by highlighting multiple areas at the same time rather than having to have a new task each time.
+This should help the experience flow better and also ease player confusion as the highlights will be more exact. For a full list of all changes, you can view the patch notes here. 
+Thank you again for your continued feedback, it is really valuable to the team.  Rest assured, our work on the new player experience is far from over. In future blogs we’ll tell you more about our plans for existing career agents and our efforts to help new players hone their skills and become self-sufficient EVE residents.

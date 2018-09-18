@@ -1,0 +1,3 @@
+Returns a list of all active teams, excluding the teams in auction. This does not include wormhole space.
+/industry/teams/auction/ (cache: 1 hour)
+vnd.ccp.eve.IndustryTeamCollection-v1

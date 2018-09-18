@@ -1,0 +1,14 @@
+Consumption: 1000 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+-100% Rorqual velocity
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+75% sensor dampener resistance
+Full ECM immunity
++100% Scan resolution
+Mining Foreman Burst Bonuses:
++25% Mining foreman burst strength

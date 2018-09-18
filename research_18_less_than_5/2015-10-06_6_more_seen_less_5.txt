@@ -1,0 +1,2 @@
+Client logging
+You can select to run clients with logging, making it easier to gather logs for bug reports.

@@ -1,0 +1,4 @@
+Added corp/Facilities:
+Listing all of a corporations facilities, including POS and Outpost
+You need a corporation key and a character with director, CEO, or factory manager roles to view this endpoint.
+This endpoint is cached for 1 hour.

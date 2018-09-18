@@ -1,0 +1,2 @@
+Capacitor Rechargers
+Name	Meta Level	CPU	Capacitor Recharge Rate Bonus (%)

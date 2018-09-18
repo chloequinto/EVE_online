@@ -1,0 +1,4 @@
+Those changes include:
+You can now double click on results to center the camera on the signature
+Visual indications of results should now persist correctly between scans
+The map will automatically center appropriately on your system making its use in wormholes much smoother

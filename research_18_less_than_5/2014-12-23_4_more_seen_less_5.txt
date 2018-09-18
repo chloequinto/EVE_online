@@ -1,0 +1,1 @@
+'Basic' Expanded Cargohold – Structure Hitpoint penalty reduced from -10% to -5%. This should allow players who care more about keeping as much structure hitpoint as possible an attractive option, at the cost of cargo capacity.

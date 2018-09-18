@@ -1,0 +1,1 @@
+Aaaaaand last but not least, we've added a shortcut for adding a new location, which by default is CTRL+B, just because we can, and more importantly because we realized there wasn't one and we thought you guys would appreciate it. Oh and we added the option to edit locations from the right click and radial menus, so you don't have to open up the P&P window to do that. :) 

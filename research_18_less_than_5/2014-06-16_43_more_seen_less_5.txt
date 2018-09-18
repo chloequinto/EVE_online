@@ -1,0 +1,8 @@
+Reprocessing Arrays
+As mentioned in our “reprocess all the things” blog, we are revamping Starbase Reprocessing Arrays for Crius. Those will now provide much better reprocessing abilities. Below are their exact attributes.
+Let’s go into a little more detail on how they are going to work:
+Player reprocessing skills will be taken into account
+Reprocessing time is instant. No more waiting one hour or even 10 seconds for the outcome minerals
+Ore, ices and gas clouds may now be mixed together at the same time inside the structures – but modules cannot be moved inside the Reprocessing Arrays.
+Reprocessing is done via a simple right-click > reprocess option, which of course can be used on multiple ores at once.
+The Intensive Reprocessing Array may only be used in low-security solar systems and below. The standard Reprocessing Array, meanwhile, may be used everywhere, including 1.0 security systems.

@@ -1,0 +1,3 @@
+INVULNERABLE STATE
+The structure cannot be attacked through any means when in this state. It serves to protect the owner assets, pauses gameplay and gives a chance for all players within different time zones to interact with each other.
+It is the most common structure state, encountered when a structure is operating normally, being anchored or unanchored, or after a successful attack by external parties

@@ -1,0 +1,29 @@
+Porpoise Feedback Thread
+The Porpoise-class Industrial Command Ship is the most affordable and mobile mining foreman platform ever released in New Eden. This new ship fills the hole at the bottom of the mining foreman ship progression line. Although it shares a group with the larger and more expensive Orca, the Porpoise is as cheap as a tech one battlecruiser.
+Thanks to ORE’s tireless work advancing hull materials technology to reduce mass, the Porpoise is light enough to travel through small-ship wormhole connections.
+This new ship should be perfect for mining operations in more dangerous space where lower cost ships minimize exposure to loss for the operation. It’s improved agility and warp speed also make it the best choice for providing coverage of mining groups at multiple locations with one ship.
+**Porpoise:**
+Industrial Command Ships bonuses (per skill level):
+5% bonus to ship cargo capacity and ore hold
+2% bonus to Mining Foreman Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:
+50% bonus to drone mining yield
+400% bonus to Remote Shield Booster optimal range
+90% reduction in powergrid requirements for Mining Foreman Burst modules
+90% reduction to effective distance traveled for jump fatigue
+Can fit two Command Burst modules
+100% bonus to Tractor Beam range
+50% bonus to Tractor Beam velocity
+300% bonus to Survey Scanner range
+Slot layout: 4H, 4M, 2L
+Fittings: 420 PWG, 350 CPU
+Defense (shields / armor / hull) : 6000 / 3000 / 8000
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+Capacitor (amount / recharge / cap per second) : 3500 / 875s / 4
+Mobility (max velocity / agility / mass / align time): 100 / 1.5 / 4,500,000 / 9.36s
+Warp Speed: 2.7 au/s
+Drones (bandwidth / bay): 50 / 125
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 50km / 90 / 5

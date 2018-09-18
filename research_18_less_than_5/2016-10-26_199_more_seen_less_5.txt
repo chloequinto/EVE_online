@@ -1,0 +1,3 @@
+Increases all armor resistances
++8%
++21.56%

@@ -1,0 +1,6 @@
+Electronic Superiority
+Increases strength, optimal range and falloff range of ECM, Sensor Dampeners, Weapon Disruptors and Target Painters
++9%
++24.26%
+Electronic Hardening
+Increases Sensor Strength and resistances to Sensor Dampeners and Weapon Disruptors

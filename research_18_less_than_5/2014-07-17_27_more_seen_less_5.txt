@@ -1,0 +1,1 @@
+For ME and TE research, there's a further wrinkle, which is that the higher level jobs both take longer (as above) and also cost commensurately more. There is a cost multiplier for each level of research, equal to the time it takes to research to that level divided by the time it takes to research to level 1.

@@ -1,0 +1,13 @@
+                                                 
+               
+               
+               
+    2014-08-21 10:57:59
+So in the above example we have a few things:
+The first item, 1000000012211, is a blueprint original that has been used. This is noted with the quantity of -1.
+The second item, 1000000029372, is a stack of 497 Avatar Titan blueprints. Since only un used blueprint originals can be in stacks this is clearly blueprint originals.
+The third item, 1000000029375, is a max material researched BPO. Again it has a quantity of -1 which instantly means blueprint original.
+The fourth item, 1000000029377, is a blueprint copy of the Prophecy Blood Raiders Edition with 20,000 runs.
+Hopefully that all makes sense. :)
+CharacterInfo:
+This is a really simple change. The employment history rowset for the CharacterInfo endpoint has been updated to also include the corporationName. This should help reduce the number of calls required for some of the simpler use cases.

@@ -1,0 +1,18 @@
+The term “User Gameplay Information” means any information relating to your play or use of the Game, including of your gameplay statistics, preferred strategies, in-Game transaction history and trends, history of technical issues and support usage, and history of contributed and received User Content.
+User Personal Details and User Gameplay Information together constitute “User Data”.
+Collection and Use of User Personal Details
+You acknowledge and agree that CCP may collect and store User Personal Details and use them for the limited purposes of: (i) verification or authentication of a user’s identity, (ii) establishing an Account with CCP, (iii) the provision of services to users, such as gameplay, Game administration, and technical support, and (iv) marketing and offering CCP products and services to you.  Any storage or use of User Personal Details will be subject to compliance with CCP’s privacy policy, which may be found at //community.eveonline.com/support/policies/privacy-cookies-policy-en/.
+Collection and Use of User Gameplay Information
+You acknowledge and agree that CCP may collect and store User Gameplay Information about you, both as an individual and aggregated with the User Gameplay Information of other users of the Game and the System.  In addition, you acknowledge and agree that CCP may analyze and use such User Gameplay Information for the purposes of review, research, development, maintenance, operation, administration, and support, and for the marketing of CCP products and services.
+Transfer and Sharing of User Data
+You agree that CCP may transfer, share, and/or store your User Data:
+outside the European Economic Area where reasonably necessary to administer, operate  maintain and support the Game and the System;
+in particular, to the US and China for the purpose of managing customer support and technical issues; and
+with suitable third parties under a binding duty of confidentiality in order for such third parties to carry out the limited activities of CCP permitted by this Section 7.
+All transfer, storage, and use of User Data shall at all times be subject to CCP’s current privacy policy for the Game from time to time.
+C. SECURITY AND DISCLOSURE OF USER DATA
+CCP does not guarantee that User Data transmitted to the System, including without limitation information in your Account and/or User Personal Details, will not be disclosed to third parties. While CCP's aim is to keep your User Data confidential and CCP employs security measures to protect the System, third parties may unlawfully intercept transmissions or private communications, or access data within the System.
+CCP may (and you hereby expressly authorize CCP to) disclose information about you to private entities, law enforcement or other government officials, as CCP, in its sole discretion, deems necessary or appropriate to investigate or resolve possible crimes or to respond to judicial, regulatory, agency or similar inquiries.
+You further agree that in the event of a failure in the Game, the System and/or the Software, CCP may provide crash dump information (which is information on the state of the System when a crash occurs, and may include your User Data) to third parties under suitable confidentiality restrictions in order to review analyze and provide reports on such information to determine the cause or correction of the failure.
+D. MONITORING
+You agree that CCP may remotely monitor your Game hardware solely for the purpose of establishing whether in playing the Game and accessing the System you are using software created or approved by CCP, or whether you are using unauthorized software created by you or a third party in contravention of Section 6.

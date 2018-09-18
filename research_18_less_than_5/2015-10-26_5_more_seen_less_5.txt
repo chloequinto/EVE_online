@@ -1,0 +1,6 @@
+Regarding the blueprints themselves:
+Like all Tech I blueprints, they will be seeded from specific NPC corporations through various areas of space, including high-security areas.
+The price tag will be ten times the hull cost, thus 6b ISK for a Medium Citadel, 70b ISK for a Large Citadel and 700b ISK for an X-Large Citadel.
+We want the prices to be that high to keep a long term goal and investment for industrial players, while making sure there is gameplay involved with selling blueprint copies to third parties. Please note the Citadel Hulls and their associated blueprints are the most expensive structure set due to the importance regarding asset safety and home defense. Other structures will vary in price based on their role and intended persistence.
+Details on the Citadel blueprint themselves are available below:
+On a similar note, we will most likely rename the Outpost Construction skill to Structure Construction, since Outposts currently are following the same evolution trend than dinosaurs.

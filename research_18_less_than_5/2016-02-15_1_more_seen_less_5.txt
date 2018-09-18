@@ -1,0 +1,2 @@
+The work submitted to this contest must be originally made for this contest. No pre-existing work is allowed and will be disqualified.
+Work must be submitted with a link to a public Git repository.

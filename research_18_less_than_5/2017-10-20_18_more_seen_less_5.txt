@@ -1,0 +1,1 @@
+All pilots who have access to Take Control of a Structure will be able to Schedule and initiate a Moon Mining Extraction. However, only those pilots with the Station Manager role will be able to cancel an ongoing extraction.

@@ -1,0 +1,1 @@
+2. Teams will increase job costs when they're used. This cost is a simple percentage increase, and will be listed in the team's information.

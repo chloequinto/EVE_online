@@ -1,0 +1,5 @@
+**PREVIOUSLY, IN THE MOSAIC RELEASE**
+Those of you who read the forums, watch the o7 show on our Twitch.tv channel, or read the Mosaic release patchnotes already know that a few important improvements were made to the Sovereignty system last week with the Mosaic deployment. I want to quickly highlight these changes here as well, to ensure that every player is completely up to date.
+INFRASTRUCTURE HUB AND INFRASTRUCTURE UPGRADE VOLUMES AND MANUFACTURING
+One area changed in the Mosaic release was the Infrastructure Hubs and their Upgrades. We reduced the volume of Infrastructure Hubs and Infrastructure Upgrades so that they can be deployed more easily, and we also made all of the Infrastructure Upgrades manufacturable by players instead of selling them directly from NPCs.
+The volumes of IHubs and Upgrades have been reduced to:

@@ -1,0 +1,6 @@
+1000T2 BCs
+1200T2 BS
+4000JFs
+APPENDIX 2: STATION COST MODIFIERS  
+OperationsManufacturing output multiplierResearch output multiplier
+Amarr Factory Outpost0.50.6

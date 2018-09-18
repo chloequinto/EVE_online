@@ -1,0 +1,8 @@
+Let’s hypothetically say the structure is worth 15 billion ISK in materials to build, and has rigs worth another 85 billion ISK. It is also fitted with structure modules and defenses.
+5 jobs are running, 1 is a titan being manufactured, the rest are related to blueprint research.
+It has ships, items, blueprints located in the corporation hangar of the Citadel XL structure worth 200 billion ISK (calculated from average market value), which includes a Nyx being stored there.
+It has many players docked, some of them inactive, but with items stored in their own personal hangars. Let’s take a guinea pig, Mrs. Madeleine Truffade, who has 1 billion ISK stored in assets in her personal hangar at that particular Citadel XL structure. She is docked in the structure in a Megathron, and has implants plugged in her brain.
+All goes well in the life of the Tasty Fougasse Republic™ until a rival corporation, the Wild Fish’n’Chips Warband™ comes along and destroys the Citadel XL after 3 vulnerability cycles.
+The following will happen:
+The structure turns into a wreck. A percentage of the 15 billion ISK materials used in its construction are moved back into the wreck. They can be recovered through salvaging.
+Structure module and defenses drop as loot for anyone to take it. Some of it may be destroyed as that follows the same exact rules than for ship loot.

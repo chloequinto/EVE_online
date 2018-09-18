@@ -1,0 +1,5 @@
+Reload and Repair Timers
+A bunch of you have told us that that seeing the progress of charge reload and module repair while in space would be very useful. We have wanted to display that information for a while, but finally dove into the needed work now and are delivering this functionality to you in the Kronos release on June 3rd.
+After thinking a bit about how to best represent the progress, we decided to utilize the user interface elements already there and keep it very simple:
+The Reload Timer uses the Cycle Timer, except it goes backwards as charges are being loaded.
+The Module Repair is visualized by "eating up" the current damage displayed on the module. At first you might suspect the repair animation is not working, but be patient because it just takes a long time to repair modules.

@@ -1,0 +1,5 @@
+While the CREST documentation isn't perfect, we have started trying to gather the documentation here: //eveonline-third-party-documentation.readthedocs.org/en/latest/crest/characters_fittings/
+The documentation is hosted on a GitHub repo and we encourage everyone to help contribute to it.
+Conclusion
+This has been a fairly long time coming but it is finally here and already we are seeing amazing things created with it. A huge thank you to all of the third-party developers out there creating these awesome applications. We cannot wait to see what you do next. 
+CCP FoxFour on behalf of Team Tech-Co

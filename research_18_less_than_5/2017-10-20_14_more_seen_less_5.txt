@@ -1,0 +1,1 @@
+Setting a Ready date by manually entering a desired time and date, or through manipulating the slider

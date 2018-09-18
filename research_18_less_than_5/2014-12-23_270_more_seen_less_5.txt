@@ -1,0 +1,2 @@
+MLUs - Ore
+Name	Meta	Powergrid Usage	CPU Usage	CPU Penalty (%)	Mining Amount Bonus (%)

@@ -1,0 +1,2 @@
+Nullsec: 5.04%
+Tech 1 rigs that provide manufacturing or science job speed benefits have the following bonuses:

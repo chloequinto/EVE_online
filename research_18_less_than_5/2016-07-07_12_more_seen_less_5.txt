@@ -1,0 +1,9 @@
+The Ancillary Shield Boost module will be restricted to a maximum of one per ship.
+Warp Disruption Field Generators are restricted to a maximum of one per ship
+Micro-jump field generators are NOT allowed
+Remote Capacitor Transmitters are NOT allowed
+The Bastion Module is NOT allowed
+Cloaking devices are NOT allowed
+Target Spectrum Breakers are NOT allowed
+Faction, COSMOS, deadspace and officer modules are NOT allowed
+T1 Rigs are allowed. T2 Rigs are NOT allowed

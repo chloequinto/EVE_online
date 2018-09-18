@@ -1,0 +1,1 @@
+This vulnerability window lasts indefinitely, until an attacker or defender wins the contest by using entosis links (see “entosis link contest” further below).

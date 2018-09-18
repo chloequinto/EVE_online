@@ -1,0 +1,6 @@
+Projectile Weapons Rebalance
+Tiamat brings balance changes to Autocannons, Barrage ammunition, and Small Artillery modules. Read about the new module stats and provide feedback in the comments thread for CCP Fozzie's latest dev blog: The Republic Strikes Back: The Svipul Tactical Destroyer and Projectile Changes in Tiamat.
+Option to have CONCORD intervene in internal corporation conflicts
+With Tiamat, corporations can choose to have CONCORD intervene in acts of aggression between corporation members. The setting can be changed with a 24 hour notice and it will be visible to people joining a corporation if CONCORD intervention is active or not. Read more about this feature in an upcoming dev blog.
+Corporation Management Quality of Life Updates
+The corporation member list can be filtered, mailing lists can contain 5,000 pilots, the corp description can now be edited with links and other formatting options, closing office rentals is made easier, and a custom message can be added to rejected corporation applications, along with other smaller changes. Read an upcoming dev blog for a presentation of the changes and eventually the patch notes for the full list.

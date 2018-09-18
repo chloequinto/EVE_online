@@ -1,0 +1,4 @@
+Each Mining Foreman Ship will be able to fulfill three roles at once:
+Help fleetmates mine more effectively
+Defend the mining operation
+Contribute with powerful mining drones

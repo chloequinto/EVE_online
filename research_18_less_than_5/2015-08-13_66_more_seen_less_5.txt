@@ -1,0 +1,1 @@
+Structures may only be attacked by entosis links during their vulnerability windows.

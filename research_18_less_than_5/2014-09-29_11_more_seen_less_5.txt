@@ -1,0 +1,5 @@
+Low slot modules
+Mid slot modules and charge (if available)
+High slot modules and charge (if available) (i.e., 125mm Railgun I, Antimatter Charge S)
+Rigs
+Subsystems

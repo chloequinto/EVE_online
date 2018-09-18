@@ -1,0 +1,1 @@
+If the structure is invulnerable, a timer will be shown counting how much time left before it is vulnerable again

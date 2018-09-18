@@ -1,0 +1,5 @@
+Now that we’re covered the new Mining Foreman Burst and Mining Drone changes, let’s get to the details of the ships that will be using them!
+MINING FOREMAN SHIPS
+In the November expansion we are planning huge buffs to the existing Orca and Rorqual mining foreman ships, as well as adding a new inexpensive and mobile Industrial Command Ship to fill out the lower-end of the progression. Each of these ships hits a different price point and have significant differences in mobility and access to different areas of space.
+As you’ll remember from the start of the blog, we’ve divided the Mining Foreman ship progression into four stages:
+The new affordable and mobile Porpoise-class Industrial Command Ship

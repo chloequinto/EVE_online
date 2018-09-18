@@ -1,0 +1,2 @@
+The Shield Boost Bonus error has been fixed. Type-D and Mark I modules had the value reversed.
+Expanded Cargoholds

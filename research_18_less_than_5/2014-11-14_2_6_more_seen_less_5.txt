@@ -1,0 +1,7 @@
+OPT-IN NEW STAR MAP
+The Star Map has been completely redone to improve readability and usability, and in Rhea you can try this new map as an opt-in beta feature. Read more about what’s new in an upcoming dev blog.
+BLACKBIRD, ROOK AND FALCON SHIP MODELS REDESIGNED
+TECH 2 HULL VARIANTS FOR THE ONYX AND EAGLE
+INCURSUS, ENYO AND ISHKUR SHIP MODELS REDESIGNED
+VISUAL EFFECTS UPDATES TO ASTEROID BELTS
+Dust effects, sun rays and rock fragments are added to asteroid belts in Rhea to create a more immersive experience. Early work in progress screen shot:

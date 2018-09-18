@@ -1,0 +1,7 @@
+Republic Fleet Light Missile Launcher
+6
+16
+11.2s
+0.9
+60
+8

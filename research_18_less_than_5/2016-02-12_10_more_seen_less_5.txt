@@ -1,0 +1,4 @@
+1% bonus to Siege Warfare and Skirmish Warfare Links effectiveness
+50% reduction in CPU requirements for Warfare Links
+Can fit Triage modules
+Ninazu (6 high slots, 5 mid slots, 6 low slots)

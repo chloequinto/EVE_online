@@ -1,0 +1,4 @@
+New Propulsion Systems
+While your engines are giving you all they’ve got, you’ll be busy staring at these powerful new effects for each and every ship. Revel in beautiful new visuals!
+Falloff for Neuts and Remote Assistance Modules
+Neutralizers, remote repair modules, and energy transfers now have falloff which reduces their effectiveness at range and offers new tactical options.

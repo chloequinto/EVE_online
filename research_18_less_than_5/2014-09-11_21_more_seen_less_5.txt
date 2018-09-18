@@ -1,0 +1,2 @@
+For ships:
+Mechanical Engineering is needed for most ship invention (for Tech I hulls) and manufacturing (for Tech II hulls), except for Stealth Bombers and Covert Ops which require Rocket Science and Electronic Engineering respectively. We are making things more even by matching the role of the ship with a required science field.

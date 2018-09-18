@@ -1,0 +1,7 @@
+Before submitting a logo, the Alliance executor should ensure that their email address is updated in account management.
+This email address should be the address from which the logo submission is sent to CCP to verify the identity of the Alliance Executor.
+Once the logo is prepared and the alliance requirements have been met, the logo can be submitted for approval by emailing it as an attachment to alliancelogos@ccpgames.com
+In this email, from the address associated with their EVE Online account, the Alliance Executor will include the following for confirmation:
+Alliance age.
+Approximate member count of the alliance.
+Name of the CEO of the executor corporation.

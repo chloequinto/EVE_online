@@ -1,0 +1,6 @@
+A notification will be sent if the player was podded for being in a structure that has been destroyed.
+A proper tab will be added to personal / corporation asset window when items are impounded and available for delivery.
+Impounded items can also be displayed on the Star Map under the “my asset” filter.
+EXAMPLE
+Since that’s a lot of information explained in a blog, let’s use an example to make sure everyone grasps the fine details of this feature.
+The Tasty Fougasse Republic™ is a corporation that operates a Citadel XL structure in EC-P8R. It has the following properties:

@@ -1,0 +1,7 @@
+Also note: nullsec outpost upgrades which previously added manufacturing lines to the station, will instead offer a 1% material use reduction (i.e. an additional ME-1%) per upgrade installed.
+2. Teams will increase job costs when they're used. This cost is a simple percentage increase, and will be listed in the team's information.
+3. Facilities can impose a tax on jobs within that facility. For NPC-owned facilities, this is a flat 10%, meaning a 1.1x multiplier to the job price. For player-run outposts, this can be configured by the owners. For starbases, setting taxes won't be supported in the initial release but we are investigating supporting this in future after player feedback.
+These multiply together with the base price to create a final per-run price for that job, which needs to be paid up front.
+BLUEPRINT DATA
+We've done a fairly comprehensive overhaul of blueprint stats, to try and bring them into a more consistent and interesting pattern.
+Firstly, we've assigned all blueprints a behind-the-scenes rank, which dictates a lot of the values. You can see examples in Appendix 1, and here are the rules we used to determine them:

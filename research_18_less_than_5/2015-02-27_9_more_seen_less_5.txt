@@ -1,0 +1,2 @@
+Shield Capacity: 3550 (-200)
+Signature Radius: 165 (+7)

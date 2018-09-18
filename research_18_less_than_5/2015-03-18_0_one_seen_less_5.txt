@@ -1,0 +1,13 @@
+Greetings new capsuleers!
+So, we’ve got some big news when it comes to inviting new players into the game: as of 18 March 2015 users with an EVE Online trial account can now use use our Buddy Invite system.
+In short, this allows you to send an invitation to your friends to join you in trying out EVE Online, and if any of them decide to become EVE Online subscribers, CCP will reward you with 30 days of game time! This means that your account will be upgraded to full status and all trial restrictions removed – and thus you’ll be able to experience all that EVE Online has to offer.
+Using our Buddy Invites couldn’t be simpler: we’ll give you a link you can post to social media or send to friends however you want, and you have the option to use our email system so that buddies are mailed the link directly to their inbox (with a personal message from you – no spam, promise!).
+This has come out of an effort to enable EVE newcomers to share their early experiences with friends, thus allowing you to learn the game together at your own pace. We hope that with a 30 day trial and the ability to easily invite friends, you will be afforded plenty of time to feel out New Eden with your buddies, find the kind of activities you enjoy doing together, and even join a corporation that suits you.
+Try out the Buddy Invites now!
+Some specifics about the Buddy Invites for trial users:
+Trialists who claim their first reward will get 30 days plus any remaining trial days as full days, at full status.
+Trial users will not be eligible for a PLEX reward.
+An invited Buddy must pay with money for the inviter to receive any reward. Thus if Account A invites Account B and Account B uses PLEX to upgrade, Account A gets no reward.
+Rewards can only be claimed once funds have cleared. Thus, Account A will only get notification of a reward and a 'claim' button once CCP has received cleared funds from Account B.
+If Account A sends an invite and then lapses (either expired trial or into disabled account after being a paid subscriber) and Account B then subscribes, Account A will receive 30 days game time as a reward no matter how long they have been lapsed.
+Trial users who receive the 30 days reward will have the same status as someone who has bought 30 days of game time (that is, all trial restrictions are removed). Thus if a user invites two friends who become paying subscribers, they can use the 30 days reward from the first friend to upgrade to a full account and then claim PLEX as the reward for the second friend subscribing.

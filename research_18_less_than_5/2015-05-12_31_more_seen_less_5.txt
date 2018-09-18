@@ -1,0 +1,3 @@
+The Doomsday weapon will only be available on the X-Large structure, and have a similar purpose to the ones installed on Titans. However, it will have extra capabilities next to its ship counterpart to compensate for the single, static nature of the structure on the field.
+For instance, we are considering a weapon that bounces off multiple times after hitting its main target, a bit like another weapon we’ve shown in the past.
+Available on sizes

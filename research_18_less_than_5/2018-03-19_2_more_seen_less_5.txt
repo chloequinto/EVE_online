@@ -1,0 +1,1 @@
+During the EVE Vegas livestream where Community fittings were being discussed, one of you suggested in the twitch chat that we add filter in the Fitting window to filter out ships and fits you didn't have skills for. I thought that was such a good idea that I might even have confirmed there and then that it would be added, and shortly after it was deployed to TQ.

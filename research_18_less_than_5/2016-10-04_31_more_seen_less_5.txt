@@ -1,0 +1,3 @@
+This new module requires a new rank 8 skill called Invulnerability Core Operation that requires Tactical Shield Manipulation level 5 and Capital Shield Emission Systems level 3 to train. The module only requires Invulnerability Core Operation level 1 to operate, and the skill increases the duration of the P.A.N.I.C. effect by 10% per level. This means that Rorqual pilots can strategically train the Invulnerability Core Operation skill to whatever level they wish and ensures that the Rorqual pilot and its fleet have more information about when the effect will end than the attackers do.
+P.A.N.I.C. Module:
+Requires Invulnerability Core Operation skill level 1

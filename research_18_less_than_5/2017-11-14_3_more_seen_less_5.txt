@@ -1,0 +1,4 @@
+Does not award Omega Status
+Pretty simple! we're sure you have questions though, so we'll try and answer some of the most obvious and then we can follow up in discussion threads for the blog:
+Why call it an injector, even though it’s different?
+This question was hotly debated and we settled on injector because the basic function of an activated item which gives you unallocated skill points is the same, even though the source of the skill points and the daily limit are different. We think naming it a booster or training item would have been confusing and potentially sent the message that it would unlock Omega time.

@@ -1,0 +1,1 @@
+In the Hyperion release we are planning to provide C4 wormholes with their own area of expertise, by adding a second W-space static connection to each of them. This will make C4 wormholes exceptionally well-connected to other W-space systems and a great choice for corporations who want to enjoy a variety of travels within wormhole space.

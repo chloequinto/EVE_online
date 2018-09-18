@@ -1,0 +1,1 @@
+Successful invention always outputs a maximum-run copy as a baseline, which is then modified by decryptors; max runs have been adjusted to be 1 for T2 ships and Rigs and 10 for all other T2 products

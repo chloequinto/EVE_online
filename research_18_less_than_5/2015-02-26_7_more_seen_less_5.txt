@@ -1,0 +1,7 @@
+What are we changing?
+We decided to look at all things that can be displayed in the Overview and put them into 4 primary categories:
+Ships - All man-made objects in space that can travel/move
+Structures - All man-made objects in space that don’t travel or move
+Celestials - All objects in space that are not man-made
+Other - Anything that doesn’t fit the definition of the other groups
+SHIPS

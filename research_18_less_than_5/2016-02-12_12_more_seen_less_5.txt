@@ -1,0 +1,4 @@
+1% bonus to Siege Warfare and Information Warfare Links effectiveness
+50% reduction in CPU requirements for Warfare Links
+Can fit Triage modules
+Lif (6 high slots, 6 mid slots, 5 low slots)

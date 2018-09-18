@@ -1,0 +1,1 @@
++900% survey scanner range makes allows the Rorqual to scan asteroids up to 225 km away, gaining valuable information on remaining asteroid volumes to help coordinate its fleet

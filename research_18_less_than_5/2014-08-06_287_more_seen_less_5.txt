@@ -1,0 +1,5 @@
+We are absolutely happy with how players have taken the wormhole feature and run with it over the last five years and we look forward to many more years of watching the adventures of the wormhole community with joy and awe. Anyone telling you otherwise is woefully mistaken.
+Normally I wouldn’t feel that we have to go over our views this explicitly, but I’ve been seeing a distressing number of players misunderstand our position and I wanted to hopefully end the confusion once and for all.
+Now that we have that cleared up, I’m sure you’re interested in seeing what we have been working on for our Hyperion release!
+**HYPERION APPROACHES**
+The main overarching goals of our proposed changes are:
