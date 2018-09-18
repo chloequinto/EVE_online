@@ -1,0 +1,22 @@
+I'VE GOT A QUESTION!
+Does that mean I have to download everything again?
+No, when we switch over to this we will offer a way to unpack the stuff files you already have.
+What about the offline installer?
+We will still offer a way to install from a pre-downloaded package, if for example you need to transfer it on a USB stick.
+What about slow connections?
+You can use the offline installer, or you can wait while the launcher downloads everything. Or you can enjoy the fact that you can get into the game sooner, although load times before ships show up might be long when you see a particular ship for the first time.
+What about multiple clients?
+This will actually make your life easier with multiple clients – the cache for downloaded resources will be shared without any special setup. Each install is only about 350MB and the resources live in a shared location.
+How do I try this (Windows)?
+We have a setup currently on Duality, which is one of our test-servers, where you can try this out. Click on this link to download an installer. Run the installer, but do choose a new installation folder instead of the default one (your location may of course be different).
+When you do get to the 'Completing the EVE Online Setup' you should untick the 'Run EVE Online' box, as we have make a small change before logging into Duality.
+After you hit finish, go to you desktop and right-click on the EVE icon that's just been added
+This will bring up this box:
+You have to add the following to the Target field:
+/server:87.237.38.60
+The Target field should look like this:
+(Note that the Target field shows only the end of the string in the field.)
+Hit the 'Apply' button, and then the EVE icon to start the launcher. When the launcher has downloaded the necessary minimum set of resources to start playing, the 'PLAY' button will turn from gray to yellow and you can fly away!
+We should note that the initial set of resources that the client downloads is roughly around 300 MB, but you should make sure that you have plenty of disc space. The whole set of resources is more the 12GB, so you should make sure that you have this space available in your installation location. 
+How do I try this (Mac)?
+Grab the installer here. When it has downloaded, click the .dmg file and proceed with the installation. After the installation is complete, open Finder and highlight your EVE Online installation. Choose 'Show Package Contents', then select the 'Contents' folder and the 'MacOS' folder.  Now open a terminal, drag the launcher into the terminal and add /server:87.237.38.60. Hit enter and the launcher pointing to Duality will open.  

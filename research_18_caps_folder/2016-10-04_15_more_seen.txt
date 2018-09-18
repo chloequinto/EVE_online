@@ -1,0 +1,55 @@
+THE RORQUAL
+(Click image for a larger, animated version)
+Rorqual Feedback Thread
+The Rorqual-class Capital Industrial Ship is the premier mining foreman ship in New Eden. This once great ship has fallen into disuse as its formerly unique functions were slowly added to other ships and structures. It’s time for the Rorqual to get a full revamp from the ground-up and that’s exactly what is happening this November.
+The Rorqual represents the most powerful version of all three mining foreman pillars by itself; capable of providing strong Mining Foreman Bursts, repairing allies and fighting off enemies, and vacuuming up ore faster than any other ship in New Eden.
+Beyond its built-in functionality, the Rorqual has the ability to use two unique modules that allow it to enter specific modes for extra capabilities.
+The Industrial Core module deploys the Rorqual into a fixed mining foreman platform and shares many of the same powerful features of the Triage and Siege modules.
+The Pulse Activated Nexus Invulnerability Core is a new defensive superweapon that makes an entire mining operation invulnerable for between 5 and 7.5 minutes if desired
+These modes are intended to be powerful but situational, and the best Rorqual pilots will know when to use them and when not to use them.
+Whether these modes are running or not, the ability to field 5 ‘Excavator’ Mining Superdrones will make the Rorqual the greatest mining vessel in the history of New Eden.
+There are a huge number of changes coming for the Rorqual in this patch, and the full stats can be seen below. Changes from the old stats will be in brackets. Since they might be easy to miss in the rest of the changes I want to bring special attention to the three extra slots, reduced mass (allowing the Rorqual to travel through the same wormholes as Freighters), and increased jump range to 5ly base (10ly with max skills, the same as Jump Freighters).
+**Rorqual:**
+Capital Industrial Ship bonuses (per skill level):
+5% bonus to Mining Foreman Burst Strength and Duration
+3% bonus to Shield Command Burst Strength and Duration
+5% reduction in fuel consumption for Industrial Core
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit Clone Vat Bay
+Can fit Industrial Core
+Can operate Excavator Drones
+Can fit three Command Burst modules
+Can fit one Pulse Activated Nexus Invulnerability Core
+50% bonus to Command Burst Area of Effect Range
+5x penalty to Entosis Link cycle time
+900% bonus to Survey Scanner range
+200% bonus to Cargo Scanners range
+Slot layout: 8H (+2), 7M, 4L (+1)
+Fittings: 420,000 PWG (+115,000), 1200 CPU (+280)
+Defense (shields / armor / hull) : 90,000 / 60,000 (+30,000) / 300,000 (+50,000)
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+Capacitor (amount / recharge / cap per second) : 67,500 (+12,940) / 4500s (+600) / 15 (+1)
+Mobility (max velocity / agility / mass / align time): 60 / 0.07 (+0.02) / 800,000,000 (-380,000,000) / 77.63s (-4.16)
+Warp Speed: 1.5 au/s
+Drones (bandwidth / bay): 125 / 6000 (+5700)
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 200km (+40) / 75 / 7
+Sensor strength: 115 Magnetometric
+Signature radius: 11500
+Base jump drive range: 5ly (+2.5)
+Jump drive fuel consumption: 2000 Oxygen (+500)
+Cargo Hold: 40,000 m3
+Ore Hold: 300,000 m3 (+50,000)
+Fleet Hangar: 40,000 m3
+Ship Maintenance Bay: 1,000,000 m3
+Fuel Bay Capacity: 10,000 m3
+Cost: ~2.3 bil ISK
+Max Yield (no Industrial Core): ~**3,000 m3 per minute + drone travel time**
+Max Yield (with Industrial Core): ~**18,400 m3 per minute + drone travel time**
+Max DPS (no Industrial Core): ~1000 dps
+Max DPS (with Industrial Core): ~2000 dps
+No discussion of the Rorqual would be complete without covering the unique modules that provide its special modes.

@@ -1,0 +1,12 @@
+EARLY ACCESS
+Over the past month or so, we've been working closely with several active members of the third party developer community, including:
+Steve Ronuken, CSM member and creator of fuzzwork.co.uk
+Lucia Denniard, prolific #devfleet poster and pizza-auth/timerboard.net developer
+Squizz Caphinator, creator of zkillboard.com and evewho.com
+We coordinated with this team, similar as with a focus group, to gain feedback on the early development cycles and some initial design decisions. Here's what they have to say about their experiences so far:
+The introduction of ESI, while a new API, is similar enough to how CREST works, that conversion should be relatively simple. It also solves one of the huge bugbears of EVE API development. A lack of documentation and examples. The use of Swagger makes this a lot easier to work with, and some inconsistencies are being cleaned up as development happens. Finally opening up the ability to send EVEMail, as well as receive it, is a major deal, allowing for some automated services which couldn't otherwise be done.
+Steve Ronuken
+ESI is a solution to a problem that CCP has had for several years: the inability to quickly and easily update the API for 3rd parties. Over the last few weeks the devs I have worked with have demonstrated that ESI is adaptable and have demonstrated the ability to implement new features quickly. I know many 3rd party developers will not be happy about having to rewrite many of their tools, I am one of them, but this is the price for the technical debt we have incurred. CCP is looking to move past technical debt and bring us a modern approach. EveWho.com is already utilizing ESI and I’m quite happy with the results so far.
+Squizz Caphinator
+The EVE Swagger Interface combines the usability of the XML API with the features of CREST while introducing documentation as an official feature. CREST's crawlable type system enabled people to do some great things with dynamic languages, ESI closes that gap for those of us using statically typed languages; providing much stronger interface definitions and improving on the usability aspects of CREST. I believe that this project is the perfect follow-up to improve on CREST, modernize the XML API, and make EVE development easier for newcomers.
+Lucia Denniard

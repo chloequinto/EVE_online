@@ -1,2 +1,0 @@
-MULTIPLE MARKET SELL ORDER CREATION
-Phoebe brings the possibility to create multiple market sell orders at the same time, to for example quickly sell off a large amount of assorted items. The feature is live on Singularity in an early form already. Read more in this forum post, and stay tuned for a dev blog.

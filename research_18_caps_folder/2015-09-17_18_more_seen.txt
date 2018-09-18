@@ -1,0 +1,9 @@
+ANCHORING OR UNANCHORING A STRUCTURE
+For anchoring:
+The structure goes into a 24 hour invulnerability timer. No damage can be done during that time and the owner cannot cancel this action once it has been confirmed
+The structure will come out of the invulnerability timer with only its hull layer active and vulnerable to attack (enters the vulnerability states above).
+As usual, any damage done to the structure while it is vulnerable will cause the repair time to start. Please note however that in this case the structure will only have hull layer available – it is not a fully operational battle station yet, and as such is even more susceptible to damage than usual. Which means if attackers can take it to 0 hit points it will be destroyed on the spot, there will be no further invulnerability phase.
+For unanchoring:
+Unanchoring may only be started if the structure has full shields and is not within a repair timer. This is to prevent some early bail-out should it be attacked
+Once the unanchoring process has started, the structure will become invulnerable for a specific amount of time
+Once the invulnerability timers runs out, the structure will be vulnerable for damage yet again, with having a repair process identical of what’s been mentioned above. This time however, shields, armor and hulls will be fully available

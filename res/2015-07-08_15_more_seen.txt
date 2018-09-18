@@ -1,4 +1,0 @@
-COMING ON JULY 14TH
-
-
-On July 14th we will be deploying the next big set of Nullsec and Sovereignty changes as the second part of the Aegis release. By now most of you will be familiar with the changes to the Sovereignty capture system that are coming on the 14th (if not, check out some of the handy dev blog links at the top of this blog). We’re now unveiling another set of changes to Nullsec PVE and infrastructure upgrades coming with this July 14th release.

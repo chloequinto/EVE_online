@@ -1,0 +1,6 @@
+4.     ACQUISITION
+We want to significantly unify and improve structure acquisition as a whole. As such they will involve:
+Acquiring the blueprint original (seeded on markets for Tech I variants). If Faction or Tech II variations are released, they will be available through loot and Invention respectively.
+Manufacturing the item from the blueprint.
+Deploying the structure in space by drag and dropping it. The interface should be clear enough to tell you if there are location restrictions and where to go to avoid them.
+We don’t want to force the user to select which group they wish to use it for before deploying anymore. Instead, we want the user to make a conscious choice after it has been deployed, and decide if they want personal, corporation, alliance or public use. That’s right, we want those structures to be used for the wider audience, so if you wish to establish your own Market Hub somewhere, make it open to everyone and set your taxes to be shamelessly expensive go right ahead. In a similar manner, if you have permission from your corporation or alliance, nothing should prevent you to deploy a structure for your own personal use.

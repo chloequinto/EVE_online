@@ -1,9 +1,0 @@
-VISIBILITY
-Just like for capture and protection mechanics, we also want this feature to have proper visualization in the game.
-
-As such:
-
-A notification will be sent for each destroyed structure the player (or corporation) had items in.
-A notification will be sent if the player was podded for being in a structure that has been destroyed.
-A proper tab will be added to personal / corporation asset window when items are impounded and available for delivery.
-Impounded items can also be displayed on the Star Map under the “my asset” filter.

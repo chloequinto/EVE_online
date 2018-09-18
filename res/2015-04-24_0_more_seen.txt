@@ -1,6 +1,0 @@
-ANYTHING ELSE I SHOULD KNOW?
-Yes. This does not prevent people from logging into the game client by circumventing the launcher. That is a legacy issue that we were unable to fix this time around. Also, if you change your registered email address, Two-Factor Authentication for the account will be disabled and will need to be enabled again after verifying the new email address.
-
-That’s it for now. I encourage you to enable Two-Factor Authentication as soon as it’s released to help keep your account secure from the bad people out there.
-
-Fly safe! o7

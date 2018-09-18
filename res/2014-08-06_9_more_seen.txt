@@ -1,8 +1,0 @@
-**LOOSENING OF BOOKMARK COPYING RESTRICTIONS**
-Feedback thread
-
-This final change is a bit more focused, but should still be of interest to most wormhole residents. Over the years we have implemented certain restrictions to bookmark copying, since it has historically been a major source of database load for EVE. At this point after many other gameplay changes wormhole residents are the most common users of the bookmark copying system, and the request was passed to us from the CSM to investigate loosening the restrictions around this activity. We have done some investigation and it does appear that we can safely reduce these restrictions.
-
-So as of the Hyperion release, you will be able to copy more bookmarks at once and the operations should complete significantly more quickly. We will continue to investigate loosening the restrictions further if the first set of changes works out well. While you wait for us to finish the ongoing work that will eventually enable the long-requested alliance bookmarks, this should at least be a helpful change to tide you over.
-
-As always, we are interested to hear your feedback on this change and to hear what else you would like to see from the bookmark system in the future. Feel free to post all your bookmark feedback in this thread.

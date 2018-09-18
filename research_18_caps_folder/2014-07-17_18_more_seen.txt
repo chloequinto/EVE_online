@@ -1,0 +1,49 @@
+M.E. AND T.E.
+Headline changes
+PE (Production Efficiency) is now called TE (Time Efficiency) because it's more obvious what it means. ME (Material Efficiency) keeps the same name. In both cases we are now displaying both values in the UI as negative numbers, as they are reductions; this is possible because of the invention changes mentioned later on!
+Wastage as a concept is gone. All material-affecting bonuses simply reduce from the "full price" input materials. Material needs for T1 items have all been adjusted upwards by 1/0.9 to balance this out. We no longer need to guard so vigilantly against "material printing" from ME bonuses as reprocessing-built items now only return 50% of the materials.
+ME and TE research now operates on a 10-step scale. Each step of ME reduces materials by 1% (always rounded up). Each step of TE reduces build time by 2%. These are expressed as simple percentage values, so a blueprint might be ME-3%, TE-12%.
+Details
+Two specific notes: firstly, we are now rounding materials per-job rather than per-run, so savings of less than one unit can often be realized with a long enough production run. Secondly, to prevent weirdness with T2 builds in particular (for example building 10 Paladins from 9 Apocalypses), every run requires a minimum of one unit of every listed material.
+In order to keep a non-linear progression, each subsequent level takes longer to research than the previously one.
+Here is the time for a T1 ammo blueprint:
+Level	Seconds	Approximate readable time
+1	105	1m 45s
+2	250	4m
+3	595	10m
+4	1.414	24m
+5	3.360	56m
+6	8.000	2h
+7	19.000	5h
+8	45.255	12h
+9	107.700	1d
+10	256.000	3d
+LevelSecondsApproximate readable time
+11051m 45s
+22504m
+359510m
+41.41424m
+53.36056m
+68.0002h
+719.0005h
+845.25512h
+9107.7001d
+10256.0003d
+(If you look at the even-numbered levels, the values may be familiar; this is intentional!)
+In order to keep blueprints differentiated, we have a system of ranks, all of the above times are multiplied by a blueprint's rank. T1 ammo is rank 1; jump freighters are rank 4000. For a better outline of what falls under what rank, see Appendix 1.
+Additionally, the old Material Efficiency skill has been renamed to Advanced Industry, and gives a build time reduction of 1% per level. We are not totally happy with the reduction in skill value that’s happened here, and we are committing to revisiting this skill post-Crius to evaluate how to meet our overall goals here in a less dramatic fashion.
+Obviously we need to ensure that pre-Crius blueprints still work post-Crius, so we will be altering the values on existing blueprints for the new system. The guiding goal with this translation is "no blueprint gets functionally worse" i.e. the materials needed for a single run should be the same or less after the transition. Do note that, because we are calculating percentage reductions on the job as a whole rather than per-run, there will be cases where multiple runs can realize hidden savings that weren't previously accessible.
+Here is the conversion chart for old to new:
+Old ME	New ME
+1	-5%
+2	-7%
+3, 4	-8%
+5, 6, 7, 8, 9	-9%
+10	-10%
+Old PE	New TE
+1	-10%
+2	-14%
+3, 4	-16%
+5, 6, 7, 8, 9	-18%
+10	-20%
+(For negative ME/TE, see the next section!)

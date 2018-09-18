@@ -1,0 +1,4 @@
+CORPORATE MINING LEDGER
+Keeping the books straight and your members in line is the eternal work of all BPM gurus. The Corporate Mining Ledger grants information on who exactly has been mining your moon ore, both friend and foe.
+The Corporate Mining Ledger is tied to mining activity around Refineries. Once a Refinery has extracted a moon chunk from its nearby moon and exploded this chunk into a field of moon material asteroids, capsuleers can mine these asteroids through normal mining activity. Who mines these asteroids, what corporation they belong to and how much they mine, is tracked in the Corporate Mining Ledger. This information is available to capsuleers with the Accountant, Director or CEO role in the corporation that owns the structure when the asteroid is mined. 
+It is worth noting that this information is not available in real-time and corporations must be vigilant in their guarding against those who may wish to steal their precious ores. 

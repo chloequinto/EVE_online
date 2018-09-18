@@ -1,0 +1,14 @@
+SUPPORTED CONTENT
+The new version of The Agency connects you to all the PVE content in the game and provides you with access to this content in a manner that should fit any play style or time allowance. For the initial release coming in the October 24th Lifeblood expansion, the following content will be included:
+Events (The previous Agency)
+Agents
+Resource Wars (new in Lifeblood!)
+Asteroid Belts
+Epic Arc Agents
+Signatures and Anomalies
+I am sure some of you are reading this list thinking that we are killing exploration by including Anomalies and Signatures. Worry not, these items will only appear for the system that you are currently in and you will still have to scan down signatures to know exactly what they are. Once you have scanned them they will appear in your list of available cards.
+We have our sights set on adding the following systems to the Agency in the future:
+Incursions
+Landmarks
+Factional Warfare
+Escalations from exploration sites

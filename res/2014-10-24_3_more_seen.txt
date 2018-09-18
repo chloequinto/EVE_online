@@ -1,4 +1,0 @@
-CHARACTER SHEET
-The skill list in the character sheet will now indicate whether skills are trial restricted or not. Note that as mentioned in CCP Seagull's Phoebe dev blog, trial accounts will still have a 24 hour limit on their skill queue instead of the upcoming unlimited skill queue.
-
-Character Sheet

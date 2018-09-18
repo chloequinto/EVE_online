@@ -1,0 +1,2 @@
+OPT-IN KEYBOARD SHIP CONTROL
+In Rhea, you will be able to try keyboard ship control as an opt-in beta feature. No new mechanics or movement options are introduced, just the ability to fly with WASD or arrow keys for the same movements you can do today using double-click. Read more in this dev blog from CCP Nullarbor: Quick, give me manual control!

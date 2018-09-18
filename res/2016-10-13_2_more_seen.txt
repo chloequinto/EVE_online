@@ -1,6 +1,0 @@
-YOUR NEW ID CARD AND A NEW VIEW OF SKILLS
-
-
-The EVE Online character sheet has undergone substantial redesign. A new and improved header includes your character profile and basic ID at the top. Skill groups are now shown as a bar graph that doubles as an overview of your skill distribution. You can toggle the skill groups one by one and viewing group specific certificates is as simple as adjusting the filter dropdown menu. You can always search across skill groups using the search input above.
-
-Other parts of the character sheet are still in their old format, but we have restructured the information and hope to give those panels an update in the future.

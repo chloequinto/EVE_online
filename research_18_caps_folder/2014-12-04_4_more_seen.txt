@@ -1,0 +1,2 @@
+UPDATED VISUALS
+The new map is beautiful. We’ve put the map in an actual space scene with nebulas and stars and ditched the old flat black background. We’ve also made a lot of changes to coloring, highlighting, and labeling in the map to improve readability and aesthetic appeal (sexiness).

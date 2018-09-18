@@ -1,0 +1,25 @@
+ N/A
+DUST514 Proxy Node
+4 x IBM HS22 - Intel X5687 @ 3.60GHz with 24GB RAM (1333MHz)
+ Will run on Eve proxies
+EVE Proxy Node
+5 x IBM HS23 - Intel E5-2643 0 @ 3.30GHz with 64GB RAM (1600MHz)
+ 6x IBM x240 - Intel E5-2667 v3 CPU @ 3.2GHz with 128GB (2133MHz)
+ESXi / Virtual hosts
+4x IBM HS 22 - Intel E5620 @ 2.4GHz 146GB RAM (1333MHz)
+3x IBM HS 22 - Intel E2640 @ 2.6GHz 146GB RAM (1333MHz)
+2x IBM HS 22 - Intel X5690 @ 3.4GHz 96GB RAM (1333MHz)
+ 6x IBM Flex x240 Intel E5 2640 v3 @ 2.6GHz 386GB RAM (2133MHz)
+Database Server
+ 2x IBM X3960 X5 – Intel X7560 @ 2.26 GHz with 512GB RAM (1066 MHz)
+2x X880 X6 FlexNode – Intel E7-8893 V3 @ 3.2 GHz with 768GB RAM (1866 MHz)
+Node role
+TQ Tech II
+TQ Tech III 
+Standard SOL Nodes
+51 x IBM HS21XM - Intel X5260 CPU @ 3.33GHz with 32GB RAM (1333MHz)
+30x IBM x240 - Intel E5-2637-V3 CPU @ 3.5GHz CPU with 64GB RAM (2133MHz)
+Enhanced SOL Nodes
+9 x IBM HS23 - Intel Xeon CPU @ 3.30GHz with 64GB RAM (1333MHz)
+6x IBM x240 – Intel E5-2667 v3 CPU @ 3.2GHz with 128GB RAM (2133MHz)
+Everest Node

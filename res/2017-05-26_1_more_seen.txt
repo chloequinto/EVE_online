@@ -1,9 +1,0 @@
-LET’S SET A DATE
-We are now at the point where we can announce the tentative schedule for releasing this rebalance. Currently these changes are scheduled for release on July 11th, 2017.
-
-Since these changes to Strategic Cruisers will be very significant in scope, existing ships and subsystems will go through a dramatic transformation on patch day. We want to start warning people now about the impacts of this transformation and will continue communicating it over the next two months to ensure that players are not caught by surprise.
-
-Existing subsystems that are not fit to a Strategic Cruiser will be directly transformed into their closest functional equivalent under the new system.
-Strategic Cruisers with subsystems fit to them will have their subsystems converted into new ones directly, and will receive one extra subsystem placed in their cargo hold (to ensure that players have the same number of subsystems before and after the patch).
-This means that although all fitted Strategic Cruisers will continue to have a valid set of subsystems after the patch, some of their modules may go offline as fitting and even slot layouts may change.
-We highly encourage all players who will be flying T3 Cruisers at the time of downtime on July 11th get themselves into a safe location such as a friendly starbase or docked within a station/structure before the downtime begins. This will ensure that they do not get caught in a dangerous situation with some of their modules offline when they next log in.

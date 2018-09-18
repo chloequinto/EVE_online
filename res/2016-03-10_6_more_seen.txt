@@ -1,4 +1,0 @@
-WEDNESDAY, FEBRUARY 17TH – “EVEREST” NODE BLUE SCREENED 
-After years of dedicated, solid service, the “Everest” node which was responsible for the main trade hub in the game, Jita, blue screened, and market and player activity was moved over to a less powerful node
-
-I just wanted to mention this event as the node had done so well for us and literally had 12 more days to go. Thankfully it recovered with a reboot and went back into action at next downtime and finished its tour of duty.

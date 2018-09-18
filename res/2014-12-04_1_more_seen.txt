@@ -1,6 +1,0 @@
-BUT CCP RISE, THIS STILL ISN’T DOTLAN
-You’re right and we hear you. I have two different replies to this question. Hopefully both make you excited for the future.
-
-First, this is only step one for the star map. After we gather feedback from the beta and validate the big new functions I mentioned above, we are planning to a take a hard look at what kind of strategic value is present in the map currently and then find ways to add to that value. The results of this work could be anything from a ‘recent filters’ list to help you switch statistics displays more easily to the removal of useless filters to a jump planner. Keep your eye out for these changes in January and February and make sure to give us feedback on this subject in the meantime.
-
-Second, we aren’t releasing it just yet, but we are hard at work on developing a dedicated two-dimensional, ”DOTLAN-esque” mode for the map which will be focused entirely on strategy and information. This mode looks very promising but we’ve chosen to hold off for the Rhea release in order to focus completely on the updated 3d map so that you get the best feature possible for Rhea. Look for progress reports on the tactical map after Rhea.

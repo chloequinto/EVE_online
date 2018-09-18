@@ -1,0 +1,13 @@
+INTERACTING WITH THE AGENCY
+Once you have filtered down to the content you want, how do you go about finding out more information?
+Each piece of content is going to have a basic card that will appear as a list on the left of the window.
+Clicking on the basic card will open an expanded card offering more details about the content.
+With these expanded cards we are going to try and expose all the relevant information that will be required for participation in the content and the possible rewards that can be received. The expanded card should be clearly explaining what the content is, how to participate if you cannot already (ship restrictions), what progression mechanics it ties into (standings), and how to get to it based on your current location (Set Destination, Warp to).
+Some examples of extra information that will be included:
+We will show you the potential asteroids that can appear Asteroid Belts, Ore Sites, and Ice Belts.
+The hostiles that may appear in the sites. We are also looking at including NPC damage types in future iterations of The Agency so that should free up some space in all your bios.
+If any content requires special modules to participate, we would like to let you know this in advance
+This is just the first iteration of The (new) Agency, so we look forward to hearing your feedback on what other filters, content or information you would like to see included.
+The Agency will be released with the Lifeblood expansion on October 24th.
+Fly safe,
+Team Psycho Sisters

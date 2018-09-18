@@ -1,8 +1,0 @@
-PILLAR #4: MOON MINING IN W-SPACE AND HIGHSEC
-
-
-The final major pillar of the Upwell Structures 2.0 release is the single most requested structure addition from the community over the past several months: moon mining gameplay in wormhole space and highsec.
-
-Starting on February 13th capsuleers will be able to anchor refinery structures at the moons in 0.5 security highsec systems and in any w-space systems that contain moons. The mechanics of scanning, extracting, fracturing, and mining in these systems will be exactly the same as it is for existing moon mining in lowsec and nullsec systems.
-
-These moons will contain a randomized selection of upgraded standard mineral ore variants, as well as some of the most common varieties of moongoo ores in lower quantities than those available in lowsec and nullsec.

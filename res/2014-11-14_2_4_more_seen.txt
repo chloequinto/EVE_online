@@ -1,2 +1,0 @@
-KILL REPORT AND CONTRACT NOTIFICATIONS
-Kill reports and contracts will be available in the new Notification system, fully configurable.

@@ -1,0 +1,12 @@
+NEW TO EVE?
+Consensus amongst players discussing the war is that right now is the best time in recent memory to start playing EVE. Not only do both sides have corps actively recruiting and set up to help new players, but the entire community is energized and helpful to those who are taking their first steps in the universe. Free trials are always available at www.eveonline.com.
+We just recently (and thankfully) released an Updated Rookie Resources Dev Blog with tons of information on how to dive right into EVE.
+That’s it…for now.
+o7 in anticipation of the next thing EVE pilots will do in this great conflict and on behalf of what Kill Screen calls “the game science fiction warned us about.*”
+The EVE Online development team
+A note about Time Dilation (TiDI)
+If a 5,806 player battle without instancing sounds like a lot of work for a server to handle, that’s because you have a good sense for how much load that would require.
+In EVE, we know that fights like this are a major deciding factor in large-scale warfare, so in order to support them the best we can we introduced a system called Time Dilation.  Its job is to give the server the means to control the amount of load an insane-scale fight like this causes.
+The mechanism behind Time Dilation is reasonably simple – if the server cannot keep up with the load of simulation, it slows down time in the solar systems it’s managing.  For example, if there’s twice as much going on than the server can normally handle, it’s got the ability to run that heavy simulation at half speed, bring the rate of load back to something manageable.  Due to how we set up our universe, the effect of this slowdown is localized, often applying to just the problematic system and allowing the vast majority of other online players to continue on as happy as can be blowing up ships, mining, trading, exploring etc as long as they didn’t come near these massive fights.
+With the length and intensity of this fight however, this slowdown was not enough to completely cover it, so it hit our limit of running the simulation at 10% of normal time.  It is designed to give players a fairer, more predictable experience (albeit slower) than would take place otherwise.
+In anticipation of big fights players can use a Fleet Fight Notification form to request node reinforcement.

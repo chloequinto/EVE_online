@@ -1,0 +1,27 @@
+NEW CAPITAL MODULES
+All existing capital sized modules will be getting a full set of Meta, Tech 2, and Faction variants. Yes, this includes Tech 2 guns (and the skills for them). We're also introducing a bunch of new modules -
+All existing XL guns and XL launchers
+New: High Angle Weapon Batteries
+Remote armor repairers
+Remote shield transporters
+Remote energy transporters
+Remote hull repairers
+Local armor repairers
+Local shield boosters
+New: Local hull repairers
+New: Capital Armor Plates
+New: Capital Shield Extenders
+New: Capital Microwarpdrives
+New: Capital Energy Warfare Modules
+New: Capital Cap Boosters and Charges
+New: Capital Capacitor Batteries
+New: Capital Warp Disruptors & Scramblers
+All of these modules, HP and damage will be re-balanced in accordance with structures. We're not ready to release any figures yet, but watch for more devblogs full of graphs and spreadsheets! A few quick notes...
+Existing Guns & Turrets
+These will be re-balanced to the new Capital EHP levels. They will also have their effectiveness on sub-capitals greatly reduced.
+High Angle Weapon Batteries
+New rapid firing anti-sub-capital weapon batteries are specifically designed to fire at sub-capitals. However their damage will be considerably lower than current XL weapon systems (in the 1 to 2k DPS range on a Sieged Dreadnought). They are short range guns, and their tracking will probably be somewhere in the battleship gun range.
+Capital Armor Plates & Shield Extenders
+This forms a large part of the HP balance. While traditionally a large part of a sub-capitals EHP came from plates or extenders, there are no capital equivalents. No longer! The choice on what to fit (plates, the most powerful guns, capital neutralizers, etc) will be a very important decision post Citadel expansion.
+Capital Warp Disruptors & Scramblers
+The new capital scramblers and disruptors will offer higher scramble strength with no bonuses to range. Existing officer disruptors and scramblers (which are capital modules) will keep their current roles as longer range capital tackle.

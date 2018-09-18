@@ -1,0 +1,19 @@
+WHAT DOES CREST OFFER
+Here is a brief rundown of some of the things that CREST currently offers:
+Read and write of character contacts
+Read and write of saved fittings
+Read a characters current location
+Dogma information (all dogma attributes and dogma effects)
+The ability to set the clients autopilot waypoint
+Alliance information
+Inventory information (categories, groups, and types including a types dogma information)
+Universe information including regions, constellations, and solar systems
+Tournaments
+Market information
+Sovereignty information
+Wars
+Incursions
+Industry
+Killmails
+Continuing our efforts to support third-party developers, we are incredibly happy to announce The EVE Online API challenge: Create a piece of software that primarily focuses on use of the CREST API.
+The goal of this challenge is to have some fun and strengthen the third-party developer community. We highly encourage those of you participating to think outside the box and do something new or different. Once all the entries are submitted and CCP has reviewed and judged them, we will share the results in another dev blog and possibly discuss them at Fanfest 2016. In addition and to help add to the fun of participating we will be giving away some prizes. But before we get to that, here are the rules you should be aware of.

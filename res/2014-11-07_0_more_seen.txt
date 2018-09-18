@@ -1,8 +1,0 @@
-AND FINALLY
-What we want the UI Modernization project to achieve is forming a really solid visual foundation to build on. There are still various things that will not get touched this time around, but having a stronger foundation will make it that much easier to sculpt prettier things once we get there.
-
-These changes will be on Singularity today. There is still a lot of work to be done, so please take it for a spin and give us your feedback on the forums. We’re currently aiming to get the final thing out with the Rhea release on December 9th.
-
-Enjoy your spaceships in a responsible manner.
-
-- CCP Optimal

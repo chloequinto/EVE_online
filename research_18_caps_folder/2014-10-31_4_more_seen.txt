@@ -1,0 +1,9 @@
+ASSET SEARCH AND ADVANCED SEARCH
+Many of you like organizing your assets into station containers, which is all well and good, that is, until you need to find that Polaris Engima or that 'Nibelung' Mining Laser you have misplaced but know you have somewhere. The Asset Search you are used to has not searched inside your containers. 
+That's changing in Phoebe-- items inside containers in stations will be included in the search results.
+I should note that for those who have thousands and thousands of neatly organized items in containers, fetching the information on the items might take a bit longer than you are used to.  However, after the data has been cached the searching should be really fast, and you can actually find the items you are looking for :)
+Some of you may know that we have pretty powerful advanced search functionality in EVE. However, I've found that surprisingly many citizens of New Eden either don't know it exists at all, or don't know how to use it.
+We wanted to raise the visibility of this powerful tool, so we have added a little question mark icon in the Asset Search tab, which will show a handy tooltip that lists all the keywords you can use and how to use them when you hover your mouse over it. For further information on the advanced search, please take a look at this dev blog by CCP Frellicus.
+[![](//content.eveonline.com/www/newssystem/media/66639/1/assetSearch550.jpg)](//content.eveonline.com/www/newssystem/media/66639/1/assetSearch.png)
+(Click image for a larger version)
+(Click image for a larger version)

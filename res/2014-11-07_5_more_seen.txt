@@ -1,9 +1,0 @@
-LOOK AND FEEL
-Our UI designers didn’t have to meet for long to reach a consensus that they wanted the UI to look more holographic and futuristic than it currently does. For interacting with the UI, instead of using skeuomorphism (a word I’m pretty sure to have been invented by a certain fruit company that shall not be named here) such as having a button feel like an actual button when pressed, we want to use burning light and glow to indicate button presses, blinks and such. Here is a part of their vision statement for the EVE UI Modernization project:
-
-Everything is made from light and behaves similar to light. Objects are dim and darkened or de-saturated when off/inactive instead of just alpha faded. Objects flicker and offset when under damage, power out, power disruption. Objects are drawn in, they turn on and flicker slightly to immitate a more realistic, mechanical state. Retro references used by the group was things like Jet HUDs, LED gauges, oscilloscope / vector scope, lasers, spectrum analyzers in 70‘s stereos.
-
-
-(click to enlarge)
-
-The re-skinning of the UI and updating of UI component and menu icons is just the first strategy step in fulfilling this vision and will pan out more in the coming months. We wanted to make a clearer distinction between windows and interface elements, so the Neocom, Overview and Station Service Window, all integral parts of the interface and always visible, will feel less intrusive than windows that you open, use and close.

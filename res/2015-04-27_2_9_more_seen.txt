@@ -1,2 +1,0 @@
-HANGAR AND CONTAINER ACCESS CONTROL
-Previously, in order to deal with hangars and containers you had to go through a total of 12 screens, 6 for the standard roles and 6 for the grantable variants. With roles and grantable roles merged, this number was reduced to 6. On top of that we created a checkbox matrix allowing all access controls (whether HQ, Base or Other) to be on the same screen, cutting the original 12 screens down to 1. Not only does this make assigning these controls easier, but also gives you a much clearer overview of all the access controls for a corp member.

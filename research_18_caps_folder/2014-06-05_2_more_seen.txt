@@ -1,0 +1,5 @@
+FINDING OUT ABOUT THESE UPDATES
+Recently we have been making changes to the EVE API and public CREST at a fairly fast pace and in some cases in pretty minor changes. That combined with the fact that most of these releases don't happen at the same time as an EVE release means that there is often not a dev blog about this stuff. So where then does this stuff get announced and where can you go to find out information on changes?
+The simplest place to find out about updates to TQ is check this post here: //forums.eveonline.com/default.aspx?g=posts&m=4384137#post4384137
+If you want to know about changes ahead of time, discuss them, know when they are on the test server, and that kind of thing, you should follow this thread: //forums.eveonline.com/default.aspx?g=posts&t=332097&find=unread
+More generally you should check out the Technology Lab forum. We are trying very hard to make sure the things we do are posted and discussed there: //forums.eveonline.com/default.aspx?g=topics&f=263

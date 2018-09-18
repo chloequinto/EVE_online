@@ -1,0 +1,4 @@
+WHY NOT JUST UPGRADE CAPTAIN’S QUARTERS?
+The technology behind captain’s quarters was implemented in 2010. Some of this technology was designed in house by CCP specifically for purpose, and some is based on older middleware that we no longer support.
+Bringing captain’s quarters up to a standard that would reflect current graphics technology would take roughly 6-8 months of development work, which we feel for the percentage of players utilizing the feature, is not a sensible investment of development time that could be used on furthering the visual side of core gameplay in New Eden.
+As explained earlier, the current condition of captain’s quarters means that the underlying infrastructure would need to be stripped out of the client and rebuilt from scratch.

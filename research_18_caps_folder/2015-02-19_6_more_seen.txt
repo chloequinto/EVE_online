@@ -1,0 +1,2 @@
+HANDS OFF
+One of the most fundamental principles for the new NPE is that we want to do less hand-holding. We think players will be more likely to learn, and more likely to have fun if they get to experiment, discover, and even fail as they explore New Eden. As a result, there is deliberately less explanation in the opportunities system than there was in the tutorials. Again, we need to use testing to find out exactly how little explanation we can get away with but our internal testing suggests that we don’t need a lot.

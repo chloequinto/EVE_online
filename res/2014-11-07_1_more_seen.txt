@@ -1,7 +1,0 @@
-ICONIC ICONS
-Last but not least, we’ve completely re-done all window icons. The brightest reflection of this change is to be witnessed in the Neocom. We are introducing a whole new set of modern, monochrome, clear cut icons. I’m going to go ahead and predict that some of you are already thinking; “Strip all color! Are you insane?”. Although I can neither confirm nor deny any claims of insanity, I can assure you that once you’ve learned the new icons (which takes practically no time at all) you’ll be opening windows faster than ever before. As a matter of fact, it has been scientifically proven that stripping color away from such icons reduces search time, as it allows your brain to focus purely on form. It’s a “try it to believe it” kind of thing. I was skeptical at first too.
-
-
-(click to enlarge)
-
-The above example is to show the normal state and hover state of the new Neocom icons. The shapes of the new icons are all very much on the operating table still but we wanted to get some version of them on SiSi to start having a conversation with you on their shape and style. We recognize that the old icons have been part of the game from the beginning and have a special place in our hearts. We want to make sure they can be remembered and will make sure the collection will available to download as a .ZIP file after the update for those that want to own a piece of EVE UI history.

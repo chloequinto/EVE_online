@@ -1,2 +1,0 @@
-NEW REACTIONS RIGS
-Alongside the new Reactions Service Modules will be Reactions Rigs, designed to affect the duration and efficiency of running Reactions in the new Refineries. These rigs are size specific (either Medium or Large) and follow the same fitting rules as other Upwell Structure rigs. They will affect Efficiency (material efficiency of reactions) or Time (duration of reaction process). Medium Rigs will improve one variable and Large Rigs will improve both variables.

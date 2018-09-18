@@ -1,4 +1,0 @@
-INTRODUCING ESI - A NEW API FOR EVE ONLINE
-Note: this devblog is primarily intended for third party developers and technically minded capsuleers. If you'd like to skip over the jargon, scroll to the bottom to find the TL;DR.
-
-Team Tech Co. here! We'd like to have a big ol' chat with you about Making APIs Great Again!

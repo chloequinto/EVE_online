@@ -1,0 +1,19 @@
+STRUCTURE BONUSES AND SKILLS
+In the same fashion that a Caldari Raven battleship doesn’t have the same role than a Scorpion, not all structures are going to be alike. Structures will focus on different themes, each having specific strengths and weaknesses. Citadels focus on defense, logistics, and office capabilities, which make them naturally good as staging points. Other structures we will introduce with time will tackle other fields like industry, resource harvesting, propaganda, intelligence or even long distance movement.
+What that means in practice is that, while most of the various structure rigs and modules that are going to be available can be fitted into any type of hull, some will be better suited than others at a specific task. For instance, while a Fortizar (large Citadel) could be fitted with manufacturing service module and rigs, it will not offer as good Material Efficiency and Time Efficiency rates as a dedicated Assembly Array structure fitted on the same fashion.
+This specialization will be achieved through the use of specific bonuses available on each of the new hulls.
+For Citadels, these will be:
+25% bonus to all Citadel rig strength
+25% reduction to all Citadel service fuel costs
+25% bonus to all Structure Missile Launcher damage
+Unlike ships, these bonuses are fixed and not dependent on character skill level. In fact, no existing skill will affect any of the structure hulls, modules or rigs. That means Engineering will not increase powergrid on any of the new Citadels for instance, and that none of the missile support skills will function for the structure missile launchers.
+This decision was made on purpose to:
+Prevent some poor soul from having to stay forever locked inside a Citadel to provide skill-level related bonuses
+Narrow the gap between new players and veterans in terms of skill proficiency when assuming direct control of the new structures. We want all players to be able to competitively participate, not require dedicated alternate accounts
+We are still going to require a few skills to operate the structures and give few bonuses, but their effects will be limited for the reasons mentioned above.
+Structure Missile Systems: increases damage by 2% of all Structure Missile Launchers per level
+Structure Defensive Systems: reduces capacitor need of all structure defensive modules by 2% per level (not listing specific modules here since most of them won’t make it in the first Citadel release)
+Structure Electronic Systems: reduces capacitor need of Electronic Warfare, ship tractor beam, and bumping modules by 2% per level
+Structure Engineering Systems: reduces capacitor need of the Doomsday Device and Capacitor Warfare modules by 2% per level
+All of these skills have rank 2, train with Charisma and Willpower, and have very low skill requirements.
+Please note the Starbase Defense Management skill will stay untouched until we remove Starbases, at which point it will either be repurposed or reimbursed.

@@ -1,0 +1,4 @@
+MULTIPLE INVENTION RUNS
+Since the Crius release in July, invention only consumes one blueprint copy run at a time. As such we are adding the possibility for Phoebe to queue those runs on a similar manner with Manufacturing runs.
+We will keep a close eye on the effect of this change on the game, and we may tweak blueprint job times if the need arises.
+Below is the updated UI of the invention window:

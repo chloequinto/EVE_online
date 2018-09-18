@@ -1,2 +1,0 @@
-SMARTER NPCS IN FACTIONAL WARFARE
-Some tweaks are coming to Factional Warfare complexes so that NPCs will arrive repeatedly in an attempt to defend their base and will now behave a bit differently than before. Additionally the usage of cloaking devices has been prevented within 30 km of the capture points. You can read more detailed information here: //forums.eveonline.com/default.aspx?g=posts&t=343137

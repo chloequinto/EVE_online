@@ -1,8 +1,0 @@
-LOOKING TO THE FUTURE: ENCOUNTER SURVEILLANCE SYSTEM CHANGES
-
-
-Another area where we see great potential for improvement is with the Encounter Surveillance System. This mobile deployable structure was introduced in Rubicon 1.1 as a way for Sov owners to increase their profits if they are willing to add risk of theft. They are still seeing some use, however we believe they can do much better. The basic concept is strong, but they are in need of iteration.
-
-We are investigating an update pass on the ESS in which we would simplify its operation by converting it to use the Entosis Link for sharing and stealing, restrict its deployment locations somewhat, and increase the potential value to match the higher risk. The ESS has great potential for allowing Sov holders to choose the level of risk they are comfortable with and receive rewards that match. A revamped ESS also has potential to provide excellent content for roaming PVP forces as well.
-
-Expect to hear more about potential ESS changes in the coming months, as we continue our investigations and solicit your feedback.

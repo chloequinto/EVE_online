@@ -1,0 +1,5 @@
+FITTING CHARGES
+Once you have fitted a module that uses any type of charge, a filtering button for that module type will be added in the charge section of the Hardware tab. Activating that filter will display only charges that fit in that module. There are a few ways you can fit charges:
+With the module filter activated, double click a charge in the charge browser to load it into all the modules of that type
+Drag a charge to the center of the fitting window, and it will be loaded into any of the modules that can use that charge.
+If you prefer to add charges to only one of the modules fitted, you can drop a charge onto that module slot.

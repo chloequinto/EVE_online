@@ -1,6 +1,0 @@
-BALANCE BETWEEN SIZES OF DRONES
-Travel time is a constant issue for combat drones, as the delay between ordering your drones to attack and their arrival at their target often cripples the effectiveness of drones over moderate ranges. This is also one of the major reasons that Heavy Drones have trouble competing with the stationary Sentry Drones.
-
-Currently each size of combat drones (Light, Medium and Heavy) has only half the MWD approach velocity of the size below it. This means that Heavy Drones take 4x as long to get to their targets as Light Drones do.
-
-In the Summer 2014 expansion, we will be changing the scaling so that each size of combat drones has 60% of the MWD speed of the size below it. This equals a 20% increase to the MWD speed of Medium Drones, and a 43% increase in Heavy Drone MWD speed. These increases only effect the MWD speed of the drones, so they will reach their distant targets faster but they may still struggle to keep up with a fast moving target, as intended.

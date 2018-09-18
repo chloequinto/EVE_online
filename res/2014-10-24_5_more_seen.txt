@@ -1,2 +1,0 @@
-UI CHANGES
-Trial accounts will now see more information relating to their trial status in a number of places in the UI. This includes clearly indicating trial restrictions in the UI and giving players a more direct way to get to Account Management (actually a streamlined subscription page) from the client.

@@ -1,0 +1,25 @@
+UPDATE:
+Based on feedback and further tweaking, we've made the following changes to some modules. These changes are listed below, and take precedence over the statistics above.
+Capacitor Power Relays
+NameCPUShield Boost Bonus (%)Capacitor Recharge Rate Bonus (%)
+Type-D Restrained Capacitor Power Relay4-822
+Mark I Compact Capacitor Power Relay2-1022
+Type-D Restrained Capacitor Power Relay – Shield Boost penalty decreased from -10% to -8%
+Mark I Compact Capacitor Power Relay – Shield Boost penalty decreased from -8% to -10%
+The Shield Boost Bonus error has been fixed. Type-D and Mark I modules had the value reversed.
+Expanded Cargoholds
+NameStructure Hitpoint Bonus (%)Cargo Capacity Bonus (%)Velocity Modifier (%)
+Civilian Expanded Cargohold-3010-20
+Expanded Cargohold I-2017.50-15
+Type-D Restrained Expanded Cargo-1522.50-13
+Expanded Cargohold II-2327.50-18
+'Basic' Expanded Cargohold-517.50-20
+Expanded Cargohold I – Structure Hitpoint penalty reduced from -25% to -20%
+Expanded Cargohold II – Structure Hitpoint penalty increased from 20% to -23%, Velocity modifier increased from -10% to -18%
+These three changes should bring the T1 and T2 Expanded Cargoholds better in line with other module types, with the T2 version of a module giving the best performance but with higher drawbacks than T1.
+'Basic' Expanded Cargohold – Structure Hitpoint penalty reduced from -10% to -5%. This should allow players who care more about keeping as much structure hitpoint as possible an attractive option, at the cost of cargo capacity.
+Inertial Stabilizers
+Inertial Stabilizers are now consistently named Inertial Stabilizers instead of some being Inertia Stabilizers and some Inertial Stabilizers.
+NameSignature Radius Bonus (%)Inertia Modifier (%)
+Type-D Restrained Inertial Stabilizers8-18.50
+Type-D Restrained Inertial Stabilizers – Signature Radius penalty decreased from 9% to 8%

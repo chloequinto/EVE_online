@@ -1,4 +1,0 @@
-THE OLD PROBLEM
-The fundamental question of any CGI programmer is: “What color is a given pixel on screen?” The more accurately the programmer answers that question, the higher the quality of the final picture. The essential tools for coming up with an accurate answer are of course real world physics and math. However, finding an exact formula that describes how the real world around us looks is impossible--at least with our current understanding of nature.
-
-So what do we do in CGI? We simplify! And we have to because, at least in computer games, the images we need to calculate must be delivered in real time to fervent players desperately eager to watch “realistically” imaged spaceships explode. In such an environment, we must simplify for efficiency while maintaining as much of the realistic math as possible.

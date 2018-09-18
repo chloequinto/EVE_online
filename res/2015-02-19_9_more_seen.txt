@@ -1,7 +1,0 @@
-OPPORTUNITIES ABOUND
-
-The core system we are using to drive the NPE is called ‘Opportunities’. Aura (we decided to keep her around) will introduce new players to opportunities in New Eden that they can investigate and complete. Each Opportunity consists of a set of tasks which must be completed to finish the Opportunity. Each task will have some explanation of how it can be completed. Simple.
-
-
-
-There’s a couple very important principles in this system that we are working hard to preserve that I want to go over quickly:

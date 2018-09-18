@@ -1,0 +1,4 @@
+WARP SPEEDS
+Another set of balance changes that we’ve been working on alongside feedback from the community and CSM is a set of tweaks to warp speed for battlecruisers and warp rigs.
+In Mosaic we are increasing the warp speed and acceleration of all Battlecruisers by 8% to bring them in line with the rest of the ship size progression. We are also making a change to the penalties of warp rigs that will hopefully make them much more attractive to pilots who highly value the warp speed of their vessels. All warp rigs will now have a penalty to signature radius, instead of the old penalty to CPU capacity.
+You can find all the details and discussion of these changes in this thread.

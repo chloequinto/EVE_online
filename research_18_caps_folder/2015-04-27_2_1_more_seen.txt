@@ -1,0 +1,2 @@
+CLOSING THE GARAGE DOOR
+One final balance change that Team Five 0 has sourced from your feedback for Mosaic relates to the tactic known as “garage door cynos”. This tactic was taking advantage of starbase shield mechanics to provide for extremely safe movement of supercapital ships. After discussion internally and incorporating your feedback, we’ve decided to make changes that prevent this mechanic from allowing such safe travel. All the details and feedback can be found in this Features and Ideas thread.

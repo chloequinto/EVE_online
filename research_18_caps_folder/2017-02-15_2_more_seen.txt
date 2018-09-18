@@ -1,0 +1,60 @@
+SHOW ME THE CODE
+I had a hunch that killing tasklets might be a factor in this, but I couldn't see anything wrong with the code around that. Nevertheless, I couldn't convince myself that the reference counting of the channel was correct, so I decided to clean up the code a bit. It felt awkward how it was done.
+PyObject* Synchro::SleepWallclock(int ms, const int64_t &due)
+{
+    Sleeper sl;
+    sl.channel = PyChannel_New(NULL);
+    if (!sl.channel)
+        return 0;
+    PyChannel_SetPreference(sl.channel, 0); //just make runnable on wakeup
+    sl.due = due;
+    mWallclockSleepers.Insert(sl);
+    // Go to sleep and wake up! *(the sender releases the channel)
+    PyObject *ret = PyChannel_Receive(sl.channel);
+    if (!ret) {
+        //we were killed, so lets try and find us in the queue, to release resources.
+        RemoveSleeper( mWallclockSleepers, sl );
+    }
+    return ret;
+}
+The SleepWallclock function creates the channel, stores it in the Sleeper object, puts the Sleeper object in the heap and calls receive on the channel. The receive call returns after Synchro::Tick has called send on the channel. That unblocks it, causing it to be scheduled. The tasklet could also be killed, in which case receive returns a nullptr. Let's take a look at a snippet from Synchro::Tick:
+//gather sleepers for wakeup
+std::vector sleepers;
+while (mWallclockSleepers.size()) {
+    if (mWallclockSleepers.front().due > now)
+        break;
+    sleepers.push_back(mWallclockSleepers.Shift());
+}
+if (sleepers.size()) {
+    Be::Time nnow = BeOS->GetActualTime();
+    for(unsigned int i = 0; i < sleepers.size(); i++) {
+        Sleeper &s = sleepers[i];
+        if (PyChannel_GetBalance(s.channel)) {
+            int res = PyChannel_Send(s.channel, Py_None);
+            if (res)
+                PyOS->PyError();
+        }
+        Py_DECREF(s.channel);
+    }
+}
+This all looks correct - the channel could not pulled out from under the tasklet until after the Send call. What happens when a tasklet is killed?
+void Synchro::RemoveSleeper( Heap &sleepers, Sleeper &sl )
+{
+    SleeperIt it;
+    for( it = sleepers.begin(); it != sleepers.end(); ++it )
+    {
+        if( it->channel == sl.channel )
+        {
+            break;
+        }
+    }
+    if( it != sleepers.end() )
+    {
+        //Ok found us.  Let's delete us.
+        sleepers.Remove( it );
+        Py_DECREF( sl.channel );
+    }
+}
+Again, it all looks alright - the tasklet is removed from the heap and the channel is released. Note that it is not an error if the tasklet can't be found on the heap - it could have woken up and been scheduled on the same tick as it is being killed, but in that case the channel will have been released in Tick.
+Let's examine this a bit further, though. Keep in mind that Py_DECREF frees the memory if the reference count goes to zero. The PyChannel_New call in SleepWallclock returns a PyChannelObject with a reference count of one. There are no references added, so the channel object is deleted in Tick when it calls Py_DECREF.  This should be fine, as there are no references to the channel in SleepWallclock after the receive call. Except...
+In RemoveSleeper, which is called after a tasklet has been killed we're comparing channel objects. There should always be a one-to-one correspondence with tasklets and channels so we're effectively looking for a tasklet here, but since we needed to keep track of channels to wake them up, we just use the channels. I added a reference to the tasklet in the Sleeper object so that I could verify it here, and lo and behold, when running the scripts from CCP karkur I got a discrepancy - a tasklet was determined to be in the heap based on the channel, but the tasklet didn't match.

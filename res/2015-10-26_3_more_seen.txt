@@ -1,8 +1,0 @@
-SERVICE MODULES
-Service modules are more similar to structure hulls than the other modules. While they do not require Structure Components to build, they do require a mix of PI materials, minerals and the new structure fuel block.
-
-
-
-
-
-Again, this is not the exhaustive list of all service modules that are planned for structures, but just the first batch.

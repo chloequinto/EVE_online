@@ -1,0 +1,3 @@
+MARKET
+The Market will display restrictions on ships and items which cannot be used during the trial. Players will still be able to purchase and move these items as normal.
+Market

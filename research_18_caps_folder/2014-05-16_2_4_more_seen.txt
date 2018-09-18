@@ -1,0 +1,6 @@
+RIGS FOR FREIGHTERS AND UPDATED DEEP SPACE TRANSPORTS AND BLOCKADE RUNNERS
+To make the Deep Space Transports and the Blockade Runners even more viable in their roles as 'behind enemy lines space haulers, their roles have been revisited.
+Read about the Deep Space Transports here: //forums.eveonline.com/default.aspx?g=posts&t=345284
+Read more about the Blockade Runners here: //forums.eveonline.com/default.aspx?g=posts&t=345277
+Additionally you will now be able to customize your Freighter with rigs, thus allowing it to carry more, align faster or warp more quickly through space.
+Update: We have revised the approach to the Freighters and Jump Freighters. Those ship classes will be getting Low powered module slots, not Rig slots. Make sure to read the update here: //forums.eveonline.com/default.aspx?g=posts&t=345280

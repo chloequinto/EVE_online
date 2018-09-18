@@ -1,7 +1,0 @@
-FLYING COLORS
-Black on black has its charm, but we were quite interested in unlocking more color themes that actually made visual sense. For that to happen, we’ve completely redefined, simplified and clarified how UI color is selected and applied. First off, you have the base color, which is applied to the window backgrounds and secondly you have a highlight color that is applied to intractable elements, such as buttons, checkboxes, as well as being used to colorize the glow of iconic buttons, such as the ones in the Neocom. We’ve completely redone the color themes, limiting the base colors to dark tones while allowing the highlight ones to shine a bit brighter. Simple theme selection will be replacing the old RGB sliders and dropdowns.
-
-
-(click to enlarge)
-
-The above example is just a preview of the current themes we are exploring but the main idea is to have themes that fit for all the major factions so that you can immerse yourself into the branded interface that fits your ship or your preferred faction. Let us know what your preferred colors and factions are.

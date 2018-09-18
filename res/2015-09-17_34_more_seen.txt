@@ -1,4 +1,0 @@
-STRUCTURE HP NUMBERS
-As further iteration from the previous attack mechanic, we would like structure assaults to take around 30 minutes to complete, no matter where the structure is deployed. This ensures a unified experience and prevents confusion as a whole.
-
-Based on the damage mitigation numbers above, we end up with the following HP and resistance profiles for Citadels:

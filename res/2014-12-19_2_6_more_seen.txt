@@ -1,2 +1,0 @@
-NEW FEATURES FOR THE BETA STARMAP
-The new star map released as an opt-in feature in Rhea will see several updates. Additions likely to make it into the Proteus release are things like a standalone system view, probe scanning support, directional scanning cone visualized in the system view and mouse-over information on stars, planets and moons.

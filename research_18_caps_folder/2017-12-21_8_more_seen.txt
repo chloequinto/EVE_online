@@ -1,0 +1,36 @@
+THE JOURNAL
+The Journal is a bit of a different beast, and has served as an outlet for a lot of in game content over the years.  We wanted to make sure that we kept our efforts focused while overhauling it, so we hooked up some metric tracking to the Journal window.
+As it currently stands on TQ we have the following tabs in the journal and the % of how often they are opened compared to all windows in EVE:
+Agents – 10%
+Expeditions – 5%
+Contracts - 0.84%
+Planetary Launches – 0.26%
+Epic Journal – 0.25 %
+Incursions – 0.5%
+None of the numbers were too surprising. Some of the only access or information about these features is in the Journal or through external 3rd party information.
+So, with these numbers in mind we started looking at what we could do to better represent this information or make it more discoverable.
+Let’s run through the above tabs and break down what we will be doing for January
+Agents:
+This tab will remain untouched in the January release. We feel the amount of people currently using it means we should leave this as it is for the time being.
+Expeditions:
+These will be moving over to the Agency where you will be able to track your expeditions. To see your current Expeditions just open the Agency and select either the Suggested tab or filter for combat sites and remember to adjust the distance.
+Contracts:
+This tab is going to be removed and the contracts window should be able to handle everything this tab does.
+For this to work we are adding a "Requires Attention" filter to the "Status" dropdown in the "My Contracts" tab of the "Contracts" window.
+Clicking any of the Contracts window front page messages like "You have x contracts that require attention" or "Your corp has y contracts in progress" will now take you to the "My Contracts" tab within the "Contracts" window.
+We are also reorganizing the order of the buttons in this window to make more sense. Contract Type will now be the first dropdown box in the "My Contracts" tab.
+Planetary Launches:
+The "Planetary Launches" tab will be moved to become a new tab in the "Planetary Colonies" window. Functionally this tab and window will remain the same and PI interaction will now be accessed in one location.
+Epic Journal:
+The Epic Journal will be removed completely and will be handled entirely by the Agency. See The Agency updates above for more information and pictures.
+Incursions:
+We are also moving almost all the Incursion tab to the Agency, however we have not found a good home for the loyalty point log, so with the January release we will keep this in the Journal and everything else will move to The Agency.
+We would like to know what you use the Loyalty Point Log for, so please provide us some feedback in the comments thread for this devblog. For Example: Do you only use this to see your current pool of LP?
+Agent Finder
+In addition to all these changes, we are removing the Agent Finder as it is currently known.
+With the introduction of The Agency, we effectively introduced a new Agent Finder and we felt this was an opportunity to encourage people to use The Agency, while simplifying the process of finding an Agent to work with.
+If you filter the Agency to "Specify" for "Agents" you will basically get all the filters that were in the Agent Finder.
+All pictures included in this dev blog are works in progress and subject to change.
+Thanks for reading! All these changes are currently available on our test server, Singularity, and we look forward to hearing your thoughts and feedback.
+Team Psycho Sisters
+alt

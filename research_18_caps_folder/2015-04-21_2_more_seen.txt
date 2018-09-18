@@ -1,0 +1,6 @@
+CONVERSION LIST
+The following existing ships will be converted to the new SKIN system:
+ClassRaceExisting ItemNew SkinPrice / AquisitionPreview
+As an addendum, there are a few ships we would like to convert over in the future, and will be doing so in subsequent releases.
+The Rattlesnake Victory Edition has some technical issues with the underlying model, but once those are sorted it will be converted to a SKIN.
+The Capsule - Genolution 'Auroral' 197-variant is currently created from an implant (Genolution 'Auroral' AU-79) in a very specific and roundabout way. This will be removed in the future in favor of standardizing it with the rest of the ships as a capsule SKIN.

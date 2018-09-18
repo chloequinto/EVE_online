@@ -1,0 +1,24 @@
+THE THREE PILLARS OF MINING FOREMAN GAMEPLAY
+In order to provide the best experience for mining operations large and small, we knew that there was a set of three key roles that each mining foreman ship would need to fulfil simultaneously. In the existing system, only the first role was being achieved to a satisfactory level and achieving these roles has been at the core of our work on this new system. Those of you who have watched our Fanfest presentations, tuned in for The o7 Show or discussed these issues with us on the forums and at meetups will recognize these three pillars as we’ve been talking about them for quite some time to gather community feedback.
+Mining Foreman Pillar #1: Help fleetmates mine more effectively
+This is the most obvious pillar of mining foreman gameplay and it’s the only pillar that is currently being met to a significant degree. In the new system we are converting the existing mining fleet boosting gameplay over to the new AoE “Command Burst” system described in the previous blog.
+Each of the mining foreman ships share the same core tools for helping other players mine more effectively, with improved bonuses across the progression as investment increases:
+Mining Foreman Bursts, which provide timed bonuses to mining speed, mining range, and crystal durability to all fleetmates within the area of effect
+Long-range survey scanners that allow the mining foreman ships to effectively coordinate their mining operations and provide valuable intel to allies miners
+Range and speed boosted tractor beams to collect containers of ore from around the asteroid belt
+Large ore holds and fleet hangars to effectively store and move the ore collected during their operation
+The Orca and Rorqual also have ship maintenance bays that allow their allies to refit and even switch ships in space
+Mining Foreman Pillar #2: Defend the mining operation
+Mining operations can find themselves under threat by a number of sources, from NPC pirates to other players. Although some mining ships can already do an amazing job of defending themselves (most notably the Procurer and Skiff), we want to ensure that mining foreman ships all have their own teeth to serve as the protector of their mining operation. This defense functionality takes a few forms:
+All mining foreman ships will have drone damage bonuses which give them the offensive capability to kill NPCs and make capsuleer attackers think twice before engaging
+All mining foreman ships also get bonuses to remote shield boosting which allow them to heal the members of their mining operation
+The Orca and Rorqual gain bonuses to Shield Command Burst modules (in addition to their Mining Foreman Burst bonuses) which make them well suited to increasing the shield defenses of their fleetmates
+The Rorqual has the ability to use a unique defensive superweapon called the Pulse Activated Nexus Invulnerability Core, giving it the option of making itself and its mining operation invulnerable and immobile for between 5 and 7.5 minutes
+Mining Foreman Pillar #3: Contribute with powerful mining drones
+The third pillar is the biggest change from the existing mining foreman gameplay, and the #1 request we’ve been hearing from the community on this topic over the past few years. All mining foreman ships should have their own mining ability to allow them to contribute directly to the results of their mining operation, and give them productive gameplay in between their other tasks.
+We decided early on that mining drones would be a better fit than mining lasers for achieving this pillar, as these mining foreman ships would already have plenty of other things competing for highslot space.
+To aid with this pillar, we are fleshing out the mining drone skills and progression in November. More details about those mining drone changes can be found later in this blog.
+When equipped with mining drones these ships will all provide significant mining yield, with improved mining rates coming from the larger ships.
+Thanks to the new Excavator mining drones, the Rorqual will become the most powerful mining ship in the game even without the use of the Industrial Core. With the Industrial Core active it will be in a league of its own, essentially a one-ship mining operation.
+These three pillars are visible in each of the mining foreman ships, giving players the option of choosing whichever ship best matches the needs of their particular mining operations.
+We’ll dive into the details about any ships soon, but first let’s go over the specifics of the new Mining Foreman Bursts and the revamped mining drones that will be used by all three ships.

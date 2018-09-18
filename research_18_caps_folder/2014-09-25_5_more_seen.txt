@@ -1,0 +1,33 @@
+CPU
+Duration
+Scan Range
+Meta Level
+Cargo Scanner I
+4
+4
+5000
+50000
+0
+Enduring Cargo Scanner
+3
+4
+3500
+55000
+1
+Scoped Cargo Scanner
+4
+4
+4000
+65000
+1
+Cargo Scanner II
+4
+5
+3000
+70000
+5
+Ship Scanners
+For Ship Scanners, duration and range are also important, but the difference between Tech I and Tech II is less pronounced than for Cargo Scanners so making variations on those stats doesn’t make sense. However, fitting variation is much more viable due to higher CPU requirements. So we’re going for one named module, called Compact Ship Scanner, focused on reduced fitting requirements.
+Ship Scanners also have scan falloff, as ship scanning results are not binary as they are for Cargo Scanners. The named variation goes for a scan falloff in between Tech I and Tech II.
+No changes are being made to the Tech I and Tech II versions.
+Type Name

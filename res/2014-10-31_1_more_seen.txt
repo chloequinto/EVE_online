@@ -1,2 +1,0 @@
-SHORTCUT FOR DIRECTIONAL SCANNER
-We have added a shortcut to directly open the Directional Scanner.

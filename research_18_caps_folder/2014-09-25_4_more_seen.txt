@@ -1,0 +1,27 @@
+CPU
+Duration
+Scan Falloff
+Scan Range
+Meta Level
+Ship Scanner I
+15
+2000
+30000
+50000
+0
+Compact Ship Scanner
+11
+1800
+33000
+55000
+1
+Ship Scanner II
+17
+1500
+36000
+60000
+5
+Survey Scanners
+For Survey Scanners, the only thing that really matters there is the range. So we’re going for one named variation, focused on range and called Scoped Survey Scanner.
+No changes are being made to the Tech I and Tech II versions.
+Type Name

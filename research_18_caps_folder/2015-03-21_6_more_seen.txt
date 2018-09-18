@@ -1,0 +1,24 @@
+C.     MARKET AND OFFICE HUBS
+Heavily focused toward trade and serve as the primary home for social groups. More on that further below.
+Service modules possibilities: market, corporation offices, player to player cloning services, ship insurance service defined by corporation (to aid with ship replacement programs), character customization. They will also take over the role of Customs Offices, if placed near planets. Finally, we are considering adding Interbus Shipping abilities, which could reduce logistic hassle for small volume of items to fit a ship, but at a specific cost: a NPC convoy would spawn and manually move to the destination, being highly susceptible to disruption from other player groups. We are also considering giving those a tax advantage next to NPC stations (either by increasing NPC taxes or having tax reductions on the player-made variations).
+Rigs possibilities: Anything increasing office, jump clone capabilities or what’s mentioned above. We also are discussing giving increased range to fit ships around the structure without having to dock, allow drones, fighter and fighter-bombers to be automatically recovered in case of connection loss or provide increased safety for stored items should the structure be destroyed.
+D.     Drilling platforms
+Focused on resource harvesting as a whole.
+Service module possibilities: Reprocessing, moon harvesting, reactions, mining, gas harvesting. We also are considering new harvesting gameplay mechanics. We could for instance have pollution gas clouds form around drilling structures that see high activity, or seed small planetoids in specific asteroid belts and scanable sites which require a drilling platform to break it down in smaller harvestable rocks.
+Rigs possibilities: Anything that improves reprocessing, moon harvesting, reaction, tractor beam range effectiveness.
+E.      Observatory arrays
+Dedicated to intelligence gathering.
+Service module possibilities: Being able to increase, decrease or block Star Map filters in the solar systems they’re deployed, act as solar system wide D-scan blockers, disrupt ship intelligence in the solar system, take over player tracking capabilities from NPC agents or be able to affect or pinpoint cloak users. We are considering basing their effectiveness through a network coverage (like cell phones) so that a single one may not be that useful, but maintaining a bunch of them in space could give a significant advantage.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+F.      Gates
+Structures specialized toward movement in general.
+Service module possibilities: Being able to affect warp speed in a solar system (positively or negatively), affect jump capabilities for capitals, alter ship movement inside a solar system, allow vessels to travel to other solar systems and modify wormhole spawning behavior.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+G.     Administration Hubs
+Structures affecting solar system control and ownership as a whole.
+Service module possibilities: territorial Sovereignty flag, modifiers to change the security status of a solar system, to change NPC agents spread in the solar system, to switch NPC faction control or NPC security forces.
+Rigs possibilities: anything affecting the duration or effectiveness of what’s mentioned above.
+H.     Advertisement Centers
+Structures mainly aimed toward propaganda spreading.
+Service module possibilities: Text advertisement, billboard replacement, being used as gigantic monuments with no purpose (except to show how big your e-peen is by showing the statue of your glorious alliance leader). Could also involve frozen corpses somehow.
+Rigs** possibilities**: Anything affecting what’s above.

@@ -1,0 +1,5 @@
+TRANSITION PLAN
+It is obvious such changes will not come in one release, nor that we are going to alter or remove existing structures without prior and sufficient warning.
+As such our plan is to:
+Progressively cut functionalities from existing structures. This would match new structures arrival that provide an overlapping gameplay. For instance, deploying the new Assembly Arrays would cause existing Starbases and Outposts to lose their manufacturing bonuses at first, then their manufacturing capability.
+Give ample time for players to evacuate their assets from existing structures and adapt to the changes.

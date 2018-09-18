@@ -1,0 +1,10 @@
+TL:DR
+Hey there. If you took the option of skipping here from the beginning, I’d like to welcome you to the end of the blog! If you have the time later I highly recommend reading the rest at your leisure.
+The short version of all this is:
+In the November expansion mining support gameplay is getting a huge revamp
+Fleet boosts (including mining boosts) are becoming AoE buffs that only work on-grid
+There’ll be three mining foreman ships: the new inexpensive Porpoise, a buffed Orca and a buffed Rorqual
+Each Mining Foreman Ship will be able to fulfill three roles at once:
+Help fleetmates mine more effectively
+Defend the mining operation
+Contribute with powerful mining drones

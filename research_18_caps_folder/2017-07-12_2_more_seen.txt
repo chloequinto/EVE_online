@@ -1,0 +1,5 @@
+WHAT ABOUT ALL THE APPAREL I OWN?
+While captain’s quarters will be removed from New Eden with the August release, the ability to view your avatar in 3D will remain in place through the show info window on characters.
+You’ll also still be able to customize the look of your avatar through the station services panel the same as you can do right now.
+All the apparel that you currently own will still be available to you and will remain usable as it currently is now so that you can show it off to other pilots.
+There are no plans on the roadmap right now to expand on the locations within the client where your avatar will be viewable to others, however given that the character creation system and the avatar system remains untouched by the removal of the captain’s quarters environments and is regularly maintained as part of the new player experience, there is the potential possibility for this in future.

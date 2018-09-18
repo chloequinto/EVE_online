@@ -1,0 +1,6 @@
+7.     MANAGEMENT
+Proper management is a priority as well, and we have given some thought on improving corporation assets and how to interact with them.
+Players with sufficient roles would no longer need to travel to individual structures to configure them
+Preset configuration profiles could be applied to multiple structures at once
+Various assets would show proper states, location and conditions at first glance
+Roles could be applied in a mail recipient fashion, where the manager only has to type names of players or groups he wishes to configure instead of scrolling through a raw table of entries.

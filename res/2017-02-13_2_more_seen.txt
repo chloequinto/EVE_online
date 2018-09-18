@@ -1,2 +1,0 @@
-WHEN WILL THE FOLLOWING CHANGES BE AVAILABLE?
-The changes will be on a test server at the end of February and releasing with the March release.

@@ -1,0 +1,9 @@
+SUPPORTING CHANGES
+We are making one other very important change to the way Alpha Clones work in this release to support the expanded skill set: Free Alpha Skill Training will stop when a character reaches 5 million total skill points.
+Training after 5 million skill points works normally, that is, you can train skills with Omega time or Skill Injectors. Any skills you’ve previously trained which fall under the Alpha set can be used at any time, regardless of Clone State. It looks like this:
+As we looked at adding more skills to the Alpha set we realized that bringing along free passive training up to the new Alpha cap, like we did the first time around, would cause problems. The more free training we give away the less valuable skill points become, which is not good for existing players, scary for CCP, and inevitably harmful to game balance and the game economy.
+By stopping training below the current skill extraction limit, skill points keep their value and new players can invest in them at their own pace without being required to subscribe every month to use the skills they’ve already trained.
+And that’s it for today! Look below for the complete list of new skills and please let us know if you think it’s missing something or if there’s something that doesn’t belong!
+Thanks for reading,
+Fly Free
+Team Size Matters

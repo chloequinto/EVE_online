@@ -1,0 +1,32 @@
+G
+r
+e
+e
+t
+i
+n
+g
+s
+c
+a
+p
+s
+u
+l
+e
+e
+r
+s
+!
+This is CCP Fozzie bringing you the long-awaited details of the second Tactical Destroyer coming your way this February in the Tiamat release.
+For anyone who isn’t familiar with the Tactical Destroyers, they are new advanced ships created by the four great Empires of New Eden with the help of capsuleers like you! Last October we ran an event that encouraged players to participate in new research on the mysterious Sleepers of Anoikis. Players could choose whether they wanted to support one or more of the empires (or if they’d prefer to work towards their own ends) and the relative amount of support each empire received determined how quickly they would be able to release their new ships.
+The supporters of the Amarr Empire were the most dedicated and thanks to their hard work the Empire’s shipyards were able to release the Confessor-class Tactical Destroyer to capsuleers in December with the Rhea release.
+We have been very happy with how the Confessor and the new Tactical Destroyer mechanics have been received by players. Industrialists and wormhole resource harvesters have been able to make huge profits off the new technology and there are numerous great examples of skilled pilots demonstrating their mastery with this flexible ship. PVP live streamers like Fintarue and video makers like Chessur have demonstrated particularly impressive performances.
+The Minmatar Republic came second in the Research Race, and their engineers are getting close to having a production-ready Tactical Destroyer of their own. The Minmatar Tactical Destroyer is known as the Svipul (properly pronounciated by CCP Scarpia), and it represents many of the best aspects of Minmatar engineering.
+Wielding six turret slots bonused for projectile weaponry, the Svipul is deadly with artillery and autocannons alike. It also makes excellent use of the trademark Minmatar versatility, gaining bonuses to both armor and shield resistances while Defensive Mode is active. Although its lower mass makes it a bit less suited to oversized afterburners compared to its Amarr contemporary, the Svipul is the fastest of all the Tactical Destroyers and can use that speed to pick apart unwary enemy fleets.
+However I think we all know the real question on every reader’s lips is “How vertical is it?” and that is a question best answered with a picture (the following is a work in progress image of an untextured model):
+[![](//content.eveonline.com/www/newssystem/media/66828/1/Svipul550.jpg)](//content.eveonline.com/www/newssystem/media/66828/1/Svipul.jpg)
+(click to enlarge)
+(click to enlarge)
+Like the Confessor before it, the Svipul has three modes with distinct physical configurations and bonuses. Unlike the Confessor, the Svipul actually pivots on an internal axis to present a horizontal profile in Propulsion Mode and a vertical profile in the default Defense Mode as well as Sharpshooter Mode.
+Although the mode archetypes (Defense, Sharpshooter, Propulsion) are the same on all the Tactical Destroyers, the specific bonuses given by those modes are adapted by each Empire to fit their own needs. The stats and bonuses of the Svipul are:

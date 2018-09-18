@@ -1,0 +1,11 @@
+USD
+5
+10
+15
+20
+Aurum price changes
+Number of Aurum
+750
+1750
+3000
+4500

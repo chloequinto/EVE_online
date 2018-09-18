@@ -1,6 +1,0 @@
-SAFETY IN THE STORM: ASSET SAFETY AND INDUSTRY JOBS
-
-
-As mentioned earlier in the blog, asset safety works exactly the same in Engineering Complexes as it does in Citadels. In both types of structures this expansion will bring the first interaction between asset safety and industry jobs.
-
-When a structure triggers asset safety (usually by blowing up) while a manufacturing or science job is in progress, any BPOs involved in the job will be sent to asset safety. The other materials that were a part of the job (including BPCs), as well as any completed but undelivered job outputs, will have a chance to drop into the structure wreck just like structure modules. Any delivered job outputs will be in the normal hangar locations and will enter asset safety as usual.

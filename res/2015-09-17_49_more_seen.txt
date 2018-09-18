@@ -1,8 +1,0 @@
-MEET THE NEW STRUCTURE ATTACK PROCESS
-With that in mind let’s have a look on how the new attack process is going to look like.
-
-
-
-We wanted to simplify it as much as possible next to the previous version. You will notice we merged the online and reinforced states altogether, which technically work the same way (the structure cannot be shot) – we also introduced the concept of a repair timer. More on that later.
-
-We also removed the concept of three vulnerability and reinforced states. Since structures can now be damaged through regular means, we are simply going to represent that by using structure shields, armor and hull, which is a much more visual and familiar way to represent structure attack phases.

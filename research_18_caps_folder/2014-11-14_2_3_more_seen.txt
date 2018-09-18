@@ -1,0 +1,2 @@
+IMPROVEMENTS TO MARKET SELL ORDER CREATION
+Following the original release of this feature in Phoebe, Rhea brings better feedback when dragging items to the sell window and a larger entry when selling single items.

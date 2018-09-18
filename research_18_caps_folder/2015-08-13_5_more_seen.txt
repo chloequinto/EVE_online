@@ -1,0 +1,13 @@
+XL
+High-sec, low-sec, Null-sec with full occupancy
+3 hours
+6 hours
+21 hours
+Wormhole space
+6 hours
+12 hours
+42 hours
+Null-sec without occupancy
+12 hours
+24 hours
+84 hours

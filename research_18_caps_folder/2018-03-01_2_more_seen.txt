@@ -1,0 +1,5 @@
+CHANGES TO ACCOUNT RESTRICTIONS FOR BOTTERS
+In addition to bans issued this month, we’ll also be increasing the level of account restriction that those who’ve been reprimanded for botting in the past will face going forward.
+Currently, accounts that have served temporary bans in the past are locked out from character transfers. While they can receive characters, they are not permitted to send characters to another account to prevent evasion of further reprimand.
+With the March release we’ll be extending restrictions so that these accounts will also be unable to extract skillpoints. This further reduces the ability of those who’ve previously breached our rules to be able to avoid further reprimand.
+This change comes off the back of discussion with the community and was suggested by pilots as a possibility for toughening the stance on those who chose to break our rules on input automation.

@@ -1,0 +1,2 @@
+NEW UI LOOK, WINDOW TRANSPARENCY OPTIONS AND INTERFACE ICONS
+The EVE Online UI gets a big update in Rhea to improve the user experience and make EVE look more modern with new Neocom and window and station service icons, new window skins and faction color themes, and new UI effects.. A number of options and settings will be available to customize the experience. Read more in this dev blog from CCP Optimal: A new look for EVE’s UI – feedback needed!

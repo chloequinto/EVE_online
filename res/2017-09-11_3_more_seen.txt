@@ -1,6 +1,0 @@
-+40 CPU
-+20k Lock Range
-Omen
-
-
-The Omen seems to come up a bit short on fitting and capacitor in many situations, even though the ship has a lot of potential. We're going to bump the fitting room up and give it a larger capacitor pool to give cap boosterless fits more time space to work with.

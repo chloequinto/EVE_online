@@ -1,0 +1,7 @@
+THE HARDCORE SCIENCE
+One of the most fruitful methods we have of finding exoplanets is transit photometry.
+This method uses long term measurements of the luminosity – or brightness – of a star. With these measurements, we can note systematic changes in apparent luminosity of the star which allows us to track celestial bodies in its orbit.
+This is where you guys start doing science!
+Pilots will be presented with light curves that belong to any one of the 160,000 stars that the CoRoT telescope is monitoring, and will be tasked with identifying transitional planets – planets that are passing between the star and Earth – by highlight drops in the star’s luminosity.
+To do this, pilots will be equipped with in game tools to filter out variations in the star’s luminosity that do not resemble transiting events, as well as a tool to confirm that these transits are regular and periodic.
+When our pilots have reached a consensus, the data will be transmitted to scientists from the University of Geneva, who will then study the results and confirm your findings.

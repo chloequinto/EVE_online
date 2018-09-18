@@ -1,0 +1,10 @@
+FRIDAY, FEBRUARY 26TH – UNEXPECTED DATABASE DOWNTIME
+At this stage we were preparing to go live and things looked good with AlwaysOn capabilities in place and old TQ stable after the DB upgrade, which we had expected after multiple prior upgrades.
+Confidence was high but at around 19:50 GMT we started seeing errors in our SQL log backups with so-called dirty pages accumulating in memory of the SQL server.
+After a quick look we decided to take down TQ at 20:15 GMT to prevent loss of data vs. trying a live fix. So now that the server was down we could investigate properly and collaborated with Microsoft Premier Support.
+We started a “Severity A” call with them and about 30 min later we had a senior SQL engineer on Skype in a screen share session which proved to be really fast debugging situation vs slow email / phone debugging.
+After a little while we heard him say “Ahh it’s EVE! I should get back into EVE!”--great to know a capsuleer was on the other line!
+He had a pretty cool method to safely flush these dirty pages from RAM to Disk so we could essentially get them backed up--basically reducing the allocated RAM in small increments to make the dirty pages decline slowly and allow backups to continue.
+Then to be absolutely sure, we wanted to make one full backup of TQ while TQ was still in VIP so it took quite some time, pushing VIP-mode lift to 23:50.
+The root cause was hinted to be around old replication features which should not have affected anything, but as it is so often in the IT business unexpected things pop up.
+Once we had the issue under control and our dirty pages in order, we had an intensive discussion back and forth on how best to proceed.  Least risk won out and we decided to do the actual move using traditional backup and restore.

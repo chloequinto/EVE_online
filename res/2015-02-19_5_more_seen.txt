@@ -1,3 +1,0 @@
-REWARDS
-
-The final point I want to mention is that, for now at least, we have no rewards associated with completing Opportunities. One of our original goals was to separate tutorial content and rewards so that players don’t feel compelled to do something they aren’t interested in just for money. That said, we can also acknowledge that starting without tutorial rewards may be very harsh so we are still open to changes related to starting assets and income. This is something we hope to learn more about after release.

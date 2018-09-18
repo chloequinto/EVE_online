@@ -1,2 +1,0 @@
-IMPROVED USABILITY FOR FUELING STRUCTURES
-The job of keeping your structure fueled can be a challenging one that is made more complicated by the fact that allowing a player to fuel a structure currently requires a huge amount of trust in that individual. In the August release, we are expanding the fueling ability in a secure way by allowing anyone with the "Assume Structure Control" access control list to place (but not remove) fuel in the structure fuel bay without requiring any corporate roles.

@@ -1,0 +1,12 @@
+ENTOSIS LINKS ARE NOT GOING TO WORK ON NEW STRUCTURES
+Long story short, we have had long meetings about the structure attack system, and came to the conclusion that, while Entosis Links do indeed achieve our design goals for the Citadels, they are not actually delivering an experience we are satisfied to provide.
+It’s not fun being shot by massive structure weapons while being unable to retaliate in kind, it gives players the feeling to be helpless while they watch a timer go down
+There is gameplay involved in applying damage that Entosis Links do not preserve, like range, speed, falloff or positioning
+It devalues capital ships as a whole, especially Dreadnoughts, which were specifically introduced to assault and destroy static structures
+Last but not least, there is a visceral connection in shooting a structure down to destroy it. Having guns blazing while watching the target hit points go down is a very strong visual and adrenaline factor that Entosis Links remove out of the equation.
+So, there are several points that come out of this:
+We are going to make sure we have mechanics in place to prevent problems with the existing Starbases – specifically that HP damage always benefits whoever brings the most ships in the field, since damage always scales by number. That is why incoming damage will be mitigated past a certain point (more on this below).
+This will not affect the current Aegis Sovereignty system. We have plans to merge those systems when we move Sovereignty into the new structures and we will account for the specific needs of the Aegis Sovereignty system when that happens
+We are aware Capital Ship are in the pipelines to be rebalanced, and bringing HP damage back into structures is not a coincidence. We want both structures and capitals to have a strong tie with each other, a binding theme delivers a unified and enriching experience. As such, the Capital Ship rebalance will definitely account for this HP damage system for structures
+Wormhole space presents unique gameplay we want to preserve whenever possible. As such, variations will be made in the attack system for this specific area when we feel they are justified
+All of the numbers, timers in this blog are still up to discussion and debate. If anything, we do believe we have proven so far that we were willing to listen to feedback and change our designs accordingly, so please make sure to remember those are not final numbers yet

@@ -1,2 +1,0 @@
-UI HIGHLIGHTING
-We have improved the UI highlighting tool to help it fit more with the visual style of EVE and also add extra functionality.  Aura will now be able to use the UI Highlighting for the majority of the tasks she gives. This should really help new players understand where things are located on the UI and how to find items both in space and in the overview.  

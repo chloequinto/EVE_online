@@ -1,8 +1,0 @@
-LOOKING TO THE FUTURE: MORE COMPREHENSIVE ACTIVITY DEFENSE MULTIPLIERS
-As we have mentioned in the past, one of the highest priority areas for continued improvement beyond our main summer sov release is improvements to the Activity Defense Multiplier. The first iteration of the Defense Multiplier is completely tied to the old sov index values. These make a decent measure of the most common types of Nullsec PVE and greatly simplify the transition from the old system to the new. However there are a great many forms of local Nullsec activity that are not counted by these indexes and there is a great deal of room for improvement.
-
-In upcoming releases we are planning to make significant updates to the Activity Defense Multipliers to make them more accurately reflect real system occupancy.
-
-The biggest area of improvement would likely be in expanding what activities feed into the Defense Multiplier. Unfortunately there are some activities that cannot be made to powerfully influence the Multiplier without becoming exploitable (PVP kills and Manufacturing jobs are the classic examples). However we are investigating ways that some expanded activities such as Planetary Interaction and Data/Relic sites can contribute to the index, as well as keeping the option open of including manufacturing, trade and research in some limited capacity if they can be made to work.
-
-We are also investigating options around allowing activity by members of the Sov owning Alliance to count more heavily than activity by others.

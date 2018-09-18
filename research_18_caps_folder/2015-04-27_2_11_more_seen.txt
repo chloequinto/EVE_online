@@ -1,0 +1,2 @@
+IN SEARCH OF AN EASIER SYSTEM
+Instead of fundamentally changing the functionality of the system that governs who can do what within a player corporation, we took a pallet knife to the UI, triaged the biggest issues people have with the current system, and threw away excess stuff to make a lighter system that is easier to navigate and manage.

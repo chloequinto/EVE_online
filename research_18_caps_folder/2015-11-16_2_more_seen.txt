@@ -1,0 +1,2 @@
+RANDOM NUMBERS
+As of the writing of this dev blog on Monday November 9th at 14:00 there have been 2,969 requests made to the new fittings resource in CREST. 1,323 (45%) of them to create a new fit, 926 (31%) to get a characters fitting, and 720 (24%) requests to delete a fit. In graph form it looks something like:

@@ -1,7 +1,0 @@
-THE FUTURE
-
-In this iteration we hope to have all the basic functionality of the feature established and have some of the most essential notification types included, but we won’t stop here.  In follow-up releases we expect to add more notification types to this system, including but not limited to: industry job notifications, combat log events (killmails, not damage logs) and potentially various kinds of invites (convo, fleet, corp etc) and of course NPE notifications.   We will also make changes based on your feedback to improve the feature overall, as always.
-
-So tick that box and give notifications a try!  Thanks for reading!
-
-@CCP_Rise for Team Boiled Cod, over and out.

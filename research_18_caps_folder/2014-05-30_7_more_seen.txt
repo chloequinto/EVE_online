@@ -1,0 +1,22 @@
+THE RISE OF CHEESY DEVNAME PUNS: PIRATE FACTION SHIPS
+Frigate Forum Thread
+Cruiser Forum Thread
+Battleship Forum Thread
+Pirate faction ships represent some of the most powerful and unique combat ships in EVE Online, and in the Kronos release they’ll be getting even better. All fifteen ships from the main pirate factions are receiving a rebalance and the end result is some of the most exciting ships the game has ever seen.
+Each of the pirate factions has a unique way that their ships “break the rules” that other ships follow. These unique and powerful abilities represent the resourcefulness and disregard for convention shared by successful outlaw organizations. In Kronos we are reinforcing this theme of rule breaking and ensuring that all of the pirate factions have an exciting and identifiable trait that sets them apart from the pack.
+Serpentis
+The Serpentis ships provided the example of what other pirate ships should and could be. They already had their unique game changer feature in the form of a 10% per level bonus to Stasis Webifier effectiveness. This bonus allows Serpentis ships to show their target down to 10% speed with one module and make escaping their brutal close range particle blasters nearly impossible.
+Since the Serpentis theme was working so well, the changes to their ships in Kronos are more subtle than the other pirate factions. The Vigilant cruiser needed the most help and is receiving significantly more targeting range and speed. The Daredevil frigate and Vindicator battleship are already in a very good place and will be receiving smaller tweaks.
+Guristas
+The Guristas ships are receiving a new and unique trait, the ability to field small numbers of superpowered drones. Each ship receives a gigantic role bonus to the damage and hitpoints for drones of a specific size: light drones for the Worm frigate, medium drones for the Gila cruiser, and both heavy and sentry drones for the Rattlesnake battleship. These bonuses allow the Guristas ships to field two superpowered drones that fight with the ferocity and durability of much larger drone swarms.
+The Guristas ships also enjoy impressive shield defenses through a resistance bonus and punishing missile damage with either kinetic or thermal damage.
+Angel
+The Angel Cartel ships have always been very strong, enjoying impressive speed, agility and long range damage enabled by projectile falloff bonuses. Before Kronos, however, they lacked that special something that breaks the normal ship patterns and set them apart.
+In Kronos the Dramiel frigate, Cynabal cruiser and Macheriel battleship will be gaining a special role bonus that increases their warp speed and acceleration by 50% above and beyond the other ships in their classes. This will help reinforce the Angel role as supreme fast attack vessels that can hit and run with ease.
+Blood Raiders
+The Blood Raiders vessels have long enjoyed the strongest energy warfare in New Eden, and their Bhaalgorn battleship enjoys a venerable role in group PVP. However before Kronos the Cruor frigate and Ashimmu cruiser had languished in relative mediocrity.
+In the Kronos release all of the Blood Raider ships will be gaining a new “rule breaking” bonus to Nosferatu modules that ensures they will always drain enemy capacitor no matter what your own capacitor level is. The Blood Raider stasis webifier bonus is also being unified to a range bonus across the whole line of ships and the Cruor and Ashimmu are receiving significant upgrades to their speed and slot layouts.
+Sansha’s Nation
+The Sansha’s Nation ships are some of the most iconic pirate vessels in EVE, and their Nightmare battleship has long served as a staple of high-end PVE gameplay. On the other hand, the Succubus frigate and Phantasm cruiser have suffered from poor performance relative to their costs.
+In the Kronos release all of the Sansha’s Nation ships will be receiving a huge new bonus to Afterburner velocity bonuses. This will enable them to travel extremely quickly while using less capacitor, enjoying lower signature profiles, and shrugging off scramblers.
+For more information on all of these pirate faction ships and to provide your feedback, check out our Features and Ideas forum threads for the frigates, cruisers, and battleships.

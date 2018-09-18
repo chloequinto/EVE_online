@@ -1,4 +1,0 @@
-QUALITY OF LIFE IMPROVEMENTS
-Kronos will also bring numerous small improvements to make your playing experience that little bit more enjoyable. This includes things like reload and repair timers on modules, right-click menu option to clear all broadcast icons in the watchlist, and different HUD icons for warp scrambling and warp disruption. To find out more check out this post by CCP karkur, and keep your eyes open for even more little things.The full list will be available in the patch notes at release.
-
-We may have a few more things making it into Kronos that we will update you about next week, but that’s it for now.

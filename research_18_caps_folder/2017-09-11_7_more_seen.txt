@@ -1,0 +1,7 @@
++5 CPU
+Corax
+Not to be rude, but the Corax is a bit on the heavy side. We're going to lower its mass significantly and it is still going to be 50,000 kg heavier than the second heaviest destroyer. The added speed and agility should make the Corax feel much better to fly. We're also going to turn that burn into beef where it counts by giving the Corax some more shield HP.
+-150,000 Mass
++50 shield HP
+Arbitrator
+The Arbitrator is in the strange position of being sole the representative for secondary weapons systems in the Amarr tech one cruiser lineup, while also being in the ewar category. We are going to give the Arbitrator fitting room so it can be used more easily as generalist combat ships alongside its ewar support role. We are also going to bump lock range so they it a more realistic shot at putting those ewar bonuses to use. The Arbitrator is going to pick up an extra launcher slot as well to make missile focused fits stronger.

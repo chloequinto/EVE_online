@@ -1,0 +1,22 @@
+ENTOSIS LINK CONTEST
+Entosis links are needed to be able to attack (or defend) a structure during its deployment or vulnerability window.
+The process is as follow:
+A structure that is successfully attacked by an entosis link during its vulnerability window goes into reinforcement. If it was being deployed, or if that was the last vulnerability window it was capable of withstanding, the structure is destroyed instead.
+A structure that is partially contested with an entosis link will delay the vulnerability or deployment timer indefinitely, until such time where the owner uses his own entosis link to remove the contested status, or an attacker chooses to fully attack it. The duration will however count toward the vulnerability or deployment timer – a structure that needs 4 hours to be deployed, but is stuck in a contested state for 5 days can be immediately deployed if the owner removes this particular status with his own entosis link.
+The entosis contest time will vary depending on the location where the battle takes place and if you are attacking or defending.
+High, low-sec and null-sec with full indexes
+Wormhole space
+Null sec with no indexes
+Attacking a structure
+60 minutes
+30 minutes
+10 minutes
+Defending a structure
+10 minutes
+10 minutes
+10 minutes
+Example:
+The Daring Tartiflette Expedition™ is a corporation having a Citadel L deployed in a random wormhole.
+Anyone attacking their structure when it is being deployed, or in its vulnerability phase will need full 30 minutes to win the entosis link contest.
+For being the owners of the structure and defending it, the Daring Tartiflette Expedition™’s members will only need 10 minutes of entosis linking to defend it, or to fully remove its contested status.
+Please note that if the Daring Tartiflette Expedition™ was to attack a structure belonging to another corporation in their wormhole, they would have to go through a 30 minutes entosis link timer themselves.

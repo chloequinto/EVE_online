@@ -1,0 +1,56 @@
+THE ORCA
+(Click image for a larger, animated version)
+Orca Feedback Thread
+The Orca is receiving a massive overhaul in the November expansion, with huge buffs to almost every attribute.
+The newly refinished Orca will be a mining powerhouse, a heavy duty ore hauler, a significant combat deterrent, and the strongest foreman burst platform available in highsec space.
+We’re listing the full stats below. Changes from the old stats will be in brackets. Take particular note of the four extra slots, huge drone damage and drone mining role bonuses, and tripling of its old ore hold volume.
+**Orca:**
+Industrial Command Ships bonuses (per skill level):
+5% bonus to ship cargo capacity and ore hold
+3% bonus to Mining Foreman Burst Strength and Duration
+1% bonus to Shield Command Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+Role bonus:
+100% bonus to drone mining yield
+-25% reduction in drone ice harvesting cycle time
+100% bonus to drone damage
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit three Command Burst modules
+50% bonus to Command Burst Area of Effect Range
+250% bonus to Tractor Beam range
+100% bonus to Tractor Beam velocity
+500% bonus to Survey Scanner range
+Slot layout: 6H (+3), 5M (+1), 2L
+Fittings: 1200 PWG (+240), 550 CPU (+120)
+Defense (shields / armor / hull) : 30,000 (+19,250) / 7000 (+100) / 45,000 (-1000)
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+Capacitor (amount / recharge / cap per second) : 8000 (+3800) / 1200s (+400) / 6.67 (+1.42)
+Mobility (max velocity / agility / mass / align time): 60 / 0.26 (+0.1) / 150,000,000 (-100,000,000) / 54.07s (-1.38)
+Warp Speed: 2 au/s
+Drones (bandwidth / bay): 50 / 200 (+125)
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 70km (+10) / 75 / 7 (+5)
+Sensor strength: 30 Magnetometric (+15)
+Signature radius: 1000
+Cargo Hold: 30,000 m3
+Ore Hold: 150,000 m3 (+100,000)
+Fleet Hangar: 40,000 m3
+Ship Maintenance Bay: 400,000 m3
+Cost: ~700 mil ISK
+Max Yield: ~1,400 m3 per minute + drone travel time
+Max DPS: ~800 dps
+As the middle ship in the mining foreman progression path (and top of the pack for highsec) the Orca is extremely capable in all three of the mining foreman pillars:
+Help fleetmates mine more effectively:
+Three command bursts, a 3% per level bonus to Mining Foreman Burst strength, and a 50% role bonus to Command Burst area of effect make the Orca a great choice for providing mining boosts
++500% survey scanner range makes the Orca a perfect coordination platform
+The Orca retains its existing Ship Maintenance Bay, enabling fleetmates to refit their mining ships and allowing storage of mining vessels for transport and backup
+Alongside the unchanged bonuses to tractor beams, the ore hold of the Orca has been tripled in size. The Orca is a perfect vessel for storage and hauling of ore
+Defend the mining operation:
+Thanks to a +10% per level bonus and +100% role bonus to drone damage, the Orca can deal battleship-level damage with a flight of fast medium drones
+A 400% bonus to Remote Shield Booster optimal range allows the Orca to effectively aid in the defense of its allies using large remote shield boosters.
+A bonus to Shield Command Burst strength allows the Orca to improve the tank of its allies, providing useful resistance from all kinds of assaults (including suicide ganks)
+Contribute with powerful mining drones:
+With both skill and role bonuses to mining drone yield, the Orca can pull in similar ore volumes to an exhumer
+We’re really interested in hearing your feedback on these Orca changes! Head to this forum thread for all the discussion focused specifically on the Orca.

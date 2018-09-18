@@ -1,7 +1,0 @@
-C. SECURITY AND DISCLOSURE OF USER DATA
-
-CCP does not guarantee that User Data transmitted to the System, including without limitation information in your Account and/or User Personal Details, will not be disclosed to third parties. While CCP's aim is to keep your User Data confidential and CCP employs security measures to protect the System, third parties may unlawfully intercept transmissions or private communications, or access data within the System.
-
-CCP may (and you hereby expressly authorize CCP to) disclose information about you to private entities, law enforcement or other government officials, as CCP, in its sole discretion, deems necessary or appropriate to investigate or resolve possible crimes or to respond to judicial, regulatory, agency or similar inquiries.
-
-You further agree that in the event of a failure in the Game, the System and/or the Software, CCP may provide crash dump information (which is information on the state of the System when a crash occurs, and may include your User Data) to third parties under suitable confidentiality restrictions in order to review analyze and provide reports on such information to determine the cause or correction of the failure.

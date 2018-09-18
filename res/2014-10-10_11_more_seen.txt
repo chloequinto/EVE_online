@@ -1,4 +1,0 @@
-NEW INVENTION
-Invention and reverse engineering are merged in Phoebe along with a number of other changes to this area of industry, that you can read all about in this dev blog: Lighting the Invention bulb There will also be a number of requested changes to the Industry user interface, such as the ability to collapse the top view. More on the changes since the first blog in an upcoming dev blog.
-
-

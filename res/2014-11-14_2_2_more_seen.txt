@@ -1,2 +1,0 @@
-PUBLIC CREST API UPDATES FOR EVE TOOL CREATORS
-The entire item type collection from EVE becomes available in Public CREST, along with market orders for items available on the market. Go to developers.eveonline.com for news and updates on APIs and other developer tools for EVE Online.

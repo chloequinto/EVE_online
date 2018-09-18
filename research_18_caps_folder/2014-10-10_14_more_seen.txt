@@ -1,0 +1,2 @@
+UNLIMITED SKILL QUEUE
+To help people temporarily lacking access to an EVE client and generally remove annoyance, in Phoebe you will be able to construct and start training skill queues of unlimited time length. Trial accounts will still have a 24 hour queue limitation. This change will be live on Singularity along with a feedback thread next week.

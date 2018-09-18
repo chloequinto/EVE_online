@@ -1,0 +1,7 @@
+**ENSURING THAT SCAN SIGNATURES REMAIN CONSISTENT OVER DOWNTIME**
+Feedback thread
+This section covers a change that wasn't included in the original version of the dev blog, but that we were able to complete in recent weeks.
+One very commonly request feature by wormhole residents, especially those who live in Australia and other territories where their playtime often straddles downtime, is for scan IDs of signatures and anoms to remain consistent across server downtimes.
+We were initially unsure if we could achieve this change but thanks to the diligent work of CCP Masterplan we now have it working and deployed to our Singularity test server.
+This change should go a long way to make the lives of AUtz wormholers much easier as they will no longer need to rescan every signature in their wormhole chain after each downtime.
+Feel free to post your feedback on this change in this thread.

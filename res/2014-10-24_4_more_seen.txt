@@ -1,4 +1,0 @@
-THE INTERBUS SHIP IDENTIFICATION SYSTEM
-The ISIS will show players a visual representation of the ships they can and cannot fly on a trial account. Players seeking further info on the specific restricted skills can hover over a ship to see more details.
-
-Interbus Ship Identification System

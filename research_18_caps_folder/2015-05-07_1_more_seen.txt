@@ -1,0 +1,10 @@
+INFRASTRUCTURE HUB AND INFRASTRUCTURE UPGRADE VOLUMES AND MANUFACTURING
+One area changed in the Mosaic release was the Infrastructure Hubs and their Upgrades. We reduced the volume of Infrastructure Hubs and Infrastructure Upgrades so that they can be deployed more easily, and we also made all of the Infrastructure Upgrades manufacturable by players instead of selling them directly from NPCs.
+The volumes of IHubs and Upgrades have been reduced to:
+Infrastructure Hubs: 60,000 m3
+Military/Industrial upgrades: From 5,000 m3 to 60,000 m3 (depending on the level)
+Strategic Upgrades: 200,000 m3
+This allows IHubs and Military/Industrial upgrades to all be deployed by a wider variety of ships including Deep Space Transports. Strategic Upgrades still require at least a Jump Freighter or Freighter.
+To go along with these changes we have enabled the deploying of all structures (including Starbase Control Towers) from fleet hangars, so that ships like Orcas and Deep Space Transports will have more structure deployment options.
+We have also made all of the IHub upgrades manufacturable using PI materials. Blueprints are sold by the Empire Navy corporations, and the material requirements consist of Tier 4 PI Commodities and Capital Construction Parts.
+More details about these changes can be found in this forum thread.

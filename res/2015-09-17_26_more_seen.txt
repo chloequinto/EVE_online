@@ -1,8 +1,0 @@
-VARIATIONS, GENERAL NOTES AND YOU
-
-
-There is a certain number of special cases we wish to tackle specifically in this blog, to avoid the recurring questions we’ve had in the past.
-
-The current plan is for those structures not to have auto-defenses. This is still left to be debated, but we do believe existing auto-defenses on Starbases are nothing but a false promise to safety, since they are so easily abused and bypassed by attacking parties. They just give the owner a feeling of safety where none actually exists, like having a completely out-of-date firewall and anti-virus on your computer.
-We revaluated our position on Wormhole space asset safety from our “I feel safe in Citadel city” blog. Structures destroyed in wormhole space will see all of their assets lost when destroyed and subject to the magical loot fairy rules that would normally apply for ship cargohold.
-We are aware that the long process of sieging a Citadel (up to one week) is considerably longer that what’s currently in place in Wormhole space. We do know that controlling traffic in Wormhole space to be a taxing activity, which is why we are considering having further variations in place there so that the total siege doesn’t exceed 48 hours there.

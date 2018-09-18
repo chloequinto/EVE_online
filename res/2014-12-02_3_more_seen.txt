@@ -1,2 +1,0 @@
-THE CURRENT MEDICAL CLONE SYSTEM
-When a player’s capsule (known colloquially as a pod) is destroyed, their clone is killed, leaving behind a frozen corpse floating through space.  Upon reviving in a new clone in a space station, the pilot must then upgrade their medical clone’s grade to cover the amount of skillpoints they have accrued though skill training. If that player fails to do so and is podded again, they will lose skillpoints if their clone grade isn’t high enough.

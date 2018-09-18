@@ -1,0 +1,2 @@
+DIFFERENT ICONS FOR ARMOR AND HULL REPS AND CYNOS AND COVERT CYNOS
+The icon for different modules were the same, causing mistakes. In Phoebe, there will be separate icons for armor and hull repair modules, as well as covert and regular Cynosural Field Generators.

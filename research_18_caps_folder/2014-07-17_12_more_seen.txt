@@ -1,0 +1,5 @@
+ENDY BIT
+This should comprise everything that is changing in these two areas (blueprints and pricing) in the Crius release scheduled for July 22nd. We will of course be monitoring and responding to this blog’s feedback thread, the issues and feedback threads for the release and the way use of industry features evolves on Tranquility in the months after release.
+If you have questions, comments etc please raise them in the feedback thread!
+That’s all for now,
+-Greyscale, on behalf of Team Super Friends and Team Game of Drones

@@ -1,0 +1,8 @@
+AWESOME! IS THAT IT?
+Yes. It’s this easy! Here’s a few screenshots of the process:
+Two-Factor Authenticaion when disabled
+Logged in with Two-Factor Authentication disabled
+Enabling Two-Factor Authenticaion
+Two-Factor Settings, enabling Authenticator
+Logging in with two-factor authenticaion enabled
+Logging in with Two-Factor Authentication enabled
