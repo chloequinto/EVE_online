@@ -1,0 +1,74 @@
+INTRODUCING ESI - A NEW API FOR EVE ONLINE
+Note: this devblog is primarily intended for third party developers and technically minded capsuleers. If you'd like to skip over the jargon, scroll to the bottom to find the TL;DR.
+
+Team Tech Co. here! We'd like to have a big ol' chat with you about Making APIs Great Again!
+
+BACKSTORY
+When the XML API was first released, it was ground breaking. No video game had ever provided such extensive access to its data, and you did some amazing things with it. EVEMon and EFT are legendary tools that have been supporting EVE for years, and they are joined by a forest of novel and powerful solutions created by our players on the back of the XML API. But the XML API was limited, only capable of exposing certain data, read only and at times slow to react to events in game. Critically, its documentation was a nightmare, forever lagging behind real development and with essentially no discovery.
+
+So we introduced CREST, and that too was ground breaking. It brought a cleaner data format, a RESTful interface and faster access to live simulation data. Eventually, it paved the way for writeable endpoints, which again were all but unheard of in the gaming industry. Some of the work that's been built on top of CREST is just staggering, and we're always hearing about new and novel ideas that make the very most of what can be done with its powerful capabilities.
+
+CREST also pushed an ideal about being self-documenting. A combination of automatically generated options calls and a paradigm of linking from the root of the API was to provide a fully self documenting API. This was a partial success, and crawling the CREST API is certainly a good way for users to learn about it. However, there are hairline cracks showing. Large sections of the tree cannot be crawled unless certain in game conditions are met, such as having the correct corp roles or owning a citadel, and not every resource is correctly linked. It can be hard to tell why you can't access a thing. CREST developers still routinely refer to third party documentation for full descriptions of the API. It was a bold attempt, but it fell a little short.
+
+CCP has always been at the forefront of API development in the games industry, and we're sure not going to stop here and rest on our laurels. We've taken the good that CREST and the XML API created, we've critically examined the bad, and it's time to modernise! Read on...
+
+MEANWHILE, IN THE WIDER INDUSTRY...
+In the last few years, the rest of the software industry has been busy making various APIs and considering their designs. Out of the chaos of custom made nonsense arose the JSON schema standards, and from that, the Swagger specification. This is a core concept of ESI, and the Swagger Specification has this to say about itself:
+
+Swagger™ is a project used to describe and document RESTful APIs.
+
+The Swagger specification defines a set of files required to describe such an API. These files can then be used by the Swagger-UI project to display the API and Swagger-Codegen to generate clients in various languages. Additional utilities can also take advantage of the resulting files, such as testing tools.
+
+Swagger is a widely adopted API description standard, and is backed by quite a few reputable organisations, which gives us confidence in its longevity and support for client libraries, user interfaces and other tooling. Choosing to adopt the Swagger specification (now known as OpenAPI) removes a bunch of work from our plates, and gives a clear reference point to build any custom integrations against.
+
+It is on this foundation that we've chosen to build the EVE Swagger Interface, a framework which aggregates partial specs from multiple Kubernetes services into a cohesive front facing spec, while also handling the routing, authentication, input/output validation, and more. The EVE Swagger Interface (ESI for short and pronounced "easy") uses Flask and Python 3.4+  internally, and should be generic enough to power any oauth-backed (or unauthed), multi-tenant API running in a Kubernetes cluster. There are also options for running ESI locally with either Docker or directly with local Python.
+
+WHAT IS ESI TO US?
+Over the last few months, we've been using and developing the ESI framework to build a new API from the ground up. The ESI API is a RESTful, SSO authenticated, documentation first, buzzword compliant, horizontally scalable, read/write API. It's currently backing the EVE Mobile app and running on a Kubernetes cluster in Google Cloud (Kubernetes is awesome btw). What the devil does that all mean?
+
+RESTful and SSO authenticated means that you interact with it largely the same way you do with CREST. You'll use HTTPS requests with bearer authorisation tokens if the endpoint requires auth. If you've ever done CREST development this will be like sitting down in a comfortable armchair for you.
+
+Documentation first means that internally, we use the Swagger spec to generate our APIs. Step one of creating or updating an endpoint is creating or updating the spec, that defines all our internal data structures for processing incoming requests to that endpoint, and that means the documentation is always up to date because it's an integral part of coding an endpoint, guaranteed. Don't look now, but we might have solved this documentation gremlin. Additionally, the Swagger spec allows the third party community to use code generators to create native code interfaces for the ESI API in their language of choice. Large amounts of engineering time that have been spent laboriously hand-constructing interfaces for CREST and the XML API can now be freed from this boilerplate work. (We're replacing you with robots, sorry.)
+
+Buzzword compliant means we're using industry standard tooling. The custom glue holding this ship together is as minimal as possible, and we swap out the custom stuff for off-the-shelf open source technology when solutions become available. No EVE API has ever been this maintainable or scalable, and this provides new capabilities we've never had before. Minor patches can go from a developers computer to live production in minutes, and if need be can be rolled back just as fast with zero downtime in either direction.
+
+Horizontal scalability is a neat capability we get from Kubernetes. Because all ESI code that doesn't specifically need to be running inside Tranquility is both stateless and running in Google Cloud, we can manage load by spinning up new ESI containers on a per endpoint basis as needed, and shut them down again when they are no longer needed.
+
+Read/write, of course, means we're planning on making writeable API endpoints just like CREST, including some of the ones that have been problematic until now, like sending mail. Basically, it's like CREST, but better.
+
+WHAT ABOUT XML API AND CREST?
+This is the part where you don't panic. We're not here to announce that we're killing all your applications and you need to rewrite things immediately, but we do need to talk about sanity and fragmentation. Supporting three API's with similar but non-overlapping functionality increases the technical difficulty of making an EVE API enabled application, and it pulls the engineering time of Tech Co away from features and towards maintenance. It reduces agility and increases uncertainty, and it's not a good long term plan.
+
+Once we replicate all current CREST and XML API functionality in ESI, we will be shutting down both services. We are targeting 18 months from the release of this blog to achieve functional equivalence and work with application developers to upgrade their applications. Removing the need to use the XML API will be our first priority. We will be monitoring use of the XML API and CREST to both identify and assist third party developers in their migration efforts.
+
+This is going to be an orderly and measured winding down of operations. As the first step of that, developers should know that as of the release of this blog, CREST and the XML API are officially in maintenance only mode. We will continue to deploy security updates and critical bug fixes to them, but any new feature requests will be implemented in the ESI API.
+
+EARLY ACCESS
+Over the past month or so, we've been working closely with several active members of the third party developer community, including:
+
+Steve Ronuken, CSM member and creator of fuzzwork.co.uk
+Lucia Denniard, prolific #devfleet poster and pizza-auth/timerboard.net developer
+Squizz Caphinator, creator of zkillboard.com and evewho.com
+We coordinated with this team, similar as with a focus group, to gain feedback on the early development cycles and some initial design decisions. Here's what they have to say about their experiences so far:
+
+The introduction of ESI, while a new API, is similar enough to how CREST works, that conversion should be relatively simple. It also solves one of the huge bugbears of EVE API development. A lack of documentation and examples. The use of Swagger makes this a lot easier to work with, and some inconsistencies are being cleaned up as development happens. Finally opening up the ability to send EVEMail, as well as receive it, is a major deal, allowing for some automated services which couldn't otherwise be done.
+
+Steve Ronuken
+ESI is a solution to a problem that CCP has had for several years: the inability to quickly and easily update the API for 3rd parties. Over the last few weeks the devs I have worked with have demonstrated that ESI is adaptable and have demonstrated the ability to implement new features quickly. I know many 3rd party developers will not be happy about having to rewrite many of their tools, I am one of them, but this is the price for the technical debt we have incurred. CCP is looking to move past technical debt and bring us a modern approach. EveWho.com is already utilizing ESI and I’m quite happy with the results so far.
+
+Squizz Caphinator
+The EVE Swagger Interface combines the usability of the XML API with the features of CREST while introducing documentation as an official feature. CREST's crawlable type system enabled people to do some great things with dynamic languages, ESI closes that gap for those of us using statically typed languages; providing much stronger interface definitions and improving on the usability aspects of CREST. I believe that this project is the perfect follow-up to improve on CREST, modernize the XML API, and make EVE development easier for newcomers.
+
+Lucia Denniard
+TL;DR
+There's a new API coming to EVE, called the ESI. It's based on the OpenAPI Specification, is fully documented and will make your life easier if you choose to develop an application for EVE Online. It's been ramping up for a few months, and is currently serving up to 4.5 million requests a day.
+
+If you're not a third party developer, over the next year or two you can expect to see the apps you use start moving away from api keys and towards EVE SSO logins. This brings security benefits, and reduces the complexity of authorizing an application.
+
+It's already being used in the new EVE mobile app, as well as by some third party developers. You can check it out for yourself right now, it's live at //esi.tech.ccp.is/
+
+Questions, comments, concerns? We'll be monitoring the threads both on the EVE Online forums and Reddit, or hit up anyone from Team Tech Co on tweetfleet slack (@ccp_snowedin, @ccp_bartender, @ccp_aquarhead, @ccp_chimichanga), we're almost always around in the #devfleet channel. Also, we've opened up a new channel specifically for ESI discussion and help, also on the tweetfleet slack, channel name #ESI.
+
+To the glorious future!
+
+PS: If you're further interested in the design of ESI, check out the corresponding blog Introducing the ESI API.

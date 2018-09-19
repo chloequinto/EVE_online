@@ -1,0 +1,122 @@
+GIVING DRONES AN ASSIST (UPDATED)
+Hello once again, spacefriends. CCP Fozzie here, bringing your our next dev blog covering some of the exciting changes coming your way in the EVE Online Summer 2014 release.
+
+We have updated the thread with the latest information, namely changes to the range and tracking of combat drones and changes to the plan for converting skills on patch day. This blog is now fully up to date as of May 30, 2014.
+This blog will discuss our constant companions in the darkness of space, the loyal drones. Drones have received many improvements in recent years that have increased their stature to that of a main weapon system and expanded the options available to drone users immensely. However there are several aspects of drone balance that are not yet up to our current standards. In the summer release we will be implementing a wide ranging balance rework for drones of all sizes. This will affect drone skills, modules and ship bonuses as well as the attributes of the drones themselves.
+
+I will include a link to a spreadsheet with the new drone attributes at the end of the blog, but first we’ll cover the changes at a higher level. This revamp includes over a thousand separate behind-the-scenes changes, but it’s simpler to look at each category of problems we are trying to solve and how we intend to address them one by one.
+
+BALANCE BETWEEN DRONES FROM DIFFERENT EMPIRES
+One of the most obvious issues facing drones in EVE Online is the balance between the drones built by the four Empires. In theory the factional split should provide variety and interesting choices for players to make. Each faction of drones have their own damage type and should have their own distinctive attributes.
+
+In practice this is currently only working for two varieties of drones, Gallente and Minmatar. Gallente drones deal the highest damage at the expense of speed and tracking, and provide an excellent option when pilots wish to deal thermal damage. Minmatar drones have the best speed and tracking at the expense of damage per second, and deal explosive damage.
+
+Caldari drones are barely passable, only truly standing out from the crowd when a pilot really wants to deal kinetic damage. Amarrian drones are in dire straits, dealing the lowest damage of all drone types and not excelling in any area.
+
+None of this will be a surprise to most players, since the relative weakness of Caldari and Amarrian drones has been well known for years. However it can still be interesting to see just how little these drones are used. The following graph shows the number of shots fired in PvP by combat drones (not counting sentry drones) from each of the four races in the last year.
+
+
+
+As you can see, Amarrian and Caldari drones might as well not exist in their current form. They are in need of a significant revamp to make them competitive with Gallente and Minmatar drones.
+
+In the Summer 2014 release, we will be solving this issue by placing each of the four racial varieties of drones on a continuous spectrum of speed and damage. The already effective Gallente and Minmatar drones will remain in their places at the ends of the spectrum, while the attributes of the Amarrian and Caldari drones will be adjusted to place them in between the two extremes: Amarrian drones will be slightly slower and more damaging than Minmatar drones, while Caldari drones will be slightly faster and less damaging than Gallente drones. Their distinct damage types will remain intact.
+
+
+
+We are also making some new changes to the ranges that drones attack and orbit in, that affect the balance between drones from different factions:
+All combat drones will now orbit and attack at longer ranges than before. Light drones will be orbit between 40% and 60% farther than before, medium drones between 180% and 220% farther, and heavy drones will see their orbit range increased by between 1300% and 1500%. Optimal ranges and attack ranges are rising accordingly. Tracking speed values are decreasing to compensate, but all drones will track better than before when at their optimal ranges.
+
+This change will have a couple important benefits:
+
+It will mean that drones lose less damage from the transversal caused by their own orbit velocity. Drones simply orbit with no concern for transversal management and that can often cause unintitive reductions in DPS, especially against small and slow targets. With this change the negative effects of a drone's own velocity will be reduced.
+It means that drones will be less likely to overshoot their targets. Drones approaching a target with their MWD on can sometimes overshoot their target by a large margin, preventing them from applying their damage early in an engagement. With this change, the area in which a drone will deactivate its MWD and start orbitting is much larger and a drone is more likely to hit it on the first approach.
+This also gives us another method through which to differentiate drones from the different factions. Amarr and Caldari drones will recieve a larger range increase than Minmatar and Gallente drones. This provides these middle drones a new way to shine and gives players another set of interesting choices to make when choosing their combat drones.
+Due to the changes in range and tracking, heavy drones will do more damage than before against small and slow targets, but will have a harder time hitting fast moving targets that spend most of their time at suboptimal ranges.
+
+Finally, we are also adjusting the hitpoints of combat drones to better reflect their racial tanking styles and provide a slight hitpoint advantage to the Amarr and Caldari drones.
+
+We believe that this change will provide players with many more interesting choices when deciding what drones to load onto their ships and use in combat.
+
+BALANCE BETWEEN QUALITY LEVELS OF DRONES
+Another area of imbalance in the current drone attributes is the different quality levels, or meta-levels, of drones available. Combat drones currently fall into one of five distinct quality levels (sentry drones are addressed below):
+
+Basic Tech One drones are the most plentiful, cheap and easy-to-use drones in the game. They remain the baseline against which every other type of drone is compared.
+
+Tech Two drones are more powerful drones that are produced by players, mainly through the advanced Invention process. They are more expensive to produce than Tech One drones, and have the highest skill requirements of any variety of drones. To make up for this added difficulty and expense, Tech Two combat drones gain a 20% advantage in hitpoints, speed, tracking and damage compared to the basic Tech One versions. They can also gain an extra 2% damage for each level of their racial Drone Specialization skill that is trained. These bonuses are already quite balanced and provide a valuable progression for drone users, so they are not changing.
+
+Faction Navy drones are advanced drones that are only available from each Empire’s Factional Warfare loyalty point stores. They are notable for their excellent hitpoints and tracking, as well as low skill requirements. However their low speed and underwhelming 15% damage bonus over Tech One leave them without enough value to justify their cost for most players. We will be keeping their HP and tracking intact, while also giving them speed and damage on-par with Tech Two drones -- although the Navy Drones will still not gain the extra 2% bonus per level from the drone specialization skills.
+
+“Integrated” and “Augmented” drones are both built from components and blueprints looted from the remains of deadly rogue drones in the drone regions of nullsec space. Currently they receive some bonuses above and beyond Tech One drones, but their cost is mainly due to rarity and they are not powerful enough to encourage common use. We will be upgrading the “Integrated” drones to have 15% more damage and 10% more HP, tracking and speed than Tech One drones. “Augmented” drones will keep their current significant bonuses to HP, tracking and speed, and will see their damage bonus increased to 32% above Tech One drones, putting their damage on par with a fully skilled Tech Two drone.
+BALANCE BETWEEN SIZES OF DRONES
+Travel time is a constant issue for combat drones, as the delay between ordering your drones to attack and their arrival at their target often cripples the effectiveness of drones over moderate ranges. This is also one of the major reasons that Heavy Drones have trouble competing with the stationary Sentry Drones.
+
+Currently each size of combat drones (Light, Medium and Heavy) has only half the MWD approach velocity of the size below it. This means that Heavy Drones take 4x as long to get to their targets as Light Drones do.
+
+In the Summer 2014 expansion, we will be changing the scaling so that each size of combat drones has 60% of the MWD speed of the size below it. This equals a 20% increase to the MWD speed of Medium Drones, and a 43% increase in Heavy Drone MWD speed. These increases only effect the MWD speed of the drones, so they will reach their distant targets faster but they may still struggle to keep up with a fast moving target, as intended.
+
+BALANCE FOR DRONE SKILLS
+Congratulations for reading all the way to the middle of a dev blog! The reward for your perseverance is some extremely important information about changes to skills coming in the Summer 2014 expansion!
+
+Currently drones are a very skill-intensive weapon system, thanks to the legacy of the original drone implementation years ago. The Drone Interfacing skill currently provides a 20% increase in drone damage per level, which makes it one of the most powerful skills in the game but also means that to be competitive with drones it is usually necessary to train this rank-5 skill all the way to level 5. The result is that drones have earned a reputation as a weapon system that is not suitable for new players.
+
+We will be minimizing this problem by reducing the bonus from the Drone Interfacing skill to 10% per level, and building the extra damage into the base stats of the drones. That means that on average, all drones will be gaining about 33% more base damage and a character with Drone Interfacing trained to level 5 will see their damage remain constant (ignoring for a moment all the other drone changes being made in this release). We believe that 10% per level is still a very suitable bonus for a rank 5 skill, and the Drone Interfacing skill will remain very desirable. Level 5 Drone Interfacing should, however, cease to be the absolute necessity that it is today.
+
+We are also splitting the current Combat Drone Operation skill into two new skills, Light Drone Operation and Medium Drone Operation. This means that all light combat drones will now be unlocked and bonused from the Light Drone Operation skill, and medium combat drones will be unlocked and bonused from the Medium Drone Operation skill. During the patch downtime, existing players with the Combat Drone Operation and/or Scout Drone Operation skills trained will receive both new skills trained to a level equal to the highest level that they have in either Combat Drone Operation or Scout Drone Operation.
+
+We initially announced that we would reimburse only from the Combat Drone Operation skill but after recieving some excellent feedback from the community on our forums we decided to reimburse based on the highest of these two skills so that we could ensure that pilots who could use these drones before don't lose any capability after the patch.
+
+This change makes light and medium drones consistent with heavy and sentry drones in their skill paths. It also allows us to create new ships and modules with bonuses that only affect light or medium drones separately, such as the newly rebalanced Guristas Worm faction frigate.
+
+Finally, we are renaming two drone skills to clarify their roles. The Scout Drone Operation skill is being renamed “Drone Avionics”; the Electronic Warfare Drone Interfacing skill is being renamed “Advanced Drone Avionics” to better represent their roles. The effects, prerequisites and unlocks provided by these skills will not be changing.
+
+The other major change we will be making to drone skills in the summer release will be the expansion of drone skills to affect all drone types consistently. This means that the racial Drone Specialization skills will now provide their damage bonus to Tech Two sentry drones as well as the normal combat drones, and that the Drone Interfacing, Drone Sharpshooting, Drone Durability, and Drone Navigation skills will all provide their bonuses to Fighters and Fighter Bombers. More details about these changes can be found in the following sections.
+
+BALANCE FOR SENTRY DRONES
+
+
+Sentry drones are among the most popular drones in EVE Online, for good reason: They allow drone ships to project instant damage across long distances. But the balance between the four different racial varieties and three quality levels of Sentry drones could use some work.
+
+For quality levels, Tech Two sentry drones are currently massive upgrades over their Tech One equivalents since range, tracking and damage are all such important attributes for sentries. We will be keeping the 20% bonuses to hitpoints, tracking, optimal, and falloff that Tech Two enjoys over Tech One; but instead of the current 20% increase in damage over T1, we will be increasing the base damage multiplier of Tech One sentries and limiting the Tech Two advantage to the 2% per level gained from the racial Drone Specialization skills that will now be required to use T2 sentries.
+
+We will also provide Faction navy sentry drones with the same 20% increase in optimal and falloff that T2 enjoys.
+
+This will serve to reduce the gulf between T1 and T2 sentries and ensure that players have a clear progression path as they advance in skills and riches.
+
+We are also adjusting the balance between the racial flavors of sentries to provide the best possible set of choices for players when they decide which to use.
+
+We are swapping the position of the Bouncer and Curator sentries in the damage ranking, and adding tracking to the Bouncers to compensate. This means that the spectrum between the Gallente Garde sentries (with the shortest range, highest damage and highest tracking) and the Caldari Warden sentries (with the highest range, but lowest damage and lowest tracking) will be consistent all the way across.
+
+
+
+We are also swapping some optimal range to falloff on the Bouncers, adding falloff to the Wardens and Gardes, and removing falloff from the Curator sentries, these help ensure a good spread of range profiles while also helping the drones more closely match the weapon systems used by their races.
+
+CHANGES TO FIGHTERS, FIGHTER BOMBERS AND SUPERCARRIERS
+
+
+Now we turn to the largest “drones” in the game, the fighters and fighter bombers used by capital ships. These are piloted vessels in the backstory of EVE, but they receive their instructions from their home ship just like automated drones, and they are controlled with the same interface.
+
+To provide consistency between all the drone systems in EVE Online, and to provide more options to capital and supercapital pilots in fitting and training, we are expanding all universal drone bonuses from skills and modules to Fighters and Fighter Bombers. This means that the drone skills, including Drone Interfacing, and modules such as Drone Damage Amplifiers will all apply their bonuses to Fighters and Fighter Bombers.
+
+To compensate for these changes, the base damage of Fighters and Fighter Bombers is being reduced. Fighters will find that with Drone Interfacing trained to five their basic damage returns to normal and all the other skills and bonuses from Drone Damage Amplifiers are pure additions. Fighter Bombers will need Drone Interfacing 5 and two Tech Two Drone Damage Amplifiers to slightly surpass their current damage rates, and any additional or higher quality Drone Damage Amplifiers will increase their damage above and beyond current maximums.
+
+We are also reducing the maximum number of drones available to Supercarriers from the current 20 to 10. To compensate, all Supercarriers will receive a 100% damage bonus to Fighter and Fighter Bomber damage, and the hitpoints and volume of Fighter Bombers will be doubled. Fighter Bomber shield recharge rates will also be cut in half to ensure that they do not regain high passive tank rates. This change allows Supercarriers to deal the same damage as they currently enjoy while causing less server load. It also makes their Fighter Bombers much more durable and should allow a vigilant Supercarrier pilot to more effectively keep their drones alive. At the same time, we will be increasing the materials required to build Fighter Bombers by a little over 50%.
+
+We are also taking this opportunity to provide a small buff to the Shadow Fighter Bomber, a special advanced Sansha variant that is obtained by fighting off incursions. The Shadow will be gaining a 7% damage increase over normal Fighter Bombers to encourage the richest Supercarrier pilots to try it out.
+
+It is important for current Supercarrier pilots to be prepared for the change in Fighter Bomber volume. Any Supercarrier drone bay that is full of Fighter Bombers before the patch will be overloaded after downtime. In this case the drones will automatically move to the Supercarrier’s cargo bay where they will prevent the ship from warping or jumping until they have been jettisoned or otherwise removed.
+
+NEW DRONE MODULES
+Finally, we are rounding out the collection of drone upgrade modules by introducing low slot Omnidirectional Tracking Enhancers and faction versions of the Drone Damage Amplifier and Drone Navigation Computer modules, and adding more faction versions of the Omnidirectional Tracking Link module. The faction modules will be available in Gallente Navy and Amarr Navy variants (available in both normal and FW LP stores) as well as Guristas and Rogue Drone variants available as loot drops. More details about these modules will be available at a later date.
+
+I SCREAM, YOU SCREAM, WE ALL SCREAM FOR SPREADSHEETS!
+For the Kadesh Priestesses and Gripens of the world, as well as anyone else interested in diving into all the numbers, here is the spreadsheet (now updated with the range, tracking and hitpoint changes) that lists the newly updated attributes of the Combat Drones, Sentries, Fighters and Fighter Bombers. Enjoy!
+
+Thanks for taking the time to read this blog all the way through. We are happy to be able to announce these wide-ranging changes and begin gathering your feedback.
+
+All of these changes are currently planned for release in the EVE Online Summer 2014 release. We will be providing access to them on our test servers as soon as possible to allow you all to try them out for yourself.
+
+We encourage you to post feedback on these changes in the discussion thread for this blog, and keep an eye out for more announcements about the summer release in the coming weeks.
+
+Good hunting!
+
+-CCP Fozzie

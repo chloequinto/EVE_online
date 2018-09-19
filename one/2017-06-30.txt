@@ -1,0 +1,107 @@
+With the arrival of EVE Online’s 11 July release, pilots will be called upon by the CONCORD Assembly to assist with stellar mapping of the cluster beyond the reaches of known space. Here on Earth, you’ll be taking part in the next phase of Project Discovery, which brings citizen science to space in both EVE Online and the real world.
+
+As part of this next phase of the project, pilots will be tasked with analyzing real-world astronomical data from the CoRoT telescope that was launched into outer space in late 2006 as part of its continued mission to discover extrasolar planets, or exoplanets.
+
+Your contributions will be incredibly valuable to scientists, as the amount of data collected by the telescope is vast and computers are not yet capable of analyzing such large volumes of information in a reasonable time frame. The collective power of many human brains is still the fastest and most accurate way to analyze all this data.
+
+So far, the mission has discovered a total of 37 exoplanets, and the recent discovery of seven planets in the same star system of Trappist-1 was made using the same method. 
+
+As with the first phase of Project Discovery, the analysis will occur in-game and pilots can earn rewards that will benefit them while playing EVE Online. 
+
+The next phase of Project Discovery is a partnership between CCP Games, MMOS, Reykjavík University and University of Geneva. The project is led by Professor Michel Mayor, who, together with Didier Queloz in 1995, discovered 51 Pegasi b – the first exoplanet orbiting a main sequence star.
+
+You can see Professor Mayor’s Fanfest 2017 presentation on exoplanets here.
+
+
+
+THE HISTORY OF PROJECT DISCOVERYTHE HISTORY OF PROJECT DISCOVERY
+Project Discovery is the citizen science initiative launched as a collaboration between independent games developer CCP Games, Massive Multiplayer Online Science (MMOS) and Reykjavik University. Its aim is to use EVE Online’s famously dedicated community to aid in scientific research.
+
+The first collaboration saw over a hundred thousand pilots submit more than 25 million classifications of human cells to the Human Protein Atlas – a scientific research program with the goal to explore the whole human proteome – thus demonstrating the enormous benefit that a large and committed base of gamers could bring to citizen science when engaged effectively.
+
+Thanks to the work of citizen scientists in Project Discovery, scientists have managed to identify several examples of proteins as belonging to a new cellular structure called Rods & Rings.
+
+Now, with our July release this year, we’re taking Project Discovery and citizen science to space for real!
+
+THE HARDCORE SCIENCE
+One of the most fruitful methods we have of finding exoplanets is transit photometry.
+
+This method uses long term measurements of the luminosity – or brightness – of a star. With these measurements, we can note systematic changes in apparent luminosity of the star which allows us to track celestial bodies in its orbit.
+
+This is where you guys start doing science!
+
+Pilots will be presented with light curves that belong to any one of the 160,000 stars that the CoRoT telescope is monitoring, and will be tasked with identifying transitional planets – planets that are passing between the star and Earth – by highlight drops in the star’s luminosity.
+
+To do this, pilots will be equipped with in game tools to filter out variations in the star’s luminosity that do not resemble transiting events, as well as a tool to confirm that these transits are regular and periodic.
+
+When our pilots have reached a consensus, the data will be transmitted to scientists from the University of Geneva, who will then study the results and confirm your findings.
+
+DOING SCIENCE!
+
+(click to enlarge)
+
+When playing Project Discovery, you will be presented with a light curve graph representing a star’s luminosity over time, which you’ll analyze primarily by looking for regular dips in luminosity. 
+
+These dips can indicate the transit of a substantially large celestial body between the star being measured and the telescope here in Earth’s orbit. Generally, the only object large enough to cause such dips are exoplanets or other stars.
+
+
+(click to enlarge)
+
+As part of the analysis, you’ll be given tools that will allow you to fold the luminosity curve of over time, and chop the curve into pieces of a given length so that you can overlay them across each other. This can make it easier to define periodic drops in luminosity, as they’ll line up if the graph is folded to the same frequency.
+
+You‘ll also have a detrending tool at your disposal, which attempts to filter out large scale events caused by the star itself rather than a transiting object. Pilots can set the granularity of the detrending tool so that it will only filter out events that take longer than the set time span (options are 1 hour, 5 hours, 10 hours and 24 hours).
+
+
+(click to enlarge)
+
+Once you’ve identified a potential transit event, you’ll be able to submit your findings to CONCORD, and they’ll be shipped off to the University of Geneva for further analysis by scientists there.
+
+REWARDS
+We all know that capsuleers love doing science, however we also know that they are also dirty capitalists. With this in mind, CONCORD is offering various rewards for your efforts in assisting with their research.
+
+Rather than using Analysis Kredits (AK) in the same way as the first phase of Project Discovery, CONCORD will be awarding points for each analysis of a light curve that’s completed with the added bonus that the more accurate your analysis is, the more points you’ll receive.
+
+These points will let you level you up in Project Discovery. At each level you’ll receive a container that holds an exclusive Project Discovery SKIN for a randomly selected hull from one of the four main empires.
+
+As you reach specific milestones of level 10, level 25, then every 25th level up to 200, you’ll receive tiered rewards which contain character apparel exclusive to Project Discovery, as well as BPCs and stunning new SKINs for the CONCORD Pacifier class frigate and Enforcer class cruiser.
+
+All these rewards will be placed directly into your redeeming system.
+
+Here’s a sneak peek at some of the ships, SKINs, and apparel that will be a part of the rewards.
+
+(click the images to enlarge them!)
+
+
+
+
+
+
+
+
+
+WAIT? NO MORE ANALYSIS KREDITS?
+Yup, that’s right… but no cause for concern!
+
+Project Discovery has now found a new and permanent home with the CONCORD Assembly. Going forward, Analysis Kredits will no longer be awarded as part of the rewards.
+
+While you’ll no longer be able to earn AK, you’ll still be able to spend it in the same way you currently can, so no pilot will lose out on any rewards from phase one of Project Discovery.
+
+The only difference that will occur is that with the start of phase two of the project, the display of AK balance will be removed from the Project Discovery interface. You will however still be able to see which phase one rewards you can and cannot afford in the Sisters of EVE loyalty point store as usual.
+
+The idea with this change is to both show solid and measurable progression through Project Discovery, and simplify the issue of rewards so that they’re place directly into your redeeming system and are easier to collect.
+
+WHAT WILL HAPPEN TO PHASE ONE?
+Phase one of Project Discovery will be disabled during daily downtime on Tuesday, July 4th in order for CCP and MMOS to begin prepping the infrastructure for the release of phase two.
+
+That means that if you still want to play phase one, this weekend is your last chance to do so!
+
+Project Discovery will remain offline for one week during these preparations, before phase two is launched on July 11th with the deployment of the July release.
+
+CAN I TRY OUT PHASE TWO NOW?
+You sure can! Phase two of Project Discovery is currently in testing on Singularity, the EVE Online public test server.
+
+You can find more about testing phase two in this forum thread, and you can find out more about how to connect to Singularity for public testing here!
+
+As always, we welcome your comments, suggestions and feedback. Feel free to chat in the comments thread for this dev blog and let us know what you think!
+
+Team Psycho Sisters

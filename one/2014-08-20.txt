@@ -1,0 +1,39 @@
+In Hyperion (Aug 26th) we are introducing a change that will allow you to share overviews in the game with any pilot in New Eden. This has been requested quite often and ties in very well with improving tools for player groups and those who want to share setups with their friends. We think new players and veterans alike will benefit from a new, comprehensive means of sharing overview settings in-game, as well as importing and exporting them.
+
+The shareable overview profiles will contain all the settings from the Overview Settings window. This includes tabs and tab presets loaded in them, as well as global overview settings such as colors, priorities, blink settings, and column order.
+
+In case you are not familiar with how the settings for the overview work, here are the basics:
+
+The overview can have up to 5 tabs.
+Each tab has a label, which is set independently from the presets that are used by the tab.
+Each tab in the overview has:
+i)  a preset that controls what's visible in the overview itself when that tab is selected (overview tab preset);
+ii) a preset that controls what brackets are visible in space when that tab is selected (bracket presets).
+These presets can be assigned either by right-clicking on the each tab and loading them from the right-click menu, or in drop downs in the Overview Settings window.
+Each tab preset defines which entity groups are visible as well as what should be filtered out due to its state (such as whether a pilot is criminal, in your fleet, or has high standing).
+All other settings are global for the overview.
+
+So how does it work to share the overview?
+
+If I want to share my overview, I open my Overview Settings window, and there in the upper right corner is a UI element (easily recognized by the text ‘Share’) which I can drag into chat (or any text input field in the game) to share it with people I'm chatting with.
+
+When I drop this element into chat, my client sends my overview settings to the server, which stores them. Then any time someone clicks the link, the overview settings are fetched from the server and loaded in the client for the player who clicked the link. No one ‘owns’ that overview profile on the server and anyone who has access to that link can load the overview. 
+
+If you want to change the text of the link, you can click on the text next to the ‘Share’ element and modify it. Please note that only saved tab presets are included in the shared overview profiles.
+
+After you have created an overview profile link, it works like any other link. It can be dragged to any text input field in the game, such as MotD, corp descriptions, corp bulletins, notepads, bios, etc., so it should be easy to share with the people you play with, as well as keeping a library of your favorite overview profiles.
+
+Loading an overview only means you are loading that overview profile at that time to your client, but after that you are free to make any changes to the overview without affecting the overview profile the link represents.
+
+
+
+We included a history tab that will list your last 15 loaded overview profiles and when you loaded them last. There is also a ‘restore’ button, which will restore your overview back to what it was before you loaded the last overview profile, which can be handy if some joker links you a bad overview profile. Please note that this history is only stored in your local settings for that user so we recommend storing profile links you want to keep around in more permanent places such as the in-game notepad or character bio.
+
+The overview profile links are meant to replace your current overview with the linked settings. When sharing an overview profile, it will only include the tab presets that were actually in use in the overview of the player that created the profile. If you have specific needs, such as importing more tab presets or avoiding the override of global settings, importing and exporting is the way to go. Import and exporting will be more of an advanced option than before, so we have moved it to the options menu of the Overview Settings window to reduce clutter in the interface.
+
+It’s worth noting that the exporting of overview setting has been improved and it will include all the settings covered in this blog. The output of the new export is a YAML file. For the time being it will be possible to import old XML files, but that is something we want to remove so we encourage you to re-export those settings in a YAML file.
+
+In addition to this, we have made various changes to the Overview Settings user interface, particularly in the Tab Presets such as adding a filter to the ‘Types’ section, moving menu options to more appropriate places and changing the representation filtering in the ‘States’ section.
+
+Fly safe!
+-CCP karkur

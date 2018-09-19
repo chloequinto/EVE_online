@@ -1,0 +1,108 @@
+Hi pilots, this is CCP Sharq and CCP Fozzie from Team Five 0.
+
+We’ve been working hard on a number of improvements for the Mosaic release that’s headed your way on April 28th. For Mosaic, Five 0 focused on a few key features:
+
+We’ve been carefully sculpting some usability changes for the role managing system for Corporations in EVE Online
+We’ve been updating ship and module balance with help from your feedback
+We’re adding two new challenging Burner Missions for the most daring and skilled mission runners
+We’re implementing the next set of changes to Nullsec and Sovereignty, focused on mining and infrastructure
+This blog will contain details on the first three features listed above. CCP Sharq will be showing off the new corporation role management user interface in all its glory and then CCP Fozzie will walk you through the balance changes and new missions. The nullsec and sov changes in Mosaic will be described in detail along with more updates in another blog.
+
+THAT’S HOW WE ROLE: THE FUTURE OF CORP MANAGEMENT
+IN SEARCH OF AN EASIER SYSTEM
+Instead of fundamentally changing the functionality of the system that governs who can do what within a player corporation, we took a pallet knife to the UI, triaged the biggest issues people have with the current system, and threw away excess stuff to make a lighter system that is easier to navigate and manage.
+
+
+
+JOINING ROLES AND GRANTABLE ROLES
+Under the current system, the number of screens needed to set roles was a whopping 19 screens. That is a lot to go through. This is how the tree structure was:
+
+Roles
+General
+Station Services
+Accounting
+Hangar Access (HQ)
+Container Access (HQ)
+Hangar Access (Based at)
+Container Access (Based at)
+Hangar Access (Other)
+Container Access (Other)
+Grantable Roles
+General
+Station Services
+Accounting
+Hangar Access (HQ)
+Container Access (HQ)
+Hangar Access (Based at)
+Container Access (Based at)
+Hangar Access (Other)
+Container Access (Other)
+Titles
+Consolidating Roles and Grantable Roles was one of the key ingredients of this effort. By adding a tristate checkbox, we sliced the number of screens in half.
+
+These states are:
+
+  Unchecked for no role
+/ Half checked for Role
+Fully checked for Grantable role
+Before the change there were 6 of these screens to deal with hangars
+
+
+This is the access screen after the change
+
+
+HANGAR AND CONTAINER ACCESS CONTROL
+Previously, in order to deal with hangars and containers you had to go through a total of 12 screens, 6 for the standard roles and 6 for the grantable variants. With roles and grantable roles merged, this number was reduced to 6. On top of that we created a checkbox matrix allowing all access controls (whether HQ, Base or Other) to be on the same screen, cutting the original 12 screens down to 1. Not only does this make assigning these controls easier, but also gives you a much clearer overview of all the access controls for a corp member.
+
+ALL TOGETHER NOW!
+All in all, these changes bring the total number of screens for role management down to 5 from the initial 19.
+
+SLIDE FROM SIDE TO SIDE
+One of the corp management features our players frequently requested is the ability to see all the content of each screen in the smallest resolutions. Instead of band-aiding that by adding a side scroll feature to the content, we tilted the column headers making them vertical. The labels get cut if they exceed the header height, but you can always hover over to get a tooltip with the full text string. This change solves the scrolling problem (all the screens fit in the minimum resolution) and also helps with tightening the checkbox matrix.
+
+
+Before
+
+
+After
+
+SEARCH FUNCTIONALITY
+We also added a search field in the role management where you can search by a member name. The search widget is a new EVE UI component that gives you results from your text input in a dropdown that you can then select your results from
+
+
+
+MORE CHANGES… LATER
+Ultimately, there are more things the team would like to do with the corporation management system, like additional quality of life improvements we can implement to make dealing with roles better. High on our list would be mirroring this new functionality in the title management system, as we’re aware that many corporations use these instead of roles, but in the meantime we are helping with the work on the new sovereignty system so more improvements will have to wait for now. Rest assured that we would like to get back to this, so stay tuned for future corp work from Five 0 and toss more suggestions for us in the comments section of this blog!
+
+This feature is now live on the Singularity test server, please log in and check it out!
+
+AS SEEN IN YOUR FEEDBACK: BALANCE CHANGES IN MOSAIC
+THE CONFESSOR AND SVIPUL
+In the Rhea and Tiamat releases we introduced two of the most exciting new ships EVE has seen in a very long time. The Amarr Confessor and Minmatar Svipul are the first two members in the new Tactical Destroyer class, and have the ability to change between three different tactical modes on the fly. We’ve been very happy to see players embracing this new gameplay and enjoying the ships, but we’ve also been hearing the legitimate feedback that these ships are a bit too powerful relative to their competition.
+
+We originally announced a set of balance changes to these two ships on the o7 show earlier this month, and while those changes achieved our main goals we heard more feedback from the EVE community letting us know some of the areas in which these changes could be improved. So we’ve gone back to the design and released a new and improved version of the proposal.
+
+Under the new design, the Confessor and Svipul will move to 4 turret slots, and gain a new +50% damage role bonus. This allows us to more effectively balance the fitting requirements of long range and short range weapons. All the details of these changes can be found in this forum thread, and we want to thank everyone who helped us improve the design with your excellent feedback so far.
+
+WARP SPEEDS
+Another set of balance changes that we’ve been working on alongside feedback from the community and CSM is a set of tweaks to warp speed for battlecruisers and warp rigs.
+
+In Mosaic we are increasing the warp speed and acceleration of all Battlecruisers by 8% to bring them in line with the rest of the ship size progression. We are also making a change to the penalties of warp rigs that will hopefully make them much more attractive to pilots who highly value the warp speed of their vessels. All warp rigs will now have a penalty to signature radius, instead of the old penalty to CPU capacity.
+
+You can find all the details and discussion of these changes in this thread.
+
+CLOSING THE GARAGE DOOR
+One final balance change that Team Five 0 has sourced from your feedback for Mosaic relates to the tactic known as “garage door cynos”. This tactic was taking advantage of starbase shield mechanics to provide for extremely safe movement of supercapital ships. After discussion internally and incorporating your feedback, we’ve decided to make changes that prevent this mechanic from allowing such safe travel. All the details and feedback can be found in this Features and Ideas thread.
+
+YOUR MISSION IF YOU CHOOSE TO ACCEPT IT: MEDIUM BURNER MISSIONS
+When we introduced the first Burner Missions last year and the second round a few months later, we were very glad to see players enjoying the challenge provided by these extremely difficult missions. Burners are special rare missions with increased reward, much higher difficulty, and with no penalty for declining or failing. The first sets of missions were unique in that they only allowed frigate-sized ships entry, providing an optional challenge for mission runners looking for an occasional change of pace.
+
+We’re now ready to return to these disparate groups of elite freelance pirates and this time their bases can be accessed by cruisers and battlecruisers. The next round of Burner missions will also be more distinct from each other, with unique gameplay mechanics and combat environments for each mission.
+
+In the Mosaic release we will be adding the first two of these new Burner Missions.
+
+One mission will challenge you to hunt down a group of three Serpentis Corporation elite test pilots who went rogue and stole new experimental ship technology. Entering their base will drop you in the center of a minefield of proximity-activated defense turrets. Getting within 10km of any individual turret will activate it and add extra damage that you’ll need to deal with. Defeating these pirates will require successfully navigating the field of turrets while managing your transversal against their advanced long range weapons.
+The second mission will pit you against a charismatic captain who broke away from the Blood Raider Covenant and has begun collecting fanatical followers. Defeating her supercharged Ashimmu will require building a ship capable of operating under extreme Nosferatu pressure and breaking her excellent tank. Her followers complicate matters by dealing a different damage type and using tracking disruptors.
+We hope you enjoy these new missions and we look forward to releasing more to you in the upcoming releases.
+
+All of the features mentioned in this blog are available for you to try out on our Singularity test server right now. We hope you have enjoyed this blog and we look forward to getting all these features and more to you in our Mosaic release on April 28th. Fly safe!

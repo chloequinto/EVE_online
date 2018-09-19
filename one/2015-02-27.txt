@@ -1,0 +1,130 @@
+Howdy Ishtar lovers
+
+Although us balance-oriented folks have been very busy working on things like the NPE and Sov (!?), we took some time aside to put together a high-impact pass for Scylla (March 24) and I want to tell you about it!
+
+As always, we are reading your feedback, monitoring spaceship trends in New Eden and doing retrospectives on our past changes. Based on those channels, I want to go through some of issues that we feel warrant change and also discuss one that we feel doesn’t.
+
+Let’s start with some changes:
+
+THE ISHTAR
+
+The problem: Ishtars are too good. They are squashing out diversity in several environments because of their excellent damage projection and solid survivability
+
+
+
+Our thoughts: - First, we wanted to establish whether the problem was more about the Ishtar or more about Sentry Drones. The data makes a pretty convincing case that it really is mostly the Ishtar. While several other ships (Dominix, Navy Vexor, Archon, etc.) are making use of sentries, none of them are anywhere near as sentry reliant as the Ishtar and none of them are coming close to the overall damage that Ishtars represent on TQ. After deciding to just make a change to Ishtars, we considered what approach would be the most elegant. Options included changes to the bonuses, changes to base attributes (moving a mid slot was one example here), or possibly screwing around with sentry drone bandwidth use and adjusting other ships as needed. Eventually we settled on the bonuses, even though it means having the only drone damage bonus below 10% per level in the game.
+
+Changes:
+
+10% bonus to Drone hitpoints and damage becomes 10% bonus to Light, Medium, and Heavy Drone hitpoints and damage, 5% bonus to Sentry Drone hitpoints and damage
+During this analysis we noticed that Bouncers are a lot more popular than other sentry types so we’re going to adjust their range slightly
+All bouncers Optimal Range reduced by approximately 15%, falloff increased by the amount taken away from optimal, details here
+THOSE GOSH DARN TENGUS
+
+The problem: We’ve been saying for a long time that T3 cruisers are in need of a rebalance. Subsystem variation isn’t nearly as high as we would want, certain configurations are too strong and overall the class doesn’t represent the kind of flexibility we want from Tech 3. We still don’t have time to do the full pass quite yet, but we don’t feel okay letting the strongest configurations continue to run rampant without change.
+
+
+
+Approach: The extreme resilience provided by the defensive subsystems is where we want to focus our efforts for now. This group of subs is allowing effective hp numbers that far exceed that of competing classes (like more than double), even though Tech 3 cruisers offer plenty of extra utility and compare fine in areas like signature and damage. By lowering the % hp bonuses from 10% to 7.5% for the Proteus/Legion and from 10% to 5% for the Tengu we expose a little more tradeoff for that added flexibility. We still have a more complete balance pass scheduled for Tech 3 cruisers, but for now this will help bring the class in line.
+
+Changes:
+
+Legion Defensive - Adaptive Augmenter
+
+Signature Radius: 140 (-14)
+Legion Defensive - Augmented Plating
+
++7.5% Armor HP per level (previously +10%)
+Signature Radius: 154 (+7)
+Legion Defensive - Nanobot Injector
+
+Armor HP: 3750 (+150)
+Legion Defensive - Warfare Processor
+
+Signature Radius: 147 (+7)
+Loki Defensive - Adaptive Augmenter
+
+Signature Radius: 125 (-5)
+Loki Defensive - Adaptive Shielding
+
+Signature Radius: 130 (-13)
+Loki Defensive - Warfare Processor
+
+Signature Radius: 143 (+13)
+Proteus Defensive - Adaptive Augmenter
+
+Signature Radius: 160 (-16)
+Proteus Defensive - Augmented Plating
+
++7.5% Armor HP per level (previously +10%)
+Signature Radius: 176 (+8)
+Proteus Defensive - Nanobot Injector
+
+Armor HP: 3650 (+150)
+Proteus Defensive - Warfare Processor
+
+Signature Radius: 168 (+8)
+•  Tengu Defensive - Adaptive Shielding
+
+Signature Radius: 150 (-15)
+Tengu Defensive - Supplemental Screening
+
++5% Shield HP and +3% Shield Recharge Speed per level (previously +10% Shield HP)
+Shield Capacity: 3550 (-200)
+Signature Radius: 165 (+7)
+Tengu Defensive - Warfare Processor
+•  Signature Radius: 157 (+7)
+“SKYNET”
+
+Problem: Carriers and Super Carriers assisting fighters to small, fast ships from the virtually 100% safe edge of starbase shields is becoming more and more common. Victims and perpetrators alike are expressing frustration and it’s time to take action.
+
+
+
+Approach: Rather than a data based decision, this one is really about design philosophy. In general, we want there to be risk associated with power. We also want to promote active gameplay as much as possible. We're failing on both with Skynet by having very little risk associated with something rather powerful, and we're also not providing any gameplay to the carrier pilot.
+
+However, this problem quickly leads us down a path of needing to redesign capitals in general (which would be nice but it isn’t happening just yet). We also have some hesitation about the lost tactical gameplay that comes from larger scale applications of fighter assist. That said, this problem needs to get addressed. We discussed choosing to expose Skynet carriers to more risk rather than taking away the ability to assist fighters, but in the end this solution felt more convoluted and in reality would probably end skynetting but would still leave a strange and unneeded mechanic in the game.
+
+Therefore our proposal is to simply remove fighter assist.
+
+Additional notes: Removing fighter assist raises the question of whether or not fighters should still warp. We would lean towards not, as usually it is undesirable to have your fighters go chasing off grid when you want the damage to stay put. But, once again this chips away at fighter uniqueness. We would really appreicate feedback on this issue so please tell us what you think.
+
+MEDIUM RAILS
+
+Problem: We over-buffed a bit here. The result is that fleet meta is heavily favoring rail doctrines in most cases that drones aren’t the main damage source.
+
+Approach: - Quick looks at usage metrics show that even though we are in the best place for medium weapon balance in TQ history, rails show a pretty significant advantage in damage done over beams, arties and heavy missiles, as you can see below:
+
+
+(click to enlarge)
+
+Note: look at those “Drake era” heavy missiles, goodness gracious!
+
+Proposed change: We want to reduce rate of fire for all medium rail guns by 7.5%. This brings their actual dps down by about 7%, which puts them in a more even place relative to other medium long range weapons, opening up some more flexibility in fleet comps for other cruisers.
+
+Note: Shout-out here to CSM member mynnna for a great internal discussion on this topic. He raised the point that if you look at these weapon systems on their own, rather than comparing the ships using them, they look very balanced. It would follow then that the problem is more about Tengu, Eagle and Vulture than about rails. However, we can never look at weapon systems or ships without taking the other into consideration. The relationship between cap use of energy weapons and ships with cap use bonuses for energy weapons is another good example where trying to look at one without the other causes problems. We are therefore happy to consider balancing via the weapons or the ships depending on which fits the situation best. In this case, we are happy to use rails as the avenue because it is much simpler for us to design and you to adjust to.
+
+BATTLECRUISER AND BATTLESHIP VIABILITY
+
+Problem: Strong community sentiment that battleships and battlecruisers are not viable currently and that the biggest reason is warp speed changes.
+
+
+
+We took a fresh look at this issue to make sure we were on the same page as a game design department and this is how we approached it: we started by going over usage metrics and once again saw that clearly that both classes are getting heavy use and are being effective by any measure we have available. Have a look at this awesome graph of PVP damage by class:
+
+
+(click to enlarge)
+
+It is also clear that with the HAC rebalance, along with bomber popularity, combat BCs are not getting as much action as they did when they were the end-all class in EVE a couple years ago. As the meta shifted away from combat BCs down to more frigs and cruisers, battleships aren't the right answer as often as they used to be. One good result here is that we see much higher damage per attacker the larger the classes get, generally, i.e. fewer battleships in space, but, when they are used they are potent. Finally, we talked about warp speed changes and once again considered whether the tactical depth added is worth the inconvenience of roaming in battleships and agreed that it is. An interesting point of comparison is agility and align time. We would all want our ship to align as fast as a Stiletto, or at least a Stabber, but if everything at the same align time we would lose a lot of strategic depth.
+
+Proposed change: None. We are pretty happy with the state of class variation right now and see no reason to make changes.
+
+THE END PART
+
+That’s what I have for you for now. Even though there is so much more to do (hello bombers, supers, ECM and missiles!), we believe ship and module balance in EVE is in one of the best positions we’ve seen in a long time. We hope to keep improving based on these great guiding principles that my colleague and dance partner, CCP Fozzie, outlined some time ago:
+
+We rebalance to improve the variety of ships and modules that are viable for our players to both fly and produce.
+We rebalance to shake up the combat meta and give smart players opportunities to show off their abilities by becoming the first to find new powerful tactics.
+We rebalance to keep different tactics and systems in check and prevent overpowered mechanics from ruining enjoyment for everyone.
+Thanks for reading, see you in space o/
+
+@CCP_Rise

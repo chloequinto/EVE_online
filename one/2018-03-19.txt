@@ -1,0 +1,156 @@
+Hi Spacefriends,
+
+CCP karkur here to tell you about a few little things we’re bringing you in the March release and also about a few other that have been deployed in the past few months.
+
+It's been quite a while since I wrote one of these blogs, so after discussing the newest changes, I want to cover some of the past changes that have happened based on your suggestions, comments and requests.
+
+For a while now we’ve all been working together on a lot of little changes and quality of life improvements. Through various channels, the community has been very active in suggesting all sorts of improvements you'd like to see to the game, and we have been collecting and implementing some of them as time and priorities have allowed.
+
+The newest suggestion thread is here, and if you have further suggestions, we encourage you to post them there.
+
+(PLEASE use the correct format or you'll risk your suggestion becoming lost!)
+
+FLEET CHANGES
+In the March release, we have a few changes that have been widely requested by logistics pilots.
+
+First of all, we’re adding the ability to color code the fleet 'Watchlist'.
+
+This one should be handy for all pilots, especially those flying logistics ships, so they can clearly see in their watchlist who their FCs are, anchors, other logistics pilots, cap buddies, special space snowflakes or whoever you want to mark specially. To assign a color to a fleet mate in the Watchlist, you enter a special 'Color mode' through the option menu in the Watchlist window and little color pickers are added to the entries in the window.
+
+colorcodeWatchlist
+
+Getting targeted is commonly known as "being yellow boxed", given the yellow bracket that appears around the ship of the attacker. As many of you probably know, once you see a lot of yellow boxes suddenly appear in space, you are likely to be the enemies' next target. However, logistics pilots, FCs and other key people in the fleet are frequently targeted by their own fleet, as they are pre-locked by the logistics wing to give a better chance of keeping them alive. (To be honest, I always get a bit nervous seeing that yellow box, even though I know it's in my best interest, and it makes it harder to see when I'm actually being targeted by the enemy.)
+
+In order to help you see when you are truly "yellow boxed" in the "incoming-attack-sense", we are changing it so when a fleet member targets you, the bracket around their ship will be in the fleet color rather than yellow. By default, it will therefore be purple, but if you have changed the color of the fleet flag to be anything else, the targeting bracket will be of that color. Yes, I do know you can change the fleet color to be yellow, but if you do, that´s kind of on you, isn´t it?
+
+If for any reason, your fleet mate attacks you, the bracket will change color and become red, just as before.
+
+beforeAfterBrackets
+
+Another small change we are making to help out logistics pilots, is to include the ship type name in the broadcast for reps. This has been frequently asked for by logistics pilots all over, who would like to know the type of the ships that are in trouble, so they can prioritize the broadcasts and evaluate if they even have a chance to save the ship at all.
+
+broadcastWithShipType
+
+OTHER CHANGES
+Within certain circles, such as the Incursion community, fleet tags are frequently used. A common suggestion has been to have the tags displayed on the target in the target bar, so we will be adding them there. Additionally, we are changing it so now they will be able to untag targets, in case a mistake was made, or tactics have changed since the tagging.
+
+tagOnTarget
+
+I find the Compare tool pretty useful but to be honest, it can be a bit difficult to find what differs between the items you are comparing because there are so many attributes and many of them have exactly the same values for the compared items.
+
+We are adding an option in the 'Compare tool' that will allow you to filter the Attributes list so it only displays those attributes whose values are not the same for all the items you are comparing. Hopefully it will make it will make it easier for you to drill down to what are the real differences between the items and what are the trade-offs.
+
+compareTool
+
+Structures have been making their mark in the landscape of New Eden, and it therefore seems appropriate that they get their own tab in the solar systems' 'Show Info' windows, rather than being lumped in with Orbital Bodies, which they technically are not. Please note that just as before, the show info window will only show you those structures you have access too.
+
+Many pilots out there, yours truly included, find it hard to figure out which solar systems they can enter without the Faction police hunting them down. To make that easier, we have now included a tooltip on your security status in the 'Character sheet', informing you in which solar systems you should watch out for the police.
+
+securityStatus
+
+Other changes we have in the March release:
+The results from ship scans are now organized by slots
+The HQ listed in Show Info windows for corporation will now be a link
+A tooltip has been added to the standing icon in the show info window to show what that icon is based on (player to player, player to corp, alliance to corp etc).
+The height of the 'Duration' drop down in market orders have been increased, so all entries fit without scrolling
+The Salvage option for salvage drones has been moved to the top of the right click menu
+Volume information has been added to the 'Material input' and 'Output' tooltips in the Industry window
+The right click options that have been categorized as potentially especially destructive will now have a red ! in front of them. Among other things, we hope this helps to make it easier to differentiate between 'Reprocess' and 'Repackage'.
+The contents of the 'My Structures' tab in the 'Structure browser' can now be fitered by typing a structure type or region in the filter field.
+Shuttles and pods now have 90% reduction to effective distance traveled for jump fatigue.
+Past Changes:
+In EVE Online: Lifeblood, we released a small change to help you quickly see the magnitude of numbers you enter in buy or sell orders, contracts and any other input boxes. If a number higher than 10k has been entered in any input box, it now has a tooltip writing out the amount, for example:
+
+45343 => ˜ 45.3 thousand
+25000 => 25.0 thousand
+9999000 => ˜ 10.0 million
+15545640000 => ˜ 15.5 billion
+In addition to this, we added this tooltip to a few handpicked numbers, such as the total in the Sell Item window and the total in the Buy window. If you know of other places where this tooltip would be useful, please let us know ??
+
+In Lifeblood, we also added a new type of radial menu, the fleet broadcasting radial menu. To use it, you need to assign a shortcut through the ESC window, and when that key is held down and a radial menu is activated, you get the broadcasting options rather than the normal options.
+
+To help you better distinguish it from the normal radial menu, this one is tinted in the fleet color (usually purple). This radial menu will allow FCs to broadcast their commands, such as target, warp to and align to. In addition, it allows normal squad members to broadcast for reps, either by activating the menu on themselves or their ship, or by activating it in empty space.
+
+During the EVE Vegas livestream where Community fittings were being discussed, one of you suggested in the twitch chat that we add filter in the Fitting window to filter out ships and fits you didn't have skills for. I thought that was such a good idea that I might even have confirmed there and then that it would be added, and shortly after it was deployed to TQ.
+
+And finally, here is a list of some of the other changes we've made together over the last year or so:
+
+When a pilot invites you to fleet, the message you get will include a link to that character's info.
+When the fleet boss quits, a fleet role will now be passed on to the highest-ranking member in the fleet that is at the top of the list in the UI, so people can make sure they fill those spots by people who are available.
+Heavily relaxed the squad and wing size restrictions to 256 members per squad, 25 squads per wing and 25 wings per fleet. Note: Fleets are still restricted to the same max size.
+Fleet members in Structures now show as docked in the 'Fleet Composition' window.
+Added shortcuts for broadcasting Warp/Align/Jump To.
+Added the ability to set a max size for a fleet.
+A fleet can now be created with a saved setup.
+The 'Watchlist' now shows ship icons.
+Reduced the delay in the 'Fleet Composition' window from 60 to 20 seconds.
+A fleet can now be created with a saved setup.
+Double clicking a member in the 'Watchlist' no longer opens the show info window for the pilot.
+Re-targeting an already locked watchlist member will now select them.
+The ship belonging to the member in your 'Watchlist' will show as highlighted if you mouse over the them, making it easier to find people on the field.
+The creator of a fleet is now put in the FC position, instead of the SC position.
+The 'Fleet' window no longer closes automatically when you leave a fleet.
+The health bar of an individual fighter in a squadron is now be colored based on the health of the fighter
+Added cycle time and yield to the tooltip for fitted mining and ice harvesting drones.
+Added a 'Launch Drones' shortcut: By default this acts like right clicking on 'Drones in Bay' and selecting 'Launch Drones', but you can now also select a favorite drone group to be the default target for this shortcut (Saved per hull type).
+Expanded the 'Engage Drones' shortcut to also give the 'Mine Repeatedly' command to any mining drones.
+Added a number of assignable shortcuts for various fighter actions (they are unassigned by default but can be set up in the Esc menu)
+Relaxed the throttling on giving orders to Fighter Squadrons. This should result in less occurrences of busy squadrons during high APM usage.
+A fighter squadron launched from a structure will now undock from one of the structure's frigate undock points
+The ship name in 'Fitting management' windows is now a link to the info for the ship type.
+It is now possible to suppress the confirmation pop up windows for offlining weapons, offlining modules, which are part of a group, and unfitting modules, which are part of a group.
+Obsolete modules in a fit are now displayed red with a warning tooltip in the fit's window
+Added an icon with a tooltip to the top left of fitting simulation that lists any missing skills for the fit (Which includes copy to clipboard and buy all buttons).
+Boosters/Drugs can now be saved in ship fittings.
+Added a 'Current Ship' filter to the Hulls & Fits panel.
+Added the 'Buy all' option to the right click of the fitting entries in the fitting browser.
+The 'Item type' field in 'Wallet>Transactions’ is now wider and has a 'Clear' button.
+The 'Member' field in 'Corporation Wallet >Transaction' now has a 'Clear' button.
+A text filter was added to the 'LP store'.
+Alliances are now autolinkable in chat like Corporations, Solarsystems, etc.
+The 'Message' field when adding contacts is now disabled unless you have the 'Send notification' checkbox checked.
+Items can now be dragged into the 'Market' search field, as well as to the filter in 'Inventory' windows.
+Added a character limit counter to the edit window for the 'Welcome Mail' for corporations.
+It is now possible to drag and drop character names into the search boxes for 'Deliver Items To', 'Add Members' to access access list and 'Find Invitees' for calendar events.
+Structures now have a bio/description section where owners can list pertinent information about their structure.
+Text fields with character limits now correctly take html tags into account.
+Added the quantity of remaining ammo for the currently loaded type to the right click menu.
+The right-click menu option to repair a module shows now the needed quantity of Nanite Repair Paste.
+Added a duration countdown to the tooltips of modules with very long durations (Siege, Doomsdays, Cynos).
+Module repair progress is now saved properly when jumping through a gate while a module is still repairing.
+Added an option to reload the ship and fighter HUD to the 'Reset Settings' tab of the ESC window.
+Number of days in corp was been added in the 'Employment history' tab.
+Custom Offices now have proper right click options.
+It’s now possible to copy/paste blueprint info from the 'Industry' window.
+The 'Days to Complete' box when creating 'Courier contracts' is now a bit wider.
+The ‘Selected Item’ info on Stargates now includes a color coded security status of the destination system.
+Pilot and ship images in the 'Selected Item' window are now draggable and can be dragged and dropped to chat.
+Casting a vote in a corporate vote no longer collapses all votes in the window.
+To reduce notification spam, you no longer receive a notification when a bounty is claimed, which you placed more than 6 months ago.
+When jumping to a jump clone would cause the deletion of an existing clone in the pilot's current station, the pilot is now given an detailed list of that clone‘s implants to avoid them accidentally being lost.
+When unfitting a clone bay service module, a new popup message will inform you about how many jump clones would be destroyed by that action
+Added a confirmation pop up window for closing the mail compose window to avoid losing a lot of text accidentally.
+The 'Unplug Implant' confirmation window now includes the name of the implant you are unplugging.
+Systems in the Constellation show info window are now sorted alphabetically.
+Added Estimated Price column to 'Inventory' windows
+Added an option to the 'Inventory' window to allow sorting by Estimated price (right click option in icon view, column sorting in other views).
+If an alliance or corporation has more than 100 finished war, the 'War history' tab of their Show info windows, the wars are divided into years.
+Added packaged volume information to the price tooltip in the 'Multibuy' window.
+Added a volume column to the results given by a 'Survey scanner'.
+'Offer ISK' option now defaults to 100isk instead of your total wallet balance.
+It‘s now possible to copy the 'Fitting and Content' section of Kill Reports.
+Added a 'Buy missing material' option to Industry window.
+Changed the output for the 'Copy Material Information' in the 'Industry' window to make it compatible with the 'Multibuy' import, as well as, third party applications. The information will now be copied in this order: 'ItemName', 'RequiredAmount', 'AmountAvailable', 'Est. Unit price', 'typeID' (used to be 'typeID', 'ItemName', 'AvailableAmount', 'RequiredAmount', 'Est. Unit price')
+Improved the 'Multibuy' window by adding an 'Export from Multibuy' option and an 'Add order to Quickbar' option.
+Fixed an issue that would cause the copy contract option to consider your active ship as a viable item to be contracted.
+Ship groups are now listed alphabetically in the ship restrictions window for mission sites.
+It is now possible to directly create bookmark tokens from corporation bookmarks, without having to first copy the corporation bookmark to a personal bookmark.
+Capacitor/Shield fully recharge upon docking/undocking from Structures,
+Increased the maximum allowed duration of contracts to 4 weeks.
+That's all for now!
+
+If you'd like to chat more about this blog, here's a link to the comments thread on the Official Forums!
+
+Fly safe o7
+
+CCP karkur

@@ -1,0 +1,106 @@
+Here follows a complete description of changes regarding ship travel being shipped in the Phoebe release on November 4th, for your edification.
+
+Changes in bold.Explanations in italics.
+
+**JUMP DRIVE RANGES**
+Jump Drive Calibration (JDC) skill bonus reduced from 25%/level to 20%/level.
+Primarily to allow us to make base ranges whole numbers while hitting our target ranges – a 2.25x multiplier leads to lots of repeating decimals.
+
+Titan base jump range reduced from 3.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Supercarrier base jump range reduced from 5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Carrier base jump range reduced from 6.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Dreadnought base jump range reduced from 5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Combat capitals (i.e. the above listed classes) brought down to a universal 2.5LY base range, for uniformity, ease of fleet logistics, and to make multiple jumps still be necessary in many situations over the shorter deployment ranges expected post-Phoebe.
+
+Rorqual base jump range reduced from 3.5LY to 2.5LY, for a new maximum range of 5LY with skills.
+Rorqual is – for now – keeping its 20%/level drone damage bonus, and consequently being balanced alongside other combat capital ships. This ship needs further balance work, and these numbers will probably change when that happens.
+
+Jump Freighter base jump range remains at 5LY, for a new maximum range of 10LY with skills.
+Jump freighters are slightly reduced in range, but the max range we want is achieved by the JDC change without needing further adjustments to the ships themselves.
+
+Black Ops base jump range increased from 3.5LY to 4LY, for a new maximum range of 8LY with skills.
+Minor range increase after JDC changes are taken into account, to create nicer numbers and err on the side of being generous to Black Ops given the impact of other changes.
+
+**GATE MOVEMENT**
+Carriers, dreadnoughts, supercarriers, titans and capital industrials can now use stargates, provided they do not lead into a highsec system.
+We want to reduce the usage of jump drives (see below), but we don’t also want to lock ships into particular systems. We also want to encourage more gate-to-gate traffic and allow more ships to use gates!
+We’d like to allow capitals into highsec without restriction in the future, but it’s a major change that is for a later time. For now, this maintains the status quo in highsec.
+
+**JUMP FATIGUE**
+New mechanic added: Jump Fatigue
+This constrains jump-aided movement over time, encouraging such movement methods to be used rarely and locally. Fatigue and related mechanics never arise from or apply to stargate travel.
+
+Jump fatigue is expressed as a time value, indicating the duration over which it will take to decay to 0. This value counts down in real time.
+Jump fatigue has a minimum amount of 10 x (1 + (LY traveled)) minutes after a jump. Jump fatigue has a maximum amount of 30 days.
+Jump fatigue is otherwise multiplied by 1 + (LY traveled) after each jump.
+This allows us to discourage people travelling longer distances using jump travel, while keeping penalties relatively light for tactical/occasional movement.
+
+After each jump, pilots gain a jump cooldown timer which prevents them using a jump drive/jump bridge/jump portal again until this cooldown has expired.
+The length of the timer is dependent on the amount of fatigue present on the pilot when the jump is executed.
+The length of your timer, should you jump right now, is displayed in the fatigue tooltip.
+There is a minimum length a timer can be, equal to 1 + (LY traveled) in minutes.
+The cooldown timer is the thing that actually constrains movement.
+
+
+
+
+
+Certain ships have bonuses to “effective distance traveled for the purposes of jump fatigue”. This multiplies with the (LY traveled) element of the above expressions.
+Note that it does not affect the “1 +”; this prevents fatigue from being reduced by very short jumps.
+
+Ships in the following groups gain a 90% reduction to effective distance traveled: industrial, blockade runner, deep space transport, freighter, industrial command ship, capital industrial ship, jump freighter.
+This eases the impact of these changes on alliance logistics for the time being. We would like to remove these bonuses in future, but we don’t feel nullsec industry is in a sufficiently strong place that it would be prudent to do so right now.
+
+Black Ops ships gain a 50% reduction to effective distance traveled.
+Ships using a Covert Jump Portal similarly gain a 50% reduction to effective distance traveled for that jump; this multiplies with other similar bonuses.
+This eases the impact on Black Ops operations, which are not a primary target for these changes. Note that a) we are expecting to need to tune these numbers in the short term as we see how they play out after Phoebe’s release, and b) these ships are in need of larger balance attention, at which time these numbers might change further.
+
+**MEDICAL CLONE MOVEMENT CHANGES**
+
+
+You can normally only move your medical clone to the station you are currently docked in.
+You can always set your medical clone to your starter corporation’s HQ station.
+This removes the method of moving your clone and then podkilling yourself to quickly teleport at will.
+
+Once per year, characters can move their medical clone to either their corp HQ, or any station in which their corporation has an office. This option does not accumulate if it is unused.
+For characters less than 30 days old, every time they change corp this counter will reset and they will be able to move their clone again.
+This makes it easier for new players to move to where their new corp is based, now that they can no longer podjump there. Older players are assumed to be capable of relocating themselves without assistance.
+
+**THE FUTURE**
+“And with the force projection changes, we're starting of course earlier that we had maybe planned before to touch sovereignty and so on, and we will just keep rolling with this, in the phases that we're outlined in the devblog about the long-distance travel changes, and I'll just recap them here. The first phase is the changes we are shipping now in Phoebe, and the phase coming after that, which is really starting in 2015 right away, is real changes to nullsec space holding and infrastructure, and as soon as we get to more interesting pieces — we have plans for revamping corporations, alliances, structures, and so on — we also start building towards more ambitious changes to the sandbox gameplay — more things to do, more player-driven infrastructure, just more interesting pieces to play with, with the overall goal to create more things to do for everything from the solo person to small groups, bigger diversity of small groups, as well as the megagroups that you guys organize. So, phase three is really about combining all the new stuff we want to do into a next level of sandbox gameplay in EVE Online.”
+
+-Executive Producer CCP Seagull, EVE Vegas 2014
+
+This blog describes the final state of affairs for what is shipping in Phoebe – barring catastrophe we will not be making further adjustments. We are, however, intending to make follow-up changes immediately following Phoebe’s release if needed, in the December 9th Rhea release as we see how things work out, and in future releases as we continue to work on nullsec issues.
+
+Thanks,
+-Greyscale
+
+Appendix A: jump fatigue examples
+Bobby Tables makes three 5LY jumps in his Archon.
+When he makes the first jump, he has no fatigue or cooldown, so incurs the minimum fatigue value (10 (1+5) = 60 minutes) and the minimum cooldown value (1+5 = 6 minutes).
+When he makes the second jump, he has waited for 6 minutes, so his fatigue is 54 minutes before the jump, and 54 (1 + 5) = 324 minutes after. His cooldown would be 5.4 minutes (10% of fatigue), but the minimum is 6 minutes so he has another 6 minute cooldown.
+When he makes the third jump, his fatigue is 318 minutes (waiting 6 minutes again), and becomes 318 * (1 + 5) = 1908 minutes. His cooldown is 31.8 minutes, or 31 minutes 48 seconds.
+
+Frankie Flowers has an Ark, and travels 3 jumps of 10LY each. Because he has a bonus, all distances are instead treated as 1LY when calculating fatigue values.
+When he makes the first jump, he has no fatigue or cooldown, so incurs the minimum fatigue value (10 (1+1) = 20 minutes) and the minimum cooldown value (1+1 = 2 minutes).
+When he makes the second jump, he has waited for 2 minutes, so his fatigue is 18 minutes before the jump, and 18 (1 + 1) = 36 minutes after. His cooldown would be 1.8 minutes (10% of fatigue), but the minimum is 2 minutes so he has another 2 minute cooldown.
+When he makes the third jump, his fatigue is 34 minutes (waiting 2 minutes again), and becomes 34 * (1 + 1) = 68 minutes. His cooldown is 3.4 minutes, or 3 minutes 24 seconds.
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

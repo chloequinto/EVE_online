@@ -1,0 +1,59 @@
+Holiday greetings from Team Security!
+
+It has been quite an eventful year and we look forward to another one starting soon. As the end of December draws near, it is the perfect time for a re-cap on how things have progressed this year and what we’re planning for the future.
+
+Policy Updates
+
+First, we'd like to go over a couple of things regarding policy updates that are going to be implemented on January 1st 2015. 
+
+ISK Buyers - 2 strikes!
+
+As we announced at FanFest 2014, we are tuning our ISK Buyer Policy up a notch. As of January 1st 2015 we will apply a new set of rules when dealing with players who do business with the real money trading (RMT) element in EVE Online. Those new rules are as follows:
+
+1st offense - 7 days ban and ISK removed
+2nd offense - permanent ban
+Players caught buying ISK/in-game items for real money for the first time after January 1st 2015 will receive a 7 day temporary ban on all their accounts AND the ISK/ISK value of purchased items will be confiscated.  Any players engaging in this type of activity a second time will be permanently banned on all accounts. 
+
+Players who have been caught before January 1st 2015 will be considered 1st time offenders and any further infraction will be handled according to the new rule. This means that anyone who has been caught buying ISK or ingame items for real money before January 1st 2015 and has received a warning or temporary ban according to the current rules, will receive a permanent ban on all accounts if they are involved in RMT element after January 1st 2015. 
+
+Multiboxing
+
+Input broadcasting and multiplexing, which have consequences in the EVE universe, are not allowed and will be policed from January 1st 2015.  
+
+You have all seen the notification on our forums about this from 2014-11-25 and read the resulting feedback and discussions in the 121 pages so far.  There is not much more to say about this matter than is already stated in the post and we trust we'll not have any trouble with this after January 1st 2015. 
+
+Refresher Course - Macro Use
+
+During discussions about the input multiplexing and broadcasting issue on forums and in tickets, we have noticed a frequent misunderstanding we would like to take this opportunity to address.  Any use of macros to interact with the game world is prohibited by EULA now, and has always been. The EULA clearly stipulates:
+
+Conduct
+
+A. Specifically Restricted Conduct
+
+3. You may not use your own or any third-party software, macros or other stored rapid keystrokes or other patterns of play that facilitate acquisition of items, currency, objects, character attributes, rank or status at an accelerated rate when compared with ordinary Game play. You may not rewrite or modify the user interface or otherwise manipulate data in any way to acquire items, currency, objects, character attributes or beneficial actions not actually acquired or achieved in the Game.
+
+2014 In Numbers
+
+Of course, no blog from Team Security should be without juicy data and shiny graphs so here are some numbers from 2014. 
+
+First, here is an overview of what the bad guys got banned for this year:
+
+
+
+Macro use is the leading cause of bans but of course a lot of those are temporary 30 day bans for a 1st offense.
+
+A further break-down of those macro bans is available in this here:
+
+
+
+Please note that this only includes the beginning of December so that month is low on the graph.
+
+Finally, here is a graph showing the total value of ISK confiscated in 2014, as well as ISK and value of assets on accounts that have been banned this year, based on some fairly conservative price estimates:
+
+
+
+And with that, this is Team Security signing off for now.
+
+Fly safe and be good!
+
+CCP Grimmi

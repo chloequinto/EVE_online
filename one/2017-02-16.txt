@@ -1,0 +1,35 @@
+Greetings Spacefriends,
+
+We hope you have had a wonderful start to 2017!  Here in the Reykjavik office, Team Genesis have been hard at work reading through the amazing feedback we receive and implementing further updates to the new player experience (NPE), released during EVE Online's November 15th expansion, Ascension. If you missed our first round of updates you can read about them here.
+
+The NPE released in Ascension gives new players the opportunity to fight alongside their character’s Empire in a story-driven experience with the guidance of a revamped Aura and the newly created Empire mentors.  Our goal was to introduce players to New Eden via an immersive narrative arc, while also lessening the steep learning curve of EVE gameplay. 
+
+During the first iteration of this experience, we have received so much great feedback from the community! We thank you all for the effort put into specific, reasoned suggestions; it has been wonderful to see how much you care about your fellow newbros! With that in mind, we’ve been working hard to improve the experience based on all your feedback as well as internal metrics.  
+
+Increased assistance from Aura for new players that die during the NPE
+There are no guarantees of safety during the NPE and it's our job to make sure new players understand how to get back to a station and board another ship. During the initial release we had the same instructions for all deaths, regardless of location or how far along the experience. We have changed this to tailored instructions dependent on where you are in the NPE when you die and also to replace the items you need to continue.
+
+This means that a new player who dies right at the beginning of the NPE, during the Research Facility site, will receive tailored instructions about returning to station and receive a new Corvette whereas a new player that dies during the final site, the Drifter Zenith, will be guided back to station and given the modules they may have lost. 
+
+Decreased complexity during station visits
+There is a lot of information to teach players during the initial experience. We discovered some areas of improvement from the feedback we received and also from watching playtests.  We guided new players through a lot of new windows during their station visits, but not always in an order that linked them together and helped new players remember what each window was for.
+
+An example of this was when the task to open the wallet initially came as soon as the player docked in the station. This task was introduced to show new players they earned ISK while in the site and to explain that ISK is the currency of New Eden. This was then followed by introducing skill training to the new player and then by purchasing an item from the market.  That is a lot of information to teach players within a short time and because of the flow we created, it felt like 3 different learning points.
+
+We have now moved the “Open the Wallet” task to happen directly before the tasks to purchase from the market, directly linking the wallet and your ISK balance to purchases you can make. 
+
+Improved Empire’s Might Site
+The original version of the Empire’s Might site had quite long voiceover periods where the player had no active tasks and was just listening to the mentor and fleet members. We wanted to increase the activity within the site and make this a more meaningful experience for new players.
+
+Therefore, we have reordered the tasks to make sure the player was doing something within the site while listening to the mentor, and also added a new task to encourage players to travel through the site.
+
+UI Changes
+We’ve enabled highlighting of multiple UI elements at the same time and added the ability to position UI highlights.  This allows Aura to explain more clearly by highlighting specific areas of the screen for new players and also lets us combine tasks by highlighting multiple areas at the same time rather than having to have a new task each time.
+
+This should help the experience flow better and also ease player confusion as the highlights will be more exact. For a full list of all changes, you can view the patch notes here. 
+
+Thank you again for your continued feedback, it is really valuable to the team.  Rest assured, our work on the new player experience is far from over. In future blogs we’ll tell you more about our plans for existing career agents and our efforts to help new players hone their skills and become self-sufficient EVE residents.
+
+Check back for further updates!
+
+Team Genesis

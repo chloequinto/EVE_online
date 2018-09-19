@@ -1,0 +1,79 @@
+CCP karkur here.
+
+First of all I want to thank you who came to the roundtable CCP Punkturis and I held at Fanfest. We were very pleased with the session and found it both helpful and very motivating for our "Little things" effort.
+
+Now on to the little things coming in the Kronos release!
+
+Reload and Repair Timers
+A bunch of you have told us that that seeing the progress of charge reload and module repair while in space would be very useful. We have wanted to display that information for a while, but finally dove into the needed work now and are delivering this functionality to you in the Kronos release on June 3rd.
+
+After thinking a bit about how to best represent the progress, we decided to utilize the user interface elements already there and keep it very simple:
+
+The Reload Timer uses the Cycle Timer, except it goes backwards as charges are being loaded.
+The Module Repair is visualized by "eating up" the current damage displayed on the module. At first you might suspect the repair animation is not working, but be patient because it just takes a long time to repair modules.
+Sped up for demonstration
+
+Collapsing Windows
+Have you ever misclicked in the Selected Item window, collapsed it, panicked and lost your ship as a result? No, me neither; but for those of you who are maybe not as amazing at clicking as I am, we have changed the collapse functionality of all windows so now they are only collapsed if their header area is double-clicked, and not if any empty space in them is double-clicked. Don’t worry, you can still drag windows around by grabbing any empty space.
+
+I hope that will save you a few capsules and ships.
+
+Warp Scramble in Effects Bar
+When you get into trouble with some bad guys, it's pretty valuable to know if they are warp scrambling you or warp disrupting you considering the differences between the modules and their ranges. We all know that, so it was about time to separate those two things in the Effects Bar and give you the information you need as you scramble for your life (yeah, I know, I also want to pod myself for that pun).
+
+Protip: Did you know that you can target the closest pilot applying each effect by CTRL-clicking the icons in the Effects Bar?
+
+
+
+Improvements to Fleet-related Things
+Our logistics pilot heroes deserve some help every now and then, don't they? That's what we felt, so we are adding the ability to color-code fleet broadcast types in the Fleet History. This has been a common request from a number of New Eden's logistics pilots. By default the broadcasts have no color, but a color can be assigned to each of the broadcast types through the Broadcast Settings window.
+
+
+
+Another thing we are adding for our logistics pilots is the ability to clear the Watch List of any broadcasted icons, so when going into a fight they can start with a clean slate rather than some random old "Travel To" broadcasts cluttering the Watch List. This is done through a menu option in the Watch List's header.
+
+While working on the Watch List I noticed the content of it would sometimes flicker on broadcasts, so I fixed that and hope you'll have a better behaved Watch List now.
+
+We know a lot you fleet commanders run the same Fleet Advert again and again and again, and need to fill out the form every time when creating them. We decided to make it a little easier on you by preloading the Fleet Advert form with the name, description and settings from the last Fleet Advert you published. If you want to change any of the settings or text, you are of course able to do so.
+
+We also made a small change to the Fleet Adverts so now double-clicking an advert in the Fleet Finder will attempt to join the fleet so you don't have select the advert and click the "Join fleet" button
+
+Highlighting in Personal Assets
+A while ago we added yellow highlighting to market orders to show which ones were at a station in a solarsystem on your current autopilot route. You have asked us to do something similar for Personal Assets and, when noobing around on Tranquility, I too have often really wished it was a thing. So in the Kronos release we are delivering that to you. An added bonus is that now you can drag the stations from Personal Assets and link them in chat.
+
+
+
+Target Indicators in Survey Scanner
+I sometimes take my shiny Retriever out for a bit of mining. As probably many of you do, I run my Survey Scanner to find big asteroids, and then run it every now and then to see if my rocks are close to depleting. What makes it a bit tedious is that all the asteroids have the same name and I need to click on them to see which ones are targeted. I want to reach my True Miner Potential so this was an issue that had to be resolved!
+
+We have therefore added targeting indicators in the Survey Scanner on the asteroids that you have targeted at the time the scan finishes. Those indicators are not removed if the asteroid is untargeted later, as they behave like the other information in the window, which is a snapshot of the situation at the moment the scan finished.
+
+
+
+Kill Report Filtering
+We have added a filter for the Kill Report lists, both in the personal list in the Character Sheet as well as the list in the Corporation window. This filter will try to match your input text to the beginning of a report's ship name, victim name, corporation and alliance, and if none of them match, the report is not displayed in the list.
+
+It's worth stating explicitly that this is not a "search" that will search all the reports, it's a filter for the current page of the list.
+
+While I was at it, I fixed the issue where the list would sometimes stutter when it was loaded, so the experience should be smoother now.
+
+Info Window Cleanup
+In recent releases we have been cleaning up the Show Info windows little by little. In the Rubicon expansion we grouped the four damage resistance attributes for shield, armor and structure (hull) for ships and drones, giving you a cleaner and more consistent view of them. In the Kronos release we continue with that work, and now we group the damage types, sensor strengths, as well as other resistance attributes for all items, making them easier to read and reducing the clutter in the Show Info window.
+
+
+
+Other Things
+Other things you've asked us for and we are happy to deliver to you in the Kronos release:
+
+Targets can now be locked in place so they cannot be dragged around. This is done through a right-click option on the Target Origin.
+The Jump Clone locations in the Character Sheet have been given a proper right-click menu, allowing you to set the autopilot destination from there.
+The "Plug In" right-click option on implants has been promoted to be below the "Show Info" option.
+It's now possible to drag some chat channels from the Channels window to any text field to create a link from which people can join the channel. Channels such as corporation, alliance and solarsystem channels cannot be linked.
+Characters and other entities can now be dragged from the Channel Settings window to be linked in chat and other input fields.
+If a corporation has no war history, it will say so in the "War History" in the corporations Show Info window, so you no longer have to wonder if it's just taking the war history a long time to load.
+Paths starting with "//" or "//" can now be linked in the "Generate Link" window.
+Hyperlinks will now show the web address (URL) in a tooltip, making it harder for mean pilots to trick innocent and unsuspecting pilots into clicking questionable links masked as something else.
+Incoming conversation requests are now logged in the "Notifications and Logs" window.
+And that’s it! Hope you enjoy these changes :)
+
+-@CCP_karkur of EVE’s Team Pirate Unicorns

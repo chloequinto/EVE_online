@@ -1,0 +1,54 @@
+
+Greetings Capsuleers!
+
+It was back in the Odyssey expansion that the Sensor Overlay was added to EVE, a feature allowing Cosmic Anomalies and Signatures to be viewed in space instead of only existing as text entries in the scan window. We are now adding a number of other objects in space to the sensor overlay, along with filtering options and a new compass view. One of the biggest changes is the ability to see personal and corporation locations visualized in space in the sensor overlay. Without further ado, let me take you through the details.
+
+More Locations In Space
+First things first, what's been added? When the improved Sensor Overlay hits Tranquility (currently likely to be in Phoebe), it will contain:
+
+Cosmic Anomalies
+Cosmic Signatures
+Landmarks
+Personal Locations
+Corporate Locations
+Agent Objectives
+Each type will have a unique colored symbol to make them distinguishable from each other (similar to the Overlay icons you are already familiar with), as well as a bracket that will again often be familiar to you. When a bracket didn't already exist (such as for missions) a shiny new one was created!
+
+![](//content.eveonline.com/www/newssystem/media/66567/1/SOSymbols.png) _Left to Right: Signature, Anomaly, Landmark, Objective, Personal Location, Corp Location?_
+Filtering
+With so many new icons being added to the Sensor Overlay, and so many different play-styles and situations for which it will be useful, it was important for us to include a robust filtering system so that players can define what they want to see and what they want to hide. Therefore we added a compact filtering menu that allows each type to be toggled, as well as giving you the option to turn the entire overlay off should you wish (You spoilsport you!).
+
+
+New Sensor Overlay Menu
+
+While we are on the subject of filtering, we were also aware that for someone with a truck load of locations to manage, simply toggling them all on or off might not be granular enough, so for locations we're implementing the ability to filter individual location folders (Whether Personal or Corporate). This will be done from the Places tab in the People & Places window by clicking the little eye symbol on each folder. Corporate location filtering is unique for each character, and all filtering is stored on the server, so will be remembered no matter where you log in.
+
+
+Location filtering by folder in the People & Places window
+
+Compass Display
+Besides adding more types of location to the Sensor Overlay, another objective of our iteration was to make it easier to see at a glance what locations are in your current system, and give more indication of where to look for them. To help with this we've added a compass display around the ship’s HUD. The compass faces in the direction of your camera and displays markings for all unfiltered Overlay items, color coded as they are in space. It also has handy markings that correspond to the compass directions and the lines in the Tactical Overlay. If you ever wondered which way 'Space North' is (shout out to CCP Antiquarian as he scowls at me every time I call it that), or yearned for a way to communicate direction to your buddies without having to reference celestials, then this should make you happy, even if you don't use the sensor overlay (Seriously though, total spoilsport).
+
+
+The new compass with and without overlay icons
+
+
+What the compass looks like when warping through a system
+
+Overlay Stacking
+We've also tried to make the system more integrated with the normal EVE UI. Therefore the overlap system and info boxes for the overlay have been retired. Instead, overlay brackets are now displayed in the same way as any other in space bracket, meaning that there now shouldn't be situations where the overlay stops you from clicking something behind it, or obscures things with its large info pane. Clicking an overlay bracket will also yield all the usual menus you would expect (Right click menu or radial menu), and some additional options have also been added to the radial menu where appropriate. Additionally, we’ve added camera tracking support to overlay locations and the ability to double click them to align your ship, just as you can with any other in space bracket.
+
+
+Overlay UI integration
+
+Shortcut for New Locations
+Aaaaaand last but not least, we've added a shortcut for adding a new location, which by default is CTRL+B, just because we can, and more importantly because we realized there wasn't one and we thought you guys would appreciate it. Oh and we added the option to edit locations from the right click and radial menus, so you don't have to open up the P&P window to do that. :) 
+
+
+Adding a new location in space
+
+The improved Sensor Overlay is arriving on the test server Singularity for you to mess around with. Please note that that it is not yet fully complete and various changes and tweaks may happen to the look and feel of it before its release. We would appreciate any and all feedback as we going into the final stages before it hits Tranquility, which will likely be in Phoebe.
+
+Fly safe space friends,
+
+CCP Lebowski (On behalf of Team Five 0)

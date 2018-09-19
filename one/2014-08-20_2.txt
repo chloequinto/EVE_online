@@ -1,0 +1,42 @@
+Hello capsuleers,
+
+As CCP Seagull said in her Hyperion overview dev blog, we have some changes coming to Incursions with Hyperion on August 26th. This dev blog is going to give a more detailed explanation of what those changes to Incursions are.
+
+If you would like to know more about what Incursions are, check out this really good article over on the EVE University wiki about Incursions.
+
+
+
+Reducing the re-spawn time of Incursions
+Right now when an Incursion finishes there is between a 24 and 48 hour delay until another Incursion spawns in the same security space replacing the one that ended. For example, if all of the Incursions in high sec are completed within a short time span of each other, it means that for a period of time there will be no Incursion in high sec.
+
+This change is aimed at helping make sure that Incursion runners will always have them available when they log in. You may have to move to get to it, but at least the option is there for you to go do it.
+
+More specifically we are reducing the min and max time between an Incursion being completed and it re-spawning elsewhere from 24 and 48 hours respectively to 12 and 36 hours respectively.
+
+A revamp of scout sites
+Scout sites are the lowest level of Incursions site available for players to run. When Incursions first launched their goal was to provide an environment for introducing players to Incursions. When we look at metrics such as how often these sites are run, who runs them, and then talk to players from the Incursion community it becomes fairly obvious that Scout sites are not achieving their original goal. Time for a rebalance!
+
+While looking at them we decided to change their purpose from being an introduction to Incursions to something you could run while waiting for a spot in a fleet running Vanguards or when you don't quite have enough people to run Vanguards.
+
+To achieve that goal we bumped up their rewards from 50,000 ISK to 3,500,000 ISK and from 50 LP to 400 LP per pilot, still keeping them less desirable to run than Vanguards. We then also adjusted the number and types of NPC you find in the Scout sites to balance out the increased reward.
+
+Putting an end to the NCN wall
+If you regularly run assault sites in Incursions you may be familiar with a term known as “NCN wall.” This generally means that the system with assault sites only has Nation Communication Network (NCN) sites available to run. We are making a change that will make sure assault systems are never 100% NCN's.
+
+Since putting these changes live on our testing server Singularity we have been getting some wonderful feedback. We have a few more minor tweaks to the Scout sites before they hit Tranquility with Hyperion on the 26th. One of the huge benefits of EVE being on this new 6 week release cadence is that, after we release this content in Hyperion, we plan on reviewing the changes again in a release or two. Something that would have been much harder before.
+
+So that’s all for now on the Incursion front. I hope you are all as excited as me to begin running Scout sites next week.
+
+CCP FoxFour on behalf of team Space Glitter
+@RegnerBA
+
+Update on August 20:
+
+Null sec Vanguard sites
+The following is an update to the original dev blog. We were still working out the details and ensuring it could be completed for Hyperion. We are now confident it will ship and have updated the dev blog to reflect this additional change.
+
+Incursions in null sec are almost identical to high sec. One of the only differences, aside from the space they are in, is the rewards. Null sec Incursions pay out approximately 25% more per pilot. OK so in theory null sec Incursions should pay more per hour then. Well not really. Since people running high sec Incursions feel a lot safer while running the Incursions they tend to bring much more expensive ships and fittings. The net result is null sec Incursions get run at such a slower speed that the per hour pay is a lot lower than we would like.
+
+We could just increase the ISK payout and be done with it. However an idea was proposed that we feel would be a much nicer way to balance null sec Incursions. We are going to increase the maximum number of pilots allowed in Vanguard sites from 10 to 15 while keeping the per pilot payout the same. With the ability to bring more pilots the effective DPS goes up and the speed of running the sites should increase as well. So while we get to bring the speed of running the Incursions more in line with high sec we also encourage more pilots to participate.
+
+This change will only effect null sec Vangaurd sites for now. Once this goes live we will monitor closely and see if this actually makes a difference in the way we want. If everything goes well we will consider applying the change to other sites as well and possibly low sec. If everything goes horribly wrong we may also revert the change. For now though we are looking forward to seeing how this plays out on TQ come Hyperion’s release.

@@ -1,0 +1,28 @@
+Ahoy hoy, capsuleers,
+
+I’m CCP Nobody and I’m here to show you some of the beautiful new visuals for assembling structures in EVE Online. These changes will cover anchorable Player Owned Starbases and their accompanied anchorable structures.
+
+When you anchor a structure in EVE, the lore explanation is that you first deploy a nanocontainer with massive material tanks that contain all the materials used to build the structure. Then, through the magical science of nanites, it gets built. For the new visuals, we’ve redesigned the nanocontainer to fit its function. 
+
+
+
+While anchoring the structure, the nanocontainer projects a blueprint of what is being built in space, which represents the final form of the structure. The structure is then printed by lasers using the materials in the material tanks.
+
+              
+
+When unanchoring the structure, the nanocontainer will start the process of deconstructing the structure from the inside out. The lasers are used to melt the structure and collect the materials back into the material tanks, so the structure can be constructed somewhere else at a later date.
+
+              
+
+The shader created for this effect is the first shader for EVE that uses Geometry Shaders. This means that only users running the client with DirectX 11 will experience the lasers assembling and disassembling their structures. Users running with DirectX 9 will unfortunately will not witness the glory of nanites, as shown below:
+
+                     
+
+The videos above are sped up due to the long time it takes to anchor and unanchor most structures. To give you a better feel for how this looks ingame in realtime, here is a special bonus video:
+
+
+These new assembly visuals are headed your way with other features on April 28th.
+
+Thank you for reading!
+
+CCP Nobody

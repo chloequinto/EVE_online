@@ -1,0 +1,73 @@
+Hello space friends!
+
+Today I bring you all the information you may need if you are planning to participate in CSM11 elections.
+
+First things first, here is a breakdown of key dates for the election. Please note that we made a few changes to the process that will be explained further in this blog.
+
+January 15th, 2016 – Candidacy period begins
+February 9th, 2016 – Candidacy period ends, background checks begin
+February 29th, 2016 – Voting period begins
+March 25th, 2016 – Voting ends
+April 21st, 2016 – Results are announced at Fanfest 2016
+THE PROCESS
+If you are familiar with how we usually run CSM elections you will have noticed that both the candidacy and voting periods were extended. This has been done after considering the amount of applications that were submitted too late in previous years. On top of that, we decided to make people’s lives easier by leaving more time between to make sure that all required security checks are done thoroughly and also to leave some time for all of those amazing player-organized interviews like CSM Watch, Crossing Zebras and Vote Match.
+
+Another big change is the timeline itself, we begin the process earlier and for a good reason. As it often happens, a lot of potential CSM delegates attend Fanfest, however, you should bear in mind that the first CSM summit will be hosted a lot earlier than normally – at the start of CSM11 term, which means, that if you are planning to run for CSM11 you should make sure that you are able to travel to Iceland almost right after Fanfest. There are no solid dates as of now, but we are aiming for May, 2016. Please note, that while the summits are usually 3 to 4 days, selected delegates spend up to 7 days in Iceland around the summit. 
+
+WHITEPAPER
+The CSM whitepaper has been updated. You can find the new version here. The biggest change has been done to the actual formatting of the whitepaper, information has been put into separate and shorter sections, which should help with finding what you need faster.
+
+This does not mean that no changes were made to the CSM structure and rules though. Here is a quick overview of major changes and a brief explanation of why we have made said changes.
+
+Age restriction has been lowered to 18 years. After trying this out during the last election, we’ve decided to keep the age restriction at a lower mark of 18 years. This provides more opportunities for our younger players who wish to try out a little bit more of space politics and contribute to the development process of EVE Online J
+Privacy. Again, after seeing the feedback from the candidates and voters after CSM10 election, we decided to remove the requirement of sharing your real life name publicly if you wish to run for the Council seat. We feel like this is an unnecessary requirement and we would rather let people decide if they want to share their real life information publicly or not.
+4 permanent attendee seats. We are increasing the number of permanent seats for the Council because we want voters to have more power over who should attend the summits. As we now bring up to 10 members of the Council to each summit, this is a fairer split.
+Replacement mechanism. It’s been a while since we first tried replacing resigned or removed CSM delegates. Now this process has been formalized and is included in a whitepaper. The reasons behind this are very simple. By leaving an empty chair on the Council we are not utilizing the full potential of STV based voting. Besides, having more delegates equals more feedback, so running short is not always the best option. This lets us re-use all votes that were cast during the election. So please pay attention when you vote.
+APPLICATION REQUIREMENTS
+If you are planning to run, here is the information you need:
+
+Application period starts at 12:00 GMT on January 15th, 2016
+All applications must be submitted through an application form, that will be available here (please note that this page will not be available until January 15th): //community.eveonline.com/community/csm/apply-for-csm
+To apply your account must be older than 60 days (created no later than the 15th of November, 2015)
+Only active accounts will be eligible for applying
+If upon a security check any breach of EVE Online EULA\ToS will be found – application will be rejected. It is required that personal information is up to date in the account management system (real life name and date of birth).
+To become an eligible candidate, a player must be 18 years of age or older, unless the legal age of majority in your home country is higher than 18, in which case the minimum age is the age of majority.
+The applicant must consent to provide their personal information to CCP. A CSM candidate can publish their personal information to the player base at their own discretion. On the application page field “Country” is visible publicly. But the following information is only visible to CCP staff and will not be revealed by CCP.
+
+
+Applicant must provide a copy of a valid, internationally recognized identity document to CCP. This is required to confirm identity of the candidate and to prove the ability to sign a Non-Disclosure Agreement. A copy must be of a high quality and should be sent to csm-contact@ccpgames.com after the application has been submitted through a website.
+Additionally, candidates can create campaign threads on the forums in this section.
+Applications cannot be edited after you submit them. Please make sure that all information you submit in the form is final. Bear in mind that submitting any form of offensive content via a CSM Application form (even if it’s a link to an external website with such content) is against our rules and action may be taken against your account. 
+VOTING REQUIREMENTS
+Here is the information for those of you who are interested in voting in the upcoming elections:
+
+Voting period begins on February 29th, 2016
+Voting form will be available here:
+//community.eveonline.com/community/csm/vote
+
+To vote, your account must be older than 30 days (created no later than 29th of January, 2016)
+Only active accounts are eligible to vote
+Players may vote with multiple accounts
+Each account can only cast votes once, votes cannot be edited or revoked after they are submitted
+Each account can select up to 14 candidates in a preferable order, from highest to lowest
+That’s it from me. If you have any questions or suggestions, please feel free to contact us by sending an email to csm-contact@ccpgames.com
+
+@CCP_Leeloo
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

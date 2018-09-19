@@ -1,0 +1,78 @@
+Revamping every* ship in EVE is an intense process, leveraging the entirety of our art team from concept artists to tech artists and programmers to QA. It takes extreme staff coordination and resource commitment, not to mention a lockout of publishing while the work is underway (lest an incomplete asset somehow make it into game without appropriate textures and shaders). Overall, this overhaul of every hull is oeuvre hell.
+
+We’ve done it twice in the last six months.
+
+The initial Physical Based Rendering (PBR) effort, known informally as “V5,” helped us to increase the realism of our assets by abandoning the Phong reflection model. You can read more about the process in the exquisitely edited devblog here. While that first V5 initiative was a huge step toward presenting a more visually immersive experience, it left a lot to be desired with regard to the actual appearance of ships in New Eden. Some details were lost, some colors behaved sub-optimally, and the balance between reflective and non-reflective surfaces was inadequate on a number of hulls. We identified these shortcomings and others in December, then immediately began to determine ways we could adapt and improve.
+
+The result of that research is “V5++,” a complete reworking and repacking of all ship texture maps into a new system which works with new shaders.
+
+New Texture Maps
+
+Our first PBR push last year added two new texture types to our system – Albedo to replace diffuse maps and Roughness to replace specular maps. With V5++, we are adding two new texture maps to all ships. Material now appears on its own, rather than being indicated two separate maps. By using a limited greyscale system, we have been able to expand the number of available materials per hull. We’ll discuss the benefits of that addition later on.
+
+The Dirt map is completely new. This map will ultimately enable the display of a variable range of space grime, filth, and unsightly buildup according to selected parameters which are currently under consideration. Initially, however, the map is used to variegate the immaculate hulls of EVE at a predetermined level, providing contrast and color in addition to a little flavor.
+
+Additionally, every ship now features an Ambient Occlusion map, once reserved only for capital ships. This enhances the realistic behavior of reflection on all ship hulls, reducing shine when a surface sits somewhere entirely lusterless. We’re still simulating the effect, but in a far more realistic manner than previously possible.
+
+New Material
+
+The p1 and p2 maps were once independently responsible for differentiating material surfaces on ship hulls. The initial PBR pass left this system in place, but in V5++, these maps have been combined into the material map mentioned above. All material information is now handled by this single map in four tone grey scale.
+
+
+
+But wait, there’s more! Like an industrial strength mail order cleanser, this change introduces increased control over rust. The best way we’ve found to present rust in space involves the use of two separate materials.  In the previous 3-material system that was a bit too expensive; we didn’t want to be limited to two materials and one accent. V5++, however, allows a 4th material.  With the added utility we can now keep three primary materials, and have more realistic rust on Minmatar hulls.  The Amarr, Caldari, and Gallente hulls receive non-rust benefits in the form of improved metal and tech areas.
+
+
+
+New Packing
+
+Five years ago, as indicated in this antediluvian dev blog by CCP Salvo, EVE shifted from the quaint NGS file system to an updated system distinctively dubbed PGS. Late last year that obsolete method was supplanted by the new PBR model, but by and large the texture packing system remained the same. The addition of new maps, combination of older ones, and technical issues involved in the display of the work of our artists necessitated a new packing method to make our content shippable.
+
+We’ve moved the albedo maps, which work with the factional information to generate the actual color information for the hull, to inhabit the R, G, and B channels of a texture called _AR. The alpha channel is occupied by the Roughness map, accounting for the name of the packed texture. A and R together…PBR Bros.
+
+We run the Normal Maps, X and Y, into the high quality alpha and green channels of a second packed texture for maximum precision. Then the Occlusion map fills the blue channel to generate the _NO texture. The red channel of this texture is as of press unused, though CCP Salvo is ever so excited to explore additional ways to irritate CCP Mankiller, so who can say what the future may hold?
+
+Material and Glow, which also benefit from increased quality, are set into the green and alpha channels of a third packed texture, and the Paint and Dirt maps round out the red and blue channels. This final texture is appropriately named _PMDG.
+
+
+
+New Shaders
+
+Those who remember that PGS changeover may recall the widespread application of triple-material shaders necessitating that move, which beneficially decreased client size and increased graphic quality. In the new V5++ model, our additional material information requires new 4-material shaders.
+
+The fundamental lighting equations stay the same as they were in V5, so the big change is how we handle the dirt. In V5 dirt intensity was calculated by some eldritch occult mathemagics which made it very difficult for the artists to control. In V5++ we simply have a dirt map, which enables complete control by the artist.
+
+In concert with the shader, this enables us to modify the dirt levels of individual ships in scene.  With this initial effort, the dirt and rust levels are static.  But attendees of Fanfest (or anyone who has taken the time to watch the art panel from that glorious event) will remember the demonstration of ship filth and the slew of questions regarding it that followed. Some features under consideration include dirt levels set by the age of the ship or by the use to which the vessel has been applied. We have also conceptually toyed with the idea of “ship wash” services to remove dirt from selected hulls.  Naturally, no one is considering cleaning Minmatar spacecraft, which are structurally composed of no less than 51% dirt and could not possibly survive the burnishment.
+
+Below are a few examples of ships going from 0% dirt to 100% dirt.
+
+What’s the Point?
+
+As before, this project has required special attention to ensure that everything is just right. Artists adjusted, redrew, or repainted every map. Tech Art provided tools to repack and republish the .dds files
+
+We are confident to the edge of hubris that capsuleers across New Eden will enjoy touring the stars in these fully operational V5++ ships. That said, the opinions of the EVE Online community are the true test. We look forward to reading comments, feedback, and questions on the forums and will happily investigate defects submitted via the in-game bug reporting tool.
+
+But before storming the forums, please login to the Singularity test server and give your favorite hull a spin or two. Better yet, undock with it and explore the far reaches of your local planetary system. To quote a great leader and personal hero of mine:
+
+“Fly, my pretties, fly, fly!”
+
+CCP Antiquarian
+
+Okay, not the T3 Strategic Cruisers. Those divas are really difficult to work with.
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 2018

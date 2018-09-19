@@ -1,0 +1,60 @@
+Hello my space snowflakes!
+
+I’m CCP Rise and I’m here on behalf of Team Pirate Unicorns (AKA Team EFT Copy Paste, Team Tool Typpi and Team Ishtar4life) with news about something we’ve got coming for you in Oceanus on September 30th – Notifications! Notifications will give you feedback and information about all the deadly, creative, regretful and/or awesome things your characters are doing in New Eden!
+
+BUT WHY
+
+Before I dig into details I want to take a second to explain why we’re doing notifications now.  Our team is dedicated to working on the new player experience (NPE) and one of our goals is to eventually remove the existing tutorial and replace it with a much more open-ended experience - for that to work we need a way to let new players know when they’ve done something awesome (or failed horribly) and there isn’t such a system in the game at the moment that fits very well.
+
+On top of not finding a pre-existing system for messaging the NPE, when we started looking at what systems we might have been able to use we realized how many different feedback avenues there are in the game, scattered all over the place like Elise Randolph’s tears after the Alliance Tournament semifinals. Sometimes you get mail notifications, sometimes it’s confined to the specific feature window (industry jobs for example), sometimes it’s a popup (could be anywhere on the screen), and sometimes it’s a big dialog box smack in the middle. Rather than building a new, stand-alone NPE feature that would add yet another method of giving feedback, we thought this would be a great opportunity to clean up the feedback experience for everyone by consolidating as many of these methods as possible into one simple notification system.  Ta-da!
+
+HOW DOES IT WORK? (ALSO: HOW DO I TURN IT OFF)
+
+Most people that have used a computer in the last 5 years (which should include you, fellow EVE player) will find this feature familiar and intuitive, but let’s go through it for fun anyway! And do keep in mind, this dev blog includes temporary text and visual assets - anything shown below may change before release.
+
+We start with a simple widget that anchors the notification position and shows a running count of unseen notifications. This widget defaults to the lower right of the screen but clicking and holding allows you to move it anywhere you like. It looks like this:
+
+
+(click image to enlarge)
+
+When a new notification is received, you will get a small pop-up with some basic text content and a small image associated with the category of the notification. If you want to know more about this particular event, just click on the notification pop-up and we’ll open the most appropriate game window for you.
+
+
+(click image to enlarge)
+
+If you get several notifications at once they will stack up and eventually queue if the stack limit is reached. The size of the stack can be configured and is set at 3 as a default.  If you haven’t interacted with the pop-ups for a few seconds they will automatically fade. This fade time is also completely configurable.
+
+
+(click image to enlarge)
+
+Next up, history view!  Clicking the notification widget will expand a history view that shows all the notifications you’ve received, up to a limit of (we aren’t sure on limit yet).  Again, clicking particular notifications in the history view will open up the most relevant feature/window.  The history view will collapse itself if the mouse goes somewhere else or you click on the widget a second time.
+
+
+(click image to enlarge)
+
+Finally, and maybe most importantly, the options! We know this feature runs the risk of being too noisy to be useful for you savvy veterans, so we’ve tried to make it as customizable as possible to make sure you are getting the information you need instead of just getting spammed. In this screen you can control whether a certain notification type or entire category give you a pop-up, a sound, a history entry, or nothing at all.
+
+
+(click image to enlarge)
+
+The last thing to mention here is that, for our first release, we will use the notification system for contact log on/log off, skill training related events, and all notifications currently sent to the notifications tab in EVE mail. More on this in a second.
+
+BETA OPT-IN!
+
+We here on Team Lopapeysa are not only excited about the feature itself, but also the way we get to release it. Rather than pushing back a release to allow time for us to tune and polish based only on feedback from testers on Singularity, we are going to ship it to Tranquility and give you the option of turning it on. There’s a few great things about doing it this way:
+
+We will (hopefully) get a lot more exposure than we would on Singularity which means more feedback
+Players choosing to try the feature will be getting realistic amounts and types of notifications so their feedback and our data will be more accurate and informative
+If there’s anything wrong with the feature, we don’t have to worry about it negatively affecting the entire player base before we get a chance to make changes (hello tooltips)
+So, after Oceanus has launched, if you want to try the new notifications (and we would really appreciate if you did), just open the ‘general’ tab in the ESC menu and click the box to activate new notifications.
+
+
+(click image to enlarge)
+
+THE FUTURE
+
+In this iteration we hope to have all the basic functionality of the feature established and have some of the most essential notification types included, but we won’t stop here.  In follow-up releases we expect to add more notification types to this system, including but not limited to: industry job notifications, combat log events (killmails, not damage logs) and potentially various kinds of invites (convo, fleet, corp etc) and of course NPE notifications.   We will also make changes based on your feedback to improve the feature overall, as always.
+
+So tick that box and give notifications a try!  Thanks for reading!
+
+@CCP_Rise for Team Boiled Cod, over and out.

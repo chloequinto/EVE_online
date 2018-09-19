@@ -1,0 +1,81 @@
+Hello capsuleers! We are gearing up for the next release coming to EVE Online on September 30th, and this is the feature overview blog. After Oceanus we have two more releases to go this year: Phoebe on November 4th, and Rhea on December 9th. Here are the features we are bringing you with the Oceanus release:
+
+EVE Online in French
+
+Oceanus brings French language support to EVE Online– and new French speaking people to shoot or recruit.
+
+New cloaking effect
+
+A new effect for ships cloaking on gate jumps and when using cloaking modules.
+
+
+
+See the work in progress effect in action on Singularity in these videos on YouTube:  TheMittaniTV, Michael B, CCP Manifest
+
+New wormhole nebulas
+
+Wormhole space is getting a big visual update with new nebulae for all the different classes of wormholes.
+
+
+(click to enlarge)
+
+See the work in progress effect in this YouTube video by Asayanami Dei.
+
+Wormhole effects indicating what ships can go through
+
+Updated effects on wormholes show different colors for different types of wormholes, to make it visible in space what maximum ship mass a wormhole can support. (You can also see this information in the "Show Info" for wormholes since the Hyperion release)
+
+
+(click to enlarge)
+
+New Burner Missions, now with logistics
+
+Take on a new set of Level 4 Burner missions with more high powered enemies in frigates which have brought their own logistics support. A dev blog is coming with both information on how Burner missions have fared so far and the details about the new missions.
+
+Import ship fittings from clipboard
+
+Importing fittings from killboards or third party fitting tools into EVE gets a lot easier in Oceanus, with support for importing fittings in the text format used by many tools and websites like EFT, pyfa and BattleClinic, right from the clip board. Read more about it in this forum thread and in an upcoming dev blog.
+
+New notifications – opt-in
+
+In Oceanus, you will be able to try our new notification system that gathers notifications in a single place, makes them more usable and better looking, and lets you configure in detail what notifications you want and how they behave. You opt in to use the feature by enabling it in the Settings window. All the details are in an upcoming dev blog.
+
+Named Module updates
+
+In the first set of changes to a long term initiative to make sure rare and advanced modules are useful and “make sense”, Oceanus will bring updates to Capacitor Flux Coils, Survey Scanners, Cargo Scanners, Ship Scanners, Reactor Controls, Co-Processors and Micro Auxiliary Power Cores. The whole initiative, similar to the long running ship balancing project, will be presented in an upcoming dev blog.
+
+Interceptors and Interdictors get balance updates
+
+Keep an eye on the Features and Ideas forum for a thread coming soon with details and the possibility to give feedback.
+
+Tooltips for market groups and categories
+
+Tooltips are being added to more market groups and categories, to make browsing the market and discovering ships and equipment faster and easier.
+
+New music for Oceanus
+
+Oceanus will bring a new soundtrack for the character selection screen, which we will put on SoundCloud as soon as its ready alongside all of our other freely streamable and downloadable music.
+
+Previews in the New Eden Store
+
+The New Eden Store gets 3D previews of the items on sale, including the ability to see apparel on your own characters.
+
+Ship visuals under-the-hood updates
+
+In Oceanus we are releasing a big under-the-hood update to how we store and manage the visual data about the ships in EVE Online, in preparation for being able to deliver visual customization of ships in the future. Everything should look the same – but if you see unexpected changes, this might be why. An upcoming dev blog by the art and graphics team TriLambda will go into the juicy technical details.
+
+CIDER upgrade for the EVE Mac client
+
+The underpinnings of the EVE Mac client gets a big update with Oceanus that addresses several issues.
+
+All of these features are coming to EVE Online on September 30th. Many features can already be tried on Singularity, our public test server. The patch notes page will have the full list of changes just before the release.
+
+What about changes to null sec and sovereignty?
+
+The design team of EVE Online are working actively on changes to the game mechanics impacting null security space. The Council of Stellar Management are coming to Reykjavik for the CSM Summit next week, and directly after the summit we will bring the full discussion about the plans to the EVE community. Read more in this forum thread.
+
+Thanks for flying with us,
+
+CCP Seagull
+
+Executive Producer of EVE Online

@@ -1,0 +1,24 @@
+Greetings ever-evolving and ever-learning capsuleers!
+
+As many of your already know from CCP Seagull’s Phoebe release blog, we will be making a major change to EVE’s skill training system in the upcoming release by removing the 24-hour training queue limitation.
+
+Quick history lesson: once upon a time there was no skill training queue and much use of alarm clocks and other reminders was involved in “optimizing” a skill-training plan. There was therefore great joy when the skill queue was released in the revered Apocrypha expansion in 2009. This joy was only slightly tempered by the limitation that skills could only be inserted into the queue as long as they started within the next 24 hours.
+
+In Phoebe, by removing the 24-hour window for inserting additional skills, we will be providing the possibility of skill queues containing multiple skill entries requiring many more than 24-hours to train. We believe the value of this for you, with many of you needing to manage your skill training alongside busy and varied schedules throughout the year, will be considerable.
+
+Since the skill queue will now be opened up to provide for skill training plans that are not limited by a short installation window and be effectively unlimited in time, there are a few points to note.
+
+Trial accounts will remain limited to the 24-hour window for inserting skills into the queue.
+
+Strictly speaking the skill queue will have an installation window of 10 years. Further, the skill queue will remain limited to 50 entries in total for the time being. These limits are being maintained for safety as this significant change to the skill-training system goes live, and are not set in stone.
+We wanted to focus on (effectively) removing the arbitrary time limit without getting lost in new user interface design or additional features. As the skill-training system is so central to EVE, we felt that it is important to take small steps and not change too much at this time.
+
+
+
+All that said, as you can see from the example above, a training queue can now be many months long and it is certainly possible to construct a queue that will run for years, even with the 50 entry limit.
+
+While making this change we have noted further areas for improvement and very much look forward to your feedback and ideas about the skill-training system and related gameplay.
+
+Happy skill-planning!
+
+On behalf of Team Pirate Unicorns

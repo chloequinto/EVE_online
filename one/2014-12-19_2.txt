@@ -1,0 +1,59 @@
+Even as most of the EVE Online team is preparing for the holidays, we are still working our with limited bandwidth to get you a few things in our January release. Here’s an outline of the features coming to EVE Online in the Proteus release and an update on where we are with our work on changes to sovereignty game play and 0.0 security space.
+
+The events unfolding in the New Eden universe will continue, and we will also continue with not telling you explicitly about everything that is going to happen. So keep paying attention to in-game news, features and events if you want to follow, discover and have an impact on the next steps on our road towards big changes to the EVE universe in 2015.
+
+Here are the features in Proteus:
+
+COMBAT RECON SHIPS UNDETECTABLE BY DIRECTIONAL SCANNING
+Combat recon ships will be impossible to detect with directional scans and bonuses and attributes will be looked over for all 8 Force and Combat Recon ships. For more details and to provide feedback, take a look at this thread: Recon Ships
+
+REDESIGNED EXEQUROR HULL
+Hull variants for the Oneiros and Navy Issue will follow in coming releases. If you want some ideas for what to do with an Exequror, we can recommend this solo PvP video featuring Jim Jams.  
+
+
+
+10 MODULE GROUPS REBALANCED
+In a substantial package of balance changes that are part of the "Module Tiericide" project, the following modules groups will see changes: Capacitor Rechargers, Capacitor Power Relays, Power Diagnostics Units, Mining Lasers, Mining Laser Upgrades, Expanded Cargoholds, Nanofiber Internal Structures, Reinforced Bulkheads, Inertial Stabilizers and Overdrive Injectors. Threads for feedback will be posted in the Features & Ideas forum.
+
+NEW VISUAL EFFECTS IN ASTEROID BELTS
+Originally scheduled for Rhea, new dust effects, light rays, and rock fragments will be added to asteroid belts in Proteus to create a more immersive experience.
+
+
+
+NEW FEATURES FOR THE BETA STARMAP
+The new star map released as an opt-in feature in Rhea will see several updates. Additions likely to make it into the Proteus release are things like a standalone system view, probe scanning support, directional scanning cone visualized in the system view and mouse-over information on stars, planets and moons.
+
+SMALL SCALE MINING ANOMALIES IN STARTING SYSTEMS
+To make sure there are enough mining opportunities in starter and career agent systems, Proteus will bring a new kind of small scale ore anomalies suitable for young capsuleers.
+
+TEAMS RETIRING
+In Proteus, we will retire the Teams feature that is currently part of Industry. Read more about this change and the reasons behind it in this dev blog: Industry & Teams - The Removal of Teams.
+
+A NEW VOICE FOR AURA IN GERMAN AND RUSSIAN
+A few recordings for Aura were missing from the German and Russian clients, so we decided to redo all of them. For Russian Aura we have used a voice actress, but for the German version several players suggested we contact EVE player Naburi NasNaburi, a popular pirate amongst German-speaking capsuleers. She is well known for her parody songs "EVE. Oh EVE" and "My guns were made for shooting" and is the co-host of DJ Raserball on EVE-Radio. She agreed to record the new version of Aura's lines in German, and with Proteus, this will be the new voice of Aura for clients with German as the language setting.
+
+THE PROTEUS THEME
+Proteus comes with more music from EVE composer CCP RealX. In fact it’s already available right here. The EVE Online SoundCloud page also has dozens of release themes, EVE trailer music, sound effects, CCP dev rap music, and the rest of EVE’s soundtrack. All free to stream and download.
+
+A few more things may make it into the release, keep an eye out for the Patch Notes in January for the full set of changes. Events will also continue to unfold in New Eden, so do pay attention to game news and events.
+
+For those of you waiting for the Minmatar Tactical Destroyer, I can report that Honorary Fleet Architect Lotrec Emetin is seeing the last details come into place and the ship is scheduled for the Tiamat release on February 17th.
+
+A STATUS UPDATE ON OUR WORK ON SOVEREIGNTY GAMEPLAY
+In the blog about the long distance travel changes in Phoebe, we outlined 3 phases of work on addressing gameplay in 0.0 security space in New Eden. Phase One was the travel changes, and we have now started work on Phase Two - a set of changes to sovereignty mechanics and related features and systems. Two teams are working on this full time, combining changes to structure gameplay, corporations and alliances and the sovereignty mechanics themselves in order to make impactful changes to EVE that improve gameplay and quality of life. Three things are in motion relating to this where we are seeking your input:
+
+We are doing design work on sovereignty mechanics, and we are preparing to present concrete designs to the CSM at the CSM Winter Summit on January 20-23rd. Meeting minutes and dev blogs will follow to let the full community participate in discussing the proposed changes.
+We are doing design work and preparing for big changes to structures overall in EVE--including structures involved in sovereignty mechanics. As input into that work, we are running a survey on structure related gameplay in EVE, including a number of questions around sovereignty structures and gameplay. Please give your thoughts and perspective by participating here: //structures.questionpro.com
+We are taking requests for big and small improvements to the corporation and alliance interface and we will be releasing features continuously in 2015, along with deeper changes such as intra-corporation aggression changes and extended alliance-based functionality such as bookmarks. Please post your interface suggestions in this thread: We want your corp little things!
+We will evolve these key systems with the ambition of strengthening the unique sandbox gameplay in EVE, making territorial warfare available to both big and small groups, creating more meaningful objectives and gameplay connected to it, and offering quality of life changes to anyone operating in EVE connected to this gameplay. You can also expect the unfolding events in New Eden to make a difference for all areas of the universe. 
+
+Improving this part of EVE is at the heart of our plans for 2015. We will not just release a single set of changes, but continuously work with these systems all throughout the year and take the time needed to make things work well to provide good times and good fights.
+
+We are very excited about this endeavor, and I hope you will be too once you get to see more of the actual plans early next year.
+
+THANK YOU AND SEE YOU IN 2015
+With that, I'd like to thank you all for being part of EVE Online in 2014 and I wish you all happy holidays full of good EVE and out-of-EVE times. We hope to have all of you with us for a very exciting EVE 2015.
+
+/CCP Seagull
+
+Executive Producer, EVE Online

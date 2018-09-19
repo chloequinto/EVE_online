@@ -1,0 +1,83 @@
+Welcome to EVE Online!
+
+When you take your first steps into the world of New Eden, things may seem a little complex. If you ever feel lost or confused, fret not! The purpose of this Dev Blog is to arm you with the basic knowledge that you'll need to thrive in EVE Online, so take a look at the following links and see if the answers to your questions are here!
+
+We'd like to give you all a helping hand and try to ensure that you hit the ground running in what is considered by some to be one of the most rich, deep and complex virtual worlds in existence. It's good to know where valuable information is readily available to you, so below are some very good sources of information, quite a few of them provided by communities of other players who specialize in helping new pilots.
+
+
+_As a rookie pilot, you'll be provided with one of the four basic ships shown above depending on the race of your character.
+(Clockwise from top left: Amarr - Imparior, Caldari - Ibis, Gallente - Velator, Minmatar - Reaper)
+
+If you lose this ship, don't worry! Simply dock your capsule at a station and the friendly insurance company will provide  you with a new one!
+While you'll want to upgrade pretty soon, you can find more information on your rookie ship and how to fit it for your first few hours of play here!_
+
+Chat Resources
+
+First off, you will have three open chat channels when you first create your character. Whenever one of the channels is highlighted, it means you have unread messages there.
+
+The local tab is your local channel. It contains all other players that are in your current system, so don't be afraid to talk there when taking your first steps and requesting assistance as required. You will start out in a system with a lot of other new players, so feel free to get to know eachother, strike up friendships, and help eachother out!
+The corp tab is your Rookie Corporation Chat. Rest assured that this channel is filled with new players just like yourself, so chat away! You may also find some experienced players in there who'll be answering questions and assisting new players.
+The last tab is the Rookie Help channel. That is absolutely the place to seek assistance and ask questions! There are a lot of seasoned players in this channel who will assist and guide you, along with members of our wonderful ISD STAR Volunteer Team who are here to help. They will be highlighted in chat with a different color of text to regular players, and the prefix "ISD" before their character name.
+If you ever lose one of these channels, don't worry. You can click the little chat bubble and find them there, most notably the help channels under the Help category. Otherwise they will be at the top of your menu, on the left side of your screen.
+
+
+Above: The location of the channels list in your NeoCOM.
+
+
+Above: The default set of chat channels stacked into one window with tabs.
+
+Please be aware that in the world of New Eden, there are very few rules on player interaction, and there may be some people out there who are looking to take advantage of others. Always be careful of who you trust. For a little more details on Scamming in EVE Online, see this awesome guide by EVE University!
+
+
+CONCORD are there for your protection, but are a reactive rather than a proactive force.
+They respond to incidents within high security space (0.5 - 1.0 security), taking punitive action against players who attack others.
+
+New Player Training Sessions
+
+Last year the Community Team ran a series of New Player Training Sessions (NPTS) specifically targeted at players that would like to know as much about specific features as possible. If you wish to know more, they are available on the EVElopedia. The EVElopedia is also an excellent source of information for other matters. If you want, you can also join the New Player Training Sessions chat channel in-game, by clicking the chat bubble and typing in the name of the channel.
+
+Terminology & New Player FAQ
+
+Check out the official EVE Online New Pilot FAQ for a boiled down explanation of many basic points on how to play EVE, what to expect, and how to attain it. As well as that, the EVElopedia contains guides on Mission Running and Mining.
+
+In addition to this, you'll hear a lot of new terminology being used that is specific to the EVE Universe. The amazing player built EVE Lexicon should help you understand what's being said, and assist you in expanding your vocabulary to cover all things EVE!
+
+New Users On Steam
+
+We also have a wealth of information to assist our new users on Steam and allow them to learn as they play. Our Steam Community Hub has a number of amazing player created guides and walkthroughs, as well as community created videos, artwork and screenshots.
+
+Searching for wingmen
+
+There are many corporations in New Eden who are more than happy to recruit and train rookie players, and joining a corporation is one of the best ways to get a solid head start in EVE. As well as a list of educational corporations in EVE Online, we also have an in game corporation search tool that can help you find the right match for your playstyle.
+
+There is no better source of experience and help than the existing players. Remember that this is a single-shard server, which means everyone plays on the same server. Notable places to check are the EVE subreddit, the New Citizens Q&A forum on the EVE Online forums, the EVE University Wiki and EVE101.com. If you have a Twitter account, you can see what clever things the other players are saying by watching #eveonline and #tweetfleet.
+
+Social Media
+
+At CCP, we feel that our community are of paramount importance. Without you guys mining, building, trading and declaring war on eachother New Eden would be a pretty quiet place. We maintain a healthy social media presence to ensure that we keep in contact with the community, and you can always find a member of the community team roaming twitter or facebook. Click the images below to take a look at where we appear most often on social media.
+
+        
+
+For a full list of our presence on social media, please see here!
+
+And finally!
+
+If you experience any issues that you can't locate a resolution for, or are unable to obtain an answer from the Rookie Help channel, our friendly GM Team are always happy to assist with any issues you might have. You can contact them from within EVE by pressing the F12 key, which will bring up the following window. From here you can file a support ticket to request the assistance that you need:
+
+
+
+In addition to this, the GM Team team also man a twitter account, where you can find tips and tricks, along with messages regarding current issues and further community resources for learning more about the world of EVE.
+
+As well as these resources, over the coming week, members of CCP Staff will be on hand to assist you in the rookie help channel, and in some instances in local too! We'll be making a tour of New Eden now and then to see how new players are getting along with their first steps in the world of EVE. You can identify members of CCP staff by the prefix "CCP" before our names, and blue text in chat windows.
+
+We pride ourselves on the strength and dedication of our community, and hope that you'll have an awesome time getting to know fellow EVE players as you take your first steps into New Eden. We're extremely humbled and proud of our community after watching the huge level of support our amazing players have shown rookie players over the course of this weekend.
+
+Go join them, forge your own destiny in EVE and make your mark on the universe; but most importantly of all, have fun doing so!
+
+Good luck, pilots!
+
+CCP Falcon
+Community Manager
+CCP Games
+
+P.S. - Don't take our word for it, check out how awesome Blackhuey of Deep Structure. DP.S thinks rookie players are!

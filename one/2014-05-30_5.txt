@@ -1,0 +1,46 @@
+Greetings Capsuleers!
+
+In this blog last week we outlined what you can expect to see in the Kronos release on June 3rd. To add to that list, here are a few more things heading your way beginning of next week!
+
+The new Typhoon model
+
+In Kronos we have upgraded the visuals for the Typhoon and it´s variants, the Panther and Fleet Issue Typhoon. The revamp keeps the distinct look of the model but refines it’s all around visual aesthetics.
+
+
+(click to enlarge)
+
+Mordu’s Legion contraband sites in low-security space
+
+Mordu's Legion is fervently scanning down and raiding hidden Guristas research sites in low sec and revealing their location in the process to anyone in the vicinity who is paying attention. Hacking these sites will reward data valuable to the Mordu’s Legion and capsuleers can hand them in to aid the Legion’s war effort. This will in turn lead to further new sites being revealed for all those willing to risk their ships to get many new valuable rewards like unique ship skins and implants.
+
+Watch out for a dev blog coming out tomorrow going into more detail about these sites, the events surrounding them and all the rewards.
+
+Low slots instead of rigs for Freighters and Jump Freighters
+
+Announced in our previous blog of "Coming in Kronos", we mentioned that we would be adding Rig slots to Freighters and Jump Freighters. After a round of feedback from the CSM and the player community we decided to revise the design and add Low powered module slots to the ship classes instead of Rig slots. This gives these ships the chance to truly adapt to different scenarios and make them even more useful than they were before.
+
+You can get all of the details here.
+
+Improved customer experience on the Mac client with the latest Cider update
+
+
+
+
+Screenshots from the Mac client showing visual effects improvements that are included in the latest build.
+
+In the Kronos release, the development has been focused on improving the overall customer experience for players running the EVE client on the Mac. The update brings a much needed improvement to the overall visceral experience of EVE Online for Mac players. The following are some of the improvements you will see in Kronos:
+
+Blinking point lights sprites are back.
+Ships featuring fields and drone bays now have their force field effects back.
+Anti-aliasing options now correctly affect antialiasing as they should.
+Star fields no longer flicker if you are being shot.
+Warp disruption bubble effects no longer flicker.
+Improved compatibility with USB based headsets and microphones.
+Support for Retina displays.
+Fixes for some full-screen effects.
+Corrupt clouds in high shaders are fixed.
+Black graphical corruption in warp engine trails are fixed.
+Transparent character models from using a combo of "low" post-processing and anti-aliasing are fixed.
+You can expect to see several more dev blogs coming out before June 3rd, going into more detail on some of the features coming in Kronos.
+
+/@CCPSeagull

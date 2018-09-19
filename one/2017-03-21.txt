@@ -1,0 +1,30 @@
+Hi again!
+
+Last week we announced plans to update PLEX, which you can ready about here. Since then, we’ve been listening to community discussion and now we want to give an update to add clarity and address concerns.
+
+30 DAYS AT A TIME
+First, we want to emphasize that there are currently no plans to sell game time in portions smaller than 30 days. We noticed that some of you made the fair assumption that because PLEX was becoming granular, it would mean subscription time would be granular as well. This is not the case. Our current plan is that PLEX will only be redeemed for game time in 30 day chunks, just like now. If you were worried about seeing cyno alts subbed for 3 hours at a time, don’t worry.
+
+
+
+AURUM BALANCES UNDER 1000
+Next up: Aurum conversion for players with Aurum balances of 1000 or less. The goal behind the initial plan was to minimize devaluation of PLEX at launch due to Aurum stockpiles entering the market, which is still a big priority, but, we hear you loud and clear that leaving some balances to not be converted is not a good enough solution.
+
+After several days of looking at alternatives, we now intend to delay conversion for small balances rather than not converting at all. On feature release, we will convert Aurum balances greater than 1000 to PLEX immediately, and then, 3 months later, convert balances under 1000 Aurum. This should mitigate impact on the PLEX market and give us a good window to look at activity and adjust if needed.
+
+Along with the change to conversion, we want to reiterate that we are going to be running offers in the in-game New Eden Store up until a few days before release so that spending those leftover balances is easy and rewarding. Specifics on those deals are still in the works but we want to make sure you have good options leading up to the day we convert.
+
+
+
+AURUM TOKENS
+One more tiny detail for Aurum which has not been mentioned so far: we will be removing Aurum tokens from the game. Many of you might not even know they exist, as you haven’t been able to create them for years, but, there’s still a few around so if you have some get them converted back to Aurum currency before we make the switch to PLEX.
+
+BROKERS FEES FOR PLEX ORDERS
+Last week we mentioned that active market orders for old PLEX would have their brokers fees refunded during the conversion. The CSM was kind of enough to remind us that in Citadels, brokers fees are paid to the Citadel owner, meaning that if we refund fees in Citadels we create a nice ISK printing machine for wealthy players. While following up on this, our team discovered that we don’t actually have the ability to refund fees at all. In EVE, fees are paid as a transaction when an order is placed and not tied to the order itself. This is one of our team’s first “type” conversions and we were simply confused. Sorry for that. Hopefully, with adequate warning, orders can be set up with release date in mind to minimize wasted fees.
+
+FEATURE TIMELINE
+Speaking of the release date, there was a lot of interest in hearing when we expect to go live. While we still can’t give a specific day, we know it’s important for you to have a ballpark so you can get your ducks in a row. Our current target is for shortly after Fanfest, in late Spring or early Summer. Delays are always possible but for those of you worried it would be Q4 or later, rest assured.
+
+Thanks very much for all the input, we hope these updates find you well.
+
+Team Size Matters

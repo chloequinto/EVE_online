@@ -1,0 +1,55 @@
+Hello spacefriends!
+
+Team Five 0 is hard at work on our next set of iterations to sovereignty (as well as some changes to Jump Fatigue) and we're ready to get your feedback on some of the changes scheduled for the next two releases. These are the second set of major iterations to the Sov capture system since Aegis, with the first set having been released in our earlier Galatea release.
+
+The first of these changes is scheduled for the Vanguard release on September 29th, and the rest will be coming in the Parallax release on November 3rd.
+
+As always, we want to express our thanks to everyone who has been providing valuable feedback on these areas of the game, as well as all the players who are engaging with the new sov capture system on Tranquility. We've been watching and listening very closely and we couldn't do all of this without you.
+
+****
+
+Vanguard Release (September 29th)
+
+It will no longer be possible to online Entosis Links on Interceptors
+
+We've been observing activity closely since the Aegis release, and after internal discussion and thought we have decided to propose a restriction on Entosis Links for Interceptors. We continue to be committed to leaving the maximum possible player choice and allowing strong options for asymmetrical warfare, however we think this restriction will help encourage greater variety of ships in Entosis gameplay and create more interesting combat opportunities. We'll be closely watching the results of this change and we are leaving all options open for future changes, including potentially adding more restrictions or even rolling back these changes depending on the observed results.
+
+****
+
+Parallax Release (November 3rd)
+
+Passive regeneration of structure capture progress
+
+Alongside the Interceptor change in Vanguard, this change is intended to add a new tool for adjusting the balance between asymmetric attackers and defenders. It makes defending your sov structures against uncommitted attackers less of a chore.
+
+All Entosis capture progress for owned structures, command nodes for owned structures and online station services will regenerate towards full owner control if nobody has an active link running. This regeneration only applies when the structure is partially contested, not while reinforced.
+
+The pace of this automatic regeneration will be slower than active linking from defenders, but it provides another option for defenders to choose between after they have driven off their attackers.
+
+Under the current plans, station services that have been disabled won't regen (in any direction) until someone re-enables them. Structures and nodes with no player owner (such as recently dropped structures and freeport capture event nodes) won't regen either.
+
+Our currently planned numbers for the regeneration pace are as follows:
+
+(click to enlarge)
+
+
+An unattended capture node event will self-complete in < 196 minutes (assuming all solar systems in the constellation have been visited by at least one player since downtime)
+Ability to self-destruct sov structures
+
+This is a simple change to allow corps to willingly drop their sov structures. This will be especially useful for alliances that are willingly dropping control of some space to allow another alliance to take it. It takes the form of a new right click option on sov structures that's only available to Directors in the owning corp, and it will work much like ship self destruct. We currently have it set to a 20 minute delay, and as soon as the countdown starts a notification would be sent to the whole alliance. If this self-destruct is due to nefarious rogue director sabotage, any director in that corp would then be able to fly over and stop the destruct within the time delay. Delay duration is easy enough for us to change if we see the need, and we are very interested in your opinions on how to find the proper balance.
+
+Downtime will abort any pending self-destructs, just like it does with ships.
+
+There's also another couple sov changes that we are currently working on but that aren't far enough along to start talking about quite yet.
+
+
+
+The Parallax release will also contain a significant iteration to the Jump Fatigue mechanic.
+
+This change is designed to reduce the damage that a character can inflict by overjumping, reducing the maximum possible fatigue from 30 days to 5 days. In general, this means that a player who is mostly active on the weekend will have fully recovered from one weekend by the next. We will be closely watching how this change impacts behavior and we hope that it will make the fatigue mechanic less punishing without losing the key benefits of curtailing power projection. We are also investigating and working on tweaks to the formula itself, but those changes aren't quite far enough along to talk about yet.
+
+A reminder as always that we are committed to continuing to iterate on the sovereignty capture system in the long term, and these changes will not be the last. We are very interested in your feedback on these proposals and we hope that you'll join in a productive and civil discussion in this blog's forum feedback thread.
+
+Thanks and good hunting!
+
+Team Five-0
