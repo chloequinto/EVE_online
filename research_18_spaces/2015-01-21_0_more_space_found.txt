@@ -1,0 +1,12 @@
+**Autocannons and Barrage:**
+
+For autocannons of all sizes, we wanted to improve the weapon class slightly while reducing the reliance on the excellent Barrage T2 ammo type. To that end, we are increasing the base falloff of all subcapital autocannons and decreasing the falloff bonus provided by Barrage ammo to match.
+
+All autocannons will receive +7.5% falloff
+Barrage ammo will provide a +40% falloff bonus instead of +50%
+
+The end result is that falloff with Barrage loaded will remain almost identical, but there will be more situations where using another ammo type is a correct choice.
+
+Thanks for joining me for this dev blog, and thanks in advance to all of you who will be posting constructive feedback in this blog’s comments thread. As always we plan to work with our community to ensure that these changes find their best possible version before release.
+
+The Svipul and these projectile changes will be hitting Singularity for your testing pleasure as soon as possible, and we look forward to releasing them in our Tiamat release coming your way on February 17th.

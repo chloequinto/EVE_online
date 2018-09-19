@@ -1,0 +1,420 @@
+(click image for a larger version)
+
+Support Team
+
+We’ve continued to help out Game of Drones with their mammoth task of overhauling the whole industry process, to make sure we deliver a stellar industry feature.
+
+We made a few small changes to starbases:
+
+We removed the standing restrictions for deploying starbases in hi-sec.
+We added a minimum corp age of 7 days for deploying starbases.
+We continued to polish the reprocessing UI. We also adjusted the reprocessing stats of Outposts a bit. You can read more about reprocessing changes here.
+
+We moved the Planetary Interaction (PI) window out of the old Science and Industries  window. It is now under the EVE menu in the Neocom, under Business.
+
+Extra Special
+
+Each team has four team members. Each team member has its own specialty. The specialty dictates what jobs it affects and to what extent. The effectiveness of teams and team members was explained in the first blog on teams, but here is a bit more information on the specialties themselves.
+
+There are a total of 134 specialties. They are divided amongst 6 types: Structure, Components, Consumables, Ship, Mobile and Equipment. The types are not of equal size, the Consumables one has a total of 11 specialties for instance, while the Equipment one has 50.
+
+Specialties are either broad or narrow. Broad specialties affect more items, but generally have less effect, while narrow affect fewer items, but can have a higher impact. For a team to have a team member with a narrow specialty, another team member must have the broad specialty related to it. For example, Ammo is a broad specialty, with Hybrid Ammo being a narrow specialty. A team can thus never have a team member with the Hybrid Ammo specialty, without having a member with the Ammo specialty.
+
+There are 39 broad specialties. Of those, 23 have narrow specialties linked to them. Each of the 95 narrow specialties is linked to a single broad specialty. A broad specialty with a narrow specialty associated with it can have a single one or as many as 10 (there are 10 narrow specialties for the Medium Class broad specialty).
+
+Each specialty is linked to one or more item groups. Some specialties only affect a handful of items, while others can affect dozens. On mouseover on the specialty on a team, a tooltip appears listing all item groups affected by the specialty.
+
+While giving an exact mapping is outside of the scope of this dev blog, we can give a complete list of all the specialties. In most cases, figuring out what items the specialty affects is fairly self-explanatory.
+
+Structure type:
+
+Broad specialties (4)
+
+Narrow specialties (11)
+
+Starbase
+
+Starbase Core; Starbase Weapons; Starbase Defense; Starbase Processing; Starbase Production; Starbase Storage
+
+Deployables
+
+Mobile Structures; Mobile Disruption
+
+Sovereignty
+
+I-Hubs; SBUs; TCUs
+
+Containers
+
+None
+
+Components type:
+
+Broad specialties (7)
+
+Narrow specialties (5)
+
+Subsystem
+
+Defensive Systems; Electronic Systems; Engineering Systems; Offensive Systems; Propulsion Systems
+
+Capital Construction
+
+None
+
+Construction Components
+
+None
+
+Outpost Components
+
+None
+
+Tools
+
+None
+
+Hybrid Components
+
+None
+
+Data Interfaces
+
+None
+
+Consumables type:
+
+Broad specialties (6)
+
+Narrow specialties (5)
+
+Ammo
+
+Bombs; Crystals; Hybrid Ammo; Missiles & Rockets; Projectile Ammo
+
+Capacitor Boosters
+
+None
+
+Fuel Blocks
+
+None
+
+Nanite Repair Paste
+
+None
+
+Neural Boosters
+
+None
+
+Interdiction Probe
+
+None
+
+Ship type:
+
+Broad specialties (4)
+
+Narrow specialties (27)
+
+Small Class
+
+Assault Frigate; Covert Ops; Destroyer; Electronic Attack Ship; Frigate; Interceptor; Interdictor; Shuttle
+
+Medium Class
+
+Battlecruiser; Command Ship; Cruiser; Industrial Ship; Heavy Assault Cruiser; Heavy Interdiction Cruiser; Logistics; Mining Barge; Recon Ship; Strategic Cruiser
+
+Large Class
+
+Battleship; Black Ops; Marauder
+
+Capital Class
+
+Capital Industrial Ship; Carrier; Dreadnought; Freighter; Supercarrier; Titan
+
+Mobile type:
+
+Broad specialties (6)
+
+Narrow specialties (9)
+
+Disruption Drones
+
+Cap Drain Drone; EW Drone; Stasis Webifying Drone
+
+Warfare Drones
+
+Combat Drone
+
+Fighters
+
+Fighter Bomber; Fighter Drone
+
+Utility Drones
+
+Logistic Drone; Mining Drone; Salvage Drone
+
+Scanner Probe
+
+None
+
+Survey Probe
+
+None
+
+Equipment type:
+
+Broad specialties (12)
+
+Narrow specialties (38)
+
+Armor
+
+Armor Active Modules; Armor Passive Expanders; Armor Passive Resistance
+
+Shields
+
+Shield Active Modules; Shield Passive Recharge; Shield Passive Extenders; Shield Passive Resistance
+
+Electronics Warfare
+
+ECM & ECCM; Energy Drain Modules; Tracking Disruptor; Warp Scrambling Modules
+
+Damage
+
+Damage Amplifiers; Energy Weapon; Hybrid Weapon; Missile Launchers; Projectile Weapon; Smart Bomb
+
+Engineering
+
+Capacitor Active; Capacitor Passive; Capital Modules; Damage Control; Fitting Modules; Hull Modules
+
+Navigation
+
+Cloaking Device; Jump Modules; Propulsion Modules; Stasis Web; Stabilizer Modules
+
+Sensor & Targeting
+
+Fleet Coordinator; Remote Modules; Targeting Modules; Tracking Modules; Tractor Beam
+
+Drone Modules
+
+Drone Operation Modules; Drone Effectiveness Modules
+
+Scanner & Harvesting
+
+Harvesting Modules; Scanning Modules; Surveying Modules
+
+Rigs
+
+None
+
+Implants
+
+None
+
+Scripts
+
+None
+
+It’s worth emphasizing that the intention was not to have all specialties (and thus all teams) be equally viable or valuable. We fully acknowledge that some specialties will be much more sought after than others.
+
+That’s it for Team Super Friends. This might actually be the last dev blog from Super Friends, as the team will no longer exist with the same member composition as a result of some changes to better facilitate the new frequent release cadence. Some members have joined other teams and some have joined a new team. While Super Friends might be done, you can still expect to hear more from all of us in the future and we will be keeping a close eye on all things related to industry.
+
+New to EVE? Start your 14-day free trial today.
+Returning pilot? Visit Account Management for the latest offers and promotions.
+
+Broad specialties (4)
+
+Narrow specialties (11)
+
+Starbase
+
+Starbase Core; Starbase Weapons; Starbase Defense; Starbase Processing; Starbase Production; Starbase Storage
+
+Deployables
+
+Mobile Structures; Mobile Disruption
+
+Sovereignty
+
+I-Hubs; SBUs; TCUs
+
+Containers
+
+None
+
+Components type:
+
+Broad specialties (7)
+
+Narrow specialties (5)
+
+Subsystem
+
+Defensive Systems; Electronic Systems; Engineering Systems; Offensive Systems; Propulsion Systems
+
+Capital Construction
+
+None
+
+Construction Components
+
+None
+
+Outpost Components
+
+None
+
+Tools
+
+None
+
+Hybrid Components
+
+None
+
+Data Interfaces
+
+None
+
+Consumables type:
+
+Broad specialties (6)
+
+Narrow specialties (5)
+
+Ammo
+
+Bombs; Crystals; Hybrid Ammo; Missiles & Rockets; Projectile Ammo
+
+Capacitor Boosters
+
+None
+
+Fuel Blocks
+
+None
+
+Nanite Repair Paste
+
+None
+
+Neural Boosters
+
+None
+
+Interdiction Probe
+
+None
+
+Ship type:
+
+Broad specialties (4)
+
+Narrow specialties (27)
+
+Small Class
+
+Assault Frigate; Covert Ops; Destroyer; Electronic Attack Ship; Frigate; Interceptor; Interdictor; Shuttle
+
+Medium Class
+
+Battlecruiser; Command Ship; Cruiser; Industrial Ship; Heavy Assault Cruiser; Heavy Interdiction Cruiser; Logistics; Mining Barge; Recon Ship; Strategic Cruiser
+
+Large Class
+
+Battleship; Black Ops; Marauder
+
+Capital Class
+
+Capital Industrial Ship; Carrier; Dreadnought; Freighter; Supercarrier; Titan
+
+Mobile type:
+
+Broad specialties (6)
+
+Narrow specialties (9)
+
+Disruption Drones
+
+Cap Drain Drone; EW Drone; Stasis Webifying Drone
+
+Warfare Drones
+
+Combat Drone
+
+Fighters
+
+Fighter Bomber; Fighter Drone
+
+Utility Drones
+
+Logistic Drone; Mining Drone; Salvage Drone
+
+Scanner Probe
+
+None
+
+Survey Probe
+
+None
+
+Equipment type:
+
+Broad specialties (12)
+
+Narrow specialties (38)
+
+Armor
+
+Armor Active Modules; Armor Passive Expanders; Armor Passive Resistance
+
+Shields
+
+Shield Active Modules; Shield Passive Recharge; Shield Passive Extenders; Shield Passive Resistance
+
+Electronics Warfare
+
+ECM & ECCM; Energy Drain Modules; Tracking Disruptor; Warp Scrambling Modules
+
+Damage
+
+Damage Amplifiers; Energy Weapon; Hybrid Weapon; Missile Launchers; Projectile Weapon; Smart Bomb
+
+Engineering
+
+Capacitor Active; Capacitor Passive; Capital Modules; Damage Control; Fitting Modules; Hull Modules
+
+Navigation
+
+Cloaking Device; Jump Modules; Propulsion Modules; Stasis Web; Stabilizer Modules
+
+Sensor & Targeting
+
+Fleet Coordinator; Remote Modules; Targeting Modules; Tracking Modules; Tractor Beam
+
+Drone Modules
+
+Drone Operation Modules; Drone Effectiveness Modules
+
+Scanner & Harvesting
+
+Harvesting Modules; Scanning Modules; Surveying Modules
+
+Rigs
+
+None
+
+Implants
+
+None
+
+Scripts
+
+None
+
+It’s worth emphasizing that the intention was not to have all specialties (and thus all teams) be equally viable or valuable. We fully acknowledge that some specialties will be much more sought after than others.
+
+That’s it for Team Super Friends. This might actually be the last dev blog from Super Friends, as the team will no longer exist with the same member composition as a result of some changes to better facilitate the new frequent release cadence. Some members have joined other teams and some have joined a new team. While Super Friends might be done, you can still expect to hear more from all of us in the future and we will be keeping a close eye on all things related to industry.

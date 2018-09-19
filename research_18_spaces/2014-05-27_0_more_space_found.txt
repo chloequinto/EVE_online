@@ -1,0 +1,35 @@
+
+Target Indicators in Survey Scanner
+I sometimes take my shiny Retriever out for a bit of mining. As probably many of you do, I run my Survey Scanner to find big asteroids, and then run it every now and then to see if my rocks are close to depleting. What makes it a bit tedious is that all the asteroids have the same name and I need to click on them to see which ones are targeted. I want to reach my True Miner Potential so this was an issue that had to be resolved!
+
+We have therefore added targeting indicators in the Survey Scanner on the asteroids that you have targeted at the time the scan finishes. Those indicators are not removed if the asteroid is untargeted later, as they behave like the other information in the window, which is a snapshot of the situation at the moment the scan finished.
+
+
+
+Kill Report Filtering
+We have added a filter for the Kill Report lists, both in the personal list in the Character Sheet as well as the list in the Corporation window. This filter will try to match your input text to the beginning of a report's ship name, victim name, corporation and alliance, and if none of them match, the report is not displayed in the list.
+
+It's worth stating explicitly that this is not a "search" that will search all the reports, it's a filter for the current page of the list.
+
+While I was at it, I fixed the issue where the list would sometimes stutter when it was loaded, so the experience should be smoother now.
+
+Info Window Cleanup
+In recent releases we have been cleaning up the Show Info windows little by little. In the Rubicon expansion we grouped the four damage resistance attributes for shield, armor and structure (hull) for ships and drones, giving you a cleaner and more consistent view of them. In the Kronos release we continue with that work, and now we group the damage types, sensor strengths, as well as other resistance attributes for all items, making them easier to read and reducing the clutter in the Show Info window.
+
+
+
+Other Things
+Other things you've asked us for and we are happy to deliver to you in the Kronos release:
+
+Targets can now be locked in place so they cannot be dragged around. This is done through a right-click option on the Target Origin.
+The Jump Clone locations in the Character Sheet have been given a proper right-click menu, allowing you to set the autopilot destination from there.
+The "Plug In" right-click option on implants has been promoted to be below the "Show Info" option.
+It's now possible to drag some chat channels from the Channels window to any text field to create a link from which people can join the channel. Channels such as corporation, alliance and solarsystem channels cannot be linked.
+Characters and other entities can now be dragged from the Channel Settings window to be linked in chat and other input fields.
+If a corporation has no war history, it will say so in the "War History" in the corporations Show Info window, so you no longer have to wonder if it's just taking the war history a long time to load.
+Paths starting with "//" or "//" can now be linked in the "Generate Link" window.
+Hyperlinks will now show the web address (URL) in a tooltip, making it harder for mean pilots to trick innocent and unsuspecting pilots into clicking questionable links masked as something else.
+Incoming conversation requests are now logged in the "Notifications and Logs" window.
+And that’s it! Hope you enjoy these changes :)
+
+-@CCP_karkur of EVE’s Team Pirate Unicorns

@@ -1,0 +1,19 @@
+
+But we’re now in this great place where we release things to EVE so often, that putting all this focus on the release dates has stopped making sense like it used to. Many features will of course still go live on those dates:
+
+
+
+But more and more features are possible for us to release in between these bigger deployments:
+
+
+
+Changes like the length of the trial, two factor authentication, or new ship skins or clothing, or even balance changes or activation of bigger features such as new exploration sites, are now possible for us to release to you as a player at pretty much any time, not just on these deployment dates.
+
+To reflect this new reality, we needed a new way to communicate what’s upcoming in EVE.
+
+With so much change going on in EVE, it's also harder to keep up with what has changed if you have been away from EVE for a while, so that's another thing we wanted to address.
+
+Features, features, features!
+
+So, instead of announcing a certain number of releases, EVE Updates has a rolling list of the features that are coming to EVE Online, and when they will become available to you as a player. Here's an example from the Scylla update last month:
+

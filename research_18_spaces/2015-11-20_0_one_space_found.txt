@@ -1,0 +1,105 @@
+Here are the features coming to EVE on December 8th - you can also see all of this on EVE Updates and of course read the patchnotes when they become available for the detailed list of changes.
+
+Operation Frostline starts
+Introducing New Destroyers
+Four new Tech II Destroyers that favor defense and speed and can fit the powerful and versatile area-of-affect Micro Jump Field Generators, which microjump you and any ships nearby far from your current location.
+
+More Camera Options
+More options for camera controls allow for increased cinematic and tactical depth. Please note that this feature is completely opt-in.
+
+PvP Kill Marks
+You’ve been flying your favorite ship for a good while now, and dozens have fallen before you. But how do you stand out from those simply telling tall tales? Kill marks from your PVP victories are here, ship-based and bearing witness to your combat legacy. The counting begins with the feature's release!
+
+Battle Ravaged Hulls
+All new shield, armor and structure hit effects bring an epic new feel to any engagement in true sci-fi fashion. The more your ship sees active duty, the more dust and debris collects on its hull. Ships also collect rust in station hangars. Layers of history prove survival in a universe where everything is fleeting and only the best of the best grow old. Have no fear, worn ships can be cleaned through a service available in the Fitting window. Enjoy our early preview!
+
+Ice Mining Frigate
+Ninja-mine lucrative ice fields, slip into frigate-only shattered wormholes, and sneak between your favorite mining spots with the nimble new Tech II Ice Mining Frigate „Endurance“.
+
+Tech-2 Logistics Frigates
+New Tech Two versions of the remote-repairing Support Frigates are being released, opening up new progression paths for your friendly neighborhood Logibros. These ships are especially well suited for supporting fleets of fast-moving Frigates and Destroyers without falling behind the pack.
+
+Navy Disruption Frigates
+With instability spreading across the cluster, the Empire navies are hard at work developing new ships to reward and equip their dedicated loyalist Capsuleers. Four new Navy Disruption Frigates are rolling off the assembly lines, wielding powerful electronic warfare systems alongside strong applied damage. These ships are an excellent match for small gang and solo pvpers.
+
+EWAR Module Tiericide
+“Tiericide” comes to Neutralizers and Nosferatus, with some new variations as well. Changes to Warp Disruption Field Generators and ECCM also follow.
+
+Module Effects Galore
+A huge number of effects have been redone, from Cynos to ECM to smartbombs and more. Check out a first preview!
+
+New Propulsion Systems
+While your engines are giving you all they’ve got, you’ll be busy staring at these powerful new effects for each and every ship. Revel in beautiful new visuals!
+
+Falloff for Neuts and Remote Assistance Modules
+Neutralizers, remote repair modules, and energy transfers now have falloff which reduces their effectiveness at range and offers new tactical options.
+
+Missile Guidance Disruptors
+New advances in electronic warfare technology allow pilots to disrupt the missile guidance systems of their enemies.
+
+Gamma Adjustment
+A new slider has been added to the Settings Menu to brighten or darken the display to fit your room’s lighting conditions and tailor the visual experience to your personal tastes.
+
+Temporal Anti Aliasing
+Anti-aliasing smooths out edges, removing “jaggies” and other imperfections that can happen during 3D rendering. Temporal Anti-Aliasing (TXAA) is a technique designed specifically for games, correcting flickering and other issues common to rendering moving objects.
+
+A More Vibrant Universe
+Always enhancing the spatial 3D feel of the EVE universe, the art and graphics teams have added more vibrancy to the star fields and given a new level of depth to nebulae. Admire the celestial bodies that surround you and nevermind that red blip on the overview... just keep looking at the stars...
+
+Mac Client Improvements
+Client stability and performance improvements for the Mac client.
+
+Operation Frostline starts
+Introducing New Destroyers
+Four new Tech II Destroyers that favor defense and speed and can fit the powerful and versatile area-of-affect Micro Jump Field Generators, which microjump you and any ships nearby far from your current location.
+
+More Camera Options
+More options for camera controls allow for increased cinematic and tactical depth. Please note that this feature is completely opt-in.
+
+PvP Kill Marks
+You’ve been flying your favorite ship for a good while now, and dozens have fallen before you. But how do you stand out from those simply telling tall tales? Kill marks from your PVP victories are here, ship-based and bearing witness to your combat legacy. The counting begins with the feature's release!
+
+Battle Ravaged Hulls
+All new shield, armor and structure hit effects bring an epic new feel to any engagement in true sci-fi fashion. The more your ship sees active duty, the more dust and debris collects on its hull. Ships also collect rust in station hangars. Layers of history prove survival in a universe where everything is fleeting and only the best of the best grow old. Have no fear, worn ships can be cleaned through a service available in the Fitting window. Enjoy our early preview!
+
+Ice Mining Frigate
+Ninja-mine lucrative ice fields, slip into frigate-only shattered wormholes, and sneak between your favorite mining spots with the nimble new Tech II Ice Mining Frigate „Endurance“.
+
+Tech-2 Logistics Frigates
+New Tech Two versions of the remote-repairing Support Frigates are being released, opening up new progression paths for your friendly neighborhood Logibros. These ships are especially well suited for supporting fleets of fast-moving Frigates and Destroyers without falling behind the pack.
+
+Navy Disruption Frigates
+With instability spreading across the cluster, the Empire navies are hard at work developing new ships to reward and equip their dedicated loyalist Capsuleers. Four new Navy Disruption Frigates are rolling off the assembly lines, wielding powerful electronic warfare systems alongside strong applied damage. These ships are an excellent match for small gang and solo pvpers.
+
+EWAR Module Tiericide
+“Tiericide” comes to Neutralizers and Nosferatus, with some new variations as well. Changes to Warp Disruption Field Generators and ECCM also follow.
+
+Module Effects Galore
+A huge number of effects have been redone, from Cynos to ECM to smartbombs and more. Check out a first preview!
+
+New Propulsion Systems
+While your engines are giving you all they’ve got, you’ll be busy staring at these powerful new effects for each and every ship. Revel in beautiful new visuals!
+
+Falloff for Neuts and Remote Assistance Modules
+Neutralizers, remote repair modules, and energy transfers now have falloff which reduces their effectiveness at range and offers new tactical options.
+
+Missile Guidance Disruptors
+New advances in electronic warfare technology allow pilots to disrupt the missile guidance systems of their enemies.
+
+Gamma Adjustment
+A new slider has been added to the Settings Menu to brighten or darken the display to fit your room’s lighting conditions and tailor the visual experience to your personal tastes.
+
+Temporal Anti Aliasing
+Anti-aliasing smooths out edges, removing “jaggies” and other imperfections that can happen during 3D rendering. Temporal Anti-Aliasing (TXAA) is a technique designed specifically for games, correcting flickering and other issues common to rendering moving objects.
+
+A More Vibrant Universe
+Always enhancing the spatial 3D feel of the EVE universe, the art and graphics teams have added more vibrancy to the star fields and given a new level of depth to nebulae. Admire the celestial bodies that surround you and nevermind that red blip on the overview... just keep looking at the stars...
+
+Mac Client Improvements
+Client stability and performance improvements for the Mac client.
+
+Fly safe, and see you around!
+o7
+
+/CCP Seagull
+Executive Producer, EVE Online

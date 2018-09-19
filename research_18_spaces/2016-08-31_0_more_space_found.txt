@@ -1,0 +1,108 @@
+(click to enlarge)
+
+![](//content.eveonline.com/www/newssystem/media/70491/1/CLONE_STATES-INVENTORY.png)
+
+Many players coming back to check EVE for free will have played before and they might have last logged out in any number of situations which an Alpha could never have found itself in, like behind the wheel of a Titan for instance. Again, check out the Q&A for more detail, but our general approach in these situations is going to be very hands off. We won’t be moving ships around or cancelling your jobs and orders. Instead, benefits from skills that require Omega state won’t be applied and modules requiring those skills will go offline.
+
+The design we're describing is based on the combined effort of all of us here, but we need your help to make sure the Alpha experience is the best it can be. We need to hear how you think Alpha state will get used, especially if there’s obvious problems. We need to get the set of Alpha state skills tuned very carefully. And we also need to know what we can do to support you as a wave of new players come to the game looking for a home.
+
+The CSM heard about this concept just a couple days ago--basically the same time you are, but we are communicating now specifically so that they can help gather your feedback and bring it to us for the summit in September, where we will be flying out the entire CSM for the first time. If you would rather talk to us directly, the forum thread for this blog is a great place to start and we will be opening up other channels, such as a Reddit AMA, in the coming weeks.
+
+We are extremely excited about the Clone States feature. Soon, New Eden will be inundated with a flood of wide-eyed capsuleers eager to explore the world we've been building together for the past 13 years. And you will be able to shape their experiences. Are you going to help them fit a PVE destroyer? Or maybe have them point that destroyer towards the waiting ranks of a rival alliance? Or might you perhaps share a few rounds of that famous low sec hospitality? The choice is yours. 
+
+Clone States are coming this November. What will they mean to you?
+
+Signing off,
+
+Team Size Matters, on behalf of the EVE Online Development Team
+
+QUESTIONS AND ANSWERS:
+Questions about how it works:
+Q: Where can I see what skills Alphas will be allowed to train and use?
+
+A: The full list is at the bottom of this page. Note that it is a work in progress and we will be adjusting the list based on your feedback.
+
+Q: If I upgrade my account to Omega does it affect all my characters?
+
+A: Yes, all the characters on an account share a clone state. Note that you can still only train one character at a time, per account (unless you have a multiple character training certificate).
+
+Q: Can Alpha clones inject and extract skills?
+
+A: You can Inject skills regardless of your clone state. Currently, we are planning to require Omega state for skill extraction and also not allow the extraction of skills in the Alpha set.
+
+Q: Are there restrictions on simultaneous log on for Alpha Clones?
+
+A: We have not decided whether the simultaneous log on restrictions from the current trial system will apply to Alpha Clones. The decision will partly depend on your feedback, as well as our technical investigations over the coming months.
+
+Q: Can other players see my clone state?
+
+A: No, only you will be able to see your clone state. We think that seeing the clone state of other players would provide too much strategic value to make it public.
+
+Questions about returning players:
+Q: If I used to play EVE, do I need to do anything to activate Alpha State?
+
+A: No, any unsubscribed account will automatically be set to Alpha State.
+
+Q: What happens if I log in as an Alpha but I’m in a ship with required Omega skills?
+
+A: You will be allowed to fly the ship until the next time you dock, but any ship bonuses or attributes will not gain the benefits of Omega skills.
+
+Q: What happens if I log as an Alpha but I have modules fit that require Omega skills?
+
+A: Those modules will be set offline when you log in.
+
+Q: What happens if my training queue contains Omega skills but I am in Alpha State?
+
+A: We will pause your training queue and it will need to be manually restarted once the Omega skills are removed or the subscription is renewed.
+
+Questions about abuse:
+Q: Won’t suicide ganking using free characters be a major problem?
+
+A: We don’t think clone states will have much impact on suicide ganking or other harassment in high-sec. But, we will be paying very close attention and if this becomes an issue we can pursue options to improve the situation such as turning safety’s on for Alphas in high sec or making changes to the allowed skills list.
+
+Q: What about botting? Won’t it get out of control?
+
+A: Botting and multiplexing are a violation of the EULA and will be investigated and persecuted as usual under these changes. We don’t expect a significant increase in this kind of activity but we will be amping up security to make sure we don’t have problems.
+
+Q: What about farming on free alts using systems like industry?
+
+A: We’ve deliberately tried to limit this behavior using the skills allowed in the Alpha list. It should be very hard to scale alt farms in a way that hurts the ecosystem. But, this is something we need your help on though so if you see the potential for abuse please let us know.
+
+Q: Won’t lag be a huge problem?
+
+A: We are confident that we can handle a significant increase in activity, so hopefully not. We are prepared to make design changes if this does become a problem, and as always we will continue investing in our hardware and our code base.
+
+Questions about design choices:
+
+Q: Why are Alpha skills limited to the character’s faction?
+
+A: We feel that it's important to keep the allowed skills list from getting too large but would rather there was depth within their chosen faction than broad options to cross into other factions. This also reserves pirate faction ships as an Omega only option, which fits considering their power and complexity. Finally, we think focusing on one faction for new characters will help lower the early game complexity.
+
+Q: Why are Alpha skills limited to Cruisers and lower?
+
+A: We think this set of ships gives you the chance to have a meaningful impact on almost every activity and environment in the game without causing any problems in the ecosystem. Bigger and more advanced ships could easily lead to various forms of farming and abuse that would harm the experience for subscribed EVE players. That said, we expect to make changes based on feedback and on activity once the feature is released.
+
+Questions about accounts and payment:
+Q: Will you start charging for expansions or other new content?
+
+A: No, we will continue to develop and release expansions and features for free as we always have.
+
+Q: Will the price of subscription change? 
+
+A: No.
+
+Q: Will there be things I used to get as part of my subscription that I will now have to pay separately for?
+
+A: No – if you are subscribed to EVE Online, you will have all the same benefits and resources available to you as you always have as a subscriber.
+
+Q: Will customer support work the same for Alpha and Omega states?
+
+A: We are creating and implementing concrete plans to make sure we can provide the same level of support for all of our players.
+
+Q: Will Alphas be allowed on test servers?
+
+A: Not most of the time, but possibly for certain events.
+
+Q: What happens if my subscription ends while I'm logged in, will I be converted to Alpha in the middle of a fight?
+
+A: In these cases, you will remain an Omega until the next time you log out. We won't ever turn skills off during the middle of a session.

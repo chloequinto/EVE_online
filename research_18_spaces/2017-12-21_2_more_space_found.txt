@@ -1,0 +1,61 @@
+
+Expanded:
+
+
+
+As with Factional Warfare, with the archetype system we can now display Incursion site cards as their own content. We have also moved all the relevant information into the expanded card.
+
+Basic:
+
+
+
+Expanded:
+
+
+
+Epic Arcs
+Epic Arcs were included with the initial release of The Agency but with the disjointed nature of the Agent being in the Agency and the lore text being in the Journal we thought it was worth looking at if we could make a more immersive experience for players on the Epic Arcs.
+
+Let us introduce the new and improved Epic Arc cards for The Agency.
+
+You will now be able to track the story through the Expanded cards and see how far into Epic Arc you are and when you will unlock the next chapter.
+
+
+
+THE JOURNAL
+The Journal is a bit of a different beast, and has served as an outlet for a lot of in game content over the years.  We wanted to make sure that we kept our efforts focused while overhauling it, so we hooked up some metric tracking to the Journal window.
+
+As it currently stands on TQ we have the following tabs in the journal and the % of how often they are opened compared to all windows in EVE:
+
+Agents – 10%
+Expeditions – 5%
+Contracts - 0.84%
+Planetary Launches – 0.26%
+Epic Journal – 0.25 %
+Incursions – 0.5%
+None of the numbers were too surprising. Some of the only access or information about these features is in the Journal or through external 3rd party information.
+
+So, with these numbers in mind we started looking at what we could do to better represent this information or make it more discoverable.
+
+Let’s run through the above tabs and break down what we will be doing for January
+
+Agents:
+This tab will remain untouched in the January release. We feel the amount of people currently using it means we should leave this as it is for the time being.
+
+Expeditions:
+These will be moving over to the Agency where you will be able to track your expeditions. To see your current Expeditions just open the Agency and select either the Suggested tab or filter for combat sites and remember to adjust the distance.
+
+Contracts:
+This tab is going to be removed and the contracts window should be able to handle everything this tab does.
+
+For this to work we are adding a "Requires Attention" filter to the "Status" dropdown in the "My Contracts" tab of the "Contracts" window.
+
+Clicking any of the Contracts window front page messages like "You have x contracts that require attention" or "Your corp has y contracts in progress" will now take you to the "My Contracts" tab within the "Contracts" window.
+
+We are also reorganizing the order of the buttons in this window to make more sense. Contract Type will now be the first dropdown box in the "My Contracts" tab.
+
+
+
+Planetary Launches:
+The "Planetary Launches" tab will be moved to become a new tab in the "Planetary Colonies" window. Functionally this tab and window will remain the same and PI interaction will now be accessed in one location.
+

@@ -1,0 +1,20 @@
+An unattended capture node event will self-complete in < 196 minutes (assuming all solar systems in the constellation have been visited by at least one player since downtime)
+Ability to self-destruct sov structures
+
+This is a simple change to allow corps to willingly drop their sov structures. This will be especially useful for alliances that are willingly dropping control of some space to allow another alliance to take it. It takes the form of a new right click option on sov structures that's only available to Directors in the owning corp, and it will work much like ship self destruct. We currently have it set to a 20 minute delay, and as soon as the countdown starts a notification would be sent to the whole alliance. If this self-destruct is due to nefarious rogue director sabotage, any director in that corp would then be able to fly over and stop the destruct within the time delay. Delay duration is easy enough for us to change if we see the need, and we are very interested in your opinions on how to find the proper balance.
+
+Downtime will abort any pending self-destructs, just like it does with ships.
+
+There's also another couple sov changes that we are currently working on but that aren't far enough along to start talking about quite yet.
+
+
+
+The Parallax release will also contain a significant iteration to the Jump Fatigue mechanic.
+
+This change is designed to reduce the damage that a character can inflict by overjumping, reducing the maximum possible fatigue from 30 days to 5 days. In general, this means that a player who is mostly active on the weekend will have fully recovered from one weekend by the next. We will be closely watching how this change impacts behavior and we hope that it will make the fatigue mechanic less punishing without losing the key benefits of curtailing power projection. We are also investigating and working on tweaks to the formula itself, but those changes aren't quite far enough along to talk about yet.
+
+A reminder as always that we are committed to continuing to iterate on the sovereignty capture system in the long term, and these changes will not be the last. We are very interested in your feedback on these proposals and we hope that you'll join in a productive and civil discussion in this blog's forum feedback thread.
+
+Thanks and good hunting!
+
+Team Five-0

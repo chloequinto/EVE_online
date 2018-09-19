@@ -1,0 +1,72 @@
+(Click to enlarge)
+
+Rebalanced system effects in wormholes
+Black Holes get a big update to be based fully on speed, and all other types of wormhole system effects get changes in order to make wormhole exploration and combat more interesting.
+
+Wormhole jump changes
+The jump-in point will change based on ship mass, and signatures for wormhole exits will not appear until a ship jumps through.
+
+More wormholes connecting across wormhole space
+With Hyperion, there will be both more random wormhole connections appearing in wormhole space, and a whole new class of wormholes that regenerate mass over time and are only navigable in smaller ships.
+
+Class 4 wormhole systems get a second static connection
+This will make C4s exceptionally well-connected to other W-space systems and a great choice for corporations who want to enjoy a variety of travels within wormhole space.
+
+Bookmark copying gets faster and less restricted
+In Hyperion, copying large sets of bookmarks between people will be significantly faster.
+
+
+(Click to enlarge)
+
+New Overview setup sharing
+All the relevant settings for the overview will be captured, stored on the server, and linkable. An upcoming dev blog will present the changes, and discussion about it is ongoing in this forum thread: //forums.eveonline.com/default.aspx?g=posts&t=362210
+
+A new kind of Level 4 missions
+Take on a single, powerful enemy using fitting skills and combat tactics in new optional level 4 missions for frigate size ships that will be available from all security agents in Empire space. An upcoming dev blog will present the new missions.
+
+Incursion Scout Sites improved to be viable for small groups
+Run the revamped Scout Sites while waiting for bigger incursion fleets to form. Hyperion also brings other changes to the enemies and rewards from Incursion sites. Stay tuned for a dev blog, and in the meantime you can read more here.
+
+Ishtar, Eagle and Muninn ship balance updates
+See this forum thread for all the details: //forums.eveonline.com/default.aspx?g=posts&t=361722
+
+Lowered activation cost for 100MN Micro Warp Drives
+Capacitor activation cost is cut in half for all 100MN Micro Warp Drives.
+
+Redeem PLEX for game time to another character
+Activate game time for the account of another character using PLEX. This feature is designed to help those who need to keep multiple accounts active for themselves or others, and also gives anyone a simple way to use PLEX to give away game time.
+
+New tooltips for the Market
+A new set of tool tips will add contextual help to the market.
+
+New character head gear, cybernetic arms and tights
+Hyperion brings back classic Gallente head pieces to EVE, along with new cybernetic arms and tights. Keep an eye on the New Eden Store for these.
+
+
+(Click to enlarge)
+
+Character Re-sculpt and Multiple Character Training available through the New Eden Store
+As a small step to ease the use and discovery of these character services, we will introduce new items that can be purchased from the New Eden Store that can be activated for character re-sculpting or multiple character training. These items can also be traded on the market.
+
+Visual upgrades to structures like defenses, battle stations and containers
+A number of structures commonly seen in missions and exploration sites get a small visual overhaul and are upgraded to use the latest rendering technologies.
+
+Planetary Industry in claimed 0.0 space becomes available to people outside the sovereignty holding alliance
+In Hyperion, it becomes possible for players outside the alliance holding sovereignty in a system to operate planetary colonies.
+
+New EVE XML API endpoints for blueprints
+With Hyperion we are releasing new API endpoints in the EVE XML API for private and corporation blueprints with their ME/TE values. There will also be a range of fixes to the API endpoints for Industry released with Crius.
+
+We hope you’ll enjoy these changes. A few more small things might make it in as well.
+
+Feels like just yesterday that Crius shipped, and Hyperion is already here. After that, we have three more releases this year: Oceanus on September 30, Phoebe on November 4th and Rhea on December 9th. In the dev blog presenting me as the new Executive Producer for EVE Online I said this about these upcoming releases:
+
+“We will use these releases to the fullest to make EVE an exciting place. We will make changes to nullsec, add new ships, balance and revamp ships, modules and structures, add new missions and new kinds of dynamic content, add new invention gameplay and continue to improve industry. We will take the next steps towards our vision of player built stargates and, behind the scenes, we will start work on next generation structures and big changes to corporations and alliances.”
+
+Join us for a fall that will bring in the new era of this kind of release – Kronos and Crius were delivering plans that were originally made to be a classic expansion, from Hyperion and onwards we are really using the new model for planning and developing features. We are listening to feedback so keep it coming.
+
+That’s it for now – enjoy Hyperion and the upcoming dev blogs that will go into more details about the features.
+
+/CCP Seagull
+Executive Producer, EVE Online
+@ccpseagull

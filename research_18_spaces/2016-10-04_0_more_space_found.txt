@@ -1,0 +1,1326 @@
+
+Mining Foreman Pillar #1: Help fleetmates mine more effectively
+This is the most obvious pillar of mining foreman gameplay and it’s the only pillar that is currently being met to a significant degree. In the new system we are converting the existing mining fleet boosting gameplay over to the new AoE “Command Burst” system described in the previous blog.
+
+Each of the mining foreman ships share the same core tools for helping other players mine more effectively, with improved bonuses across the progression as investment increases:
+
+Mining Foreman Bursts, which provide timed bonuses to mining speed, mining range, and crystal durability to all fleetmates within the area of effect
+Long-range survey scanners that allow the mining foreman ships to effectively coordinate their mining operations and provide valuable intel to allies miners
+Range and speed boosted tractor beams to collect containers of ore from around the asteroid belt
+Large ore holds and fleet hangars to effectively store and move the ore collected during their operation
+The Orca and Rorqual also have ship maintenance bays that allow their allies to refit and even switch ships in space
+Mining Foreman Pillar #2: Defend the mining operation
+Mining operations can find themselves under threat by a number of sources, from NPC pirates to other players. Although some mining ships can already do an amazing job of defending themselves (most notably the Procurer and Skiff), we want to ensure that mining foreman ships all have their own teeth to serve as the protector of their mining operation. This defense functionality takes a few forms:
+
+All mining foreman ships will have drone damage bonuses which give them the offensive capability to kill NPCs and make capsuleer attackers think twice before engaging
+All mining foreman ships also get bonuses to remote shield boosting which allow them to heal the members of their mining operation
+The Orca and Rorqual gain bonuses to Shield Command Burst modules (in addition to their Mining Foreman Burst bonuses) which make them well suited to increasing the shield defenses of their fleetmates
+The Rorqual has the ability to use a unique defensive superweapon called the Pulse Activated Nexus Invulnerability Core, giving it the option of making itself and its mining operation invulnerable and immobile for between 5 and 7.5 minutes
+Mining Foreman Pillar #3: Contribute with powerful mining drones
+The third pillar is the biggest change from the existing mining foreman gameplay, and the #1 request we’ve been hearing from the community on this topic over the past few years. All mining foreman ships should have their own mining ability to allow them to contribute directly to the results of their mining operation, and give them productive gameplay in between their other tasks.
+
+We decided early on that mining drones would be a better fit than mining lasers for achieving this pillar, as these mining foreman ships would already have plenty of other things competing for highslot space.
+
+To aid with this pillar, we are fleshing out the mining drone skills and progression in November. More details about those mining drone changes can be found later in this blog.
+
+When equipped with mining drones these ships will all provide significant mining yield, with improved mining rates coming from the larger ships.
+
+Thanks to the new Excavator mining drones, the Rorqual will become the most powerful mining ship in the game even without the use of the Industrial Core. With the Industrial Core active it will be in a league of its own, essentially a one-ship mining operation.
+
+These three pillars are visible in each of the mining foreman ships, giving players the option of choosing whichever ship best matches the needs of their particular mining operations.
+
+We’ll dive into the details about any ships soon, but first let’s go over the specifics of the new Mining Foreman Bursts and the revamped mining drones that will be used by all three ships.
+
+MINING FOREMAN BURST DETAILS
+If you’ve read the previous dev blog and forum thread covering the Command Burst system, you’ll already be familiar with most of the information this section. In that case feel free to skip to the next section most of this will be repeated information. However, we want to include a quick refresher on the basic information so that people who just want to learn about mining foreman gameplay can get everything they need in one blog.
+
+Command Bursts are high-slot modules that can be fit on the same classes of ships that can currently fit Warfare Links and will be replacing their functionality. There will be five types of Command Burst modules at launch, one for each of the existing fleet boost groups: Armor, Shield (formerly known as Siege), Information, Skirmish, and Mining.
+
+These modules must be loaded with ammo in order to activate, and the ammo choices determine which bonus the module will provide to nearby fleetmates. Ammo can be swapped in the field to change bonuses as the situation changes, although a reload time of between thirty seconds and one minute means that choosing the right time to swap bonuses is important.
+
+The ammunition for Command Bursts will be compact, inexpensive and manufactured by players primarily from the raw materials of ice products.
+
+The burst charges themselves are planned to have a volume of 0.01 m3, and the modules themselves will have a capacity of 3 m3. This means that if you don't want to change ammo types you can boost for 5 hours continuously without reloading.
+
+The blueprint originals for each of these charge types will be sold by NPCs, just like other T1 charges.
+
+The current plans for material requirements for batches of the burst charges are as follows (base values for an unresearched blueprint):
+Batch size for all burst charges is 500.
+
+All information command burst charges:
+100 units of Helium Isotopes
+100 units of Nitrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All skirmish command burst charges:
+100 units of Oxygen Isotopes
+100 units of Hydrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All shield command burst charges:
+100 units of Hydrogen Isotopes
+100 units of Nitrogen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All armor command burst charges:
+100 units of Helium Isotopes
+100 units of Oxygen Isotopes
+300 units of Heavy Water
+100 units of Tritanium
+100 units of Isogen
+
+All mining foreman burst charges:
+500 units of Heavy Water
+500 units of Tritanium
+500 units of Isogen
+
+This means that the cost of an individual burst charge should land between 200 and 500 ISK, with the mining burst charges costing a bit less than the combat ones.
+
+Command Burst modules will also require a moderate amount of capacitor to activate.
+
+When activated, the Command Burst will apply bonuses to all fleetmates within range of the boosting ship in a sizable sphere. Imagine a smartbomb that buffs your friends instead of damaging ships and you’ll get the idea. Activating a Command Burst will generate a weapons timer and therefore prevent the boosting ship from jumping through gates or docking for one minute. The area covered by the burst is clearly indicated by their visual effect:
+
+
+When a fleetmate is hit by the Command Burst, their ship will receive a timed bonus lasting between 60 and 130 seconds that continues to operate even if they move out of range, or if the boosting ship dies. The bonus persists through warps within a system, but does not persist through docking and undocking or through system changes. The bonus is applied to the ship rather than the character, so swapping ships in space leaves the buff on your unpiloted old ship rather than having it follow you to the new ship. Since the burst that applies the timed bonus is instantaneous, any ships that enter range after the burst goes off will need to wait until the next cycle to receive their bonus.
+
+Command Bursts will not apply their bonuses to any fleetmates that are tethered to a structure (like a Citadel or Engineering Complex) or within a starbase force field, and ships cannot activate their Command Burst modules if they themselves are within a force field.
+
+Fleet hierarchy does not matter for these new bonuses, so any fleet member can provide bonuses to any fleetmate that is within range. All existing bonuses that use fleet hierarchy will be removed in the November expansion. This means that passive bonuses provided to entire fleets from skills, implants and ship hulls will be removed and replaced with this new active module system.
+
+There will be restrictions on what ship types can fit Command Bursts and how many Command Bursts can be fit to any individual ships. We are planning on converting Command Processors (the module that allow a ship to fit more links) into a rig, which should go a long way towards addressing a current source of imbalance between armor and shield tanked boosting ships.
+
+If a ship is allowed to fit multiple Command Bursts, they are welcome to fit multiples of the same type of Burst module or mix and match Burst module types. So if an Orca pilot wishes to provide three types of Mining Foreman boosts to its fleet at the same time it will be welcome to fit three Mining Foreman Bursts and load each module with a different ammo. Or it could fit two Mining Foreman Burst modules and one Shield Command Burst module and swap ammo on the fly to provide whatever bonuses are most appropriate to the situation.
+
+Like existing warfare links, multiple copies of any given Command Burst bonus do not stack on top of each other. The Command Burst system will only apply the bonus from the strongest version of each Command Burst effect that is applied to any given ship. However, Command Burst bonuses do stack on top of bonuses from other sources (such as modules and implants) and this interaction may be subject to diminishing returns (stacking penalties) depending on the attribute being affected.
+
+Our plan for skill requirements in the new system is:
+
+Tech 1 Mining Foreman Bursts will only require Leadership level 1 and Mining Foreman level 1
+Tech 2 Mining Foreman will require Leadership level 5 and Mining Director level 1
+All Command Bursts modules (including Mining Foreman Bursts) share these common stats:
+
+Module cycle time: 1 minute
+Base module reload time: 1 minute (reduced by skills and ship bonuses)
+Base Command Burst AoE range: 15km (increased by skills and ship bonuses)
+Base bonus duration: 1 minute (increased by skills, implants and ship bonuses)
+I’ll list the base bonus ammunition type and the maximum bonus available with the most powerful ship/module bonuses and max skills/implants. Then we’ll go over all the potential bonuses individually. You’ll notice that in several cases we have combined the effects of multiple old warfare links into one Command Burst.
+
+Ammunition types for the Mining Foreman Burst:
+
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Mining Laser Field Enhancement
+
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
+
++30%
+
++114.26%
+
+Mining Laser Optimization
+
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+
+-15%
+
+-57.13%
+
+Mining Equipment Preservation
+
+Reduces volatility of mining crystals
+
+-15%
+
+-57.13%
+
+Name
+
+Effects
+
+Base Bonus
+
+Maximum Bonus
+
+Mining Laser Field Enhancement
+
+Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners
+
++30%
+
++114.26%
+
+Mining Laser Optimization
+
+Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters
+
+-15%
+
+-57.13%
+
+Mining Equipment Preservation
+
+Reduces volatility of mining crystals
+
+-15%
+
+-57.13%
+
+Modules and Rigs
+
+Bonus
+
+Tech 2 Command Burst Modules
+
++25% Command Burst Effect Strength
+
+Command Processor Rig
+
+If ship is allowed to fit Command Burst Modules, can fit +1 additional Command Burst Module
+
+T1 Industrial Core (while active)
+
++25% bonus to Mining Foreman Burst strength
+
++150% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+T2 Industrial Core (while active)
+
++30% bonus to Mining Foreman Burst strength
+
++200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+Skills
+
+Bonus
+
+Leadership
+
++6% Command Burst Area of Effect Range per level
+
+Wing Command
+
++5% Command Burst Area of Effect Range per level
+
+Fleet Command
+
++4% Command Burst Area of Effect Range per level
+
+Mining Foreman
+
++10% Mining Foreman Burst Effect Duration per level
+
+Mining Director
+
++10% Mining Foreman Burst Effect Strength per level
+
+Command Burst Specialist
+
+-10% Command Burst reload duration per level
+
+Implants
+
+Bonus
+
+Mining Foreman Mindlink
+
++25% bonus to Mining Foreman Burst Effect Strength and Duration
+
+ORE Mining Director Mindlink (NEW)
+
++25% bonus to Mining Foreman and Shield Command Burst Effect Strength and Duration
+
+Ship Bonuses
+
+Bonus
+
+Porpoise (NEW)
+
+Can fit two Command Burst modules
+
++2% bonus to Mining Foreman Burst Strength and Duration per skill level
+
+Orca
+
+Can fit three Command Burst modules
+
++3% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++1% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Rorqual
+
+Can fit three Command Burst modules
+
+Can fit one Pulse Activated Nexus Invulnerability Core module
+
++5% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++3% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+MINING DRONES REVISITED
+Mining drones have been a part of New Eden since the earliest days of EVE Online, but were generally eclipsed when Mining Barges and later Exhumers were added, increasing the mining yield baseline. The mining foreman ships will be receiving significant bonuses that make mining drones excellent options on those ships, and this has provided us an opportunity to flesh out the line of mining drones and mining drone skills.
+
+In the November expansion we will be adding several new mining drones (including the first ever ice mining drones) and some new mining drone skills to go with them.
+
+Let’s start with the new skills! We’re adding three new Mining Drone skills in November, which both enable the new line ice harvesting drones and allow players to more meaningfully specialize in mining drone gameplay.
+
+Mining Drone Specialization: 2% bonus to the mining yield and max velocity of drones requiring Mining Drone Specialization per level.
+
+This skill enables greater specialization in drone mining for pilots who wish to become the best mining drone operators possible.    
+Mining Drone Specialization is a tier 5 skill.
+Mining Drone Specialization requires Mining Drone Operation level 5 in order to start training.
+In the November expansion, only two new drone types (‘Augmented’ Mining Drones and ‘Excavator’ Mining Drones) will require and gain benefits from Mining Drone Specialization. At a later point after players have had ample time to train it, we plan to eventually add Mining Drone Specialization level 1 to the skill requirements of the Mining Drone II which will extend the benefits of this skill to those drones.
+Ice Harvester Drone Operation: 5% reduction in ice harvester drone cycle time per level.
+
+This will be the first tier skill for the new ice harvester drones that are being introduced in the November expansion.
+Ice Harvester Drone Operation is a tier 2 skill.
+Since it reduces cycle time instead of increasing yield this skill is a bit more powerful than Mining Drone Operation.
+Ice Harvester Drone Specialization: 2% reduction in cycle time and bonus to max velocity of drones requiring Ice Harvester Drone Specialization per level.
+
+This is the second tier specialization skill for the new ice harvester drones.
+Ice Harvester Drone Specialization is a rank 5 skill.
+From day one all advanced ice harvester drones (T2, Augmented, and Excavator) will require Ice Harvester Drone Specialization and therefore gain its benefits.
+To go along with these new skills, we are also fleshing out the lineup of mining drones themselves!
+
+
+(Click image for a larger, animated version)
+
+The Mining Drone I will be receiving a 25% buff to mining yield, to help shrink the gap between T1 and T2 drones to a more reasonable level
+The Mining Drone II will remain largely unchanged in November, as it represents the current baseline for drone mining. In a future release after November we will be adding Mining Drone Specialization level 1 to its skill requirements (which will allow it to receive the benefits of that skill) but we’ll be giving some time for interested capsuleers to train the skill before making that change
+The rare Harvester Mining Drone will be receiving some buffs to position it as an expensive but useful faction version of the normal mining drones. It will keep very low skill requirements and gain buffs to speed (remaining slower than T1 mining drones, but faster than today), hitpoints and mining yield. We will also be re-introducing a new way of obtaining these drones so that their supply can begin to slowly increase to a sustainable level. They will be very rare drops from a new set of NPCs that will be announced in the near future
+We are adding a new set of ‘Augmented’ Mining Drones in the November expansion. Like the existing ‘Augmented’ combat drones, these will be special rogue drone versions of the drones that are both faction and T2. They will be manufactured using blueprints and components looted from rogue drones. They will require the Mining Drone Specialization skill and gain its benefits. The base stats of the ‘Augmented’ Mining Drones will also be very powerful, gaining about 9% more mining yield than T2 mining drones. They’ll also benefit from improved speed and hitpoints
+The new ‘Excavator’ Mining Superdrones are the ultimate culmination of drone mining technology. These giant drones (pictured above) are the result of secretive ORE research into rogue drones. They can only be used by Rorqual-class capital industrial ships. By themselves a set of ‘Excavator’ Superdrones make the Rorqual the most powerful mining ship in the game, and when boosted by an active Industrial Core module they each individually gain the yield of an Exhumer. These Superdrones use the drone system (they are not fighters) and function just like normal mining drones. They require the Mining Drone Specialization and gain its benefits
+The new Ice Harvester Drones will come in Tech 1, Tech 2, ‘Augmented’, and ‘Excavator’ versions and follow a similar progression as the normal mining drones. They receive cycle time bonuses rather than yield since ice comes in such large blocks. The Tech 1, Tech 2, and ‘Augmented’ versions of these drones have volumes of 50 m3 and use 50 mbits of bandwidth. To avoid any major danger to the ice mining market, these drones rely heavily on the bonuses provided by mining foreman ships to be competitive (but they can be used by any ship that has 50mbits of bandwidth available)
+To support the new Ice Harvesting drones, we are adding functionality to the whole line of Drone Mining Augmentor rigs. They will now also reduce Ice Harvesting Drone cycle time by 10% (15% for the T2 rigs).
+
+It’s worth noting that we are not adding any Mining Foreman Bursts that impact mining drones at this time. The drone mining bonuses on the mining foreman ships are extremely strong and we believe that extending the impact of the Mining Foreman Bursts would potentially take them too far.
+
+Now that we’re covered the new Mining Foreman Burst and Mining Drone changes, let’s get to the details of the ships that will be using them!
+
+MINING FOREMAN SHIPS
+In the November expansion we are planning huge buffs to the existing Orca and Rorqual mining foreman ships, as well as adding a new inexpensive and mobile Industrial Command Ship to fill out the lower-end of the progression. Each of these ships hits a different price point and have significant differences in mobility and access to different areas of space.
+
+As you’ll remember from the start of the blog, we’ve divided the Mining Foreman ship progression into four stages:
+
+The new affordable and mobile Porpoise-class Industrial Command Ship
+The Orca-class full-sized Industrial Command Ship
+The Rorqual-class Capital Industrial Ship – without the Industrial Core module active
+The Rorqual – with the Industrial Core module running
+I’ll cover each of these ships individually in the following section, with specific focus on how each ship fulfills each of the three pillars of mining foreman gameplay.
+
+INTRODUCING THE PORPOISE
+
+(Click image for a larger version)
+
+Porpoise Feedback Thread
+
+The Porpoise-class Industrial Command Ship is the most affordable and mobile mining foreman platform ever released in New Eden. This new ship fills the hole at the bottom of the mining foreman ship progression line. Although it shares a group with the larger and more expensive Orca, the Porpoise is as cheap as a tech one battlecruiser.
+
+Thanks to ORE’s tireless work advancing hull materials technology to reduce mass, the Porpoise is light enough to travel through small-ship wormhole connections.
+
+This new ship should be perfect for mining operations in more dangerous space where lower cost ships minimize exposure to loss for the operation. It’s improved agility and warp speed also make it the best choice for providing coverage of mining groups at multiple locations with one ship.
+
+**Porpoise:**
+Industrial Command Ships bonuses (per skill level):
+
+5% bonus to ship cargo capacity and ore hold
+2% bonus to Mining Foreman Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+50% bonus to drone mining yield
+400% bonus to Remote Shield Booster optimal range
+90% reduction in powergrid requirements for Mining Foreman Burst modules
+90% reduction to effective distance traveled for jump fatigue
+Can fit two Command Burst modules
+100% bonus to Tractor Beam range
+50% bonus to Tractor Beam velocity
+300% bonus to Survey Scanner range
+
+Slot layout: 4H, 4M, 2L
+
+Fittings: 420 PWG, 350 CPU
+
+Defense (shields / armor / hull) : 6000 / 3000 / 8000
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 3500 / 875s / 4
+
+Mobility (max velocity / agility / mass / align time): 100 / 1.5 / 4,500,000 / 9.36s
+
+Warp Speed: 2.7 au/s
+
+Drones (bandwidth / bay): 50 / 125
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 50km / 90 / 5
+
+Sensor strength: 20 Magnetometric
+
+Signature radius: 300
+
+Cargo Hold: 500 m3
+
+Ore Hold: 50,000 m3
+
+Fleet Hangar: 5,000 m3
+
+Cost: ~50-60 mil ISK
+
+Max Mining Yield: ~980 m3 per minute + drone travel time
+
+Max DPS: ~400 dps
+
+Despite its low cost, the Porpoise is a powerhouse in mining support and fulfills all three of the pillars of mining foreman gameplay:
+
+Help fleetmates mine more effectively:
+
+With the ability to fit two command bursts and a 2% per level bonus to Mining Foreman Burst strength, the Porpoise makes a great choice for boosting fleetmates using foreman bursts
+Improved survey scanner range allows the Porpoise to help coordinate its mining operation and optimize the decisions of individual miners
+Bonuses to tractor beam range and velocity combine with a large ore hold and fleet hangar (the Porpoise’s ore hold is equal in size to that of the pre-patch Orca) allow the Porpoise to collect, store and haul ore for an entire fleet
+Defend the mining operation:
+
+With a full flight of medium drones and a full-strength drone damage bonus, the Porpoise has the damage potential of a combat cruiser. This can be used to help clear NPC pirates from the belt, or in conjunction with Procurers and Skiffs to form a deadly drone swarm and surprise overconfident capsuleer attackers
+A 400% bonus to Remote Shield Booster optimal range allows the Porpoise to effectively aid in the defense of its allies using medium remote shield boosters.
+Contribute with powerful mining drones:
+
+With both skill and role bonuses to mining drone yield, the Porpoise can pull in similar ore volumes to a mining barge
+We can’t wait for you to be able try out this new ship on the test server! For specific feedback and discussion on the Porpoise head to this thread.
+
+THE ORCA
+
+(Click image for a larger, animated version)
+
+Orca Feedback Thread
+
+The Orca is receiving a massive overhaul in the November expansion, with huge buffs to almost every attribute.
+
+The newly refinished Orca will be a mining powerhouse, a heavy duty ore hauler, a significant combat deterrent, and the strongest foreman burst platform available in highsec space.
+
+We’re listing the full stats below. Changes from the old stats will be in brackets. Take particular note of the four extra slots, huge drone damage and drone mining role bonuses, and tripling of its old ore hold volume.
+
+**Orca:**
+Industrial Command Ships bonuses (per skill level):
+
+5% bonus to ship cargo capacity and ore hold
+3% bonus to Mining Foreman Burst Strength and Duration
+1% bonus to Shield Command Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+100% bonus to drone mining yield
+-25% reduction in drone ice harvesting cycle time
+100% bonus to drone damage
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit three Command Burst modules
+50% bonus to Command Burst Area of Effect Range
+250% bonus to Tractor Beam range
+100% bonus to Tractor Beam velocity
+500% bonus to Survey Scanner range
+
+Slot layout: 6H (+3), 5M (+1), 2L
+
+Fittings: 1200 PWG (+240), 550 CPU (+120)
+
+Defense (shields / armor / hull) : 30,000 (+19,250) / 7000 (+100) / 45,000 (-1000)
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 8000 (+3800) / 1200s (+400) / 6.67 (+1.42)
+
+Mobility (max velocity / agility / mass / align time): 60 / 0.26 (+0.1) / 150,000,000 (-100,000,000) / 54.07s (-1.38)
+
+Warp Speed: 2 au/s
+
+Drones (bandwidth / bay): 50 / 200 (+125)
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 70km (+10) / 75 / 7 (+5)
+
+Sensor strength: 30 Magnetometric (+15)
+
+Signature radius: 1000
+
+Cargo Hold: 30,000 m3
+
+Ore Hold: 150,000 m3 (+100,000)
+
+Fleet Hangar: 40,000 m3
+
+Ship Maintenance Bay: 400,000 m3
+
+Cost: ~700 mil ISK
+
+Max Yield: ~1,400 m3 per minute + drone travel time
+
+Max DPS: ~800 dps
+
+As the middle ship in the mining foreman progression path (and top of the pack for highsec) the Orca is extremely capable in all three of the mining foreman pillars:
+
+Help fleetmates mine more effectively:
+
+Three command bursts, a 3% per level bonus to Mining Foreman Burst strength, and a 50% role bonus to Command Burst area of effect make the Orca a great choice for providing mining boosts
++500% survey scanner range makes the Orca a perfect coordination platform
+The Orca retains its existing Ship Maintenance Bay, enabling fleetmates to refit their mining ships and allowing storage of mining vessels for transport and backup
+Alongside the unchanged bonuses to tractor beams, the ore hold of the Orca has been tripled in size. The Orca is a perfect vessel for storage and hauling of ore
+Defend the mining operation:
+
+Thanks to a +10% per level bonus and +100% role bonus to drone damage, the Orca can deal battleship-level damage with a flight of fast medium drones
+A 400% bonus to Remote Shield Booster optimal range allows the Orca to effectively aid in the defense of its allies using large remote shield boosters.
+A bonus to Shield Command Burst strength allows the Orca to improve the tank of its allies, providing useful resistance from all kinds of assaults (including suicide ganks)
+Contribute with powerful mining drones:
+
+With both skill and role bonuses to mining drone yield, the Orca can pull in similar ore volumes to an exhumer
+We’re really interested in hearing your feedback on these Orca changes! Head to this forum thread for all the discussion focused specifically on the Orca.
+
+THE RORQUAL
+
+(Click image for a larger, animated version)
+
+Rorqual Feedback Thread
+
+The Rorqual-class Capital Industrial Ship is the premier mining foreman ship in New Eden. This once great ship has fallen into disuse as its formerly unique functions were slowly added to other ships and structures. It’s time for the Rorqual to get a full revamp from the ground-up and that’s exactly what is happening this November.
+
+The Rorqual represents the most powerful version of all three mining foreman pillars by itself; capable of providing strong Mining Foreman Bursts, repairing allies and fighting off enemies, and vacuuming up ore faster than any other ship in New Eden.
+
+Beyond its built-in functionality, the Rorqual has the ability to use two unique modules that allow it to enter specific modes for extra capabilities.
+
+The Industrial Core module deploys the Rorqual into a fixed mining foreman platform and shares many of the same powerful features of the Triage and Siege modules.
+The Pulse Activated Nexus Invulnerability Core is a new defensive superweapon that makes an entire mining operation invulnerable for between 5 and 7.5 minutes if desired
+These modes are intended to be powerful but situational, and the best Rorqual pilots will know when to use them and when not to use them.
+
+Whether these modes are running or not, the ability to field 5 ‘Excavator’ Mining Superdrones will make the Rorqual the greatest mining vessel in the history of New Eden.
+
+There are a huge number of changes coming for the Rorqual in this patch, and the full stats can be seen below. Changes from the old stats will be in brackets. Since they might be easy to miss in the rest of the changes I want to bring special attention to the three extra slots, reduced mass (allowing the Rorqual to travel through the same wormholes as Freighters), and increased jump range to 5ly base (10ly with max skills, the same as Jump Freighters).
+
+**Rorqual:**
+Capital Industrial Ship bonuses (per skill level):
+
+5% bonus to Mining Foreman Burst Strength and Duration
+3% bonus to Shield Command Burst Strength and Duration
+5% reduction in fuel consumption for Industrial Core
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit Clone Vat Bay
+Can fit Industrial Core
+Can operate Excavator Drones
+Can fit three Command Burst modules
+Can fit one Pulse Activated Nexus Invulnerability Core
+50% bonus to Command Burst Area of Effect Range
+5x penalty to Entosis Link cycle time
+900% bonus to Survey Scanner range
+200% bonus to Cargo Scanners range
+
+Slot layout: 8H (+2), 7M, 4L (+1)
+
+Fittings: 420,000 PWG (+115,000), 1200 CPU (+280)
+
+Defense (shields / armor / hull) : 90,000 / 60,000 (+30,000) / 300,000 (+50,000)
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 67,500 (+12,940) / 4500s (+600) / 15 (+1)
+
+Mobility (max velocity / agility / mass / align time): 60 / 0.07 (+0.02) / 800,000,000 (-380,000,000) / 77.63s (-4.16)
+
+Warp Speed: 1.5 au/s
+
+Drones (bandwidth / bay): 125 / 6000 (+5700)
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 200km (+40) / 75 / 7
+
+Sensor strength: 115 Magnetometric
+
+Signature radius: 11500
+
+Base jump drive range: 5ly (+2.5)
+
+Jump drive fuel consumption: 2000 Oxygen (+500)
+
+Cargo Hold: 40,000 m3
+
+Ore Hold: 300,000 m3 (+50,000)
+
+Fleet Hangar: 40,000 m3
+
+Ship Maintenance Bay: 1,000,000 m3
+
+Fuel Bay Capacity: 10,000 m3
+
+Cost: ~2.3 bil ISK
+
+Max Yield (no Industrial Core): ~**3,000 m3 per minute + drone travel time**
+
+Max Yield (with Industrial Core): ~**18,400 m3 per minute + drone travel time**
+
+Max DPS (no Industrial Core): ~1000 dps
+
+Max DPS (with Industrial Core): ~2000 dps
+
+No discussion of the Rorqual would be complete without covering the unique modules that provide its special modes.
+
+THE INDUSTRIAL CORE MODULE
+
+(Click image for a larger, animated version)
+
+The Industrial Core module will continue to be the most important unique module for the Rorqual, and in November it is gaining powerful new bonuses in addition to those it already possesses.
+
+The Industrial Core deploys the Rorqual into a temporarily immobile mining support platform and magnifies all three of the mining foreman pillars.
+
+In addition to the new bonuses provided by the industrial core, a new Tech 2 version of the core will be added in November, bringing it up to par with the similar Siege and Triage modules.
+
+The stats and bonuses of these modules are:
+
+Industrial Core I:
+Requires Industrial Reconfiguration skill level 1
+Duration: 5 minutes
+Consumption: 1000 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+
+-100% Rorqual velocity
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+75% sensor dampener resistance
+Full ECM immunity
++100% Scan resolution
+Mining Foreman Burst Bonuses:
+
++25% Mining foreman burst strength
++150% Command burst range
+Tanking and Remote Repair Bonuses:
+
++120% Local shield booster repair amount
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use
++100% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
+
++80% Drone damage and hitpoints
++25% Drone MWD speed
++400% Drone mining yield
+-75% Drone ice harvesting duration
+Industrial Core II:
+Requires Industrial Reconfiguration skill level 5
+Duration: 5 minutes
+Consumption: 1500 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+
+-100% Rorqual velocity
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+80% sensor dampener resistance
+Full ECM immunity
++120% Scan resolution
+Mining Foreman Burst Bonuses:
+
++30% Mining foreman burst strength
++200% Command burst range
+Tanking and Remote Repair Bonuses:
+
++140% Local shield booster repair amount
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use
++120% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
+
++100% Drone damage and hitpoints
++30% Drone MWD speed
++500% Drone mining yield
+-80% Drone ice harvesting duration
+As you can see, the Industrial Core is now gaining a huge number of bonuses covering all three mining foreman pillars. It is receiving local tanking bonuses even more powerful than triage modules, and remote repair bonuses that are second only to triage. It is gaining ECM immunity and increased lock speed to help it support its allies. It is also gaining massive bonuses to drones that turn it into a combat powerhouse and a mining operation all on its own when used alongside Excavator Drones.
+
+We expect that individual Rorqual pilots will make decisions about when to use their Industrial Core modules based on the danger in their local environment and the amount of support they can receive from allies. Due to the massive benefits of the Industrial Core on one hand and the increased risk of locking yourself in place for 5 minutes on the other, there won’t be one universal “right answer” for when the Industrial Core should be used.
+
+PULSE ACTIVATED NEXUS INVULNERABILITY CORE
+
+The Pulse Activated Nexus Invulnerability Core (P.A.N.I.C.) is a new defensive superweapon available exclusively to the Rorqual. It allows the Rorqual to make itself and its allies invulnerable for a short time. This ability also prevents any of these ships from warping for the duration of the effect. This can allow time for the allies of the mining fleet to arrive and defend the fleet from danger.
+
+The P.A.N.I.C. module is a powerful situation effect that can be used whenever the owning Rorqual sees the opportunity for advantage and avoided in situations when it isn’t advantageous.
+
+This new module requires a new rank 8 skill called Invulnerability Core Operation that requires Tactical Shield Manipulation level 5 and Capital Shield Emission Systems level 3 to train. The module only requires Invulnerability Core Operation level 1 to operate, and the skill increases the duration of the P.A.N.I.C. effect by 10% per level. This means that Rorqual pilots can strategically train the Invulnerability Core Operation skill to whatever level they wish and ensures that the Rorqual pilot and its fleet have more information about when the effect will end than the attackers do.
+
+P.A.N.I.C. Module:
+
+Requires Invulnerability Core Operation skill level 1
+Duration: 5 minutes base, up to 7.5 minutes based on skills
+200 km range
+Applies to all mining and industrial ships within the same fleet, except other Rorquals
+Runs once and then burns out
+Limit of one module per ship
+Bonuses to all affected ships:
+
++99.99% Shield Resists
+-90% Shield recharge duration (increases passive shield regen rate)
+All turret, missile, drone and smartbomb damage set to 0
++100% Mass
+-50% velocity
+Prevents warp, cloak, jump, dock, tethering (if already tethered do not apply)
+-75% scan resolution
+Mining remains unaffected so ships can continue to mine as normal while under the protection of the P.A.N.I.C. module.
+
+We are interested in hearing what the community thinks about cyno restrictions for ships affected by the P.A.N.I.C. module. We are currently leaning towards allowing cyno lighting and watching closely to see if this causes problems. If needed, we can change the effect to prevent cyno lighting and prevent ships with an active cyno from receiving the P.A.N.I.C. effect.
+
+The Rorqual represents the ultimate mining foreman vessel, providing the best possible bonuses with commensurate increases in investment and risk. The base Rorqual and all its modes provide the most complete expression of all three of the mining foreman pillars:
+
+Help fleetmates mine more effectively:
+
+Even without the Industrial Core active the Rorqual has the most powerful mining foreman bursts in the game thanks to a 5% per level strength bonus and 50% range role bonus. With the addition of the core for up to an additional 30% strength and 200% range the Rorqual gains the ability to supercharge its mining fleet across entire belts
++900% survey scanner range makes allows the Rorqual to scan asteroids up to 225 km away, gaining valuable information on remaining asteroid volumes to help coordinate its fleet
+Capital tractor beams and a buffed ore bay make the Rorqual the ultimate ore collecting machine
+The Rorqual can allow its fleet mates to refit while also carrying multiple mining ships in its Ship Maintenance Bay
+Defend the mining operation:
+
+Thanks to 125 mbits of drone bandwidth and a full sized drone damage bonus, the Rorqual can deal battleship-level damage. The addition of the Industrial Core doubles that drone damage and also adds a drone speed bonus to help the Rorqual’s deadly heavy drones chase down their targets
+On its own the Rorqual has the ability to fit capital-sized remote shield boosters with a massive 400% range bonus. With the Industrial Core active those remote shield boosters cycle much faster for more repairing and nimbler support of allies. When the Core is running the Rorqual is second only to Force Auxiliaries in remote rep potential
+If enemies realize they can’t break through the remote reps and decide to attack the sieged Rorqual directly they’ll be in for another surprise as the Industrial Core provides the Rorqual with one of the strongest local tanks in the game: on a similar scale to that of a Force Auxiliary.
+The Rorqual is tied with Caldari and Minmatar Command Ships for the most powerful Shield Command Bursts in the game, allowing it to provide max-strength defense boosts to its whole mining operation
+Finally, if the Rorqual has friends coming it can choose to pause the fight using the P.A.N.I.C. module and wait for the cavalry to arrive
+Contribute with powerful mining drones:
+
+The new Excavator drones give the Rorqual its own tiny mining fleet at its fingertips. Even without the Industrial Core running the Rorqual is the strongest solo mining ship in the history of New Eden. With the Core running this massive yield is multiplied 6x, making the Rorqual the ultimate belt destroyer. When the Industrial Core is running, each of the Rorqual’s 5 Excavator drones will individually pull in the ore yield of an Exhumer
+The Rorqual isn’t a small investment and the risk of using the Industrial Core in dangerous space can be significant, but in the hands of a wise pilot supported by friends and allies the Rorqual will be one of the most effective ships in the game. We’re very interested in hearing your feedback on these changes, and we’ve opened up a specific feedback thread here for discussion of the Rorqual and its modes.
+
+OTHER ORE SHIP CHANGES: OUTER RING EXCAVATIONS HAS BEEN BUSY
+In addition to all these new ships, drones, and functionality, ORE has a few other announcements to make for the rest of their ship lines.
+
+As a follow-up from their recent revamp of the Mining Barge and Exhumer lines, ORE is happy to announce that in November the unpackaged volume of Hulks and Covetors will be dropping by 25% to make them easier to haul and store.
+The Bowhead ORE Freighter is also receiving some improvements in November:
+Slightly improved hitpoints and agility
+37.5% reduced mass to match ORE’s commitment to improved wormhole utility
+23% more capacity for the Bowhead’s Ship Maintenance Bay
+TL:DR
+Hey there. If you took the option of skipping here from the beginning, I’d like to welcome you to the end of the blog! If you have the time later I highly recommend reading the rest at your leisure.
+
+The short version of all this is:
+
+In the November expansion mining support gameplay is getting a huge revamp
+Fleet boosts (including mining boosts) are becoming AoE buffs that only work on-grid
+There’ll be three mining foreman ships: the new inexpensive Porpoise, a buffed Orca and a buffed Rorqual
+Each Mining Foreman Ship will be able to fulfill three roles at once:
+Help fleetmates mine more effectively
+Defend the mining operation
+Contribute with powerful mining drones
+WE LOOK FORWARD TO YOUR FEEDBACK!
+Big thanks to everyone who took the time to read through this (admittedly long) dev blog today! We’re really excited for the chance to finally revamp this area of gameplay after years of talking to all of you about it. We want to give special thanks to all the players who have talked to us about the Rorqual and mining support gameplay at Fanfests and other player gatherings over the past few years, and to the CSM who made a great contribution to this process.
+
+We are very interested in hearing what you all think about these proposed changes and to see what issues you foresee. We’ll be spending much of the next month going through your feedback and making changes as necessary, and we are sure there will be plenty of tweaks made after release as well once we see how players use these ships in New Eden. You can give feedback for each mining foreman ship in the threads linked from their section, and use the general feedback thread for this blog to give us any feedback that doesn’t fit in those specific areas.
+
+Thanks and happy mining!
+
+-Your Friendly Neighborhood Team Five 0
+
+Available modifiers to Command Bursts:
+
+Modules and Rigs
+
+Bonus
+
+Tech 2 Command Burst Modules
+
++25% Command Burst Effect Strength
+
+Command Processor Rig
+
+If ship is allowed to fit Command Burst Modules, can fit +1 additional Command Burst Module
+
+T1 Industrial Core (while active)
+
++25% bonus to Mining Foreman Burst strength
+
++150% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+T2 Industrial Core (while active)
+
++30% bonus to Mining Foreman Burst strength
+
++200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range
+
+Skills
+
+Bonus
+
+Leadership
+
++6% Command Burst Area of Effect Range per level
+
+Wing Command
+
++5% Command Burst Area of Effect Range per level
+
+Fleet Command
+
++4% Command Burst Area of Effect Range per level
+
+Mining Foreman
+
++10% Mining Foreman Burst Effect Duration per level
+
+Mining Director
+
++10% Mining Foreman Burst Effect Strength per level
+
+Command Burst Specialist
+
+-10% Command Burst reload duration per level
+
+Implants
+
+Bonus
+
+Mining Foreman Mindlink
+
++25% bonus to Mining Foreman Burst Effect Strength and Duration
+
+ORE Mining Director Mindlink (NEW)
+
++25% bonus to Mining Foreman and Shield Command Burst Effect Strength and Duration
+
+Ship Bonuses
+
+Bonus
+
+Porpoise (NEW)
+
+Can fit two Command Burst modules
+
++2% bonus to Mining Foreman Burst Strength and Duration per skill level
+
+Orca
+
+Can fit three Command Burst modules
+
++3% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++1% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+Rorqual
+
+Can fit three Command Burst modules
+
+Can fit one Pulse Activated Nexus Invulnerability Core module
+
++5% bonus to Mining Foreman Burst Strength and Duration per skill level
+
++3% bonus to Shield Command Burst Strength and Duration per skill level
+
+Role Bonus: +50% bonus to Command Burst Area of Effect Range
+
+MINING DRONES REVISITED
+Mining drones have been a part of New Eden since the earliest days of EVE Online, but were generally eclipsed when Mining Barges and later Exhumers were added, increasing the mining yield baseline. The mining foreman ships will be receiving significant bonuses that make mining drones excellent options on those ships, and this has provided us an opportunity to flesh out the line of mining drones and mining drone skills.
+
+In the November expansion we will be adding several new mining drones (including the first ever ice mining drones) and some new mining drone skills to go with them.
+
+Let’s start with the new skills! We’re adding three new Mining Drone skills in November, which both enable the new line ice harvesting drones and allow players to more meaningfully specialize in mining drone gameplay.
+
+Mining Drone Specialization: 2% bonus to the mining yield and max velocity of drones requiring Mining Drone Specialization per level.
+
+This skill enables greater specialization in drone mining for pilots who wish to become the best mining drone operators possible.    
+Mining Drone Specialization is a tier 5 skill.
+Mining Drone Specialization requires Mining Drone Operation level 5 in order to start training.
+In the November expansion, only two new drone types (‘Augmented’ Mining Drones and ‘Excavator’ Mining Drones) will require and gain benefits from Mining Drone Specialization. At a later point after players have had ample time to train it, we plan to eventually add Mining Drone Specialization level 1 to the skill requirements of the Mining Drone II which will extend the benefits of this skill to those drones.
+Ice Harvester Drone Operation: 5% reduction in ice harvester drone cycle time per level.
+
+This will be the first tier skill for the new ice harvester drones that are being introduced in the November expansion.
+Ice Harvester Drone Operation is a tier 2 skill.
+Since it reduces cycle time instead of increasing yield this skill is a bit more powerful than Mining Drone Operation.
+Ice Harvester Drone Specialization: 2% reduction in cycle time and bonus to max velocity of drones requiring Ice Harvester Drone Specialization per level.
+
+This is the second tier specialization skill for the new ice harvester drones.
+Ice Harvester Drone Specialization is a rank 5 skill.
+From day one all advanced ice harvester drones (T2, Augmented, and Excavator) will require Ice Harvester Drone Specialization and therefore gain its benefits.
+To go along with these new skills, we are also fleshing out the lineup of mining drones themselves!
+
+
+(Click image for a larger, animated version)
+
+The Mining Drone I will be receiving a 25% buff to mining yield, to help shrink the gap between T1 and T2 drones to a more reasonable level
+The Mining Drone II will remain largely unchanged in November, as it represents the current baseline for drone mining. In a future release after November we will be adding Mining Drone Specialization level 1 to its skill requirements (which will allow it to receive the benefits of that skill) but we’ll be giving some time for interested capsuleers to train the skill before making that change
+The rare Harvester Mining Drone will be receiving some buffs to position it as an expensive but useful faction version of the normal mining drones. It will keep very low skill requirements and gain buffs to speed (remaining slower than T1 mining drones, but faster than today), hitpoints and mining yield. We will also be re-introducing a new way of obtaining these drones so that their supply can begin to slowly increase to a sustainable level. They will be very rare drops from a new set of NPCs that will be announced in the near future
+We are adding a new set of ‘Augmented’ Mining Drones in the November expansion. Like the existing ‘Augmented’ combat drones, these will be special rogue drone versions of the drones that are both faction and T2. They will be manufactured using blueprints and components looted from rogue drones. They will require the Mining Drone Specialization skill and gain its benefits. The base stats of the ‘Augmented’ Mining Drones will also be very powerful, gaining about 9% more mining yield than T2 mining drones. They’ll also benefit from improved speed and hitpoints
+The new ‘Excavator’ Mining Superdrones are the ultimate culmination of drone mining technology. These giant drones (pictured above) are the result of secretive ORE research into rogue drones. They can only be used by Rorqual-class capital industrial ships. By themselves a set of ‘Excavator’ Superdrones make the Rorqual the most powerful mining ship in the game, and when boosted by an active Industrial Core module they each individually gain the yield of an Exhumer. These Superdrones use the drone system (they are not fighters) and function just like normal mining drones. They require the Mining Drone Specialization and gain its benefits
+The new Ice Harvester Drones will come in Tech 1, Tech 2, ‘Augmented’, and ‘Excavator’ versions and follow a similar progression as the normal mining drones. They receive cycle time bonuses rather than yield since ice comes in such large blocks. The Tech 1, Tech 2, and ‘Augmented’ versions of these drones have volumes of 50 m3 and use 50 mbits of bandwidth. To avoid any major danger to the ice mining market, these drones rely heavily on the bonuses provided by mining foreman ships to be competitive (but they can be used by any ship that has 50mbits of bandwidth available)
+To support the new Ice Harvesting drones, we are adding functionality to the whole line of Drone Mining Augmentor rigs. They will now also reduce Ice Harvesting Drone cycle time by 10% (15% for the T2 rigs).
+
+It’s worth noting that we are not adding any Mining Foreman Bursts that impact mining drones at this time. The drone mining bonuses on the mining foreman ships are extremely strong and we believe that extending the impact of the Mining Foreman Bursts would potentially take them too far.
+
+Now that we’re covered the new Mining Foreman Burst and Mining Drone changes, let’s get to the details of the ships that will be using them!
+
+MINING FOREMAN SHIPS
+In the November expansion we are planning huge buffs to the existing Orca and Rorqual mining foreman ships, as well as adding a new inexpensive and mobile Industrial Command Ship to fill out the lower-end of the progression. Each of these ships hits a different price point and have significant differences in mobility and access to different areas of space.
+
+As you’ll remember from the start of the blog, we’ve divided the Mining Foreman ship progression into four stages:
+
+The new affordable and mobile Porpoise-class Industrial Command Ship
+The Orca-class full-sized Industrial Command Ship
+The Rorqual-class Capital Industrial Ship – without the Industrial Core module active
+The Rorqual – with the Industrial Core module running
+I’ll cover each of these ships individually in the following section, with specific focus on how each ship fulfills each of the three pillars of mining foreman gameplay.
+
+INTRODUCING THE PORPOISE
+
+(Click image for a larger version)
+
+Porpoise Feedback Thread
+
+The Porpoise-class Industrial Command Ship is the most affordable and mobile mining foreman platform ever released in New Eden. This new ship fills the hole at the bottom of the mining foreman ship progression line. Although it shares a group with the larger and more expensive Orca, the Porpoise is as cheap as a tech one battlecruiser.
+
+Thanks to ORE’s tireless work advancing hull materials technology to reduce mass, the Porpoise is light enough to travel through small-ship wormhole connections.
+
+This new ship should be perfect for mining operations in more dangerous space where lower cost ships minimize exposure to loss for the operation. It’s improved agility and warp speed also make it the best choice for providing coverage of mining groups at multiple locations with one ship.
+
+**Porpoise:**
+Industrial Command Ships bonuses (per skill level):
+
+5% bonus to ship cargo capacity and ore hold
+2% bonus to Mining Foreman Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+50% bonus to drone mining yield
+400% bonus to Remote Shield Booster optimal range
+90% reduction in powergrid requirements for Mining Foreman Burst modules
+90% reduction to effective distance traveled for jump fatigue
+Can fit two Command Burst modules
+100% bonus to Tractor Beam range
+50% bonus to Tractor Beam velocity
+300% bonus to Survey Scanner range
+
+Slot layout: 4H, 4M, 2L
+
+Fittings: 420 PWG, 350 CPU
+
+Defense (shields / armor / hull) : 6000 / 3000 / 8000
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 3500 / 875s / 4
+
+Mobility (max velocity / agility / mass / align time): 100 / 1.5 / 4,500,000 / 9.36s
+
+Warp Speed: 2.7 au/s
+
+Drones (bandwidth / bay): 50 / 125
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 50km / 90 / 5
+
+Sensor strength: 20 Magnetometric
+
+Signature radius: 300
+
+Cargo Hold: 500 m3
+
+Ore Hold: 50,000 m3
+
+Fleet Hangar: 5,000 m3
+
+Cost: ~50-60 mil ISK
+
+Max Mining Yield: ~980 m3 per minute + drone travel time
+
+Max DPS: ~400 dps
+
+Despite its low cost, the Porpoise is a powerhouse in mining support and fulfills all three of the pillars of mining foreman gameplay:
+
+Help fleetmates mine more effectively:
+
+With the ability to fit two command bursts and a 2% per level bonus to Mining Foreman Burst strength, the Porpoise makes a great choice for boosting fleetmates using foreman bursts
+Improved survey scanner range allows the Porpoise to help coordinate its mining operation and optimize the decisions of individual miners
+Bonuses to tractor beam range and velocity combine with a large ore hold and fleet hangar (the Porpoise’s ore hold is equal in size to that of the pre-patch Orca) allow the Porpoise to collect, store and haul ore for an entire fleet
+Defend the mining operation:
+
+With a full flight of medium drones and a full-strength drone damage bonus, the Porpoise has the damage potential of a combat cruiser. This can be used to help clear NPC pirates from the belt, or in conjunction with Procurers and Skiffs to form a deadly drone swarm and surprise overconfident capsuleer attackers
+A 400% bonus to Remote Shield Booster optimal range allows the Porpoise to effectively aid in the defense of its allies using medium remote shield boosters.
+Contribute with powerful mining drones:
+
+With both skill and role bonuses to mining drone yield, the Porpoise can pull in similar ore volumes to a mining barge
+We can’t wait for you to be able try out this new ship on the test server! For specific feedback and discussion on the Porpoise head to this thread.
+
+THE ORCA
+
+(Click image for a larger, animated version)
+
+Orca Feedback Thread
+
+The Orca is receiving a massive overhaul in the November expansion, with huge buffs to almost every attribute.
+
+The newly refinished Orca will be a mining powerhouse, a heavy duty ore hauler, a significant combat deterrent, and the strongest foreman burst platform available in highsec space.
+
+We’re listing the full stats below. Changes from the old stats will be in brackets. Take particular note of the four extra slots, huge drone damage and drone mining role bonuses, and tripling of its old ore hold volume.
+
+**Orca:**
+Industrial Command Ships bonuses (per skill level):
+
+5% bonus to ship cargo capacity and ore hold
+3% bonus to Mining Foreman Burst Strength and Duration
+1% bonus to Shield Command Burst Strength and Duration
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+100% bonus to drone mining yield
+-25% reduction in drone ice harvesting cycle time
+100% bonus to drone damage
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit three Command Burst modules
+50% bonus to Command Burst Area of Effect Range
+250% bonus to Tractor Beam range
+100% bonus to Tractor Beam velocity
+500% bonus to Survey Scanner range
+
+Slot layout: 6H (+3), 5M (+1), 2L
+
+Fittings: 1200 PWG (+240), 550 CPU (+120)
+
+Defense (shields / armor / hull) : 30,000 (+19,250) / 7000 (+100) / 45,000 (-1000)
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 8000 (+3800) / 1200s (+400) / 6.67 (+1.42)
+
+Mobility (max velocity / agility / mass / align time): 60 / 0.26 (+0.1) / 150,000,000 (-100,000,000) / 54.07s (-1.38)
+
+Warp Speed: 2 au/s
+
+Drones (bandwidth / bay): 50 / 200 (+125)
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 70km (+10) / 75 / 7 (+5)
+
+Sensor strength: 30 Magnetometric (+15)
+
+Signature radius: 1000
+
+Cargo Hold: 30,000 m3
+
+Ore Hold: 150,000 m3 (+100,000)
+
+Fleet Hangar: 40,000 m3
+
+Ship Maintenance Bay: 400,000 m3
+
+Cost: ~700 mil ISK
+
+Max Yield: ~1,400 m3 per minute + drone travel time
+
+Max DPS: ~800 dps
+
+As the middle ship in the mining foreman progression path (and top of the pack for highsec) the Orca is extremely capable in all three of the mining foreman pillars:
+
+Help fleetmates mine more effectively:
+
+Three command bursts, a 3% per level bonus to Mining Foreman Burst strength, and a 50% role bonus to Command Burst area of effect make the Orca a great choice for providing mining boosts
++500% survey scanner range makes the Orca a perfect coordination platform
+The Orca retains its existing Ship Maintenance Bay, enabling fleetmates to refit their mining ships and allowing storage of mining vessels for transport and backup
+Alongside the unchanged bonuses to tractor beams, the ore hold of the Orca has been tripled in size. The Orca is a perfect vessel for storage and hauling of ore
+Defend the mining operation:
+
+Thanks to a +10% per level bonus and +100% role bonus to drone damage, the Orca can deal battleship-level damage with a flight of fast medium drones
+A 400% bonus to Remote Shield Booster optimal range allows the Orca to effectively aid in the defense of its allies using large remote shield boosters.
+A bonus to Shield Command Burst strength allows the Orca to improve the tank of its allies, providing useful resistance from all kinds of assaults (including suicide ganks)
+Contribute with powerful mining drones:
+
+With both skill and role bonuses to mining drone yield, the Orca can pull in similar ore volumes to an exhumer
+We’re really interested in hearing your feedback on these Orca changes! Head to this forum thread for all the discussion focused specifically on the Orca.
+
+THE RORQUAL
+
+(Click image for a larger, animated version)
+
+Rorqual Feedback Thread
+
+The Rorqual-class Capital Industrial Ship is the premier mining foreman ship in New Eden. This once great ship has fallen into disuse as its formerly unique functions were slowly added to other ships and structures. It’s time for the Rorqual to get a full revamp from the ground-up and that’s exactly what is happening this November.
+
+The Rorqual represents the most powerful version of all three mining foreman pillars by itself; capable of providing strong Mining Foreman Bursts, repairing allies and fighting off enemies, and vacuuming up ore faster than any other ship in New Eden.
+
+Beyond its built-in functionality, the Rorqual has the ability to use two unique modules that allow it to enter specific modes for extra capabilities.
+
+The Industrial Core module deploys the Rorqual into a fixed mining foreman platform and shares many of the same powerful features of the Triage and Siege modules.
+The Pulse Activated Nexus Invulnerability Core is a new defensive superweapon that makes an entire mining operation invulnerable for between 5 and 7.5 minutes if desired
+These modes are intended to be powerful but situational, and the best Rorqual pilots will know when to use them and when not to use them.
+
+Whether these modes are running or not, the ability to field 5 ‘Excavator’ Mining Superdrones will make the Rorqual the greatest mining vessel in the history of New Eden.
+
+There are a huge number of changes coming for the Rorqual in this patch, and the full stats can be seen below. Changes from the old stats will be in brackets. Since they might be easy to miss in the rest of the changes I want to bring special attention to the three extra slots, reduced mass (allowing the Rorqual to travel through the same wormholes as Freighters), and increased jump range to 5ly base (10ly with max skills, the same as Jump Freighters).
+
+**Rorqual:**
+Capital Industrial Ship bonuses (per skill level):
+
+5% bonus to Mining Foreman Burst Strength and Duration
+3% bonus to Shield Command Burst Strength and Duration
+5% reduction in fuel consumption for Industrial Core
+10% bonus to drone hitpoints, damage and mining yield
+-10% reduction in drone ice harvesting cycle time
+
+Role bonus:
+
+400% bonus to Remote Shield Booster optimal range
+90% reduction to effective distance traveled for jump fatigue
+Can fit Clone Vat Bay
+Can fit Industrial Core
+Can operate Excavator Drones
+Can fit three Command Burst modules
+Can fit one Pulse Activated Nexus Invulnerability Core
+50% bonus to Command Burst Area of Effect Range
+5x penalty to Entosis Link cycle time
+900% bonus to Survey Scanner range
+200% bonus to Cargo Scanners range
+
+Slot layout: 8H (+2), 7M, 4L (+1)
+
+Fittings: 420,000 PWG (+115,000), 1200 CPU (+280)
+
+Defense (shields / armor / hull) : 90,000 / 60,000 (+30,000) / 300,000 (+50,000)
+
+Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50
+
+Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10
+
+Capacitor (amount / recharge / cap per second) : 67,500 (+12,940) / 4500s (+600) / 15 (+1)
+
+Mobility (max velocity / agility / mass / align time): 60 / 0.07 (+0.02) / 800,000,000 (-380,000,000) / 77.63s (-4.16)
+
+Warp Speed: 1.5 au/s
+
+Drones (bandwidth / bay): 125 / 6000 (+5700)
+
+Targeting (max targeting range / Scan Resolution / Max Locked targets): 200km (+40) / 75 / 7
+
+Sensor strength: 115 Magnetometric
+
+Signature radius: 11500
+
+Base jump drive range: 5ly (+2.5)
+
+Jump drive fuel consumption: 2000 Oxygen (+500)
+
+Cargo Hold: 40,000 m3
+
+Ore Hold: 300,000 m3 (+50,000)
+
+Fleet Hangar: 40,000 m3
+
+Ship Maintenance Bay: 1,000,000 m3
+
+Fuel Bay Capacity: 10,000 m3
+
+Cost: ~2.3 bil ISK
+
+Max Yield (no Industrial Core): ~**3,000 m3 per minute + drone travel time**
+
+Max Yield (with Industrial Core): ~**18,400 m3 per minute + drone travel time**
+
+Max DPS (no Industrial Core): ~1000 dps
+
+Max DPS (with Industrial Core): ~2000 dps
+
+No discussion of the Rorqual would be complete without covering the unique modules that provide its special modes.
+
+THE INDUSTRIAL CORE MODULE
+
+(Click image for a larger, animated version)
+
+The Industrial Core module will continue to be the most important unique module for the Rorqual, and in November it is gaining powerful new bonuses in addition to those it already possesses.
+
+The Industrial Core deploys the Rorqual into a temporarily immobile mining support platform and magnifies all three of the mining foreman pillars.
+
+In addition to the new bonuses provided by the industrial core, a new Tech 2 version of the core will be added in November, bringing it up to par with the similar Siege and Triage modules.
+
+The stats and bonuses of these modules are:
+
+Industrial Core I:
+Requires Industrial Reconfiguration skill level 1
+Duration: 5 minutes
+Consumption: 1000 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+
+-100% Rorqual velocity
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+75% sensor dampener resistance
+Full ECM immunity
++100% Scan resolution
+Mining Foreman Burst Bonuses:
+
++25% Mining foreman burst strength
++150% Command burst range
+Tanking and Remote Repair Bonuses:
+
++120% Local shield booster repair amount
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use
++100% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
+
++80% Drone damage and hitpoints
++25% Drone MWD speed
++400% Drone mining yield
+-75% Drone ice harvesting duration
+Industrial Core II:
+Requires Industrial Reconfiguration skill level 5
+Duration: 5 minutes
+Consumption: 1500 units of Heavy Water
+Enables Ore and Ice Compression
+Movement Effects:
+
+-100% Rorqual velocity
++900% Rorqual mass
+Prevents warping, docking, jumping, cloaking, tethering
+Assistance and Electronic warfare:
+
+100% remote repair impedance (prevents other ships from repairing the Rorqual)
+80% remote assistance impedance (reduces the effect of remote assistance modules like remote sensor boosters)
+80% sensor dampener resistance
+Full ECM immunity
++120% Scan resolution
+Mining Foreman Burst Bonuses:
+
++30% Mining foreman burst strength
++200% Command burst range
+Tanking and Remote Repair Bonuses:
+
++140% Local shield booster repair amount
+-60% Local shield booster duration
+-75% Remote shield booster duration and cap use
++120% Remote shield booster optimal and falloff range
+Drone Damage and Mining Bonuses:
+
++100% Drone damage and hitpoints
++30% Drone MWD speed
++500% Drone mining yield
+-80% Drone ice harvesting duration
+As you can see, the Industrial Core is now gaining a huge number of bonuses covering all three mining foreman pillars. It is receiving local tanking bonuses even more powerful than triage modules, and remote repair bonuses that are second only to triage. It is gaining ECM immunity and increased lock speed to help it support its allies. It is also gaining massive bonuses to drones that turn it into a combat powerhouse and a mining operation all on its own when used alongside Excavator Drones.
+
+We expect that individual Rorqual pilots will make decisions about when to use their Industrial Core modules based on the danger in their local environment and the amount of support they can receive from allies. Due to the massive benefits of the Industrial Core on one hand and the increased risk of locking yourself in place for 5 minutes on the other, there won’t be one universal “right answer” for when the Industrial Core should be used.
+
+PULSE ACTIVATED NEXUS INVULNERABILITY CORE
+
+The Pulse Activated Nexus Invulnerability Core (P.A.N.I.C.) is a new defensive superweapon available exclusively to the Rorqual. It allows the Rorqual to make itself and its allies invulnerable for a short time. This ability also prevents any of these ships from warping for the duration of the effect. This can allow time for the allies of the mining fleet to arrive and defend the fleet from danger.
+
+The P.A.N.I.C. module is a powerful situation effect that can be used whenever the owning Rorqual sees the opportunity for advantage and avoided in situations when it isn’t advantageous.
+
+This new module requires a new rank 8 skill called Invulnerability Core Operation that requires Tactical Shield Manipulation level 5 and Capital Shield Emission Systems level 3 to train. The module only requires Invulnerability Core Operation level 1 to operate, and the skill increases the duration of the P.A.N.I.C. effect by 10% per level. This means that Rorqual pilots can strategically train the Invulnerability Core Operation skill to whatever level they wish and ensures that the Rorqual pilot and its fleet have more information about when the effect will end than the attackers do.
+
+P.A.N.I.C. Module:
+
+Requires Invulnerability Core Operation skill level 1
+Duration: 5 minutes base, up to 7.5 minutes based on skills
+200 km range
+Applies to all mining and industrial ships within the same fleet, except other Rorquals
+Runs once and then burns out
+Limit of one module per ship
+Bonuses to all affected ships:
+
++99.99% Shield Resists
+-90% Shield recharge duration (increases passive shield regen rate)
+All turret, missile, drone and smartbomb damage set to 0
++100% Mass
+-50% velocity
+Prevents warp, cloak, jump, dock, tethering (if already tethered do not apply)
+-75% scan resolution
+Mining remains unaffected so ships can continue to mine as normal while under the protection of the P.A.N.I.C. module.
+
+We are interested in hearing what the community thinks about cyno restrictions for ships affected by the P.A.N.I.C. module. We are currently leaning towards allowing cyno lighting and watching closely to see if this causes problems. If needed, we can change the effect to prevent cyno lighting and prevent ships with an active cyno from receiving the P.A.N.I.C. effect.
+
+The Rorqual represents the ultimate mining foreman vessel, providing the best possible bonuses with commensurate increases in investment and risk. The base Rorqual and all its modes provide the most complete expression of all three of the mining foreman pillars:
+
+Help fleetmates mine more effectively:
+
+Even without the Industrial Core active the Rorqual has the most powerful mining foreman bursts in the game thanks to a 5% per level strength bonus and 50% range role bonus. With the addition of the core for up to an additional 30% strength and 200% range the Rorqual gains the ability to supercharge its mining fleet across entire belts
++900% survey scanner range makes allows the Rorqual to scan asteroids up to 225 km away, gaining valuable information on remaining asteroid volumes to help coordinate its fleet
+Capital tractor beams and a buffed ore bay make the Rorqual the ultimate ore collecting machine
+The Rorqual can allow its fleet mates to refit while also carrying multiple mining ships in its Ship Maintenance Bay
+Defend the mining operation:
+
+Thanks to 125 mbits of drone bandwidth and a full sized drone damage bonus, the Rorqual can deal battleship-level damage. The addition of the Industrial Core doubles that drone damage and also adds a drone speed bonus to help the Rorqual’s deadly heavy drones chase down their targets
+On its own the Rorqual has the ability to fit capital-sized remote shield boosters with a massive 400% range bonus. With the Industrial Core active those remote shield boosters cycle much faster for more repairing and nimbler support of allies. When the Core is running the Rorqual is second only to Force Auxiliaries in remote rep potential
+If enemies realize they can’t break through the remote reps and decide to attack the sieged Rorqual directly they’ll be in for another surprise as the Industrial Core provides the Rorqual with one of the strongest local tanks in the game: on a similar scale to that of a Force Auxiliary.
+The Rorqual is tied with Caldari and Minmatar Command Ships for the most powerful Shield Command Bursts in the game, allowing it to provide max-strength defense boosts to its whole mining operation
+Finally, if the Rorqual has friends coming it can choose to pause the fight using the P.A.N.I.C. module and wait for the cavalry to arrive
+Contribute with powerful mining drones:
+
+The new Excavator drones give the Rorqual its own tiny mining fleet at its fingertips. Even without the Industrial Core running the Rorqual is the strongest solo mining ship in the history of New Eden. With the Core running this massive yield is multiplied 6x, making the Rorqual the ultimate belt destroyer. When the Industrial Core is running, each of the Rorqual’s 5 Excavator drones will individually pull in the ore yield of an Exhumer
+The Rorqual isn’t a small investment and the risk of using the Industrial Core in dangerous space can be significant, but in the hands of a wise pilot supported by friends and allies the Rorqual will be one of the most effective ships in the game. We’re very interested in hearing your feedback on these changes, and we’ve opened up a specific feedback thread here for discussion of the Rorqual and its modes.
+
+OTHER ORE SHIP CHANGES: OUTER RING EXCAVATIONS HAS BEEN BUSY
+In addition to all these new ships, drones, and functionality, ORE has a few other announcements to make for the rest of their ship lines.
+
+As a follow-up from their recent revamp of the Mining Barge and Exhumer lines, ORE is happy to announce that in November the unpackaged volume of Hulks and Covetors will be dropping by 25% to make them easier to haul and store.
+The Bowhead ORE Freighter is also receiving some improvements in November:
+Slightly improved hitpoints and agility
+37.5% reduced mass to match ORE’s commitment to improved wormhole utility
+23% more capacity for the Bowhead’s Ship Maintenance Bay
+TL:DR
+Hey there. If you took the option of skipping here from the beginning, I’d like to welcome you to the end of the blog! If you have the time later I highly recommend reading the rest at your leisure.
+
+The short version of all this is:
+
+In the November expansion mining support gameplay is getting a huge revamp
+Fleet boosts (including mining boosts) are becoming AoE buffs that only work on-grid
+There’ll be three mining foreman ships: the new inexpensive Porpoise, a buffed Orca and a buffed Rorqual
+Each Mining Foreman Ship will be able to fulfill three roles at once:
+Help fleetmates mine more effectively
+Defend the mining operation
+Contribute with powerful mining drones
+WE LOOK FORWARD TO YOUR FEEDBACK!
+Big thanks to everyone who took the time to read through this (admittedly long) dev blog today! We’re really excited for the chance to finally revamp this area of gameplay after years of talking to all of you about it. We want to give special thanks to all the players who have talked to us about the Rorqual and mining support gameplay at Fanfests and other player gatherings over the past few years, and to the CSM who made a great contribution to this process.
+
+We are very interested in hearing what you all think about these proposed changes and to see what issues you foresee. We’ll be spending much of the next month going through your feedback and making changes as necessary, and we are sure there will be plenty of tweaks made after release as well once we see how players use these ships in New Eden. You can give feedback for each mining foreman ship in the threads linked from their section, and use the general feedback thread for this blog to give us any feedback that doesn’t fit in those specific areas.
+
+Thanks and happy mining!
+
+-Your Friendly Neighborhood Team Five 0

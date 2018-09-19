@@ -1,0 +1,14 @@
+These marks represent an active tally and appear in three sizes reflecting their representative values: 1, 10, or 100. When a ship has acquired nine marks of one level, earning another will result in a single mark on the next tier.  In this way, up to 999 kills can be recorded on a ship, using just 27 marks. If you see someone with 26 marks, contact your nearest Logi.
+
+The style of the marks themselves is determined by the manufacturer of the ship; Amarr ships display Amarr-themed kill marks and so on. Pilots can see all the different types of marks by succeeding in combat while flying hulls from each branch of the ship tree. ORE kill marks are particularly delightful.
+
+Naturally, there are some rules about how these marks are earned. Ships do not get a mark for indirect kills. That means damage assists, logistics support, and EWAR combat garner no credit; it’s a kill shot or nothing. To those who fleet up with known opportunists: be on the lookout for kill mark ninjas. Ships don’t get a mark for destroying “lower tier” targets, either.  The destruction of Pods, Shuttles, Rookie Ships, and unmanned vessels represents very little accomplishment to an established combat veteran, and won’t generate a mark. And capsuleers won’t be chalking up hulls with structure, can, wreck, drone, or NPC kills. They may matter, but they don’t count.
+
+In an effort to keep trophy hunters from skewing the numbers, killing players on trial accounts will also not create a mark. And to keep the farming to minimum, no intra-corporate kills will decorate any hull. Seek battle beyond your organization for maximum kill mark adornment.
+
+KEEP YOUR EYES PEELED!
+That’s not all you’ll see from the Art team in this release.  Also be on the lookout for modified cynosural field graphics, enhanced local repairer effects, impressive new flames issuing forth from your engines, 13 new ships, and improved logos on every ship and station. All in all, New Eden has never looked better!
+
+We recommend taking a moment to reflect on your favorite ship.  Fly around for a few days and reminisce about the great times you’ve had crushing your enemies, seeing them driven before you, and hearing the lamentation of the crewmen.  
+
+Team TriLambda

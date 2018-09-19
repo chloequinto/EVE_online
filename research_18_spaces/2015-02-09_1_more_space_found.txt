@@ -1,0 +1,30 @@
+(click to enlarge)
+
+As well as the friendly fire change, we've got several more improvements coming along in Tiamat:
+
+Upping limit on mailing lists
+
+Your communities keep getting bigger and more popular, with groups such as Spectre Fleet and RvB Ganked getting close to the maximum mailing list size. To enable them to keep growing, we’ve upped the limit on mailing list membership from 3000 people to 5000.
+
+Adding a filter to the member list
+
+When you have a corporation with a few thousand members we get that it’s near impossible to find a specific member. That’s why we’ve added a filter to the member list.
+
+
+
+Corp details improvements
+
+You can now resize the corp details window and make a better description of you corp with customizable font and links and what not.
+
+
+
+Unrenting offices made more obvious
+
+The option to unrent an office is currently in a rather too-well hidden spot. When viewing your list of offices, a button will be displayed for each office giving an easy way to unrent it. Don’t worry about accidently clicking it though, it does check for confirmation first!
+
+
+
+Inviting a character from the applications tab
+
+Wouldn’t it make sense to be able to find a character and send him an invitation to join your corp directly from the corp window? Yes we thought so too, that’s why we added a button in the applications tab to search for a character and then send them an invitation.
+

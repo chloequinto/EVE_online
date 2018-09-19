@@ -1,0 +1,46 @@
+We are continuing the tradition of publishing our slides this year as well. Please find a .pdf version here:
+
+Fanfest 2015 - Team Security slides - Better Safe Than Sorry
+
+We’ll try to answer your questions in the dev blog discussion thread. You can also find us on Twitter:
+
+//twitter.com/CCP_Peligro - Security Analyst
+//twitter.com/CCP_Grimmi - Security Analyst
+//twitter.com/CCP_Random - Security Engineer
+//twitter.com/CCP_Bugartist - Director of Information Security
+//twitter.com/CCP_Arkanon - Internal Affairs Manager
+
+I also want to include a special shout-out to our guest speaker and friend, The Nosy Gamer. He blogs about interesting stuff, check him out at: //nosygamer.blogspot.com/
+
+QUICK POLICY RECAP
+As always, our official policies can be found here: //community.eveonline.com/support/policies/
+
+Macro use/botting:
+
+1st offense - 30 day temporary ban, removal of proceeds, permanent outbound character transfer lock
+2nd offense - permanent ban
+
+For further information on our stance on macro use and how this is dealt with, please read the Dev Blog linked below:
+//community.eveonline.com/devblog.asp?a=blog&nbid=74632
+
+ISK Buying:
+
+1st offense - 7 day ban and removal of proceeds
+2nd offense - Permanent ban
+
+For further information on this, please check out our last dev blog:
+//community.eveonline.com/news/dev-blogs/holiday-greetings-team-security/
+
+Client modification:
+
+Zero tolerance
+
+ISK Selling:
+
+Zero tolerance
+
+Please note that penalties for breaches of our policies always results in action taken against all accounts found to belong to the perpetrator. In other words, action is not limited to the “offending” account(s). 
+
+That’s all for now, thanks for reading and I look forwards to seeing you at Fanfest next year!
+
+-CCP Peligro

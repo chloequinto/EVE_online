@@ -1,0 +1,88 @@
+
+PILLAR #2: NEW VULNERABILITY AND REINFORCEMENT SYSTEM
+
+
+The systems surrounding the attack, reinforcement, and destruction of structures has been one of the most heavily discussed aspects of the Upwell structure design from the very beginning. This system is an especially challenging area of design as it requires a careful balance between the needs of attackers and defenders in any structure conflict. As owners and defenders of a structure, players need the security to ensure that their home will not be destroyed out from under them while they sleep. As aggressors against structures, players need the ability to inflict damage and generate conflict. This balance is further complicated by the huge variety of players and organizations in EVE.
+
+From our observations, research, and community feedback over the past year, we believe that the vulnerability and reinforcement system used by Upwell structures since the Citadel expansion have been too unbalanced in favour of the defender. With this in mind, Upwell structures 2.0 includes a complete re-imagining of vulnerability and reinforcement for these structures.
+
+In this new system, attacks against active Upwell structures will consist of three phases:
+
+An initial attack that can occur at any date and any time chosen by the attackers
+A second attack that occurs in the timezone of the defenders, on the day chosen by the attackers
+A final battle that occurs in the timezone and day chosen by the defenders to allow them a last stand
+Under this system structure owners will choose an hour of the day and a day of the week as their structure’s reinforcement time and reinforcement day respectively. Any changes to this reinforcement day and time take 7 days to take effect from the moment the changes are queued, and if the structure is damaged or reinforced when the 7 days have elapsed the change will not take effect until the structure returns to full health.
+
+This reinforcement information will be obtainable by potential attackers using a relic or data analyzer module. Activating one of these analyzer modules will open a hacking panel similar to those found in exploration sites. The difficulty of the hacking challenge will scale depending on the size of the structure being investigated, with XL structures providing a more difficult hacking challenge than any previously available in EVE Online. After a successful hack a window will appear with the full information on the structure’s current reinforcement time and day, as well as any queued changes and the time that those changes are planned to take effect. Knowledge of the structure’s reinforcement time and day is crucial for potential attackers who wish to determine when their future fights would take place as well as plan how long they wish the structure to spend reinforced.
+
+Under this new system, the shield hitpoints of Upwell structures will be vulnerable to attack at all times.
+
+The mechanics of attacking the structure will remain largely consistent with the old system, including the same 15-minute repair timer and the existence of damage caps.
+
+If the shield hitpoints of an Upwell structure are completely destroyed, the structure will enter a reinforced state. If the structure is in full power, it will enter the first of two reinforcement cycles. If the structure is in low power mode it will skip straight to its final reinforcement cycle.
+
+First reinforcement cycles last for between 22 and 50 hours, depending on when the attack takes place relative to the structure’s reinforcement time and on a random element. When a structure enters this first reinforced mode it determines when to become vulnerable again by looking forward to the next reinforcement time that takes place at least 24 hours after it entered reinforced mode and randomly adding or subtracting some amount time up to two hours in either direction. This means that the structure owners will always have about one day’s notice that they need to form for a fight, and that the fight will take place at a random time within a four hour window centered on the time chosen by the defender. This also means that an attacker with proper investigation can plan for approximately when the structure will leave its first reinforcement period and control what day that reinforcement exit takes place to generate conflicts on dates of their choosing.
+
+When the structure exits its first reinforcement period the armor hitpoints become vulnerable with the standard 15 minute repair countdown.
+
+If a full power mode structure loses its armor hitpoints (or if a low power mode structure loses its shield hitpoints) the structure enters a final reinforcement period. The duration of final reinforcement cycles depends on when the structure enters the reinforcement, what reinforcement day the owner of the structure has chosen, and the area of space the structure is located within.
+
+When a structure enters its final reinforcement period it looks for the next reinforcement time on the weekly reinforcement day that occurs at least X days in the future, and then randomly adds or subtracts some amount time up to two hours in either direction. This X value depends on the location of the structure:
+
+0.5 days for Wormhole space
+2.5 days for Lowsec and Nullsec space
+5.5 days for Highsec space
+This means that the final battle for a structure will always take place on the day of the week chosen by the defender, within a four hour window centered on their selected reinforcement hour.
+
+Just as in the previous system, all a structure’s service modules will go offline while the structure is in this final reinforcement period.
+
+When a structure finishes its final reinforcement period its hull hitpoints become vulnerable to attack. At this point the structure may be destroyed once and for all with a successful attack and final battle.
+
+Under this new system a random unscouted attack against a full power Upwell structure could lead to a set of reinforcement timers with a maximum combined duration of 14 days in highsec, 11 days in nullsec and lowsec, and 9 days in W-space. However, a prepared attacker that hacks the structure for its reinforcement information ahead of time can ensure that those durations drop to 7 days in highsec, 4 days in lowsec and nullsec and 2 days in W-space. This highlights the importance of hacking potential target structures to obtain the best possible information for your planning.
+
+This new system also enables clever attackers to ensure that the first reinforcement period for a full power structures will exit during a weekend to generate potential fights by launching initial attacks against structures on Thursday evening, Friday, or Saturday in preparation for the next day’s reinforcement hour.
+
+The following chart shows the complete state flow available to Upwell structures in this new system:
+
+
+Chart has been updated from original blog version (click to enlarge
+
+PILLAR #3: STRUCTURE COMBAT OVERHAUL
+
+
+The third major pillar of this Upwell structure revamp is the largest set of structure combat balance changes since the introduction of Citadels. Combat alongside, against, and near Upwell structures is an important part of the EVE metagame and it needs continued iteration to ensure that the experience is the best it can be.
+
+The key goals of these changes are to make structure combat more interesting and enjoyable for structure gunners, structure defenders, and structure attackers. This means focusing on mechanics that provide players with choices and opportunities to display their skill, and that have effective counterplay available.
+
+**Superweapons**
+
+One significant component of this combat overhaul is the addition of new burst projector superweapons to Upwell structures. These powerful disruptive weapons are currently primarily available on supercarriers and allow the operator to place area of effect disruption bursts anywhere in the battlefield remotely. The disruption bursts are visible before they take effect, allowing opposing pilots to see them coming and evade their impact range. The initial pass of structure burst projectors includes AoE target painter, weapon disruptor, energy neutralization, ecm jammer, sensor dampening, stasis webification, and warp disruption bubble effects.
+
+The addition of the new Standup Energy Neutralization Burst Projector will replace the functions of the Standup Void Guided Bomb, which has been causing balance issues. The Neutralization Burst Projector requires more skill and forethought to use and has significantly more counterplan available, making it a better choice overall for the EVE combat environment. When the Upwell Structures 2.0 release deploys on February 13th all existing Standup Void Guided bombs and their blueprints will be converted automatically to Standup Light Guided bombs and their blueprints.
+
+These new Standup Burst Projector modules are able to be used on all Medium, Large, and XL structures. The Large and XL versions of Upwell Structures are especially well suited to use these modules as they will receive a role bonus to the rate of fire of Burst Projectors and Guided Bomb Launchers.
+
+**Standup Fighters**
+
+Another major component of this combat rework is a re-imagining of structure fighters. Currently Upwell structures may launch the same types of fighters used by carriers and supercarriers, but these fighters do not receive any benefits from skills or ship bonuses. As a part of this release, Upwell will be releasing dedicated Standup variants of every fighter used by capsuleers. These new fighters will be much more powerful than their standard variants, and will only be able to be launched by Upwell structures. Building these new Standup fighters will require a standard fighter plus some additional input equal to approximately 25% more material value. The blueprints for these Standup fighters will be available seeded on the market from any Upwell Consortium member station (the same locations where other Upwell BPOs are seeded). Not willing to be outdone, Sansha’s Nation WISHES TO EXPAND ITS BORDERS has released its own structure-capable upgrade package for the Shadow heavy fighter that can be purchased in BPC form from Sansha’s Nation loyalty point stores. On patch day existing fighters will need to be upgraded to Standup variants in order to be launched from Upwell structures.
+
+Since fighters will now be playing a larger part in structure gameplay Upwell has also upgraded the fighter interfacing software for all of their structures. Staring with the Upwell 2.0 release, whenever a capsuleer leaves the gunner position of a structure (or two capsuleers swap) any fighters launched from that structure will not be abandoned. They will remain connected, disengage from combat, and automatically start flying back to the structure for recovery. New gunners will then be able to issue them commands immediately if desired.
+
+These new Standup fighters will continue to not require any capsuleer skills to operate, and therefore will not benefit from those skills. However, their powerful base stats more than make up for the lack of skill bonuses. They enjoy massive bonuses to dps, hitpoints, speed, and sensor strength that make them powerful forces on the battlefield. Fighters provide an element of positional and movement gameplay that is otherwise unavailable to structure gunners, which is why we are especially excited to upgrade structure fighters into a state where they will become a major part of these battles.
+
+**Structure Module Rebalance**
+
+The structure combat overhaul will also include a major rework to structure combat modules. The fitting gameplay options and choices available to structure owners has been lacking compared to ship fitting gameplay and we intend to start closing the gap with the Upwell 2.0 release.
+
+The largest change to modules in this release will be the addition of new T2 Standup modules. These will provide upgraded functionality to all the major combat modules for Upwell structures and introduce numerous new fitting options. Entirely new module categories will also be brought to Upwell structures, including capacitor power relays, capacitor batteries, armor reinforcers.
+
+To go along with these new fitting options, we will also be adjusting the balance around structure fitting stats and module stats to bring more interesting gameplay to structure fitting. Expect CPU and Powergrid decisions to matter much more after this release, especially if you wish to take advantage of the new T2 modules. The fitting requirements of service modules have been reduced significantly, and structure Powergrid and CPU pools have been reduced to compensate.
+
+Structure weapons are also receiving a balance pass, with anti-capital damage generally reducing and anti-subcapital damage generally increasing. The Standup Heavy Guided Bombs (formerly known as Standup AM Guided Bombs) will also be receiving a significant increase to their explosion radius to better differentiate them from the Standup Light Guided Bombs (formerly known as Standup AS Guided Bombs). All of the Standup missiles and launchers are also being renamed to more clearly show their roles and remove their over-reliance on acronym gobbledygook.
+
+Structure tackle modules will also be receiving major updates with this release. These powerful modules can often become oppressive with their ability to keep single targets tackled and webbed indefinitely. It is especially important for us to address these modules now since the addition of 24/7 shield vulnerability means structures will be able to activate their tackle modules at all times. To solve these issues, we plan to add a reactivation delay to the Standup Focused Warp Disruptor (formerly known as the Standup Warp Scrambler) and Standup Stasis Webifier modules that prevents them from being cycled constantly without breaks. The current plan is for them to activate for 30 seconds, and then need to wait one minute before activating again. The Standup Focused Warp Disruptor will also be changed to become scriptable, with a longer-range disruptor mode and a shorter-range scrambler mode accessible through a script. Combined with these changes they would also be limited to a maximum of one copy each fitted to a structure. The intent would be for these modules to be used strategically to grab tackle long enough for an allied ship to get their own point, or in conjunction with the new AoE webs and bubbles.
+
+After some productive discussions with the CSM at our recent summit meeting, we will also be increasing the locking range of Upwell structures significantly to better enable them to engage with targets at extreme ranges. Base lock range of Upwell Structures is planned to increase to 350k, 380km, and 400km for medium, large and XL structures respectively. Additionally all Upwell Structure will gain the ability to increase target range further to a cap of 490km through the existing targeting speed rigs and modules which will be expanded to also provide targeting range bonuses in addition to their current benefits.
+
+PILLAR #4: MOON MINING IN W-SPACE AND HIGHSEC
+

@@ -1,0 +1,37 @@
+
+
+
+
+
+IMPROVED USABILITY FOR FUELING STRUCTURES
+The job of keeping your structure fueled can be a challenging one that is made more complicated by the fact that allowing a player to fuel a structure currently requires a huge amount of trust in that individual. In the August release, we are expanding the fueling ability in a secure way by allowing anyone with the "Assume Structure Control" access control list to place (but not remove) fuel in the structure fuel bay without requiring any corporate roles.
+
+CORPORATION INSURANCE IN UPWELL STRUCTURES
+Corporation insurance is a feature that allows a corporation to insure a ship before distributing it to one of their members, which then sends the insurance payout to the corporation if the ship is destroyed.
+
+This is a longstanding feature of the insurance system in normal stations and outposts, but we were initially unable to add it to Upwell structures due to some technical differences between corporation hangar systems in different structure types. Recent improvements we have made behind the scenes have had the additional benefit of allowing us to add corp insurance to Upwell structures in August. This is another step towards full feature parity between stations/outposts and Upwell structures and will be especially useful to large corporations.
+
+PHASING OUT OF LEGACY STARBASE INDUSTRY BONUSES
+As a quick reminder, there are also a few other previously announced changes coming in the August release that bring us closer to the release of Refineries and complete replacement of Starbases with Upwell structures.
+
+As we announced in this dev blog and this forum post, we will be phasing out industry bonuses in starbase structures.
+
+This means that starting in the August release, Starbase Reprocessing Arrays will only provide a 50% refining yield, Starbase Assembly Arrays will not provide any material or time bonuses to manufacturing jobs, and Starbase Labs will not provide any time bonuses to research, copy, or invention jobs.
+These structures will continue to work for the near future, but without their previous advantages over stations.
+
+Any jobs started in one of these structures before August 15th will complete with the bonuses intact.
+
+These structures have been impossible to build since May, and their usage is now very low since more convenient and powerful alternatives exist. This step will continue our progress towards replacing the legacy starbases with easier to use Upwell structures.
+
+NEW MOON SURVEY PROBING UI
+We are also deploying a set of improvements for the moon survey probing system this August. All the details of these changes can be found in this dev blog, and are another step preparing New Eden for the arrival of the new Upwell Refinery structures later this year.
+
+We want to extend our thanks to those players who have already passed along their feedback on the moon survey probe changes. In addition to the previously announced changes, we can also announce that the August release will include a buff to the Tech Two version of the Survey Probe launcher, giving it a flat 10% bonus to the speed of moon probing.
+
+We hope that you all enjoy the changes coming this release, and our whole team wants to reiterate our thanks to all the players who are passing along your feedback on Upwell structures through our survey, the forums, bug reports, the CSM, and many other avenues.
+
+All the changes described in this blog are available for testing on the Singularity test server that can be found in your EVE launcher, and we highly encourage people to try them out and let us know what you think.
+
+Fly safe!
+
+Team Five 0

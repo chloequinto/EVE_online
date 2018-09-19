@@ -1,0 +1,114 @@
+Hello again industrious capsuleers. It’s time for another Refinery and moon mining dev blog from your friendly neighborhood Team Five 0.
+
+Today’s blog will discuss the way moon composition, moon material distribution and moon surveying will be changing this year as part of the Upwell Refinery introduction. Read on for all the juicy details, or if you’re looking for a quick TL;DR feel free to skip to the list at the end of the blog.
+
+As we revealed in our previous dev blog, the introduction of Upwell Refineries this winter will completely revolutionize the way capsuleers harvest moons to obtain the resources used in Tech 2 production. The old paradigm of a starbase moon harvester passively collecting units of moon materials every hour is being replaced with a new moon drill service module that rips massive sections of a moon into orbit so the ore within can be harvested by pod-capable ships.
+
+We discussed the basic outline of the new moon mining process in the eve keynote at Fanfest earlier this year as well as the previous blog, but for a quick refresher here is the entire walkthrough:
+
+A refinery that is deployed at the correct spot beside a moon can fit and online a special moon drilling service module. Only one structure can mine each moon at a time.
+The owners will then setup the fracking operation, with larger chunks taking longer time to be drilled from the moon.
+The moon drilling module begins blasting a chunk of the moon away from its surface and dragging it towards the structure. This process takes between one and several weeks depending on the choices made by the structure owner. Observers can watch the chunk move through space as a way of estimating when it will reach the Refinery.
+Once the chunk of moon rock has completed its journey into space, the Refinery can use its drill module to detonate the chunk into a minable asteroid field. The exact time of the detonation is controlled by the owners of the Refinery within limits. If the chunk is left unattended long enough it will disintegrate into the asteroid field on its own.
+The new asteroid field that appears with the explosion of the chunk will contain new types of valuable ores that will yield moon minerals when reprocessed. The composition of the field will depend on the composition of moon materials available in the moon. The field will generally remain far enough away from the Refinery structure that you won’t be able to effectively mine it from docking range but close enough for a pilot controlling the Refinery to be able to cover the friendly miners and/or attack uninvited guests.
+Once the chunk has exploded, the drilling module can begin fracturing a new part of the moon to start the process again.
+NEW ORES
+The new types of valuable ores mentioned above represent another major change to the whole process of moon resource harvesting. Currently a moon harvester collects the moon materials (such as Hyrocarbons, Titanium, Cadmium, Technetium, or Dysprosium) directly in a form that is ready for reacting into intermediate materials and eventually composites for T2 construction. In the new process, the moon chunk will explode into new ores that can be mined by normal capsuleer mining ships and that must be refined into moon materials using a standard reprocessing facility.
+
+These new ores will yield more than one output material when reprocessed, just like most existing ores. We are currently planning for the addition of 20 new forms of ore that will be obtained through this process. Each of these 20 new ores will have a primary moon material that makes up a large percentage of its total value, as well as a few other materials that make up smaller percentages of the value. These secondary materials will often be other moon materials, but will also sometimes be normal minerals.
+
+For example (names are not final): “Placeholderite Ore” might yield quite a bit of Vanadium as its primary material, with some Cobalt and Evaporate Deposits in the mix as well. “Moongooium Ore” might get most of its value from the Dysprosium it yields, but also contain a fair amount of Silicates and Mexallon.
+
+These new ores will have five tiers of rarity just like the existing moon materials, with the rarest moon materials coming from the rarest ores. To facilitate the reprocessing of these ores (and to allow use of new mining crystals) we will be introducing five new moon ore processing skills: one for each rarity tier. These new processing skills will work much like the existing ore processing skills with a 2% bonus per level to the yields gained from reprocessing, except that each of them will apply to four ore types instead of one.
+
+COMPOSITION AND DISTRIBUTION
+With this new moon harvesting technology will come a new way of looking at the composition of moons themselves and a new distribution of harvestable resources across the moons of New Eden. Currently each moon can have a presence of certain moon materials that indicates the ability to mine them with a moon harvester. It’s possible for moons to have zero, one, or many moon materials and the moon harvesting process allows the owner to choose which materials to harvest.
+
+In the new moon mining paradigm, each moon will have a composition of a few ores, with each ore representing a percentage of the total moon composition. This composition can include both new moon ores and existing ores, and will always add up to 100%.
+
+So, for instance, surveying one moon might show that it consists of:
+
+45% Scordite
+40% a very common new moon ore
+15% a moderately rare new moon ore
+While another might show:
+
+35% Spodumain
+25% a moderately common new moon ore
+20% Bistot
+20% an extremely rare new moon ore
+The second moon would be considered significantly more valuable than the first. Under this system the difference between moon quality will be much more granular than it was previously, allowing organizations to choose what priorities they want to focus on when claiming moons.
+
+Would your corporation or alliance prefer a moon that has a small quantity of an extremely valuable ore that you would cherry pick and then ignore the less valuable ores in a short play session? Or would you be looking for a moon with a wider distribution of strong ores that enables more total income per month but requires more mining time to take full advantage?
+
+Alongside this rework of moon composition will be a complete reset of the current moon material distributions. We will be running a new randomized algorithm that will create the material compositions of moons across Lowsec and Nullsec space in this new percentage form. This reset of the distribution will happen in the same expansion patch as the introduction of Refineries.
+
+We will be testing this new distribution on test servers over the coming months, including Singularity. We want to make it clear that the distributions that will eventually show up on SISI will not use the same random seed as what will be applied to the main Tranquility server on patch day.
+
+This reset of moon composition distributions will allow a fresh start for the moon mining system, enable the conversion to the new percentage compositions, and will also be an excellent opportunity for smart and diligent prospectors to gain profit in the scramble for resources.
+
+IMPROVEMENTS TO MOON SURVEYING
+Due to the radical changes to moon composition and the upcoming opportunities for moon surveying, we are also releasing significant user experience upgrades to the moon survey process.
+
+Moon surveying is a lesser known form of EVE exploration that uses a special probe launcher to investigate the materials available in moons. This process has changed relatively little over the past several years and there are multiple areas where we saw opportunities to improve the UI and feedback.
+
+The basics of the moon scanning process are:
+
+Fit a Survey Probe Launcher module to your ship. Covert Ops ships are especially well suited for this task as they have a bonus to improve the survey speed. There are three types of probe to choose from, with different survey speeds, volumes, and skill requirements.
+Fly to a spot near a moon in Lowsec or Nullsec space and start flying in the direction the moon.
+Open the moon analysis window that is available from the scanner radial button when you have a Survey Probe Launcher fit.
+When you launch a Survey Probe it flies in the direction that your ship was travelling (like bombs launched from stealth bombers). Probes fly through space for a few minutes and then scan the moon that is directly ahead of them. If you missed the moon then no results will display. If the moon does not contain any minable materials then no results will display.
+
+With our new improvements to the moon scanning system there will be an improved moon analysis window that displays the remaining time for each of your probes with the moon they are attempting to scan. If you have missed the moon entirely then the destination column will show as “Unknown”, clearly indicating that a new probe will need to be launched to obtain the correct results. The moon analysis window will then display the full percentage compositions of the moons once the scans complete.
+
+This set of changes will also include vastly improved discoverability of the moon survey process, some tweaks to the moon probe physics themselves to make them feel more realistic, and a sanity cap on the maximum range from which you can scan a moon.
+
+
+
+This new UI will actually be arriving on Tranquility separately before expansion brings the Refineries and the moon distribution reset. With a feature as big as Refineries we have been working hard to complete many of the aspects early to give them lots of testing and feedback time. The new moon scanning UI will be arriving on the Singularity test server in the coming weeks and will be released to Tranquility in our August release. In the time between the August release and the Winter Expansion with Refineries the new UI will continue to display units of quantity for each moon material present on the moon rather than percentages.
+
+This early UI release is just one of several aspects of the Refinery feature that are being completed early as we work hard to produce a great Winter Expansion for all of you. We have already silently released the server-side code that allows the upcoming Mining Ledger to track each pilot’s mining activity, and we will be releasing more information soon about the first rounds of early SISI testing for the Refinery structures themselves.
+
+For anyone looking for a TL;DR here’s your convenient summary:
+
+Refineries coming this winter
+New Moon Mining Paradigm
+Must extract ore from moon to space, mine and reprocess it to get the moon materials
+Refineries use exclusive moon drill service module to extract ore from moon to space
+Only one Refinery can mine each moon at a time
+New Ores
+20 New moon ores that are mined from moon extraction
+Reprocessed into 1 main moon material and other minerals (moon or regular)
+Only available in asteroids created from moon drill process
+Moon Composition and Distribution
+Moon composition to be a percentage of different ores
+Mix of moon ores and existing ores
+Full reset of moon distribution on Expansion Release
+Moon Survey Improvements coming in August
+Friendlier looking UI for results of Moon Composition
+“Copy to clipboard” function
+Indication of probe missing target
+Timer for results from each probe
+We look forward to getting the improvements to moon scanning into your hands soon, and we hope you are as excited as we are about the massive shakeup to moon resources coming later this year! We’ll be continuing to release dev blogs covering aspects of the Refinery feature as well as other structure changes in the coming weeks and months.
+
+Happy building!
+
+-Team Five 0
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

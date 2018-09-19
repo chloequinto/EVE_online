@@ -1,0 +1,37 @@
+Here are the basic rules for the Daily Alpha Injector:
+
+Only one Daily Alpha Injector may be used per day, per character (resets at downtime)
+May only be used by characters in the Alpha Clone State
+Can be purchased in the NES for PLEX or purchased for your regions real money currency via secure.eveonline.com
+Can be activated to immediately to add 50,000 skill points to your character's unallocated skill pool (roughly one day worth of Omega training)
+Can be traded on the in-game market
+Does not award Omega Status
+
+
+Pretty simple! we're sure you have questions though, so we'll try and answer some of the most obvious and then we can follow up in discussion threads for the blog:
+
+Why call it an injector, even though it’s different?
+
+This question was hotly debated and we settled on injector because the basic function of an activated item which gives you unallocated skill points is the same, even though the source of the skill points and the daily limit are different. We think naming it a booster or training item would have been confusing and potentially sent the message that it would unlock Omega time.
+
+How much will they cost?
+
+We are planning to sell Daily Alpha Injectors for 20 PLEX each in the New Eden Store and directly on secure.eveonline.com in a range of packages with pricing to come at release. They will also be available on the in-game market where we expect ISK prices to be well within reach of an active Alpha.
+
+Can every character on an Alpha Account use one per day?
+
+Yes. The one-day limit is per character, not per account.
+
+Can I use skill points from an Alpha Injector on Omega skills?
+
+Yes and no. Alpha Injectors add skills to your unallocated pool where they stay until they are spent. As an Alpha you cannot apply those points to Omega skills, but, if you become Omega at some point with unallocated points in your pool they can be spent on any skill. The CSM was trying to find a way to abuse this but so far has not succeeded, please let us know if you do ??
+
+Can I use Alpha Injectors while I still have free training available before I've reached five million skill points?
+
+Yes, and we realize this may actually mean that in some cases an Alpha under five million skill points would train faster than an Omega with a sub-optimal attribute layout (we still need to deal with attributes in general). We are looking into new bonuses for first time Omegas to balance this out and will keep you up to date as we progress on those.
+
+December is coming up fast and we can’t wait to see what our free players will do with all their new power. Let us know what you think in the comment section and we’ll see you in space!
+
+Fly Free,
+
+Team Size Matters

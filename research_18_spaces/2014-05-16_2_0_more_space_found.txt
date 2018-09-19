@@ -1,0 +1,70 @@
+MORDU’S LEGION ADVANCES IN LOW-SECURITY SPACE
+After developing their new line of ships, the Mordu's Legion command decided to start scouting low security space to test out the capabilities of their new machines of war. They will be making infrequent scouting missions and while their exact objectives are unknown, it has been reported that they are carrying valuable cargo with them.
+
+NEW CAPABILITIES FOR PIRATE FACTION SHIPS
+In Kronos, all the high end ships from Guristas, Angel Cartel, Blood Raiders, Serpentis and Sansha's Nation get their roles and bonuses updated and refined.
+
+Serpentis ships will combine brutal hybrid damage with great speed and the strongest stasis webifiers in the game. Angel Cartel ships keep their extreme speed, combined with projectile mastery and enhanced warp drives. Sansha's Nation ships are receiving velocity bonuses from afterburners, making them just that much more deadly, especially their smaller ships. Blood Raiders will gain increased functionality for energy vampires as well as getting a bonus to webbing range on all ships. The Guristas will get reduced drone bays and bandwidth, but at the same time they will receive a large boost to the damage and hitpoints of drones, creating a unique fighting style. 
+
+FACTION-THEMED STATIONS
+In Kronos, all stations that are owned by a NPC corporation are now recognizable in space as they are now reconstructed with the same visual identity previously only shown on ships.
+
+
+
+SOUND CUSTOMIZATION ON A WHOLE NEW LEVEL
+In Kronos, we want to offer players even more ability to decide their own aural experience, so we have overhauled the audio menu to allow fine grained control over different sounds in EVE. There is also added support for controlling which sounds are heard or disabled while the client does not have focus in the operating system.
+
+Feedback thread for Singularity: //forums.eveonline.com/default.aspx?g=posts&m=4591845
+
+
+
+SMARTER NPCS IN FACTIONAL WARFARE
+Some tweaks are coming to Factional Warfare complexes so that NPCs will arrive repeatedly in an attempt to defend their base and will now behave a bit differently than before. Additionally the usage of cloaking devices has been prevented within 30 km of the capture points. You can read more detailed information here: //forums.eveonline.com/default.aspx?g=posts&t=343137
+
+UPDATES TO MINING BARGES AND EXHUMERS
+In 2012, we completed a balance pass on the Mining Barges and Exhumers, creating unique roles for each Tech I and Tech II pair. For Kronos, we are accentuating these role differences further in order to offer multiple viable choices for miners. You can get all the information here: //forums.eveonline.com/default.aspx?g=posts&t=333931
+
+DRONES FROM ALL RACES BECOME VIABLE FOR A RANGE OF TACTICS
+In Kronos, drones from all races are updated to be more specialized and give more tactical choice, bringing back Caldari and Amarr drones as something worth training for.
+
+NEW EFFECTS FOR SHIPS WARPING IN AND OUT
+In Kronos, you can clearly identify both incoming and outgoing warps in your area of space by monitoring your environment, allowing for improved visualization and immersion whether you are playing your favorite mission or participating in a massive fleet fight.
+
+
+
+THE NEW MOA AND ITS VARIANTS
+In Kronos, we are upgrading the visuals of the Moa hull and its variants - the Eagle, Onyx and Gila - in order to proudly represent both the Caldari visual heritage and retain its place as one of the more controversial but popular ship designs in EVE Online.
+
+
+
+THE NEW CONDOR AND ITS VARIANTS
+In Kronos, we have upgraded the visuals for the Condor hull and its variants - the Crow and Raptor - aiming to capture its speed and agility in the design of the hull.
+
+
+
+RIGS FOR FREIGHTERS AND UPDATED DEEP SPACE TRANSPORTS AND BLOCKADE RUNNERS
+To make the Deep Space Transports and the Blockade Runners even more viable in their roles as 'behind enemy lines space haulers, their roles have been revisited.
+
+Read about the Deep Space Transports here: //forums.eveonline.com/default.aspx?g=posts&t=345284
+
+Read more about the Blockade Runners here: //forums.eveonline.com/default.aspx?g=posts&t=345277
+
+Additionally you will now be able to customize your Freighter with rigs, thus allowing it to carry more, align faster or warp more quickly through space.
+
+Update: We have revised the approach to the Freighters and Jump Freighters. Those ship classes will be getting Low powered module slots, not Rig slots. Make sure to read the update here: //forums.eveonline.com/default.aspx?g=posts&t=345280
+
+NEW VISUAL EFFECTS IN SPACE
+Before Kronos, the solar flare effect was one of the oldest effects in EVE. Now they have been completely redone using new underlying technology and completely new graphics.  
+
+THE NEW EDEN STORE - CUSTOMIZATION FOR SHIPS AND CHARACTERS
+In Kronos, the in-game NEX store will be replaced with the New Eden Store in order to make new ship skins, clothing and apparel available to you.  All the AUR currency on different characters of the same account will be moved to a new account-wide AUR wallet that can be used from any character on the account. Read more about the New Eden Store in an upcoming devblog.
+
+
+
+INCREASED SIGHTINGS OF WORMHOLES IN LOW-SECURITY SPACE
+In Kronos we will be increasing the amount of wormholes within low security space which lead to other low and null security systems. You will be able to further explore New Eden by finding shortcuts between systems. For more details check out this forum post by CCP Greyscale: //forums.eveonline.com/default.aspx?g=posts&t=344290
+
+QUALITY OF LIFE IMPROVEMENTS
+Kronos will also bring numerous small improvements to make your playing experience that little bit more enjoyable. This includes things like reload and repair timers on modules, right-click menu option to clear all broadcast icons in the watchlist, and different HUD icons for warp scrambling and warp disruption. To find out more check out this post by CCP karkur, and keep your eyes open for even more little things.The full list will be available in the patch notes at release.
+
+We may have a few more things making it into Kronos that we will update you about next week, but that’s it for now.

@@ -1,0 +1,22 @@
+So then, back to CCP HQ.
+
+Setting this up in our staging racks was way more fun, and seeing the new hardware come to life after months and months of talks and actually getting to touch this beautiful hardware was exhilarating. I imagine it being similar to undocking your first capital ship.
+
+
+Right now we have the virtual environment up and running and operating systems deployed. We have already seen preliminary boosts. For example, in code deployment it now takes 2-3 min to push out a build vs 10-13 min.
+
+It is way too soon to say or even brag about the improvements for EVE, but stuff like this is fun to see in the early stages. Here are two simple demos to demonstrate the sheer power of this cluster when it comes to "non-EVE" performance.
+
+First we have a Virtual Machine migration, which is in essence a copy paste of a server's memory (4GB of RAM in this case) from one physical host to another physical host. As you can see, the new hardware is awesome!
+
+
+Then here we have a Virtual Server running on Tranquility Tech III being rebooted. I counted about 5 seconds .
+
+
+How about them apples?!
+
+At the next big milestone we aim to allow you all to log in while the Tranquility Tech III hardware is still in Iceland for some initial testing. Please note though, there are about extra 40ms of network latency added compared to London as the intertubes go through the Atlantic Ocean, a glacier, some hot springs and couple of volcanoes before reaching CCP Headquarters here in Iceland.
+
+HOW YOU CAN HELP TESTING!
+Some of our eagle eyed players have noticed that there's two test servers that have appeared in your new Beta Launchers: Solace, and Quantum. CCP Falcon had responded to questions about this on the forums, and now this is the Dev Blog that was promised!
+

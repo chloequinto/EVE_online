@@ -1,0 +1,22 @@
+
+Read on for more details on all of these changes!
+
+ONE AURUM WALLET PER USER ACCOUNT
+
+
+Before it was your character that did the shopping, and each had a separate AUR balance on in their own wallets. On June 3rd we will move this interaction to the user level. All AUR from all characters under the same login will be moved to a new wallet within the New Eden Store and all traces of AUR will be deleted from the character level. This consolidation will simply add up all the AUR characters on the same account have and then move the total sum to the New Eden Store wallet. 
+
+
+
+When items are bought in the new store, those items will be placed in your Redeemable Items queue. That will then allow you to move the item to a character of your choice through the Character selection screen or via the new Neocom in-game icon. Currently the same technical restrictions apply with the redeeming queue as before; you can only move items from the redeeming queue to a character if that character is located in a station. We are fully aware of the predicament that places characters in that don’t have an easy access to a station and we will work on addressing that, meaning that we aim at allowing you to move items from the Redeemable Items queue to any valid inventory location that your character has access to, be that a cargo hold or a jet can if you are logged in on that character. Look for that in one of our future releases.
+
+
+
+NEW ITEM CATALOG AND AURUM PRICING
+The new store will launch with 105 entries. Of those over 60 items will be new and never seen before. A healthy mix of clothing items, two new full-sleeve tattoos (for both right and left arms) and four new ship skins will be offered. 
+
+Abaddon Tash-Murkon edition
+Hyperion Innerzone Shipping edition
+Maelstrom Nefantar edition
+Rokh Wiyrkomi edition
+

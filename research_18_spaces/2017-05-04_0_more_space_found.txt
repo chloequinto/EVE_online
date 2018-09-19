@@ -1,0 +1,42 @@
+The one Conquerable Station replacement Citadel type will look like a Fortizar with a new unique color scheme.
+
+Each of these new faction Citadels will have the stats of an improved Fortizar, and share the Fortizar’s docking restrictions. Each will gain a set of special bonuses connected to their former station identity: combining the defensive benefits of a Fortizar with extra bonuses usually reserved for more vulnerable structures.
+
+The Minmatar Outpost replacement Citadels will gain a bonus to reprocessing (smaller than the bonus on Refineries)
+The Amarr Outpost replacement Citadels will gain bonuses to manufacturing (smaller than the bonus on Engineering Complexes)
+The Caldari Outpost replacement Citadels will gain bonuses to research (smaller than the bonus on Engineering Complexes)
+The Gallente Outpost replacement Citadels will have an extra service module slot and gain a bonus to service module fuel use
+The “Immensea” Conquerable Station replacement Citadels will gain extra defensive benefits, hitpoints and slots as well as milder versions of the bonuses from the other four faction Citadels.
+These new faction Citadels will be able to be unanchored, scooped and redeployed just like any other Upwell structure. They will not be manufacturable by capsuleers.
+
+The faction Citadels replacing upgraded Outposts will receive another exclusive benefit: new special edition faction structure rigs. Which of these powerful rigs you receive will depend on the upgrades installed on the Outpost being replaced. The combined Outpost upgrades installed on each Outpost will all be added to a single faction rig so that the other two rig slots will remain free for use with normal L-set rigs.
+
+Like the faction Citadels themselves, these rigs will be exclusive to the Outpost upgrade event and no more will ever be added to New Eden. These rigs will begin installed and will be destroyed if removed or if their host Citadel is unanchored (just like a normal rig).
+
+The corporations receiving these faction Citadels will have a decision to make: whether to defend their new faction Citadel in its current location and keep the benefits of the faction rig, or to unanchor their new structure for sale or redeployment elsewhere. This may be a tough decision for many corporations, but both options have very significant benefits.
+
+New Eden’s 68 Conquerable Stations have an especially important place in EVE player history. For most of their existence they made ideal locations for alliance home systems spread across the entire cluster. Conquerable Station Systems like NOL-M9, H-W9TY, C-J6MT, 1V-LI2, VFK-IV, BKG-Q2, C9N-CC, JV1V-O and FAT-6P have all been host to amazing Capsuleer achievements and epic stories full of drama and suspense.
+
+Many of these stories can be difficult for newer players to find, so we realized that the end of the Conquerable Stations would be the perfect opportunity to add special monuments to the adventures you EVE players have led around those stations over the years. Each Conquerable Station will be replaced both with a new faction Citadel and with a special landmark site that will contain the ruined remains of the old station as well as a monument describing some of the historical significance of that particular system and station. The monument will also list the last alliance to control that Conquerable Station before the transition event. These landmarks will be a permanent reminder of the great things players have done in these systems over more than a decade.
+
+The Big Day
+
+//content.eveonline.com/www/newssystem/media/64034/1/EVE_Online_2012Holidays_2.jpg
+
+The Outpost replacement event is currently planned for this winter, in a patch some period of time after the expansion that contains the Refineries. As we get closer to release we will start getting more specific about the dates involved.
+
+During the downtime on the event day, the new faction Citadels will be automatically anchored at a location near the Outpost or Conquerable Station they are replacing. Whenever possible items that were inside the old Outpost or Conquerable will be moved directly into the new Citadel, with some items moved into asset safety as needed. Any of the items placed in the new Citadels can be manually placed into asset safety by their owners whenever they wish, just like all items in other Upwell structures.
+
+The new Citadels will come with a number of service modules for free, some of which will be automatically installed and online with a buffer of free fuel and some of which will be placed in the cargohold of the Citadel.
+
+The new Citadels will be owned by the corporation that owned the Outpost or Conquerable station before downtime. Citadels replacing stations that are in freeport mode when downtime hits will be given to the last owning corporation before the freeport period began.
+
+For the first week after the transition event these new faction Citadels will be invulnerable to allow their owners to set their preferred vulnerability schedule.
+
+We hope that this Outpost transition event will be exciting and anticipated by the alliances of New Eden, as they will be eligible to receive extremely valuable special edition Citadels as a reward for their collective efforts in taking and holding these stations.
+
+We will be listening closely to the EVE community’s feedback on all of these plans and we will keep you all up to date with more details as the big day approaches.
+
+Thanks!
+
+-Team Five O

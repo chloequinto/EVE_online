@@ -1,0 +1,25 @@
+
+REWARDS
+
+The final point I want to mention is that, for now at least, we have no rewards associated with completing Opportunities. One of our original goals was to separate tutorial content and rewards so that players don’t feel compelled to do something they aren’t interested in just for money. That said, we can also acknowledge that starting without tutorial rewards may be very harsh so we are still open to changes related to starting assets and income. This is something we hope to learn more about after release.
+
+THE CONTENT
+
+One of the biggest limitations we face for the first release is a rather small amount of content. We are adding more daily, but at first, we will be releasing with only some very essential opportunities covering concepts such as:
+
+Ship movement
+Basic combat
+Looting
+Basic mining
+Stations and some associated services
+Introducing the market
+Traveling within and between star systems
+Skill training
+We hope to be expanding rapidly on this list and eventually provide enough Opportunities that a new player could easily fill their entire trial period. For the time being though, we are still very focused on validating the general flow of the system and tuning our presentation.
+
+ASSOCIATED CHANGES
+
+During early user testing we established some peripheral changes that we felt were necessary to provide a good experience in the absence of missions.
+
+The biggest example is that we will once again be starting new players in space rather than in a station. The EVE universe is truly awe inspiring and we want people to see that as soon as possible. Players in the new NPE will therefore begin the game in a rookie ship, in the starter systems, in a new site which will have three rats and some veldspar.
+

@@ -1,0 +1,13 @@
+Open the Launcher
+Go to the options on the top right hand corner of the Launcher window
+Go to ‘Settings’
+You will see a window open, ensure you do not have ‘Run clients with DX9’ ticked.
+We would like to assure the Mac community that we are aware that the current client is DirectX 9 only. This is something we have been discussing internally and we are investigating solutions. The Mac client is something we will continue to support and we have been investing in this recently.
+
+Although we have no immediate plans to completely remove DirectX 9 support, it is an inevitable conclusion. We encourage you to check what DirectX version your computer supports and upgrade either the operating system or graphics processing unit to enable the full potential of your EVE gaming experience.
+
+Use the following link to find out how to check which DirectX version your computer supports:
+
+//windows.microsoft.com/en-us/windows/which-version-directx
+Fly Safe,
+CCP Vertex & All of EVE Development

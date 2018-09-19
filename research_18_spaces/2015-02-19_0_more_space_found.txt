@@ -1,0 +1,28 @@
+
+Once they leave, this site will quickly despawn and they will have to look elsewhere for their mining and shooting needs, which leads me to…
+
+NEW PLAYER LANDMARK SITES
+
+We have also introduced a new landmark site in each starter system. This site is available to all players and has some asteroids as well as a few NPCs which will respawn quickly. These NPCs (along with the ones in the starter site) drop some civilian modules and civilian module blueprints, allowing new players to easily check out ship fitting and industry.
+
+
+
+We hope to follow up with more changes to starter systems and starting characters to make sure new players have access to a wide range of experiences and tools from the very start.
+
+A/B TESTING AND ROLL OUT
+
+Team Pirate Unicorns has been very happy with the results of our previous soft releases (opt-in notifications, beta star map, etc.) which gave us great opportunity (!) to hone and study the impact of each new feature, and so this NPE release will be no different.
+
+Starting some time shortly after the official release of Tiamat, we will begin adding sets of new players to test groups where we can measure their experience without having to expose the entire player base at once. This will give us a chance to spot problems and gather feedback before going live to everyone.
+
+We know some of you will want to give this system a try and so we are planning to make it available to all players on our Singularity test server this Friday, the 20th of February. Feel free to log on, make a new character and give it a try. The main purpose of this test will be to catch bugs and make sure that there is plenty of information available to current EVE players in case they come across new players in help chat or local looking for assistance with the new system. Of course, any feedback you have would also be appreciated so let us know what you think in the comments thread for this blog.
+
+THE FUTURE OF THE NEW PLAYER EXPERIENCE
+
+We have a long ways to go. We already have a lot of new content planned and would be very happy to see the Opportunity system expand to become a medium-term goal setting tool that can answer the most common noobie question: “what do I do now”. At the moment though, we’re just excited to get this into the hands of new players and see what kind of impact it has.
+
+Rather than saying thanks for reading, or thanks for feedback on this feature, let me say thanks for the amazing job you all do of supporting our new players. You rock.
+
+See you in space o/
+
+@CCP_Rise

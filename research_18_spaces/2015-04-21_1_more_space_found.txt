@@ -1,0 +1,26 @@
+
+For now, there are certain technical limitations to when you can change your SKIN in space. You will not be able to change your SKIN under the following conditions:
+
+Ship is in Triage Mode
+Ship is in Siege mode
+Ship is in Bastion Mode
+Ship has activated a Cynosural Field
+Ship is Cloaked
+Ship has locked a target
+PURCHASING AND INTERACTING WITH SKINS
+THE NEW EDEN STORE (NES) 
+Purchasing SKINs will work in the same way as all other purchases from the NES. Simply access the NES from the character selection screen or in-game from the sidebar. SKINs will have their own category in the NES.
+
+Once a SKIN is purchased, the item will be placed in your account's redeeming queue and can be redeemed for any character in that account as normal. 
+
+THE FITTING SCREEN
+
+
+Above: A player has the Nefantar SKIN active for their Rifter, is previewing the Krusual SKIN, and has clicked on the purchase for Aurum button for the Krusual SKIN.
+
+The fitting screen allows you to purchase SKINs for the ship you are looking at directly from the left side menu. SKINs will always have a link to the appropriate market category for the SKIN, and they may also be purchased directly from the NES if the item is available. If there are any active time-limited SKINs the amount of time remaining will be shown beside the SKIN name.
+
+In this location you can also preview SKINs you may want to purchase, and select your active SKIN from the list of purchased options. By clicking on a SKIN it will change the ships visuals. If the SKIN clicked on is part of the My SKINs category, this also sets that SKIN as the active one. If you wish to return the ship to its default visuals you can do so by simply de-selecting the currently active SKIN.
+
+THE 3D PREVIEW SCREEN
+

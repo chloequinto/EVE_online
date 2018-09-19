@@ -1,0 +1,62 @@
+
+We are also reducing the total number of subsystem combinations through the aforementioned merging and shifting of subsystem roles. After the revamp, each T3 Cruiser will have four subsystem slots (Core, Defensive, Offensive, Propulsion) and each slot will have three options available.
+
+THE STRATEGIC CRUISER FOCUS GROUP
+To help us determine how to reach the appropriate goals for the Strategic Cruiser revamp, we decided to spin up a topic-specific community focus group. The focus group concept has proven valuable before as a way of gathering community feedback with more clarity and fewer distractions. We put out a call for volunteer applications in a forum thread, and selected a group of players with a diverse set of expertise and backgrounds that have demonstrated the ability to provide clear feedback.
+
+Like all the CCP Focus Groups, the logs of our discussions have been available for public viewing to ensure transparency. We highly encourage players who are interested in this topic to take a look at those logs to see how the discussion progressed.
+
+We at CCP want to thank all the players who participated in this focus group and contributed greatly to refining and improving the Strategic Cruiser designs:
+
+Asher Elias
+Capri Sun KraftFoods
+Eustise
+ExookiZ
+frsd
+Icarus Narcissus
+lanyaie
+Lemkor Gengod
+Mawderator
+Noxisia Arkana
+progodlegend
+Rowells
+StarFleetCommander
+Sturm Gewehr
+Titus Tallang
+White 0rchid
+as well as the members of both CSM 11 and CSM 12
+We will be keeping the focus group open for the foreseeable future so that they can pass along feedback and issues that they see cropping up after the release.
+
+ALL THE NUMBERS!
+We have posted the most up to date version of all the new Strategic Cruiser and subsystem stats and bonuses in a megathread over on our new forums. Rather than paste all 2500 words here, we will direct everyone to that thread for the specifics and stick to a general highlights list on this blog.
+
+All four Strategic Cruisers now have the ability to unfit rigs without destroying them
+All four Strategic Cruisers have gained a new dedicated 120m3 subsystem bay
+All four Strategic Cruisers have had their Scan Probe Launcher CPU reduction bonus moved from their old probing subsystem onto the hull itself, making it available no matter your configuration
+New overheating bonuses have been added through multiple subsystems to go alongside the pre-existing Strategic Cruiser heat bonuses. These include a reduction in nanite repair paste consumption and improved benefits for overheating repair modules, hardeners, propulsion modules and electronic warfare in various appropriate subsystems.
+The former command burst and remote repair roles have been combined into one subsystem in the offensive slot. This subsystem includes range bonuses for remote repair modules, focused on falloff in a similar fashion to the bonuses currently enjoyed by Logistics Frigates.
+The Legion missile and drone offensive subsystems have been combined into one extremely powerful brawling platform that enjoys full strength bonuses to both missiles and drones alongside an ample 200m3 dronebay.
+Bonuses from both of the old Tengu ECM subsystems have been combined into one subsystem in the core slot that provides bonuses to both ECM strength and range
+The Proteus Drone Synthesis subsystem has been upgraded to include bonuses to drone damage, hitpoints, velocity and tracking speed
+The Loki defensive subsystems now provide their full-strength bonuses to both shield and armor tanking, providing unprecedented flexibility
+The old Loki Hardpoint Efficiency subsystem has been replaced with a truly dedicated missile subsystem in the offensive slot, providing full support for missile-focused Minmatar pilots
+Several changes have been made to the industrial requirements for building Strategic Cruisers. All the details can be found here in the forum thread.
+T3 CRUISER HASN’T ALWAYS BEEN THIS GLAM
+One of the impacts of the techincal art changes that are accompanying this revamp is the introduction of the first ever ship skins for Strategic Cruisers. To celebrate this new capability we have nine Strategic Cruiser skins planned for release over the next few weeks: four to be sold in the New Eden Store and five rewarded from ingame activity.
+
+Starting on Tuesday, one new skin for each of the Strategic Cruisers will become available as part of the randomized “Exoplanet Hunter” skin rewards from Project Discovery: Exoplanets.
+
+
+
+
+
+
+
+
+
+Then in the coming weeks we will see the launch of the “Welcome to the Agency” event, which counts among its rewards a special Tengu Sukuuvesta skin.
+
+
+
+In the coming weeks we will also make another set of Strategic Cruiser skins available in the New Eden Store.
+

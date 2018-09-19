@@ -1,0 +1,38 @@
+
+MISSION OBJECTIVES GUIDANCE
+New information in the Agent Mission info panel will direct you to what you need to do next in your mission to complete it. An upcoming dev blog will go into details on this new feature.
+
+NEW CLOAKING EFFECT VERSIONS FOR COVERT AND PROTOTYPE CLOAKS
+Phoebe brings new variants of the new cloaking effect.
+
+
+
+DIFFERENT ICONS FOR ARMOR AND HULL REPS AND CYNOS AND COVERT CYNOS
+The icon for different modules were the same, causing mistakes. In Phoebe, there will be separate icons for armor and hull repair modules, as well as covert and regular Cynosural Field Generators.
+
+SCANNER WINDOW SEPARATION
+With Phoebe, there will be separate windows for Directional Scanner, Scan Probes and Moon scanning.
+
+BETTER WAYS INTO EXPEDITIONS
+More information and a number of solved issues will make Expeditions more viable to run for explorers. An upcoming dev blog will detail the changes.
+
+
+
+EVE XML API UPDATES
+Medical clone transfer timer, jump fatigue, jump clone and multiple character training information will be added to the EVE XML API. Follow the dedicated blog for 3rd party developers for all the details.  
+
+BRIGHTER NEBULAS
+Nebulas become brighter to create a better light environment in the game.
+
+NEW SOUNDS FOR STRUCTURES
+The sound environment in missions and anomalies improve with new sound effects added to common structures.
+
+TRIAL ACCOUNT UPGRADE IMPROVEMENTS
+Messaging around limitations on trial accounts and the path to subscription are being improved in Phoebe. A number of limitations for trial accounts are also being removed, such as the ability to fly battleships and participate in incursions and factional warfare. More information in an upcoming dev blog.
+
+That’s it for now, hope to have you all join us on the stream from EVE Vegas, and please bring us your feedback on the forums.
+
+/CCP Seagull
+Executive Producer, EVE Online
+
+@ccpseagull

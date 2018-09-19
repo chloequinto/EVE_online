@@ -1,0 +1,243 @@
+As mentioned during the Fanfest presentation and associated Dev Blog, structures are sorted in various shape and sizes. Citadels are no exception.
+
+Medium sized Citadel structures will be around 5-25km in diameter and are tailored for individual or small groups of players. They will be able to fit some appropriate defenses to offer resistance against most kind of assaults including capital ships. Moreover, players can dock inside them with sub-capital ships.
+
+Large sized Citadel structures will be around 25-50km in diameter and are made for corporations or even small alliances. They will offer more advanced functionality over medium-sized Citadels, mainly in the form of area of effect (AoE) defenses and facilities that are more tailored to support large fleets. While players will be able to dock with sub-capitals, capitals are still up to debate at this point.
+
+X-Large sized Citadel structures will be around 100km in diameter and are specialized for high-end alliance gameplay. On top of the mechanics listed above, they will have the best defensive options to face against particularly large groups and allow capital ships to be docked (even maybe supercapitals--to be discussed).
+Most if not all of those structures will have a replacement for the current Starbase forcefield with the use of the invulnerability link (final name to be discussed), which will ensure safety for friendly ships within a specific radius. This will not cause your ship to stay in space when logging off.
+
+Sizes also determine their release order.
+
+We will start by focusing on Medium and Large Citadels, since we believe they offer gameplay that extends to most player groups. They also are a lot simpler than X-Large Citadels to design and implement.
+
+When Medium and Large Citadels are out and we have gained some experience through them, we will then deploy the X-Large variation which offer much more challenge in their conception due to their humongous sizes and intended use cases.
+CAPTURE THE FLAG
+
+
+As mentioned during the last blog, we also have given some more thought on how players will be able to take structures out.
+
+Small structures, which are going to assimilate existing deployables, cargo containers and mobile warp disruptors will still be able to be directly shot by players. Some exceptions may be kept around for the time being, like the Mobile Depot having a reinforcement timer on their own.
+
+Medium, Large and X-Large structures will use a version of the Sovereignty capture mechanic, which means they will only be attacked through the use of the Entosis module. Please refer to this blog for more information on how that works and this blog for an update to those plans for this summer’s Carnyx and Aegis releases and beyond.
+
+Some details will vary however, as our needs aren’t exactly identical:
+
+Unlike existing Outposts, nothing is to prevent us from having the new structures destroyed after a successful Entosis capture.
+
+Those structures will use the same principles of vulnerability and reinforced states from the Sovereignty overhaul. The structure can only be attacked by Entosis modules when it is vulnerable, and is invulnerable when reinforced. The difference between normal and reinforced modes remains that penalties may be applied to the structure in the latter case (like jobs stopping for instance). The number of vulnerable and reinforced states depends on the size, role and importance of the structure being attacked.
+Example: Capturing a Large Citadel structure could require attackers to go through 3 vulnerability phases before it is destroyed, while a Medium Observatory Array may only require 2.
+
+While the capture of X-Large structures will require the use of Command Nodes just like Outposts, the various timers and mechanics fine tuning will vary depending on the structure balancing.
+
+Scooping a structure will require it to be offlined first. Offlining a structure will immediately put it into a vulnerability window (to avoid players bypassing the timer altogether). If a structure already was in a vulnerability mode while being offline, the duration will be refreshed to its full value.
+Example: A structure vulnerability window lasts for 2 hours. Offllining the structure will immediately put it into a 2 hours vulnerability window. If the structure only had 1 hour of vulnerability window left when being offlined, the window will go back to 2 full hours.
+
+Structures will drop fitted modules through the same loot mechanic than ships, but corporate and personal stored items inside them will not be affected – this will be handled through asset safety mechanic which we quickly explained in the previous Dev Blog and shall be more extensively tackled in a later blog.
+
+Destroyed structures will leave wrecks which can be salvaged just like ships. What they contain will most likely be some of their built materials although this is still highly speculative at this point in the design process.
+
+Structures having a solar system wide-effect or otherwise impacting some kind of area will be publicly visible in space and in the overview like standard celestials. The same principle applies to structures that the pilot is allowed to interact with.
+Example: an alliance member having sufficient roles to interact with an Assembly Array will see it displayed in space / overview. A neutral pilot will not see it there however.
+
+All structures will show on D-scan, can be probed, and will be scannable to see their fittings and contents. We are also thinking of having them visible and directly warpable from the on-board scanner to preserve Wormhole space gameplay.
+Below is a visual representation on how such capture process would look:
+
+
+
+FIRE ZE MISSILES
+
+
+We have established Citadels need to be able to take care of themselves in a fight.
+
+As such they should:
+
+Repel trolling attempts from a single player trying to capture them with an Entosis module
+
+Act as force multipliers to deal with attacking fleets and promote asymmetric warfare (less defenders are required than attackers)
+
+Have engagement inertia, meaning they require time to acquire and switch targets
+
+Require support from defending fleets to successfully fend off attacks
+While structure weapon systems will deal considerable amount of damage to compensate for their static nature, most of them will require Electronic Warfare assistance from defending ships to be fully operational (like Stasis Webifiers or Target Painters).
+
+While Citadel structures are specialized in repelling attacks (through specific bonuses and attributes), keep in mind most structures will be able to fit defensive options--if they have enough slots and fittings of course.
+
+With that in mind, let’s have a look at what we are planning so far for defensive modules. Also remember this remains work in progress and is susceptible to change.
+
+Single Target Weapons
+
+
+They are either going to be turrets or missiles (or maybe even a combination of both) which can be fitted in M, L and X-L structures, but only exist in 2 variations based on their role. Unlike ship weapons, they will not exist in multiple sizes themselves – we’ve investigated that option but felt it was not worth the small variety it brought next to the extensive design, technical and skill training costs.
+
+One long range weapon, primarily meant to take down large and slow ships, like battleships or capitals. Can be fitted with ammunition that reduces range but increases damage proportionally.
+
+One short-medium range weapon, best at taking down smaller threats, but doing considerably less damage. Can be fitted with ammunition that reduces range but increases application proportionally.
+They are going to require a new line of skills to operate, but most likely use existing gunnery and / or missile support skills. More details as we get them.
+
+Launcher With Area of Effect Missiles
+
+
+This particular weapon type is going to revive the torpedoes of old since they release an AoE blast on impact. They are meant to be particularly effective against fleets that cluster together.
+
+They can be fitted in L and X-L structures only and be loaded with blast charges aimed to either take down slow and large ships or small and fast ones.
+
+An extra option is to use energy draining missiles which make them work like targeted bombs.
+Please note this launcher won’t be available for high-security space structures since they make no distinction between friends or foes.
+
+Energy Neutralizers
+Energy Neutralizers are part of the utility high-slot suite of defensive modules and drain capacitor from the targeted ships. Their effect works exactly in the same manner as their ship module counterparts. They remain available for L and X-L structures.
+
+Two variations exist:
+
+The first with a  short cycle and small drain amount, again aimed for sub-capital targets.
+
+Another with a very long cycle and large drain amount intended to be used against capital ships.
+Drone and Fighters
+
+
+We are planning for structure to have drones as of one of their available weapon systems. Number and various bonuses given are going to vary depending on the structure type and size – larger ones could be focused towards fighter and fighter-bombers instead of regular drone for instance, but this is pretty much open at this point.
+
+Electronic Warfare
+Structures will be able to fit their specific variations of Electronic Warfare modules we all know and love. They include, but are not limited to: ECM, remote sensor dampening, stasis webifiers, tracking disruptors, target painters and warp disruption. We are considering the introduction of area of effect variations of those modules later on.
+
+Single target modules will be available for all sizes and locations, while AoE effects will most likely be restricted by size and security status.
+
+Point Defense Batteries
+
+
+This particular module will be similar to a smartbomb – by doing a certain amount of area of effect damage to anything close to the structure. As they are intended to clear drones or small deployable clutter near the structure undock points, they will have a constant damage but low reach.
+
+This will only be available for large and X-Large structures and cannot be used in high-security space.
+
+Structure Doomsday Weapon
+The Doomsday weapon will only be available on the X-Large structure, and have a similar purpose to the ones installed on Titans. However, it will have extra capabilities next to its ship counterpart to compensate for the single, static nature of the structure on the field.
+
+For instance, we are considering a weapon that bounces off multiple times after hitting its main target, a bit like another weapon we’ve shown in the past.
+
+Available on sizes
+
+Available in High-sec
+
+Variations
+
+Single target weapons
+
+M, L, X-L
+
+Yes
+
+2
+
+AoE launcher
+
+L, X-L
+
+No
+
+3
+
+Energy Neutralizers
+
+M, L, X-L
+
+Yes
+
+2
+
+Drone and fighters
+
+M, L, X-L
+
+Yes
+
+Existing drones
+
+Electronic Warfare
+
+M, L, X-L
+
+Yes
+
+6
+
+Point defense batteries
+
+L, X-L
+
+No
+
+1
+
+Doomsday
+
+X-L
+
+No
+
+1
+
+Available on sizes
+
+Available in High-sec
+
+Variations
+
+Single target weapons
+
+M, L, X-L
+
+Yes
+
+2
+
+AoE launcher
+
+L, X-L
+
+No
+
+3
+
+Energy Neutralizers
+
+M, L, X-L
+
+Yes
+
+2
+
+Drone and fighters
+
+M, L, X-L
+
+Yes
+
+Existing drones
+
+Electronic Warfare
+
+M, L, X-L
+
+Yes
+
+6
+
+Point defense batteries
+
+L, X-L
+
+No
+
+1
+
+Doomsday
+
+X-L
+
+No
+
+1
+
+THE END
+And that’s it for now, we hope this answers a few of the questions you may have had, and most likely add a lot more into the fray. Please remember we still are at the beginning of the development process and many more Dev Blogs are due to come at a later date.

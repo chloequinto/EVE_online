@@ -1,0 +1,124 @@
+After:
+
+
+
+So, onward to the submission process and how to have your alliance logo represented in game!
+
+Please be aware that the submission process has completely changed, as have the requirements.
+
+As such, you will need to refresh your memory with regards to how to submit your alliance logo in order to have it displayed in game.
+
+Please read this blog fully to ensure that you comply with the requirements for an alliance logo to be added to the game for your organization. This will also ensure that you submit your alliance in the correct manner and in the correct format.
+
+This submission process is also reflected in a new thread on the Corporation, Alliance & Organization Discussions forum that details the submission process in an easy to find place.
+
+Submission Style Guidelines
+
+Below are a list of aesthetic guidelines that will assist you in making sure that your logo has a high chance of approval.
+
+Design & Theme:
+
+Alliance logos should be designed so that they look and feel like they belong within the futuristic, dark and dystopian EVE universe.
+Logos with themes like warfare, corporations, science and space have a higher chance of approval.
+Reference to historical themes or imagery should be subtle. A well designed and modified version of a historical object that is designed to fit in the EVE Universe will in most case have a higher chance of approval than the definite interpretation of it.
+Many concept and ideas from earth have evolved or been forgotten in the EVE Universe. Remember this when designing your logo.
+Common everyday motives/objects like mobile phones, modern guns, modern vehicles that fit poorly within the genre should be avoided.
+Art Style:
+
+Cartoon images have a lower chance of approval, but if they are well produced and follow all the other requirements, then they will more likely be approved.
+Simple flat and abstract designs fit best in the EVE setting and have a higher chance of approval. They are also more recognizable, easier to read from the distance and work better when scaled down.
+Try to use classic, modern or futuristic fonts. Fonts like Papyrus, Lucida Handwriting and Brush Script don't fit in the EVE universe.
+Use of Comic Sans will result in liberal application of spaceship violence.
+Avoid using Photoshop filters like Lens Flare, Emboss, Blur and other such filters.
+Textures should be avoided in your logo submissions.
+Colors:
+
+Colors should be chosen within the color range used in the EVE universe. That means colors should generally not be too saturated or bright or they will look like they belong in a different color space than the ship and its surroundings.
+Try to keep color harmony in mind. Try to use analogous colors and not too many complimentary colors together.
+Punch colors/complimentary colors: sometimes a single color can be a little brighter or more saturated to make the image “pop“  or look more interesting.
+Final pass:
+
+In some cases a very minor tweak to the design like adjusting the brightness or color is needed for logo approval. In those cases CCP will make those adjustments and approve the logo.
+Submission Style Requirements
+
+Copyrighted material may not be submitted for use as an alliance logo.
+Real world national symbolism such as flags or crests may not be submitted for use as an alliance logo.
+Political symbolism may not be submitted for use as an alliance logo.
+Religious symbolism may not be submitted for use as an alliance logo.
+Imagery related to narcotics, drugs, slavery and other illegal activity may not be submitted for use as an alliance logo, unless these are clearly based on in game references to existing backstory, factions or organizations.
+Submission Technical Requirements
+
+Logos must be submitted in 512x512 resolution.
+Formats accepted are 4 channel .PNG or .TGA with three color channels and one alpha (transparency) channel.
+DO NOT use premultiplied alpha.
+Alliance Requirements
+
+Alliances must be formed and active for 6 months before they are eligible to have an alliance logo approved.
+Alliance logos must be submitted by the Executor of the Alliance. No other character may submit an alliance logo on behalf of an alliance.
+Submission Process
+
+The alliance logo submission process has been simplified to allow for faster turnaround for alliance logo approvals.
+
+Only the Executor of an alliance may submit a logo for approval. No other character may do so.
+Before submitting a logo, the Alliance executor should ensure that their email address is updated in account management.
+This email address should be the address from which the logo submission is sent to CCP to verify the identity of the Alliance Executor.
+Once the logo is prepared and the alliance requirements have been met, the logo can be submitted for approval by emailing it as an attachment to alliancelogos@ccpgames.com
+In this email, from the address associated with their EVE Online account, the Alliance Executor will include the following for confirmation:
+
+Alliance age.
+Approximate member count of the alliance.
+Name of the CEO of the executor corporation.
+Name of the executor corporation.
+Name of the alliance for which the logo has been submitted.
+
+The logo should be sent as an attachment to this email with formatting as detailed in “Submission Technical Requirements”
+The logo will be reviewed, and if approved it will be watermarked to create a derivative work, and will be added to the game at the next available release after approval.
+If the logo is rejected, a response will be given detailing the reasoning for rejection.
+Notes:
+
+alliancelogos@ccpgames.com is for alliance logo submissions ONLY.
+Please do not email alliancelogos@ccpgames.com with questions regarding the status of your alliance logo.
+Please do not email alliancelogos@ccpgames.com with general questions relating to alliance logos and submissions.
+If you have any questions regarding alliance logos and the submission process, please post in this thread and they will be answered as soon as possible.
+
+Questions?
+
+What if I already have an alliance logo submission pending?
+
+Since the technical requirements for alliance logo submissions have changed with this announcement, all previous and pending alliance logo submissions are now void.
+
+If you would like to have your alliance logo displayed in game, you will need to resubmit it with the new technical requirements in mind.
+
+When can I expect to see my alliance logo in game?
+
+We aim to add the first batch of alliance logos that are approved to the game in the June release, on June 2nd to be precise.
+
+After that, given the new release cadence, the wait for your alliance logo to be displayed in game could be as short as 3-5 weeks depending on the release schedule, when you submit the logo, and how busy the submission queue is.
+
+What about existing alliance logos in game? Will they be removed?
+
+All existing alliance logos that are currently in game will be removed from the game, as they do not comply with the new submission requirements. However, we’d like to give a grace period before this, so that alliance are not left without an in-game identity.
+
+We intend to remove all existing alliance logos from the game with the June 2nd release. This means that if you submit your new alliance logo before then, the transition will be seamless and your logo will simply be updated, rather than reverting to the default placeholder logo.
+
+Why has the alliance size requirement changed for logo eligibility?
+
+We have increased the minimum size and age of an alliance that is required to be eligible for an alliance logo in order to ensure that alliances who submit logos for approval are reasonably well established and stable before their logos are added to the game.
+
+What about alliances that have logos in game now that don’t meet the new requirements?
+
+It would obviously be unfair for us to deny an alliance that already has a logo in game the ability to carry over a new design with the new submission process. As such alliance whose member count or age are below the requirement, but whom already have a logo represented in game will be permitted to submit a new logo to have their original updated.
+
+Will all alliances who have a logo in game right now be automatically approved with a new logo if it is the same as the old one?
+
+No. Any alliance logos submitted after this announcement will need to comply with the new requirements laid out above. If existing logos contain material that is copyrighted by other real world organizations, or content that does not fit within the content guidelines previously explained in this blog, then logos will not be re-approved.
+
+What if I have other questions regarding alliance logo submissions?
+
+Please ask in this thread, and your questions will be answered.
+
+We look forward to seeing some awesome alliance logo designs from you guys in the coming weeks!
+
+@CCP_Falcon
+
+EVE Universe Community Manager

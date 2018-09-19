@@ -1,0 +1,11 @@
+
+Skill changes:
+We are changing the Starbase Defense Management skill to only require Anchoring at 4 instead of 5, in order to ease entry of access into Starbase manual control.
+
+The Supply Chain Management and Scientific Networking skills are also receiving some small changes. Currently you need level 1 to be able to either start Manufacturing or Science jobs in the solar system the blueprint is in, which each subsequent level increasing starting distance to 5 jumps, with level 5 giving you full regional control. We are modifiying those so that starting local jobs in the same solar system the blueprint is in doesn't require any skill, while each level of Supply Chain Management and Scientific Networking increase job starting distance by 5 jumps, up to a total distance of 25 jumps. This reduces dependency on region boundaries which may actually be closer than 25 jumps in some cases.
+
+Removal of Starbase Assembly Line settings:
+As mentioned in this thread, since blueprints cannot be remotely using Starbase structures, the whole appeal of this functionality is greatly reduced. As such, we are removing it to reduce confusion as a whole – this will be added back when we get to fully revamp Starbases in the future.
+
+The end
+We hope this will shed some light on the various changes coming to Starbases in the Crius release on July 22nd and help you make the right industrial decisions before its goes live.

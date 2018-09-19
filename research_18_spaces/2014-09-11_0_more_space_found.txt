@@ -1,0 +1,42 @@
+Outcome details:
+
+Success (exceptional): yields a ME 2 and TE 3 bonus to the outcome.
+Success (great): yields a ME 1 and TE 2 bonus to the outcome.
+Success (good): yields a TE 1 bonus to the outcome.
+Success (standard): basic unmodified outcome.
+Failure (standard): 50% of datacores returned
+Failure (poor): 25% of datacores returned
+Failure (terrible): 10% of datacores returned
+Failure (critical): no datacore returned
+This would give more granularity to the outcome, provides returns on investment when failing or establish a better sense of accomplishment when maximizing success chance. While this would mean less ISK sink into Invention, this is quite needed to counteract the success changes mentioned above.
+
+TWEAK TO BASE SUCCESS CHANCES
+We would like to tweak base success chance on various item types so they are a bit more consistent with ship sizes. Base invention chances currently are:
+
+Modules and Ammo have a base probability of 40%
+Frigates, Destroyers, Freighters and Skiff have a base probability of 30%
+Cruisers, Industrials and Mackinaw have a base probability of 25%
+Battlecruisers, Battleships and Hulk have a base probability of 20%
+We would like to tweak those numbers to:
+
+All modules, rigs and ammo have 40%
+All Frigates and Destroyers have 35%
+Cruisers, Battlecruisers, Mining Barges, Industrials, ORE industrial have 30%
+All Battleships, Industrial Command Ship have 25%
+Capitals and Capital Industrial Ships have 20%
+So basically it results into a 5% base chance increase for all ships, except Freighters that drop down from 30% to 20% and Exhumers, which get a 0 to 10% boost depending on the exact hull.
+
+Tech III subsystem selection
+While players can select the race (Amarr, Caldari, Gallente, Minmatar) and type (Offensive, Propulsion, Defensive, Engineering or Electronic) of a given subsystem they are going to invent, there is a random element in the exact type returned, which exists in four variations.
+
+We are going to remove that chance element out of the system by allowing players to directly select the subsystem output they desire instead of running multiple attempts. We are aware that Tech III subsystems are not all equally valuable right now, which is why we may iterate on their material composition to counteract these changes if needed.
+
+Multiple invention runs
+Last but not least, we recently changed Invention to only consume one run of a Tech I blueprint copy instead of eating the whole stack. The next logical course of action is to allow players to start invention with multiple runs (that each consume one run of the input blueprint copy) so they don’t have to launch them manually every hour, which is what we’re going to do with this set of changes.
+
+As a direct consequence of what’s explained just above and after gathering some data of what’s happening post-Crius, we may tweak invention times further on some blueprints to make sure Invention is in a proper state before we move on. We will post more details on this particular point as we get them.
+
+Some final words
+Please remember all of this is subject to change until deployed and that Market speculation is done at your own risk.
+
+Stay tuned for more and expect threads to appear on the “Features & Ideas Discussion” to discuss specific points mentioned in this blog with time.

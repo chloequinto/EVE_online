@@ -1,0 +1,13 @@
+
+You mark skills for extraction until there are 500,000 skillpoints worth marked. Once you’re happy with the skills you have chosen, you hit Accept. Now you will have a Skill Injector in your item hangar and the Skill Extractor you used will be gone, along with the 500,000 skillpoints.
+
+It’s very important to note here that this means all the skillpoints available to buy on the market in EVE will have originated on other characters where they were trained at the normal rate.  Player driven economies are key to EVE design and we want you to decide the value of traded skillpoints while we make sure there is one single mechanism that brings new skillpoints in to the system – training.
+
+The design hasn’t changed in any big ways since our last blog but you may have noticed that the diminishing returns scale has shifted somewhat since last time. Rather than seeing major concerns about this being used by high skillpoint characters we saw a lot of high skillpoint players who wanted better access to using it themselves and so we’ve relaxed the scale a little to allow more flexibility at the high end. Specifically, we changed the 3rd bracket which used to give 200,000 to now give 300,000, and the final bracket which used to give 50,000 to 150,000.
+
+I’m sure you want to know about pricing for Extractors but we are going to announce that a little closer to release time.
+
+That’s the big important stuff. As I said earlier, our target is February so you can expect to give this a try in the very near future. We very much appreciate all the debate and feedback based on the last blog and look forward to a second round following this blog. We are very excited to get this in your hands and hope it will have a great impact on EVE.
+
+For now, fly safe,
+CCP Rise for Team Size Matters

@@ -1,0 +1,10 @@
+
+In order to allow you to save fits with charges, fuel and fighters, you can add them in the same way as drones, except by dragging them onto the cargo and fighter icons in the fitting window.
+
+During the development of the fitting simulation, a number of other changes and improvement were made to the fitting window, and they can be found in the Ascension patch notes.
+
+For years now, more experienced players have enjoyed awesome 3rd party tools such as PYFA, EFT, Osmium and EVEHQ to help them with their fits. Those fitting tools not only have great and advanced features, but can also been used while at work or when without access to EVE Online. We hope our fitting simulation mode will be nice addition to the options players have when it comes to planning and tinkering with fits, and will help introduce players to how much fun it can be!
+
+Happy fitting!
+
+@CCP_karkur on behalf of Team Five 0

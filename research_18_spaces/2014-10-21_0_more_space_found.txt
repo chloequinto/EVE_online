@@ -1,0 +1,33 @@
+
+_(Click image for a larger version)_
+You will also be able to sell items from any station in the region you're located in as long as you have the appropriate skills (nothing has changed here). However, you won't be able to sell items from multiple stations at once.
+
+We no longer have separate “simple” and “detailed” sell windows. Instead, if you have the duration set to immediate, all items will be sold immediately to a matching buy order without incurring a broker’s fee. If there are no buy orders available for one or more items that you're selling, their backgrounds will be orange to indicate that the sale of that item will fail. Clicking sell while you have some items with no matching order will still work for any items with valid orders, and will return the ineligible items to your hanger.
+
+
+
+_(Click image for a larger version)_
+The settings are saved so you don't have to keep setting the duration and it will remember if you want to use the corp wallet (if you have access to it) for your convenience. The default quantity is the number of items in the stack you're selling. The default price is the regional average unless your duration is set to immediate, in which case the best matchable bid price is used.
+
+To see detailed information on an item you can hover over the delta icon on the far right. This icon indicates whether your price is above or below the regional average. If you click the icon you'll see market details on that item.
+
+[![](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2_550.jpg)](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2.png)
+_(Click image for a larger version)_
+The multisell window is still work in progress so please go try it out on Singularity and give us some constructive feedback.
+
+<3 Until next time <3
+@CCP_Punkturis
+
+
+
+_(Click image for a larger version)_
+The settings are saved so you don't have to keep setting the duration and it will remember if you want to use the corp wallet (if you have access to it) for your convenience. The default quantity is the number of items in the stack you're selling. The default price is the regional average unless your duration is set to immediate, in which case the best matchable bid price is used.
+
+To see detailed information on an item you can hover over the delta icon on the far right. This icon indicates whether your price is above or below the regional average. If you click the icon you'll see market details on that item.
+
+[![](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2_550.jpg)](//content.eveonline.com/www/newssystem/media/66605/1/multisell_tooltip_2.png)
+_(Click image for a larger version)_
+The multisell window is still work in progress so please go try it out on Singularity and give us some constructive feedback.
+
+<3 Until next time <3
+@CCP_Punkturis

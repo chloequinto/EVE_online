@@ -1,0 +1,32 @@
+Additionally, you will be accompanied by your friendly onboard AI, a new and expanded Aura, that will also be voice acted and will walk you through how to achieve your tasks and learn the game. Aura will have a powerful triple guidance system of voice, text and highlighting that we hope will improve initial guidance in the game. Not to mention that Aura is a delight to hang out with.  Here is a glimpse of Aura in action:
+
+
+
+UI HIGHLIGHTING
+We have improved the UI highlighting tool to help it fit more with the visual style of EVE and also add extra functionality.  Aura will now be able to use the UI Highlighting for the majority of the tasks she gives. This should really help new players understand where things are located on the UI and how to find items both in space and in the overview.  
+
+OPERATIONS AND TASKS
+With Inception, we are shifting from the current Opportunities NPE to Operations and Tasks. We are using these Operations and Tasks to create a storyline driven experience for players where the mentors will give context and backstory about the operations and Aura will deliver the tasks to complete. This is just the first chapter of a much larger system coming out in a later release.
+
+NEW SITES
+We have created 5 new sites for the Inception NPE:
+
+Research Facility
+Smuggler's Den
+SOE Reconnaissance Outpost
+Assembly Point
+Hidden Drifter Zenith
+These sites will be used to help create the unfolding storyline for the new player and to help them master piloting a starship.  As Inception is all about working with your Empire, the Research Facility, Assembly Point and Hidden Drifter Zenith are different for each of the 4 major factions.  We have created new environments for the sites and the Hidden Drifter Zenith also features NPC AI with a large battle happening between Empire and Drifter fleets.
+
+
+
+
+
+REWARDS AND MINI SKILL INJECTOR
+We have also created a new rewards structure for new players. One of our goals was to use rewards to teach players more about the game mechanics and also to set them up for success by teaching them ways to earn their own ISK or build their own items rather than just gifting everything as direct rewards.  For example, ISK rewards come from NPC bounties rather than just being gifted at the end of the mission and one of the tasks also requires new players to build their own data analyzer.  
+
+We have also created a new 'Mini Skill Injector' to gift to new players during the first few hours of their Inception experience.  This Skill Injector cannot be bought or sold on the market, can only be used on characters with less than 750,000 skill points, and it will give new players 80,000 unallocated skill points. It is also used as a training opportunity to bring characters from Frigates 3 to Frigates 4. 
+
+We highly encourage all existing players to try out the Inception NPE on the Singularity test server next week, where we will make sure all new characters get a crack at it.  You will need to create a new character to play through the storyline. Please hop on and let us know what you think!
+
+-Team Genesis

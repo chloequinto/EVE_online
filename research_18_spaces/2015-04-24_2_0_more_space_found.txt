@@ -1,0 +1,29 @@
+
+On April 28th we will not only be giving Opportunities to 100% of new players entering the game, we will also be giving the system to all of you, our proud veterans. For some of you this will be very good news as it means you will be able to check out the system that all our new players will be using, making it easier for you to guide them through their experience. For some veterans however, Opportunities won’t be necessary as most of the concepts covered so far are fairly elementary. Minimizing the Opportunities info panel should be easy enough and if you like you can disable all notifications for Opportunities as well using Notification settings.
+
+
+
+Keep in mind that Opportunities from the last two releases will have been tracked on your characters and will be marked as done immediately if you’ve met the requirements during the last couple months. Newly added Opportunities other hand will need to be freshly completed.
+
+We are very happy with the changes we’ve been able to make to the new player experience so far but we are absolutely not done. We have so many options for how to move forward that I’m not even sure what will come next but I can tell you some possibilities.
+
+One area we are actively exploring is improving the visual experience of the Opportunity map view to make it more visually exciting and also make it easier to navigate all the Opportunities available, especially as the number continues to grow. Here’s a mockup showing one possible direction:
+
+
+
+We are also discussing more interesting presentation for the content in each opportunity. Here’s another mockup!
+
+
+
+Remember, these are just early ideas and don’t necessarily represent final product.
+
+Visuals aren’t all though! Now that we’ve validated the base design for the system we are extremely interested in leveraging our A/B testing framework to try changes to certain system elements. For instance, we’ve stated from the beginning that we wanted to avoid tying rewards to Opportunities, mostly out of fear that it would encourage people to finish them all even if they weren’t actually interested in the activities required. Why not test and find out if players prefer rewards despite our assumptions?
+
+There is also obvious potential to move Opportunities from being a new player experience feature to being a feature that even vets would appreciate. Kill a Titan Opportunity? Own a trillion ISK? Deliver 10,000 torpedoes? We’ve kept this possibility in the back of our minds while staying focused primarily on improving the NPE. Soon we may have the chance to explore difficult and long term Opportunities in more depth.
+
+Whichever direction we move from here, we hope there is a bright future for Opportunities and we deeply appreciate your help and feedback.
+
+On behalf of Team Pirate Unicorns,
+Fly safe o/
+
+PS – If you are interested in more details on the development and testing of Opportunities, I would recommend checking out our Fanfest 2015 talk on the NPE.

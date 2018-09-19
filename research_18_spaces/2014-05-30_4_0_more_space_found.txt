@@ -1,0 +1,60 @@
+The advanced audio settings can be switched on and off by clicking the checkbox at the very top, offering even more customized control of sounds.
+
+Most of the sliders names are self-explanatory, but I will go over them here with you:
+Turrets: The sound of your and other players’ turrets firing.
+Impacts: The sound of the damage done when you or others are hit by enemy fire.
+Stargates: The sound of the stargates in between systems.
+Wormholes: The ambient sound around wormholes, also the sound of its state and stability.
+Jump Activation: The actual jump sounds, be it yours or others – so if you are scouting a wormhole or a gate, you would most likely want this on.
+Crimewatch: The timer in the upper left corner when you have been naughty or have been attacked, the sounds of its activation and its state when it’s about to run out.
+Explosions: this should explain itself rather well
+Engine: The sound of the boosters on the ship, the thrusters themselves and if you have attached a Micro Warp Drive or an Afterburner.
+Station Interior and exterior: Interior is everything when in a station, exterior is everything outside coming from the actual station.
+Modules: things like adaptive invulnerability field, EM Ward, repairers, cloaking and so on.
+Ship Ambiance: Every ship has a small sound, depending on faction and ship type.
+Warping effect: when you warp, the warp wind and the warp thud sound when you enter warp.
+Map and ISIS: The soundscapes that play while you use these two features.
+Locking: If you can’t be bothered with the sound playing when you are locking and locking is achieved on a target.
+EVE Store: The EVE store, where you shop and do your business.
+Planets: The ambient sounds coming from planets and suns, including when doing Planetary Interaction.
+UI Click: The click when you hover or click items in the UI.
+Radial Menu: The sounds of opening the menu dial by holding the left mouse button.
+UI Interaction: Fitting your ship, submitting stuff in PI, entering any kind of menu item.
+Aura: you can control her voice in two places now.
+Hacking: Data and Relic site sounds.
+Low Shield, Armor and Hull Warnings: if you are armor tanking and don’t want to hear the shield warning sound at all or vice versa.
+Ship damage: all the warning sounds from your ship, so if you want to not hear shield sounds at all you do it in the shield warning slider, but if you want them all to be slightly dampened, this is the slider for you.
+Cap Warning: low capacitor warnings.
+Remember that the shield, armor, hull and cap thresholds for when you want to be warned can also be adjusted in the center UI menu, to the left of all your modules.
+Atmosphere: the atmospheric sounds of CONCORD, asteroid belt wind and similar.
+Inactive client sounds
+
+
+
+Here we have the option to choose which sounds are audible when not using the actual client.
+A typical setup would be to either have the master or music always checked, especially if you are using several clients, this would allow for the music to be playing all the time, but gently fade between the clients depending on your location in space.
+
+Some of these are the same as the sliders; shield, armor and hull warnings affect the same areas as the sliders, but only if you leave the client. So checking the Shield Warning will make it so that you won’t hear any kind of warning sound from your shields on the clients you are not using.
+
+All of these have to be set individually for each client, they do follow your account, but you may want different settings for each client, so make sure they are set correctly.
+
+Stargates, wormholes and jumping: are all the ambient sounds and the actual jumping effect.
+So if you are auto piloting, you may not want to hear all the jumps, but if you are scouting a gate or a hole, you may want the sound specifically on, but not everything else.
+
+Aura: autopilot jumping, to be turned off from the client you are not using at the moment.
+
+The Audio Conclusion
+
+These settings are here to help you get a better audio experience when playing EVE and exert more control over the sounds of the game when multiboxing.
+
+The system will be under constant development and if something is unclear, a slider doesn’t do what you would expect it to do or an inactive client checkbox does not respond in a way you would expect it to, let us know and we will continue to work on it.
+
+This is the first step of many towards a better sounding EVE Online experience.
+
+We at Team Klang hope that you enjoy this new feature and use it to its full potential. Join the discussion on the forums and help us by telling us what you would like in the game. We cannot guarantee that your specific needs are fulfilled, but this system is the product of many hours of discussions with players and others and the combination of many ideas and prototypes spawned only because players, as yourself, said you wanted something different.
+
+All the best from Team Klang
+
+Cheers,
+
+@CCP_WhiteNoiseTrash

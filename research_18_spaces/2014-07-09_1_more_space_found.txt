@@ -1,0 +1,7 @@
+Compact bracket list
+
+
+Bounded bracket list
+
+Originally, we planned to have the compact list display for bracket icons actually ‘in view’ in their correct position in the space scene, and retain the fuller bounded view for brackets that have been gathered at the edges of the scene because they represent out-of-view objects. After some feedback about this decision, we have decided to give the option of displaying either the compact list or the bounded list. This option can be set independently for both brackets gathered at the edges of the space scene and those in their correct positions in space.
+

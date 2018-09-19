@@ -1,0 +1,12 @@
+AURUM TOKENS
+One more tiny detail for Aurum which has not been mentioned so far: we will be removing Aurum tokens from the game. Many of you might not even know they exist, as you haven’t been able to create them for years, but, there’s still a few around so if you have some get them converted back to Aurum currency before we make the switch to PLEX.
+
+BROKERS FEES FOR PLEX ORDERS
+Last week we mentioned that active market orders for old PLEX would have their brokers fees refunded during the conversion. The CSM was kind of enough to remind us that in Citadels, brokers fees are paid to the Citadel owner, meaning that if we refund fees in Citadels we create a nice ISK printing machine for wealthy players. While following up on this, our team discovered that we don’t actually have the ability to refund fees at all. In EVE, fees are paid as a transaction when an order is placed and not tied to the order itself. This is one of our team’s first “type” conversions and we were simply confused. Sorry for that. Hopefully, with adequate warning, orders can be set up with release date in mind to minimize wasted fees.
+
+FEATURE TIMELINE
+Speaking of the release date, there was a lot of interest in hearing when we expect to go live. While we still can’t give a specific day, we know it’s important for you to have a ballpark so you can get your ducks in a row. Our current target is for shortly after Fanfest, in late Spring or early Summer. Delays are always possible but for those of you worried it would be Q4 or later, rest assured.
+
+Thanks very much for all the input, we hope these updates find you well.
+
+Team Size Matters

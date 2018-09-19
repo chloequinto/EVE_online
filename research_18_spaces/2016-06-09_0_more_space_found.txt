@@ -1,0 +1,43 @@
+
+WHAT’S THE TWIST?
+The Shadow of the Serpent earns its name from the hidden Serpentis arms race we will see happening over the next few weeks.  Naturally, many organizations within New Eden are pretty unhappy with the Serpentis creating new, advanced tech with an intention to distribute and will do anything to put a stop to this and they want your help!
+
+With so much happening in New Eden lately, the major corporations and factions are overwhelmed with work and will reach out to the newly independent Scope Network for help.  The Scope Network will use this opportunity to start up a new business venture, as a broker service between the major organizations of New Eden and the real powerhouse; the capsuleers!  To help the Scope Network succeed in this venture, we have been working on a prototype framework for a new way to display events happening in-game.
+
+The available activities displayed on this prototype are not Shadow of the Serpent challenges and are just for testing purposes, but it will still give a good idea of the look and feel of the new events UI.
+
+
+
+When an event is happening, you will be able to see event specific challenges in your character selection screen. These will also appear in the new Scope Network window in-game, which you can access via the Neocom.  Over the course of the event, which will run for 6 weeks, you will notice a much wider variety of available challenges including roaming Serpentis and Angel Cartel pirates and 9 new event themed sites complete with loot and bounties.  On top of that, each time you complete a challenge listed on your Scope Network window you will earn points towards small, medium and large Scope Network prize containers. These containers will contain some very nice rewards, a selection of which will be available for the first time during Shadow of the Serpent.
+
+HOW DO YOU PARTICIPATE?
+When the June release goes out you can log in and check out the available challenges in the Scope Network window.  The Scope Network will offer you several optional challenges that they are distributing to capsuleers - if you complete them they will offer you new challenges, and if you leave them be they will expire after 3 days.
+
+
+
+
+
+As you complete challenges, you will see your points total increasing and how many remain until you unlock the next reward. Your progress on challenges will be logged so you can take a break whenever you like and pick up again when you return. For the Shadow of the Serpent we will also have special rewards for the capsuleers with the most points earned during the event!
+
+Remember, the challenges in the images are just prototypes - we don't want to spoil the surprise!  We are excited to see how the Shadow of the Serpent goes and will be eagerly awaiting your feedback so we can work with the Scope Network to try new things for the future!
+
+WHY CHANGE THE EVENTS?
+We received a lot of positive feedback about the past year's events at Fanfest 2016 and at the CSM Summit, but this was tempered by concerns about event visibility. We've been relying on social media, web pages, emails, SCOPE videos, and word of mouth for the events so far, but that has still left some pilots frustrated by missing the call to arms. We want to fix that for Shadow of the Serpent!
+
+Previously, if you wanted to take part in one of these larger events you would have to check EVE social media pages or find a link to the event page (e.g. //www.eveonline.com/thehunt/). After this you'd need to roam between systems hoping to find the event content. We think this put too high a barrier on participation for the new content and was particularly troublesome for getting your friends or new players involved!  We also want to ensure we can keep the events feeling fresh and exciting.  For the past few events we have released 1-2 new sites but we wanted to create a framework for supporting more playstyles and also experimenting with new types of PvE through events.  This new UI gives us a great opportunity to do that; we will be able to experiment with new types of content and release them through the Scope Network in events for eager capsuleers.;
+
+Good luck capsuleers! We are looking forward to hearing your thoughts on the Shadow of the Serpent event coming to New Eden on June 28th and your ideas for future events!
+
+CCP Affinity
+
+“When we reveal these designs to the cluster it will force them to listen. They’ll have no choice. It’s only then that the Federation will realize that their overconfidence and carelessness with the Molyneux was the catalyst that created the monster they now have to face.
+
+As for Arteu, rejoining the fray was the biggest mistake of his life, and I’ll be sure the old fraud knows it by the time I’m done with him and his new friends.”
+
+Salvador Sarpati – Low Orbit Capital Shipyard, Serpentis Prime – 118/06/01
+
+“When we reveal these designs to the cluster it will force them to listen. They’ll have no choice. It’s only then that the Federation will realize that their overconfidence and carelessness with the Molyneux was the catalyst that created the monster they now have to face.
+
+As for Arteu, rejoining the fray was the biggest mistake of his life, and I’ll be sure the old fraud knows it by the time I’m done with him and his new friends.”
+
+Salvador Sarpati – Low Orbit Capital Shipyard, Serpentis Prime – 118/06/01

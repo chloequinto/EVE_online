@@ -1,0 +1,65 @@
+
+Blueprints:
+A lot of you have been waiting for this, and we did promise to get it to you in the middle of August. The 26th seems close enough to the middle if you apply CCP_ROUND(). :)
+
+This is pretty straight forward. We have added two new endpoints, char/Blueprints and corp/Blueprints, that will return a complete list of all your blueprints. Well, it SHOULD return all your blueprints. It's limited to 200,000 so if you somehow have more than that... go sell some. This 200,000 max is compared to the 30,000 max that the client will return.
+
+The endpoint itself is really straight forward and requires a corporation or character key with the asset list access mask. Here is a sample of the output:
+
+2014-08-21 10:56:59
+                                                 
+               
+               
+               
+    2014-08-21 10:57:59
+
+So in the above example we have a few things:
+
+The first item, 1000000012211, is a blueprint original that has been used. This is noted with the quantity of -1.
+The second item, 1000000029372, is a stack of 497 Avatar Titan blueprints. Since only un used blueprint originals can be in stacks this is clearly blueprint originals.
+The third item, 1000000029375, is a max material researched BPO. Again it has a quantity of -1 which instantly means blueprint original.
+The fourth item, 1000000029377, is a blueprint copy of the Prophecy Blood Raiders Edition with 20,000 runs.
+Hopefully that all makes sense. :)
+
+CharacterInfo:
+This is a really simple change. The employment history rowset for the CharacterInfo endpoint has been updated to also include the corporationName. This should help reduce the number of calls required for some of the simpler use cases.
+
+And here is another example output:
+
+2014-08-21 11:03:44
+     90000001
+        One One
+        Gallente
+        Gallente
+        98000001
+        One One Corporation
+        2014-04-28 14:23:00
+        0
+    2014-08-21 11:04:44
+
+IndustryJobs Caching Issue:
+We have two changes to the IndustryJobs endpoints. The first is specifically just for the two corporation endpoints (corp/IndustryJobs and corp/IndustryJobsHistory). When we released this we were returning incorrect cachedUntil values. The information was being cached on our end, but we were often not returning a cachedUntil value which mean if you used that to know when to query again things might not work out so well. This should now return the proper value.
+
+IndustryJobs Probability Fix:
+Due to me (I blame the evil Socksfour side of my personality) having a slight misunderstanding of certain things the probability field in all 4 of the IndustryJobs endpoints would only be returned as 0 or 1. This is basically because I was attempting to cast the value returned from the database to a byte value instead of what it actually should have been. My mistake, but here is a fix for all you wonderful industrial folks. You should now get the actual probability value, usually around the 0.5 mark, when you query any of these endpoints.
+
+Example output:
+
+2014-08-21 11:09:25
+
+    2014-08-21 11:10:25
+
+All of the above changes are available on Singularity right now for testing if you wish to go and test them.
+
+Finally, and mainly just because it’s cool:
+We have made a change to how we do caching on public CREST. As users of CREST you shouldn’t notice anything different, it just gives us more control and more caching options. The result should be you getting more cache hits and so faster responses. This new caching option has only been implemented on the market history resource for now but the next thing will probably be the killmail resource for wars.
+
+If you notice anything wrong with the market history resource let us know.
+
+OK, one more thing, final thing I promise:
+If you are a user of the the image export, what we refer to internally as the IEC, I suggest you check it out once Hyperion rolls around. I have a feeling you may find some interesting new images in there, possibly relating to industry, ISIS, skills, and other things.
+
+Huge shout out to everyone who has been helping inform us of issues on the API and being patient as we work through fixing them.
+
+CCP FoxFour
+@RegnerBA

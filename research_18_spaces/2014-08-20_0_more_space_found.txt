@@ -1,0 +1,11 @@
+
+We included a history tab that will list your last 15 loaded overview profiles and when you loaded them last. There is also a ‘restore’ button, which will restore your overview back to what it was before you loaded the last overview profile, which can be handy if some joker links you a bad overview profile. Please note that this history is only stored in your local settings for that user so we recommend storing profile links you want to keep around in more permanent places such as the in-game notepad or character bio.
+
+The overview profile links are meant to replace your current overview with the linked settings. When sharing an overview profile, it will only include the tab presets that were actually in use in the overview of the player that created the profile. If you have specific needs, such as importing more tab presets or avoiding the override of global settings, importing and exporting is the way to go. Import and exporting will be more of an advanced option than before, so we have moved it to the options menu of the Overview Settings window to reduce clutter in the interface.
+
+It’s worth noting that the exporting of overview setting has been improved and it will include all the settings covered in this blog. The output of the new export is a YAML file. For the time being it will be possible to import old XML files, but that is something we want to remove so we encourage you to re-export those settings in a YAML file.
+
+In addition to this, we have made various changes to the Overview Settings user interface, particularly in the Tab Presets such as adding a filter to the ‘Types’ section, moving menu options to more appropriate places and changing the representation filtering in the ‘States’ section.
+
+Fly safe!
+-CCP karkur

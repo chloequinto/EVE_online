@@ -1,0 +1,77 @@
+
+
+
+Click for larger versions
+
+Starting June 9th, we will also be releasing new Sanctuary SKINs for the Sisters of EVE ships: the Astero, Stratios, and Nestor.
+
+
+
+
+Click for larger versions
+
+THE FUTURE
+OK great, new Marauder and SOE SKINs! What about the future though? What else is coming later this year? We have begun working on what we call "designer SKINs" made by corporations or people in New Eden that are setup for the sole purpose of designing dramatic or unique looking SKINs. Right now every SKIN is tied to a single corporation or faction and follows their design philosophy. These designer SKINs help give us a bit more freedom in that we don't have to try and tie each SKIN to an existing corporation or create a new corporation for each SKIN we want to make. With that in mind we are aiming to have four new designer SKINs out this summer. Two for Minmatar and two for Caldari as those two empires have the least number of SKINs available right now.
+
+Here are some concepts that our art director has come up with. These will likely not be what we end up releasing but should hopefully give you an idea of what we are considering doing.
+
+
+
+
+
+
+
+Again these are just concepts but we are aiming to ship some form of the new designer SKINs this summer. The end result of this new designer SKINs system is that we will be able to ship
+
+WHY NOT USE EXISTING SKINS?
+There have been some questions regarding the SKIN system and why we don't just let players put any SKIN on any ship. Here are a few of the reasons.
+
+Quality Assurance
+While it is technically possible to put any SKIN on any ship in the game that is not how we test internally at CCP. So far we have been using existing faction SKINs which were only designed and tested for a single race of ships. Even then those SKINs don't necessarily work across the whole race. It is fairly common that SKINs will break when going to tech 2 hulls or especially to capital hulls. For example the Moa looks amazing with the Ishukone SKIN as can be seen here.
+
+
+
+However when that same Ishukone SKIN is applied to the Wyvern it no longer looks like an Ishukone SKIN. While it could be argued as to how good it looks, the bottom line is it doesn't look like an Ishukone SKIN.
+
+
+
+In the above image the Wyvern has the Ishukone SKIN applied but doesn't get the gold to black fade that is a signature feature of the Ishukone SKIN. This isn't just a capital ship issue either. Here is the Ishukone SKIN on an Abaddon, which again doesn't look like an Ishukone SKIN.
+
+
+
+Again it's missing that fade from black to gold. Further there are issues where sometimes you just get things completely broken such as in the case of the Ore SKIN on the Revelation.
+
+
+
+Those black spots on the Revelation shouldn't be there and are not part of the SKIN. They are the pure black we render when missing parts of a material for the ship. Or even more subtly the Sanctuary SKIN on the Venture results in these black areas that should not be there.
+
+
+
+The bottom line however is that each SKIN we put out is tested and tweaked to make sure that the quality level we strive for in EVE is always there. We are extremely dedicated to making sure that we hit a certain quality bar for the art in EVE.
+
+Performance
+When it comes to SKINs we have two general types of SKINs
+
+Here is a standard Raven battleship.
+
+
+
+Here is the same Raven with the Lai Dai SKIN.
+
+
+
+Here is the Raven with the Kaalakiota SKIN which includes what we refer to as a custom mask map. That is a whole other texture as part of the material that changes where the colors on the ship goes.
+
+
+
+We have concerns about the performance impact of having lots of different ships with different custom mask maps on them. We are pushing this a little with the new Marauders with the thought that they very rarely are seen in large fleet battles.
+
+Tech 2 and Faction Ships
+Another concern of allowing any SKIN on any ship is making Tech 1 ships resemble Tech 2 ships which would have visual gameplay implications. While deciding what SKINs to offer in the release of this feature we carefully selected SKINs for ships by making sure that if we offered a SKIN for that ship the same look was not used by its Tech 2 counterpart. This is the reason why for example there is no Sarum SKIN for the Apocalypse, as it would too closely resemble the Paladin.
+
+CONCLUSION
+The final thing we would like to clarify is that lore is not something that is stopping us from using the existing SKINs we have on other ships. The two biggest factors are quality and performance as demonstrated above. Hopefully this gives you a bit of insight into where things are going and why. Our goal is to continuously be adding SKINs to the game over time. We want to offer a wide range of options for SKINs that appeal to lots of people. We aim to accomplish that using the SKINs from existing factions or corporations along with this new designer SKINs system we are working on.
+
+Until next time,
+
+CCP FoxFour

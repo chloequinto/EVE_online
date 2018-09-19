@@ -1,0 +1,56 @@
+Role Bonus:
+
+2% bonus to refining yield for all variants of Ore and Ice
+20% reduction in Reprocessing and Reaction Service Module fuel consumption
+
+Slot Layout: 3H, 3M, 1L, 3 Service, 1 Launcher
+
+Fittings: 1,200,000 PWG, 15,000 CPU
+Defense (shields / armor / hull): 4,800,000 / 4,800,000 / 4,800,000
+Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20
+DPS Cap: 5000
+Fighter Slots: 0 Tubes
+Weekly vulnerability hours: 20
+Capacitor (amount / recharge / cap per second): 100,000, 3600s, 27.8
+Max Locked Targets: 8
+
+Docking allowed for: all subcapital ships, freighters
+
+The required materials for building an Athanor are:
+
+Structure Construction Parts
+
+1
+
+Structure Hangar Array
+
+1
+
+Structure Storage Bay
+
+1
+
+Structure Repair Facility
+
+1
+
+Structure Reprocessing Plant
+
+3
+
+Structure Docking Bay
+
+1
+
+Structure Electromagnetic Sensor
+
+1
+
+Structure Acceleration Coils
+
+1
+
+At current market prices this represents a build cost of approximately 1.1 billion ISK (price is subject to capsuleer market fluctuations).
+
+TATARA (LARGE)
+

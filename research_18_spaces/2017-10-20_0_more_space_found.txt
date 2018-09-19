@@ -1,0 +1,350 @@
+Role Bonus:
+
+4% bonus to refining yield for all variants of Ore and Ice
+25% reduction in Reprocessing and Reaction Service Module fuel consumption
+25% reduction in time requirements for reaction jobs
+
+Slot Layout: 5H, 4M, 3L, 5 Service, 3 Launcher
+
+Fittings: 2,500,000 PWG, 30,000 CPU
+Defense (shields / armor / hull): 14,400,000 / 14,400,000 / 14,400,000
+Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20
+DPS Cap: 15,000
+Fighter Slots: 4 Tubes, 3 Light, 3 Support
+Weekly vulnerability hours: 20
+Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8
+Max Locked Targets: 8
+
+Docking allowed for: all subcapital ships, freighters, Rorquals
+
+The required materials for building a Tatara are:
+
+Structure Construction Parts
+
+8
+
+Structure Hangar Array
+
+4
+
+Structure Storage Bay
+
+20
+
+Structure Laboratory
+
+2
+
+Structure Factory
+
+2
+
+Structure Repair Facility
+
+4
+
+Structure Reprocessing Plant
+
+24
+
+Structure Docking Bay
+
+4
+
+Structure Market Network
+
+4
+
+Structure Medical Center
+
+2
+
+Structure Office Center
+
+4
+
+Structure Advertisement Nexus
+
+2
+
+Structure Electromagnetic Sensor
+
+6
+
+Structure Acceleration Coils
+
+6
+
+At current market prices this represents a build cost of approximately 9.6 billion ISK (price is subject to capsuleer market fluctuations).
+
+REFINING YOUR PERFORMANCE: RIGS AND BONUSES
+While the structures themselves have bonuses to Reprocessing, Upwell are also introducing rigs to improve the functionality exclusive to these new structures. These are focused on the activities that only these structures can perform: Reactions and Moon Mining. 
+
+Rigs that effect the Moon Drill come in two sizes, Medium and Large.
+
+Moon Drilling Efficiency - these rigs effect the volume of the moon chunk that is pulled from the moon, in relation to the amount of time set for the extraction.
+
+Moon Drilling Efficiency Rig M Tech 1 - 2% volume/time increase
+Moon Drilling Efficiency Rig M Tech 2 - 2.4% volume/time increase
+Moon Ore Stability - these rigs effect the radius of the asteroid belt created when the moon chunk is exploded, making them easier and faster to mine. They also effect the stability of the ores, increasing the time until the chunk automatically explodes and increasing the time the asteroids take to decay.
+
+Moon Ore Stability Rig M Tech 1 - Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%
+Moon Ore Stability Rig M Tech 2 - Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%
+Moon Drilling Proficiency - These large rigs combine the benefits of both Moon Drilling Efficiency rigs and Moon Ore Stability rigs
+
+Moon Drilling Proficiency Rig L Tech 1 - Volume/time up by 2%, Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%
+Moon Drilling Proficiency Rig L Tech 2 - Volume/time up by 2.4%, Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%
+Details about the rigs that effect Reactions can be found here.
+
+REPROCESSING RIGS AND THEIR BLUEPRINTS
+With the release of Refinery Structures that are bonused to reprocessing, we are planning some changes to the existing reprocessing rigs that were released with Citadels in the Citadel Expansion. As Refineries are only available in the Medium and Large size, unlike Citadels and Engineering Complexes which also have an Extra Large version, we have had to make some changes to the value of the XL rigs. The following changes will then be made on the day of release:
+
+All reprocessing rigs are receiving upgrades to the breadth of ores that receive their bonuses. Existing M reprocessing rigs will be consolidated into one variant that applies to all standard ores and one variant that applies to all ice. A new variant that applies to moongoo ore will also be added, reducing the total number of M reprocessing rigs from 4 to 3. Existing L reprocessing rigs will be consolidated into a single rig type that applies to all forms of ore and ice
+Since L reprocessing rigs will now provide exactly the same benefits as XL reprocessing rigs we are reducing the cost of XL reprocessing rigs to the same level as L rigs
+The strength of the reprocessing bonuses provided by all reprocessing rigs will be reduced slightly (a 1% absolute reduction in the base highsec yield for both T1 and T2 rigs)
+All reprocessing rigs (M, L and XL) will be unfitted from their current locations and placed in the Corp Deliveries hangar of the structure in which they are located. The owners of the structure will then be able to decide if they wish to keep them in their current location or move them to a new Refinery once it has been built
+All XL reprocessing rig items (and their corresponding blueprints) will be duplicated to compensate for the change in build requirements and value. All duplicate blueprints will hold the same levels of research as the ones currently owned. Extra rigs and blueprints owned by characters will be placed in the owner's personal Item Hangar in their home station. Extra rigs and blueprints owned by a corporation will be placed in the Corp Deliveries hangar in the corp HQ station
+STANDUP MOON DRILL I
+The Standup Moon Drill I Service Module is installed as a regular service module in a structure, taking a Service Module slot, but it is exclusive to Refineries that have been deployed in a valid Moon Mining location. Once they have been fitted, they grant access to the Scheduler (described below) from which Moon Mining extractions can be controlled. Fitting this module requires the same access as any other structure fittings, and like other service modules, it requires fuel to Online and to run.
+
+Fittings: 10,000 PWG, 200 CPU
+Fuel usage: 360 fuel to online / 5 fuel per hour
+
+SCHEDULING YOUR EXTRACTIONS
+All pilots who have access to Take Control of a Structure will be able to Schedule and initiate a Moon Mining Extraction. However, only those pilots with the Station Manager role will be able to cancel an ongoing extraction.
+
+Through the Scheduler, Structure Controllers will be able to determine how long they wish an extraction to take and to find a time that suits them and their miner buddies to gather for the harvest. The amount of time chosen will determine the size of the moon chunk being extracted on a linear scale. Extractions can be set at any period between 6 days and 56 days to complete.
+
+
+Ratios/types/volumes reflect not the final stats in-game
+
+The Extraction Scheduling window allows:
+
+Setting a Ready date by manually entering a desired time and date, or through manipulating the slider
+Determining when an extraction will be ready in conjunction with when the Structure will be vulnerable
+Estimating the volume of ore that the moon chunk will hold, for better organization of your mining fleet needs
+Ability to add the Extraction event to your Corporation Calendar, to inform your members when to assemble for the harvest
+Once a Moon Extraction has been set, the Moon Drill will fire at the moon and begin to draw a chunk of the moon towards the Refinery. This process will take several days, and during this time the chunk cannot be disrupted, except by those with the Station Manager role (who are able to stop the drilling process), or if the Moon Drill Module is offlined or the structure is destroyed. If this happens whilst an extraction is in progress, the chunk will be destroyed and a new extraction will have to be started from the beginning.
+
+
+Ratios/types/volumes reflect not the final stats in-game
+
+Once the extraction time has passed and the chunk of moon has been pulled into position next to the refinery, the next stage of the process can begin.
+
+Once a chunk is ready, the structure controllers will fire the Moon Drill laser at the chunk to explode it into an asteroid field of mine-able asteroids comprising the moon ores. Miners in the vicinity can then mine these asteroids as normal to receive the riches within them. All asteroids mined from this field will be logged in the Corporation Mining Ledger of the Refinery owning corporation and details about the ledger can be found here.
+
+Please note that if no one detonates the moon chunk once it is ready, it will automatically explode into a field after 3 hours (or longer if the appropriate rig is fitted). This could happen if no one fires the laser, or the Moon Drill runs out of fuel after the extraction has finished, or if the structure has been reinforced.
+
+Once a chunk has been shattered into asteroids, the Moon Drill can be used to start another extraction. A new extraction can be started before all of the asteroids have been mined out. The moon ore asteroids are also not perpetual and will decay approximately two days after the chunk is fractured. Miners are free to mine the choicest of rocks, leaving those less suitable to their needs to the ravages of the harsh vacuum of space. This decay lifetime can be extended up to four days with rigs, but asteroids will always expire before the next chunk can be fractured.
+
+BUT WAIT, THERE'S MORE! JACKPOT ASTEROIDS
+On rare occasions the Moon Drill can penetrate a particularly rich vein of ore on the moon's surface and the resulting chunk will yield far richer treasures. Although the composition of the chunk will still correspond to the moon, the moongoo ore that is brought up in the chunk and blasted into the asteroid field has a yield of 100% more materials when reprocessed.
+
+
+
+More details about the new ores that can be found in moons and how they will be distributed across New Eden can be found here. 
+
+HELP TEST THESE FEATURES WITH US
+We want to give a great loud shout out to all of you who have been helping us test and stress these features on the Singularity test server. Your time spent contributing to help us get these structures and all of the supporting features we have planned into a releasable state has been invaluable. We want you to know that we appreciate your help.
+
+Thank you from all of us, not just on Team Five-0, but throughout the Eve Development team.
+
+If you haven't yet, but would like to join your fellow capsuleers in helping us out, please check out these details on how you can test on Sisi, or add your comments here on the forums. All feedback is welcome.
+
+Thank you again, and we'll see you in space.
+
+Team Five-0
+
+Structure Construction Parts
+
+1
+
+Structure Hangar Array
+
+1
+
+Structure Storage Bay
+
+1
+
+Structure Repair Facility
+
+1
+
+Structure Reprocessing Plant
+
+3
+
+Structure Docking Bay
+
+1
+
+Structure Electromagnetic Sensor
+
+1
+
+Structure Acceleration Coils
+
+1
+
+At current market prices this represents a build cost of approximately 1.1 billion ISK (price is subject to capsuleer market fluctuations).
+
+TATARA (LARGE)
+
+
+Role Bonus:
+
+4% bonus to refining yield for all variants of Ore and Ice
+25% reduction in Reprocessing and Reaction Service Module fuel consumption
+25% reduction in time requirements for reaction jobs
+
+Slot Layout: 5H, 4M, 3L, 5 Service, 3 Launcher
+
+Fittings: 2,500,000 PWG, 30,000 CPU
+Defense (shields / armor / hull): 14,400,000 / 14,400,000 / 14,400,000
+Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20
+DPS Cap: 15,000
+Fighter Slots: 4 Tubes, 3 Light, 3 Support
+Weekly vulnerability hours: 20
+Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8
+Max Locked Targets: 8
+
+Docking allowed for: all subcapital ships, freighters, Rorquals
+
+The required materials for building a Tatara are:
+
+Structure Construction Parts
+
+8
+
+Structure Hangar Array
+
+4
+
+Structure Storage Bay
+
+20
+
+Structure Laboratory
+
+2
+
+Structure Factory
+
+2
+
+Structure Repair Facility
+
+4
+
+Structure Reprocessing Plant
+
+24
+
+Structure Docking Bay
+
+4
+
+Structure Market Network
+
+4
+
+Structure Medical Center
+
+2
+
+Structure Office Center
+
+4
+
+Structure Advertisement Nexus
+
+2
+
+Structure Electromagnetic Sensor
+
+6
+
+Structure Acceleration Coils
+
+6
+
+At current market prices this represents a build cost of approximately 9.6 billion ISK (price is subject to capsuleer market fluctuations).
+
+REFINING YOUR PERFORMANCE: RIGS AND BONUSES
+While the structures themselves have bonuses to Reprocessing, Upwell are also introducing rigs to improve the functionality exclusive to these new structures. These are focused on the activities that only these structures can perform: Reactions and Moon Mining. 
+
+Rigs that effect the Moon Drill come in two sizes, Medium and Large.
+
+Moon Drilling Efficiency - these rigs effect the volume of the moon chunk that is pulled from the moon, in relation to the amount of time set for the extraction.
+
+Moon Drilling Efficiency Rig M Tech 1 - 2% volume/time increase
+Moon Drilling Efficiency Rig M Tech 2 - 2.4% volume/time increase
+Moon Ore Stability - these rigs effect the radius of the asteroid belt created when the moon chunk is exploded, making them easier and faster to mine. They also effect the stability of the ores, increasing the time until the chunk automatically explodes and increasing the time the asteroids take to decay.
+
+Moon Ore Stability Rig M Tech 1 - Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%
+Moon Ore Stability Rig M Tech 2 - Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%
+Moon Drilling Proficiency - These large rigs combine the benefits of both Moon Drilling Efficiency rigs and Moon Ore Stability rigs
+
+Moon Drilling Proficiency Rig L Tech 1 - Volume/time up by 2%, Asteroid belt radius -20%, Time before self explode +20%, Asteroid decay time +50%
+Moon Drilling Proficiency Rig L Tech 2 - Volume/time up by 2.4%, Asteroid belt radius -24%, Time before self explode +24%, Asteroid decay time +100%
+Details about the rigs that effect Reactions can be found here.
+
+REPROCESSING RIGS AND THEIR BLUEPRINTS
+With the release of Refinery Structures that are bonused to reprocessing, we are planning some changes to the existing reprocessing rigs that were released with Citadels in the Citadel Expansion. As Refineries are only available in the Medium and Large size, unlike Citadels and Engineering Complexes which also have an Extra Large version, we have had to make some changes to the value of the XL rigs. The following changes will then be made on the day of release:
+
+All reprocessing rigs are receiving upgrades to the breadth of ores that receive their bonuses. Existing M reprocessing rigs will be consolidated into one variant that applies to all standard ores and one variant that applies to all ice. A new variant that applies to moongoo ore will also be added, reducing the total number of M reprocessing rigs from 4 to 3. Existing L reprocessing rigs will be consolidated into a single rig type that applies to all forms of ore and ice
+Since L reprocessing rigs will now provide exactly the same benefits as XL reprocessing rigs we are reducing the cost of XL reprocessing rigs to the same level as L rigs
+The strength of the reprocessing bonuses provided by all reprocessing rigs will be reduced slightly (a 1% absolute reduction in the base highsec yield for both T1 and T2 rigs)
+All reprocessing rigs (M, L and XL) will be unfitted from their current locations and placed in the Corp Deliveries hangar of the structure in which they are located. The owners of the structure will then be able to decide if they wish to keep them in their current location or move them to a new Refinery once it has been built
+All XL reprocessing rig items (and their corresponding blueprints) will be duplicated to compensate for the change in build requirements and value. All duplicate blueprints will hold the same levels of research as the ones currently owned. Extra rigs and blueprints owned by characters will be placed in the owner's personal Item Hangar in their home station. Extra rigs and blueprints owned by a corporation will be placed in the Corp Deliveries hangar in the corp HQ station
+STANDUP MOON DRILL I
+The Standup Moon Drill I Service Module is installed as a regular service module in a structure, taking a Service Module slot, but it is exclusive to Refineries that have been deployed in a valid Moon Mining location. Once they have been fitted, they grant access to the Scheduler (described below) from which Moon Mining extractions can be controlled. Fitting this module requires the same access as any other structure fittings, and like other service modules, it requires fuel to Online and to run.
+
+Fittings: 10,000 PWG, 200 CPU
+Fuel usage: 360 fuel to online / 5 fuel per hour
+
+SCHEDULING YOUR EXTRACTIONS
+All pilots who have access to Take Control of a Structure will be able to Schedule and initiate a Moon Mining Extraction. However, only those pilots with the Station Manager role will be able to cancel an ongoing extraction.
+
+Through the Scheduler, Structure Controllers will be able to determine how long they wish an extraction to take and to find a time that suits them and their miner buddies to gather for the harvest. The amount of time chosen will determine the size of the moon chunk being extracted on a linear scale. Extractions can be set at any period between 6 days and 56 days to complete.
+
+
+Ratios/types/volumes reflect not the final stats in-game
+
+The Extraction Scheduling window allows:
+
+Setting a Ready date by manually entering a desired time and date, or through manipulating the slider
+Determining when an extraction will be ready in conjunction with when the Structure will be vulnerable
+Estimating the volume of ore that the moon chunk will hold, for better organization of your mining fleet needs
+Ability to add the Extraction event to your Corporation Calendar, to inform your members when to assemble for the harvest
+Once a Moon Extraction has been set, the Moon Drill will fire at the moon and begin to draw a chunk of the moon towards the Refinery. This process will take several days, and during this time the chunk cannot be disrupted, except by those with the Station Manager role (who are able to stop the drilling process), or if the Moon Drill Module is offlined or the structure is destroyed. If this happens whilst an extraction is in progress, the chunk will be destroyed and a new extraction will have to be started from the beginning.
+
+
+Ratios/types/volumes reflect not the final stats in-game
+
+Once the extraction time has passed and the chunk of moon has been pulled into position next to the refinery, the next stage of the process can begin.
+
+Once a chunk is ready, the structure controllers will fire the Moon Drill laser at the chunk to explode it into an asteroid field of mine-able asteroids comprising the moon ores. Miners in the vicinity can then mine these asteroids as normal to receive the riches within them. All asteroids mined from this field will be logged in the Corporation Mining Ledger of the Refinery owning corporation and details about the ledger can be found here.
+
+Please note that if no one detonates the moon chunk once it is ready, it will automatically explode into a field after 3 hours (or longer if the appropriate rig is fitted). This could happen if no one fires the laser, or the Moon Drill runs out of fuel after the extraction has finished, or if the structure has been reinforced.
+
+Once a chunk has been shattered into asteroids, the Moon Drill can be used to start another extraction. A new extraction can be started before all of the asteroids have been mined out. The moon ore asteroids are also not perpetual and will decay approximately two days after the chunk is fractured. Miners are free to mine the choicest of rocks, leaving those less suitable to their needs to the ravages of the harsh vacuum of space. This decay lifetime can be extended up to four days with rigs, but asteroids will always expire before the next chunk can be fractured.
+
+BUT WAIT, THERE'S MORE! JACKPOT ASTEROIDS
+On rare occasions the Moon Drill can penetrate a particularly rich vein of ore on the moon's surface and the resulting chunk will yield far richer treasures. Although the composition of the chunk will still correspond to the moon, the moongoo ore that is brought up in the chunk and blasted into the asteroid field has a yield of 100% more materials when reprocessed.
+
+
+
+More details about the new ores that can be found in moons and how they will be distributed across New Eden can be found here. 
+
+HELP TEST THESE FEATURES WITH US
+We want to give a great loud shout out to all of you who have been helping us test and stress these features on the Singularity test server. Your time spent contributing to help us get these structures and all of the supporting features we have planned into a releasable state has been invaluable. We want you to know that we appreciate your help.
+
+Thank you from all of us, not just on Team Five-0, but throughout the Eve Development team.
+
+If you haven't yet, but would like to join your fellow capsuleers in helping us out, please check out these details on how you can test on Sisi, or add your comments here on the forums. All feedback is welcome.
+
+Thank you again, and we'll see you in space.
+
+Team Five-0

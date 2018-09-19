@@ -1,0 +1,19 @@
+What the compass looks like when warping through a system
+
+Overlay Stacking
+We've also tried to make the system more integrated with the normal EVE UI. Therefore the overlap system and info boxes for the overlay have been retired. Instead, overlay brackets are now displayed in the same way as any other in space bracket, meaning that there now shouldn't be situations where the overlay stops you from clicking something behind it, or obscures things with its large info pane. Clicking an overlay bracket will also yield all the usual menus you would expect (Right click menu or radial menu), and some additional options have also been added to the radial menu where appropriate. Additionally, we’ve added camera tracking support to overlay locations and the ability to double click them to align your ship, just as you can with any other in space bracket.
+
+
+Overlay UI integration
+
+Shortcut for New Locations
+Aaaaaand last but not least, we've added a shortcut for adding a new location, which by default is CTRL+B, just because we can, and more importantly because we realized there wasn't one and we thought you guys would appreciate it. Oh and we added the option to edit locations from the right click and radial menus, so you don't have to open up the P&P window to do that. :) 
+
+
+Adding a new location in space
+
+The improved Sensor Overlay is arriving on the test server Singularity for you to mess around with. Please note that that it is not yet fully complete and various changes and tweaks may happen to the look and feel of it before its release. We would appreciate any and all feedback as we going into the final stages before it hits Tranquility, which will likely be in Phoebe.
+
+Fly safe space friends,
+
+CCP Lebowski (On behalf of Team Five 0)

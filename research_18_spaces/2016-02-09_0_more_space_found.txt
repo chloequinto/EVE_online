@@ -1,0 +1,52 @@
+The video description contains time stamps to the various sections and features described below.
+
+ORBIT CAMERA
+The Orbit camera (ALT+2) is active by default when you first enter the game and is fixed on orbiting around an object in space. You can switch to a new object by performing the “Look At” command on that object. This camera is designed to give the player a somewhat cinematic feeling and try to emphasize things like scale and speed while behaving pretty similar to the old camera in other regards.
+
+Features:
+
+Dynamic Field of view (FOV), decreased as you zoom in, providing a much more epic sense of scale and a wider view angle when zoomed out for better overview of the action.
+Ship position on screen is offset based on the speed vector of your ship, giving a much improved sense of speed and trajectory.
+Smoother, yet faster zooming/orbiting, accompanied with a new camera speed setting in the system menu (this applies to all camera modes). Zooming now follows an exponential curve so you can zoom out all the way really quickly, while maintaining nice granularity close to the ship.
+When looking at other ships, camera is allowed to drift slowly, making it very easy to set up super cool fly-by shots. Drifting can be temporarily disabled by holding down the left mouse button for a steady view when you need to take a closer look. When looking at your own ship, we allow an almost negligible amount of drift to achieve a subtle parallax effect as the nebula moves by ever so slowly.
+Manual FOV zoom by holding ALT while zooming. Dolly zoom by holding CTRL while zooming.
+Tracking now works in the same way as all other in-space commands work instead of having a special mode toggled on/off previously; you either click the new “Track” button in the “Selected Item” window, radial menu or right click menu. The shortcut key for Tracking is still the same though; C. The tracking camera implementation has also changed so that we now always keep the tracked object center-screen, while pushing the foreground object to the side as we zoom in.
+New chase mode is activated by tracking the ship you’re already looking at, locking the camera straight behind your ship. This mode works amazingly well with manual flight! If you’re already looking at your own ship, this mode can be triggered by pressing the ship HUD Orbit Camera button again, or using the corresponding shortcut.
+The “Look at” command is now also available for items far away, but instead of the camera travelling light years, we just rotate it in place so the object is centered at the screen, which is very handy for, say, directional scanning.
+TACTICAL CAMERA
+The Tactical camera (ALT+1) is designed to be purely practical and works in a similar manner to Real Time Strategy cameras by allowing panning. Objects can be attached to by performing the “Look At” command, and detached from by panning away with the right mouse button. In this mode, we don’t have any of the cinematic effects of the orbit camera present.
+
+Features:
+
+Field of view is fixed at a wide angle and none of the cinematic shenanigans of the orbit camera is present.
+Panning is done by dragging with the right mouse button.
+Camera is attached to an object by Performing “Look At” and detached by panning
+The Look at command preserves zoom distance, so we essentially just pan the camera. This way battlefield overview and awareness is preserved as well.
+Tactical overlay is turned on by default, but can still be toggled on or off.
+While detached, the camera zooms toward the cursor instead of the center of the screen making it possible to traverse the field easily using zooming only. While attached, zooming works the same way as for the orbit camera.
+FIRST PERSON CAMERA
+The First Person camera (ALT+3) is probably the least practical (at least for now), yet most jaw dropping of the three. It is highly recommended that you try it out with the not-so-long-ago-introduced manual flight feature that is mapped to the keyboard arrow keys by default.
+
+Features:
+
+Fixed first person view with wide field of view
+Military jet style roll and pitch indicators overlay for orientation
+3 level stepped zoom
+MARQUEE SELECT
+Marquee select is simply the act of drawing a box on the screen using the mouse to select one or more things. It can now be triggered by holding down any of the combat command shortcuts (ALT for “Look At” or C for “Track”, etc.) and dragging with the left mouse button over the 3d scene. On releasing the mouse button, the selected command will be performed on the selected entity or entities. Even though this new feature is not strictly tied to the new camera modes, it ended up in this package as it allows you to apply camera commands such as “Look At” and “Track” within the 3d scene, hassle free, as opposed to relying on the overview or right-click menus. “Look at” is now implemented to work nicely even when you select multiple entities at once, essentially allowing you to drill down into large clusters of ships step by step.
+
+The nice side effect is that marquee selection also works nicely with any other in-space command such as “Orbit”, “Approach” or “Warp”. One of the major reasons why it previously wasn’t practical to play the game relying mostly or only on the 3d scene was the near impossibility of picking those tiny brackets moving at lightning speeds. Marquee selection solves this problem quite elegantly as it’s much, much easier to draw a box around a handful of moving pixels than it is to click them. Oh, did I mention you can now use CTRL + Marquee to target multiple things at once? It’s pretty neat. We also added a new “Select” command to be used with marquee which is triggered by holding SHIFT.
+
+SETTINGS
+To accompany the new camera modes, we’ve cleaned up the camera settings section in the System Menu (ESC). We’ve unified all camera related settings under the one “Display & Graphics / Camera Settings” section, added settings for “Camera speed”, “Invert Y-axis” as well as options to disable the new Orbit Camera “Ship Speed Offset” and “Dynamic Field of View” as we recognize that the more dynamic behavior simply isn’t for everyone.
+
+
+
+For those of you that don’t agree with us that the old camera needed a bit of work can simply turn off those two options, crank the camera speed up a bit and stick with the Orbit Camera, making the experience pretty much identical to the old setup.
+
+NOW WHAT?
+The fact that we’ve now finally unlocked the possibility of having special purposed cameras that we can easily switch between has already sparked a lot of very interesting ideas, so don’t be too surprised if you’ll see some more camera related improvements in the future. There are some crazy ideas flying around let me tell you!
+
+While the new camera remains in opt-out Beta (which, again, will be for about a month) we’ll be extra focused on monitoring feedback and making changes/fixes accordingly, so please make sure to voice your opinions on the forum thread attached to this blog sooner than later.
+
+CCP Optimal

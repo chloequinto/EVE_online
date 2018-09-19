@@ -1,0 +1,8 @@
+
+How to export
+Open any fitting, and click the "Copy to Clipboard" button, and the fitting, in the aforementioned format will be copied to your clipboards, allowing you to paste it into 3rd party tools.
+
+
+
+And that's it for now!
+ - @CCP karkur

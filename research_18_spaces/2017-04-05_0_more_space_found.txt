@@ -1,0 +1,61 @@
+
+
+
+
+
+As you can see Ascension had a “nice” impact on our CPU cycles, yet there is room to breathe on our day to day operations though thankfully the pilots of New Eden keep us very much on our toes when fleet fights occur. On that note here is the fleet fight notification system which helps us prepare for battle!
+
+So here is where we see the load really kick in and each improvement that’s made, be that in code or hardware, keeps getting its limits pushed higher and higher by EVE players. It’s a truly wonderful challenge that we do our very best to keep up with.
+
+TQ Tech III also included a big network revamp. One particular metric is what we call Disconnect Spikes. That’s when more than 1000 pilots suddenly leave the cluster at the same time, which usually indicates an internet service provider failure. However, we have seen this trigger at predictable times, like when the opening credits of a new Game of Thrones episode starts…?? it was just a theory though!
+
+Below you can see how much of an improvement the new routers and our BGP Intelligent routing platform is for EVE
+
+
+
+That 5000+ spike in March is the actual upgrade day and that one instance in July was an unscheduled server reboot.
+
+It’s nice to see these investments paying off and mitigating large disconnects. We’ve been quite adventurous in our experiments in 2017, with all efforts tailored to improve your experience. That’s always our ultimate goal.
+
+For those who don’t know it, the database servers are two Lenovo x880 dual CPU servers with 768 GB RAM. We knew that Lenovo does have a special clip designed for the FLEX platform where you essentially dock together servers, much like GPU SLI, so when this clip was put in place and we fired up the server, the windows operating system see’s 4x CPUs and 1.5 TERABYTES of RAM!
+
+We see during normal runtime the load obviously is lower versus a single node. That was no real issue for us, as where we see impressive gain for EVE is during startup and on some heavy queries .
+
+UPGRADING TO SQL 2016
+
+When I was drafting this blog we hit another massive milestone and something we really pushed to achieve before Fanfest: upgrading the SQL Engine for TQ to SQL 2016
+
+We had been running EVE in SQL 2012 compatibility mode. But before the Fanfest rush and while the ops team is now all hands-on deck setting up as this blog is published, we were able to hit this objective on Monday April 3rd!
+
+Quoting our friends at Microsoft … “SQL 2016 its just faster.”
+
+That’s what we want to see happen of course.
+
+Now the current status is to finish Fanfest (and get over the massive non-virtual hangovers) then emphasize back on the hardware side of things, since we can now easily scale our DB nodes and compare metrics where EVE benefits the most. Questions like whether having 1.5 TB of RAM helps a lot or is 768GB the right amount? Should it be 2x CPUs with more cores or lower core count and 4x CPUs essentially duplicating NUMA domains and cache etc. etc.?
+
+Loads of options to improve the experience for you , there is always something …
+
+I really encourage those who are coming to Fanfest and like to talk about hardware and operations related topics to check out our roundtable on Friday at 17:00 UTC in Rima B
+
+I promise we will take the discussion to the next level at pub crawl ??
+
+Fly safe , o7
+on behalf of the OPS Crew , CCP Gun Show
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

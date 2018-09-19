@@ -1,0 +1,8 @@
+
+All that said, as you can see from the example above, a training queue can now be many months long and it is certainly possible to construct a queue that will run for years, even with the 50 entry limit.
+
+While making this change we have noted further areas for improvement and very much look forward to your feedback and ideas about the skill-training system and related gameplay.
+
+Happy skill-planning!
+
+On behalf of Team Pirate Unicorns

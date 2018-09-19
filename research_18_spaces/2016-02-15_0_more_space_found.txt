@@ -1,0 +1,72 @@
+
+Alongside the server blades, we have a collection of SKINs, PLEX, Aurum, and signed books to give away. Each team member from the winning entry (maximum of two (2) team members per entry) will receive:
+
+1st place:
+
+Classic Tranquility server blade
+Mordus Legion Parade SKIN Pack (Barghest, Orthrus, Garmur)
+5,000 Aurum
+5x PLEX
+2nd place:
+
+Winners choice of Super Capital SKIN
+3,000 Aurum
+1x PLEX
+Signed copy of EVE Universe: The Art of New Eden
+3rd place:
+
+Sisters of EVE Santuary SKIN Pack (Nestor, Stratios, Astero)
+3,000 Aurum
+Signed copy of EVE Universe: The Art of New Eden
+CCP Seagull's choice:
+
+3,000 Aurum
+Signed copy of EVE Universe: The Art of New Eden
+GENERAL RULES
+The work submitted to this contest must be in English.
+The contest starts on February 15th, 2016 (the moment this dev blog is published).
+The deadline for all entries is March 4th, 2016 at 23:59 GMT.
+Winners will be announced by March 29th 23:59 GMT.
+You can work alone or with a partner, but teams cannot be larger than two (2) individuals.
+The work submitted to this contest must be originally made for this contest. No pre-existing work is allowed and will be disqualified.
+Work must be submitted with a link to a public Git repository.
+Each team member must have a valid EVE Online account and character.
+CCP is the sole judge of the contest and its judgment will be final.
+Winners will be contacted via the email address associated with their character's EVE Online account.
+While the focus of the challenge is on the use of the CREST API, use of other data sources (the XML API, SDE, or third-party) in support of the application is allowed.
+Current partners, contractors, and employees of CCP Games are not eligible for participation in this contest.
+You must be 18 years old or older to win.
+Each person may only enter the contest one (1) time, whether as an individual or as a member of a team.
+No purchase is necessary to enter or win.
+CCP is not responsible for lost, late, misidentified or misdirected entries, or computer performance, errors, delays or failures.
+If, for any reason, the fairness or integrity of the contest is questioned, or CCP's administration or fulfillment of the contest becomes impracticable, CCP reserves the right to terminate or modify the contest, and to disqualify any individual who tampers with the registration process or the administration of the contest.
+Any and all disputes arising out of or in connection with this contest will be handled on an individual basis and in accordance with the laws of Iceland.
+Contest void where prohibited or restricted by law, and all applicable federal, state and local laws and regulations apply.
+By entering a submission, you grant CCP the right to use your name for advertising and marketing purposes, without additional compensation, unless otherwise prohibited by law.
+Prizes are subject to change and will be awarded at CCP’s sole discretion.
+Prizes may be taxable depending on your local laws.  All taxes are your responsibility.
+All entries must be submitted under the MIT License and should include the following:
+
+Copyright © 2016 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+We are very excited to see what you all create for this. While working be sure to check out this auto-generated CREST documentation (//jimpurbrick.com/crestmatic/) or the community written documentation over here (//eveonline-third-party-documentation.readthedocs.org/en/latest/).
+
+CCP FoxFour
+
+(Cross-posted on the official Developers site)
+
+FAQ
+Q) Can I continue working on the application after submitting it to be judged?
+
+A) Yes of course! However, since we will be judging the repo you submit through the Google Doc form, you should not push any changes to it after the deadline or you could disqualify yourself. Feel free to have the link you send us be a fork from your main repo where you continue working though.
+
+Q) Can I participate if I don't have an active subscription?
+
+A) Yes you can! If you wish to integrate the SSO or any part of authenticated CREST you will need to register an application on developers.eveonline.com which does have the requirement that you have paid for something from us in the past.
+
+New to EVE? Start your 14-day free trial today.
+Returning pilot? Visit Account Management for the latest offers and promotions.

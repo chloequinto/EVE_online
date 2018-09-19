@@ -1,0 +1,35 @@
+(click to enlarge)
+
+Items and materials reprocessing changes to provide more options for specialization through skills and choosing the right kind of facility. The new interface gives clear breakdowns of the outcomes of reprocessing. These changes were introduced in this blog.
+
+Blueprints and research
+
+Crius brings changes to give players more clarity and control over how to invest in researching their blueprints. These changes were introduced in this blog, and another blog with the latest updates is in the making.
+
+Starbases
+
+Starbases get a number of new benefits for industrial activity and will be easier to build all over New Eden. You can read about the changes in this devblog.
+
+Dynamic station sound
+
+With Crius, the sound environment in stations will change based on the type and amount of industrial activity in the station.
+
+New API endpoints for industry features
+
+With Crius, we are releasing a number of new industry related features in both the EVE API and Public CREST that 3rd Party Developers and crafty individuals can use to create tools. Read all about it in this devblog.
+
+Fleet Warp Opt-out
+
+With Crius, players in a fleet will be able to opt out of taking fleet warps, which is useful for a number of roles in a fleet.
+
+Fit modules without having the required skills
+
+With this change, those preparing ships for others can do so without having the skills required to fit the modules. Skills are still needed to online modules.
+
+There will be a few other things slipping in as we get closer to release. Keep an eye out for updated dev blogs on all of the above. May the factories of New Eden run hot!
+
+CCP Seagull
+
+Senior Producer, EVE Development
+
+@ccpseagull

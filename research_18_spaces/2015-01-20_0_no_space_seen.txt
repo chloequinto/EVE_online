@@ -1,0 +1,39 @@
+Hey everyone, CCP FoxFour here to talk to you about what EVE’s Team Size Matters development team is currently working on and follow up on our o7 Show appearance last Thursday.
+
+All of us in EVE development really love the idea behind the ship painting program that is in EVE right now and we want to see it grow to be better. We love the idea of everyone flying around with cool looking ships and want to make that as easy and practical as possible. So we decided to take a look and see what we could do.
+
+THE CURRENT SYSTEM
+The current ship painting system from was started as (and remains) a pilot program--an experiment of sorts to validate some assumptions we had, to test the customization of ships, and to see generally how popular this kind of feature might be. Since the launch of the ship painting program back in March of 2014 we have grown from selling 8 different paint styles to a much greater variety (with 28 currently available in the store), adding new ship types, trying different pricing options, monitoring their consumption, and trying to understand what parts of system are really important to you capsuleers.
+
+INTRODUCING SUPER KERR-INDUCED NANOCOATINGS
+We decided a while ago that it was time to revisit the ship painting pilot program from top to bottom. This meant looking at what the paint jobs were, how players applied them, their cost, and every other aspect we could think of.
+
+Now that we’ve finished our evaluation and started on some designs for a new system, we would like to introduce to you Super Kerr-Induced Nanocoatings, aka SKINs.
+
+SKINs are quite different from the paint jobs we have now in terms of how you use them and at a higher level of how to think about them. With the painting system you would combine a paint style with a ship and they would become a new ship, taking that paint with the ship everywhere. If you had torpedoes delivered directly to it that caused an unfortunate explosion and loss of the ship, the paint style would be lost with it.
+
+With the new SKIN system you will buy a license to use a specific design or pattern for a ship. You then apply that license to your character and then your character will be licensed to use that design whenever you wish. For now the licenses are permanent and cannot be removed from your character once applied. Even if your character loses their pod and dies or jump clones around they still have the license to use all their SKINs. The licenses themselves can still be traded on the market, contracts, and all other ways before being applied to your character.
+
+Here is a work-in-progress mockup of how we imagine this looking in the ship fitting window:
+
+  
+
+_(click to enlarge)_
+WHY ARE WE CHANGING THE SYSTEM AND WHY NOW?
+There are many reasons why SKINs are happening now, and we would like to lay out some of these reasons to give you a better understanding of why we are doing this and what you can expect going forward.
+
+Design debt from the current system is preventing us from doing a lot of cool new things we would like to see happen and is a constant additional cost for content creators when they put new skins into the game. As it stands currently, whenever we add a new paint style to the game we have to duplicate the base ship. This means we then have two ships--the base and the new paint styled one--to show in the market, on the overview, and in contracts. It also means that whenever someone wants to make a change to the ship like balancing its stats, they have to go through and balance not just the base ship but all of the different paint style versions.
+Performance is also a big factor. The current paint system uses a lot more graphics memory. The new SKIN system will not just be a new user experience, but we are taking advantage of a new shader system that our graphics department has put together for us.
+Usability of the current system is sub-par. This was something we knew going into releasing the pilot program and it was designed to help us gauge interest with a small investment. Now that we have proven the idea out it's time to improve this.
+Pricing the paint styles when they are destructible is huge challenge. We have to consider factors such as how often the ship is flown and how often it dies. With the new SKIN system we can focus our pricing efforts more on the SKIN design itself.
+Building the new SKIN system from the ground up has allowed us to build it with the future in mind. This means we have been able to ensure it's capable of doing all the cool things we have been thinking about. For example, with the new system SKINs are assigned to a character as its owner. Done correctly there isn't much reason that the owner couldn't be a corporation in time. Or time-limited skins that we can give out as sort of trials. Or what about expanding the system to go beyond just ships and include structures? These are all things we are thinking about and attempting to make sure the system supports. They are in no way shipping with the first release of the SKIN system.
+THAT'S ALL FOR NOW FOLKS
+You may have noticed we didn't include a release date in this dev blog or on the o7 show. The point of this announcement is to begin gathering your feedback on the feature while we work on it. We are not yet ready to announce a release date for feature. When we get closer to release we will have another dev blog that goes over the feature in its more complete state along with information about how we will handle the transition from the current paint system over to the new Super Kerr-Induced Nanocoating system. I hope you people are all as excited as we are for this.
+
+Thank you for taking the time to read and fly safe. 
+
+CCP FoxFour on behalf of Team Size Matters
+
+p.s. Hyasyoda Automatic Transformation System was the runner up for what to call the new system.  ;)
+
+p.p.s Kerr effect is a real term, no we didn't make it up. See: //en.wikipedia.org/wiki/Kerr_effect

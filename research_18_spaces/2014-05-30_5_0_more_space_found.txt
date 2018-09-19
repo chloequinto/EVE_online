@@ -1,0 +1,20 @@
+
+
+Screenshots from the Mac client showing visual effects improvements that are included in the latest build.
+
+In the Kronos release, the development has been focused on improving the overall customer experience for players running the EVE client on the Mac. The update brings a much needed improvement to the overall visceral experience of EVE Online for Mac players. The following are some of the improvements you will see in Kronos:
+
+Blinking point lights sprites are back.
+Ships featuring fields and drone bays now have their force field effects back.
+Anti-aliasing options now correctly affect antialiasing as they should.
+Star fields no longer flicker if you are being shot.
+Warp disruption bubble effects no longer flicker.
+Improved compatibility with USB based headsets and microphones.
+Support for Retina displays.
+Fixes for some full-screen effects.
+Corrupt clouds in high shaders are fixed.
+Black graphical corruption in warp engine trails are fixed.
+Transparent character models from using a combo of "low" post-processing and anti-aliasing are fixed.
+You can expect to see several more dev blogs coming out before June 3rd, going into more detail on some of the features coming in Kronos.
+
+/@CCPSeagull

@@ -1,0 +1,28 @@
+
+New Shaders
+
+Those who remember that PGS changeover may recall the widespread application of triple-material shaders necessitating that move, which beneficially decreased client size and increased graphic quality. In the new V5++ model, our additional material information requires new 4-material shaders.
+
+The fundamental lighting equations stay the same as they were in V5, so the big change is how we handle the dirt. In V5 dirt intensity was calculated by some eldritch occult mathemagics which made it very difficult for the artists to control. In V5++ we simply have a dirt map, which enables complete control by the artist.
+
+In concert with the shader, this enables us to modify the dirt levels of individual ships in scene.  With this initial effort, the dirt and rust levels are static.  But attendees of Fanfest (or anyone who has taken the time to watch the art panel from that glorious event) will remember the demonstration of ship filth and the slew of questions regarding it that followed. Some features under consideration include dirt levels set by the age of the ship or by the use to which the vessel has been applied. We have also conceptually toyed with the idea of “ship wash” services to remove dirt from selected hulls.  Naturally, no one is considering cleaning Minmatar spacecraft, which are structurally composed of no less than 51% dirt and could not possibly survive the burnishment.
+
+Below are a few examples of ships going from 0% dirt to 100% dirt.
+
+What’s the Point?
+
+As before, this project has required special attention to ensure that everything is just right. Artists adjusted, redrew, or repainted every map. Tech Art provided tools to repack and republish the .dds files
+
+We are confident to the edge of hubris that capsuleers across New Eden will enjoy touring the stars in these fully operational V5++ ships. That said, the opinions of the EVE Online community are the true test. We look forward to reading comments, feedback, and questions on the forums and will happily investigate defects submitted via the in-game bug reporting tool.
+
+But before storming the forums, please login to the Singularity test server and give your favorite hull a spin or two. Better yet, undock with it and explore the far reaches of your local planetary system. To quote a great leader and personal hero of mine:
+
+“Fly, my pretties, fly, fly!”
+
+CCP Antiquarian
+
+Okay, not the T3 Strategic Cruisers. Those divas are really difficult to work with.
+alt
+THE SCOPE
+READ MORE
+

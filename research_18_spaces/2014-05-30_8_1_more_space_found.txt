@@ -1,0 +1,57 @@
+
+As you can see, Amarrian and Caldari drones might as well not exist in their current form. They are in need of a significant revamp to make them competitive with Gallente and Minmatar drones.
+
+In the Summer 2014 release, we will be solving this issue by placing each of the four racial varieties of drones on a continuous spectrum of speed and damage. The already effective Gallente and Minmatar drones will remain in their places at the ends of the spectrum, while the attributes of the Amarrian and Caldari drones will be adjusted to place them in between the two extremes: Amarrian drones will be slightly slower and more damaging than Minmatar drones, while Caldari drones will be slightly faster and less damaging than Gallente drones. Their distinct damage types will remain intact.
+
+
+
+We are also making some new changes to the ranges that drones attack and orbit in, that affect the balance between drones from different factions:
+All combat drones will now orbit and attack at longer ranges than before. Light drones will be orbit between 40% and 60% farther than before, medium drones between 180% and 220% farther, and heavy drones will see their orbit range increased by between 1300% and 1500%. Optimal ranges and attack ranges are rising accordingly. Tracking speed values are decreasing to compensate, but all drones will track better than before when at their optimal ranges.
+
+This change will have a couple important benefits:
+
+It will mean that drones lose less damage from the transversal caused by their own orbit velocity. Drones simply orbit with no concern for transversal management and that can often cause unintitive reductions in DPS, especially against small and slow targets. With this change the negative effects of a drone's own velocity will be reduced.
+It means that drones will be less likely to overshoot their targets. Drones approaching a target with their MWD on can sometimes overshoot their target by a large margin, preventing them from applying their damage early in an engagement. With this change, the area in which a drone will deactivate its MWD and start orbitting is much larger and a drone is more likely to hit it on the first approach.
+This also gives us another method through which to differentiate drones from the different factions. Amarr and Caldari drones will recieve a larger range increase than Minmatar and Gallente drones. This provides these middle drones a new way to shine and gives players another set of interesting choices to make when choosing their combat drones.
+Due to the changes in range and tracking, heavy drones will do more damage than before against small and slow targets, but will have a harder time hitting fast moving targets that spend most of their time at suboptimal ranges.
+
+Finally, we are also adjusting the hitpoints of combat drones to better reflect their racial tanking styles and provide a slight hitpoint advantage to the Amarr and Caldari drones.
+
+We believe that this change will provide players with many more interesting choices when deciding what drones to load onto their ships and use in combat.
+
+BALANCE BETWEEN QUALITY LEVELS OF DRONES
+Another area of imbalance in the current drone attributes is the different quality levels, or meta-levels, of drones available. Combat drones currently fall into one of five distinct quality levels (sentry drones are addressed below):
+
+Basic Tech One drones are the most plentiful, cheap and easy-to-use drones in the game. They remain the baseline against which every other type of drone is compared.
+
+Tech Two drones are more powerful drones that are produced by players, mainly through the advanced Invention process. They are more expensive to produce than Tech One drones, and have the highest skill requirements of any variety of drones. To make up for this added difficulty and expense, Tech Two combat drones gain a 20% advantage in hitpoints, speed, tracking and damage compared to the basic Tech One versions. They can also gain an extra 2% damage for each level of their racial Drone Specialization skill that is trained. These bonuses are already quite balanced and provide a valuable progression for drone users, so they are not changing.
+
+Faction Navy drones are advanced drones that are only available from each Empire’s Factional Warfare loyalty point stores. They are notable for their excellent hitpoints and tracking, as well as low skill requirements. However their low speed and underwhelming 15% damage bonus over Tech One leave them without enough value to justify their cost for most players. We will be keeping their HP and tracking intact, while also giving them speed and damage on-par with Tech Two drones -- although the Navy Drones will still not gain the extra 2% bonus per level from the drone specialization skills.
+
+“Integrated” and “Augmented” drones are both built from components and blueprints looted from the remains of deadly rogue drones in the drone regions of nullsec space. Currently they receive some bonuses above and beyond Tech One drones, but their cost is mainly due to rarity and they are not powerful enough to encourage common use. We will be upgrading the “Integrated” drones to have 15% more damage and 10% more HP, tracking and speed than Tech One drones. “Augmented” drones will keep their current significant bonuses to HP, tracking and speed, and will see their damage bonus increased to 32% above Tech One drones, putting their damage on par with a fully skilled Tech Two drone.
+BALANCE BETWEEN SIZES OF DRONES
+Travel time is a constant issue for combat drones, as the delay between ordering your drones to attack and their arrival at their target often cripples the effectiveness of drones over moderate ranges. This is also one of the major reasons that Heavy Drones have trouble competing with the stationary Sentry Drones.
+
+Currently each size of combat drones (Light, Medium and Heavy) has only half the MWD approach velocity of the size below it. This means that Heavy Drones take 4x as long to get to their targets as Light Drones do.
+
+In the Summer 2014 expansion, we will be changing the scaling so that each size of combat drones has 60% of the MWD speed of the size below it. This equals a 20% increase to the MWD speed of Medium Drones, and a 43% increase in Heavy Drone MWD speed. These increases only effect the MWD speed of the drones, so they will reach their distant targets faster but they may still struggle to keep up with a fast moving target, as intended.
+
+BALANCE FOR DRONE SKILLS
+Congratulations for reading all the way to the middle of a dev blog! The reward for your perseverance is some extremely important information about changes to skills coming in the Summer 2014 expansion!
+
+Currently drones are a very skill-intensive weapon system, thanks to the legacy of the original drone implementation years ago. The Drone Interfacing skill currently provides a 20% increase in drone damage per level, which makes it one of the most powerful skills in the game but also means that to be competitive with drones it is usually necessary to train this rank-5 skill all the way to level 5. The result is that drones have earned a reputation as a weapon system that is not suitable for new players.
+
+We will be minimizing this problem by reducing the bonus from the Drone Interfacing skill to 10% per level, and building the extra damage into the base stats of the drones. That means that on average, all drones will be gaining about 33% more base damage and a character with Drone Interfacing trained to level 5 will see their damage remain constant (ignoring for a moment all the other drone changes being made in this release). We believe that 10% per level is still a very suitable bonus for a rank 5 skill, and the Drone Interfacing skill will remain very desirable. Level 5 Drone Interfacing should, however, cease to be the absolute necessity that it is today.
+
+We are also splitting the current Combat Drone Operation skill into two new skills, Light Drone Operation and Medium Drone Operation. This means that all light combat drones will now be unlocked and bonused from the Light Drone Operation skill, and medium combat drones will be unlocked and bonused from the Medium Drone Operation skill. During the patch downtime, existing players with the Combat Drone Operation and/or Scout Drone Operation skills trained will receive both new skills trained to a level equal to the highest level that they have in either Combat Drone Operation or Scout Drone Operation.
+
+We initially announced that we would reimburse only from the Combat Drone Operation skill but after recieving some excellent feedback from the community on our forums we decided to reimburse based on the highest of these two skills so that we could ensure that pilots who could use these drones before don't lose any capability after the patch.
+
+This change makes light and medium drones consistent with heavy and sentry drones in their skill paths. It also allows us to create new ships and modules with bonuses that only affect light or medium drones separately, such as the newly rebalanced Guristas Worm faction frigate.
+
+Finally, we are renaming two drone skills to clarify their roles. The Scout Drone Operation skill is being renamed “Drone Avionics”; the Electronic Warfare Drone Interfacing skill is being renamed “Advanced Drone Avionics” to better represent their roles. The effects, prerequisites and unlocks provided by these skills will not be changing.
+
+The other major change we will be making to drone skills in the summer release will be the expansion of drone skills to affect all drone types consistently. This means that the racial Drone Specialization skills will now provide their damage bonus to Tech Two sentry drones as well as the normal combat drones, and that the Drone Interfacing, Drone Sharpshooting, Drone Durability, and Drone Navigation skills will all provide their bonuses to Fighters and Fighter Bombers. More details about these changes can be found in the following sections.
+
+BALANCE FOR SENTRY DRONES
+

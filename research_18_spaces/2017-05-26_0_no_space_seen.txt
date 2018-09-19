@@ -1,0 +1,71 @@
+Hello adaptable capsuleers!
+
+In this dev blog, we’ll be discussing some early information you need to know in preparation for the big Strategic Cruiser rebalance coming this summer.
+
+We’ll recap the high-level plan, give you the first of many notices about how the patch day transition will affect you, and highlight the start of our new Strategic Cruiser Focus Group.
+
+At the Ship and Module Balance presentation during Fanfest 2017 we discussed the plans for a major rebalance of Tech 3 Cruisers later in the year. This segment is available for viewing on our YouTube channel if you missed it.
+
+The short version of the plan is that we want to address a few key issues with the current Strategic Cruiser design:
+
+Rigs in their current state lock T3 hulls into a specific set of bonuses and prevent T3 Cruisers from achieving the goal of a “strategic” ship that you can adjust from day to day to meet your needs by changing subsystems
+T3 Cruisers overlap too much with other ships (especially Heavy Assault Cruisers and Recon Ships) and their dominance can reduce ship variety
+Many of the subsystems and subsystem combinations are underpowered and rarely used
+The current state of T3 Cruisers is unsustainable from a technical graphics perspective
+To solve some of these issues we are currently working in the following directions:
+
+Condense the available subsystems into a smaller number of more powerful and useful choices.
+The current plan is to have four subsystem slots with three choices in each slot
+A general rebalance of the T3 Cruiser class which would include (among other things):
+New faction-specific build components sourced from WH space
+Dual tank bonuses for the Loki
+Some power reductions to long range combat alongside the nullification subsystem
+An increase in signature radius and mass
+Allowing rigs to be freely removed from Strategic Cruisers without destroying them
+LET’S SET A DATE
+We are now at the point where we can announce the tentative schedule for releasing this rebalance. Currently these changes are scheduled for release on July 11th, 2017.
+
+Since these changes to Strategic Cruisers will be very significant in scope, existing ships and subsystems will go through a dramatic transformation on patch day. We want to start warning people now about the impacts of this transformation and will continue communicating it over the next two months to ensure that players are not caught by surprise.
+
+Existing subsystems that are not fit to a Strategic Cruiser will be directly transformed into their closest functional equivalent under the new system.
+Strategic Cruisers with subsystems fit to them will have their subsystems converted into new ones directly, and will receive one extra subsystem placed in their cargo hold (to ensure that players have the same number of subsystems before and after the patch).
+This means that although all fitted Strategic Cruisers will continue to have a valid set of subsystems after the patch, some of their modules may go offline as fitting and even slot layouts may change.
+We highly encourage all players who will be flying T3 Cruisers at the time of downtime on July 11th get themselves into a safe location such as a friendly starbase or docked within a station/structure before the downtime begins. This will ensure that they do not get caught in a dangerous situation with some of their modules offline when they next log in.
+THE STRATEGIC CRUISER FOCUS GROUP
+Following the example of the successful Tactical Destroyer focus group, we are running a new Strategic Cruiser Focus Group to help refine and improve the designs for this T3 Cruiser rework.
+
+The goal of the group will be to provide CCP feedback from a smaller group than the general EVE community for faster discussion with improved clarity.
+
+The logs of the channel will be automatically published to the public on this website for transparency. Everyone can see what is being discussed, but only focus group members and CCP devs can actually talk in the channel
+
+We opened up applications for the focus group last week in this forum thread, and we want to thank everyone who put their name forward for the group. Unfortunately we can’t accept everyone or else we would have a group too large to be functional.
+
+The players we have selected for the initial round of this focus group are:
+
+Asher Elias
+Capri Sun KraftFoods
+Eustise
+ExookiZ
+frsd
+Icarus Narcissus
+lanyaie
+Lemkor Gengod
+Mawderator
+Noxisia Arkana
+progodlegend
+Rowells
+StarFleetCommander
+Sturm Gewehr
+Titus Tallang
+White 0rchid
+All of these characters will be receiving evemails from CCP Fozzie with information about how they can connect to the CCP focus groups slack team. We will begin the good work of the focus group as soon as we can start getting members online.
+
+Thanks for joining us today for this dev blog today and special thanks to those who volunteered for the focus group!
+
+In case you missed it above I just want to go ahead and repeat the key transition information that we’ll be repeating many times in the coming months:
+
+We highly encourage all players who will be flying T3 Cruisers at the time of downtime on July 11th get themselves into a safe location such as a friendly starbase or docked within a station/structure before the downtime begins. This will ensure that they do not get caught in a dangerous situation with some of their modules offline when they next log in.
+
+Thanks again and fly safe!
+
+-Team Five 0

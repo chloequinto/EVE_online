@@ -1,0 +1,10 @@
+
+To be clear CCP does not officially endorse or support overlays and therefor does not guarantee that they work or don't cause unexpected problems with the EVE Online client.
+
+We are aware that this will have a negative impact on some player’s experience but it is also something we feel is necessary to ensure the safety of users using our client.
+
+That is all for now. We will be monitoring the comments to answer any questions you may have.
+
+CCP FoxFour
+
+*Note on Overwolf. It used to be that it only worked on DX9 and not DX11 for EVE. That is actually the reverse now and it does work for DX11.

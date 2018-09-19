@@ -1,0 +1,29 @@
+
+Let’s go into a little more detail on how they are going to work:
+
+Player reprocessing skills will be taken into account
+Reprocessing time is instant. No more waiting one hour or even 10 seconds for the outcome minerals
+Ore, ices and gas clouds may now be mixed together at the same time inside the structures – but modules cannot be moved inside the Reprocessing Arrays.
+
+
+Reprocessing is done via a simple right-click > reprocess option, which of course can be used on multiple ores at once.
+
+
+The Intensive Reprocessing Array may only be used in low-security solar systems and below. The standard Reprocessing Array, meanwhile, may be used everywhere, including 1.0 security systems.
+Compression Arrays
+Firstly we want to mention that we have further simplified how compression is generally going to work:
+
+Instead of requiring various amounts of ore to compress as expressed here, compression now requires 100 units of the base ore to deliver one unit of compressed variation.
+Volumes on compressed ores have been tweaked to preserve the same ratios as mentioned in our “reprocess all the things” blog, so the ratios shouldn’t change.
+Compression blueprints are being removed and properly reimbursed.
+Example: I have 100 units of Veldspar in the Compression Array with a total volume of 10m3. After compressing them I will receive 1 unit of Compressed Veldspar with a volume of 0.15m3 (this may displayed as 0.2 in the client due to how rounding works).
+
+Secondly, we are introducing a Starbase Compression Array. With perfect reprocessing rates being no longer achievable, this structure becomes quite important to faciliting the movement of ore. Here are the attributes.
+
+
+
+Compression works in a similar way to reprocessing:
+
+It’s instant with no cooldown
+Ores and ices of different types may be compressed at the same time
+

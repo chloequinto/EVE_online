@@ -1,0 +1,62 @@
+Mike Azariah
+
+What have we done or more specifically what have I done. Well, the biggest specific thing I pushed for (and got) was the Bowhead project. The more vague goal early in the term was work with the PvE team on incursions as well as representing highsec and the casual play style.
+
+The most effort I made was in keeping the lines of communication with players going via the eve Forums and through podcasts. I have been a regular on Podside and Eve Radio DJ Wiggles show as well as 'hotdropping' several others. I tried to be open to input from whatever source and, like Sugar, keep a book in which I take notes of things to talk to the devs about.
+
+As a group the CSM has spent a lot of time adapting to the new faster (MUCH faster) pace of the release schedule. Things change so quickly that some does not get seen by us much sooner than it is is seen on the test server. Other broader strokes we try to get input as early as is possible. Do we know everything and see everything? No, and I am not sure that that is even possible. A summit often covers projects coming up but then that project is done and two more run before another summit happens. This goes back to CSM 8's attempt to build more bridges to other teams and get more lines of communication open to the devs. 
+
+Progress and change have been made. The decision to eliminate officers showed that we could function without them. Personal projects and one on one contact with devs started to replace the idea that we need to talk to entire teams taking them all away from the job at hand. Helping bridge the gap between players and the dev teams have lead to a more open and direct exchange of ideas with CSM acting as enablers, not the conduit itself. Hell, if we do this well enough we might manage to organize ourselves right out of a job. Or, better yet, change the job as this one will be done and we can take on a different aspect.
+
+In the end I think that is the biggest truth about CSM, it is what we allow it to be and it changes to match the environment it is in. I have enjoyed the past two terms watching the changes happen and hope for another to continue helping it grow, change, become something more, even if I do not know what the more will be.
+
+
+Xander Phoena
+
+It was well known that I was a staunch supporter of the CSM process before being elected myself onto CSM 9. I was of the firm belief that while the process wasn’t perfect, the CSM offered a very real way of allowing players to actively engage CCP in improving Eve Online. I am happy to say that for the most part, my suspicions have been confirmed.
+
+I had set goals I wanted to achieve this term and there were two key points in particular. The first was to see some concrete progress on fixing the well-documented issues on 0.0. While I can take no credit for this coming to the table during CSM’s term – CCP had already decided that this was to be a high priority during our tenure – I feel we have worked hard where we could to guide CCP in what the players are thinking towards fixes with 0.0. An example would be how the jump drive changes were originally slated to affect Jump Freighters. It was clear to us that 0.0 industry was not yet in a place where such a nerf would be appropriate and we were sure to let CCP know this as did the community at large.
+
+The second goal I had was to be a clear communication conduit from CCP to the player base and vice versa. Through the weekly CSM 9 Reports I have been doing throughout the entirety of my term as well as engaging players through my podcast, my website and through forums such as Zulu and #tweetfleet I feel people find me approachable when it comes to their concerns with the game as well as providing regular updates on what we are actually up to. This is something that can always be improved upon of course and I hope to up the ante if elected to CSM X. 
+
+A couple of things that came slightly out of the blue which I wanted resolved have come to me from the player base since I was elected. The first was the issue of input automation which I very quickly engaged CCP on with initially, limited success. I requested a session to discuss this at length at the Summer Summit and you can read how that particular conversation went in the Summit Minutes. It was clear that this urgently needed addressing so it was fantastic to see CCP clarify what was a previously grey area and to feel I personally played a significant part in that.
+
+I also wanted to address how CCP devs actively play the game in a very real way after the issue was brought up by a player. After all, how can a dev balance the demands of a large 0.0 bloc FC if they can’t experience said gameplay themselves? This is something I pointed at CCP Rise and Fozzie when they came on Crossing Zebras a few weeks back and I believe CCP will act on this in the not too distant future.
+
+So much of what CSM does can be difficult to define to the player base because it is suggestions and tweaks here and there. I’m pleased that during my tenure, I’ve been able to get concrete things achieved in working with CCP and it is proof to me that the system works.
+
+
+Steve Ronuken
+
+This term's been great. While there's been some misunderstandings (generally oversights, like the jump changes, or just too short a time to react), in general, communication's been pretty good.
+
+I was elected on a platform of representing both industrialists, and third party developers. While a lot of the industrial changes were locked in before I was elected (big changes need a good chunk of work) A bunch of fine tuning happened. I'm pretty happy with how all of that's worked out. Still room for improvement, when teams get reintroduced for example, but it's generally small tweaks, rather than anything big.
+
+When it comes to third party development, great things have been happening. SSO has been deployed, and is in use by many sites. Not only that, but CREST is finally up and running, serving market data to a number of sites, where it's then federated out. Your support has proven to CCP how important third party development is to the player base, which has given mandate to developers like CCP Foxfour to work on getting yet more tools into our hands. I can't wait to see what happens next.
+
+A great example of how the CSM can interact with CCP, is the recent addition of the small ore anomaly in the rookie systems. With the recent influx of newbies, CCP Manifest gave members of the CSM access to the Rookie help channel (we may have badgered him a little) A number of us have been spending time there, helping out, and making notes about the questions we've seen on a regular basis.
+
+One of them was 'Where do I mine?' closely followed by 'where do I find asteroids?' I put up a thread on the CSM forums, asking for something to be done. A few suggestions were thrown in, and we pointed the thread out to CCP Rise (as he's doing NPE stuff) A short while later, he pitched the anomaly as a solution.
+
+The job the the CSM is talking. Talking to players, to gather their concerns and goals, and talking to CCP, about what we think the game needs, and what our opinions are on the route they're taking. This needs, of course, for CCP to listen to us. Sometimes this breaks down, sometimes a dev just doesn't think to talk to us, but it's getting better. Yelling is (generally) not the route forwards. It's a conversation, which means you can't force it. If you think "I'll get elected to the CSM, and yell at CCP to make something happen", you're not going to get very far. Always think out your arguments, and don't get heated about it. No-one likes a yelling match, or to have their hand forced.
+
+Some people have said that being on the CSM takes a lot of time. It's true, if a touch misleading. It's not something you do for an hour a week, taking breaks whenever you want (unless you want to be useless.) You keep the conversation going, talking to CCP daily, responding to player concerns when they come in. It's time consuming in that you'll be doing something most days. And there are sometimes meetings which you should attend (and the summit takes a good chunk of time). But it's not like you're going to be doing nothing but that.
+
+All in all, this has been a good and productive term. I'm looking forwards to hopefully serving on CSM 10.
+
+
+CCP Falcon
+Community Manager
+
+CSM 9’s term has been incredibly productive, but challenging at times. This was especially true when it came to adapting the seven year old concept of the CSM to a faster, more productive release model that takes into account ten releases per year, rather than two expansions.
+
+While we’ve made good progress in this respect, there is still some way to go before the CSM’s transition to the new release model is complete and we can look at further expanding their role and interactions with CCP. This transition has to occur in a comfortable time frame, however it needs to be free from rash decisions and based on what we have learned during the course of CSM 9’s term.
+
+During the course of their term, the council’s delegates have proven the CSM to be invaluable when CCP has been required to make difficult and sometimes controversial decisions when making changes to fundamental gameplay elements. Examples of this are during the wormhole mass changes, and of course the force projection changes, particularly those related to jump freighters.
+
+The CSM has also proved to be incredibly helpful in crisis management situations, with the mettle of both CCP and the council being tested during the issues surrounding SOMERblink during the summer months of 2014. The openness and candid responses that the CSM gave during this time were in a large part responsible for the timely resolution of the situation, and many members of the council took extra time out from their daily lives and commitments to atten extremely short notice meetings so that we could bring the situation to a resolution as swiftly as possible.
+
+The same was very much true during the issues we experienced right after Fanfest relating to malicious damage made to the newly erected EVE sculpture in Reykjavik, with members of the council assisting behind the scenes to bring the issue to a timely and direct resolution.
+
+As a player, before coming to CCP, I was never fully sold on the value or the validity of the CSM as an institution, and was often openly critical of it. After seeing the terms of CSM 8 and CSM 9 from “behind the scenes” during my time at CCP so far, that opinion has changed drastically and I’m looking forward to working with the tenth council in 2015 in order to further expand their role and their interactions with CCP.
+

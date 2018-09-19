@@ -1,0 +1,126 @@
+The Angel Cartel ships have always been very strong, enjoying impressive speed, agility and long range damage enabled by projectile falloff bonuses. Before Kronos, however, they lacked that special something that breaks the normal ship patterns and set them apart.
+
+In Kronos the Dramiel frigate, Cynabal cruiser and Macheriel battleship will be gaining a special role bonus that increases their warp speed and acceleration by 50% above and beyond the other ships in their classes. This will help reinforce the Angel role as supreme fast attack vessels that can hit and run with ease.
+
+Blood Raiders
+
+
+The Blood Raiders vessels have long enjoyed the strongest energy warfare in New Eden, and their Bhaalgorn battleship enjoys a venerable role in group PVP. However before Kronos the Cruor frigate and Ashimmu cruiser had languished in relative mediocrity.
+
+In the Kronos release all of the Blood Raider ships will be gaining a new “rule breaking” bonus to Nosferatu modules that ensures they will always drain enemy capacitor no matter what your own capacitor level is. The Blood Raider stasis webifier bonus is also being unified to a range bonus across the whole line of ships and the Cruor and Ashimmu are receiving significant upgrades to their speed and slot layouts.
+
+Sansha’s Nation
+
+
+The Sansha’s Nation ships are some of the most iconic pirate vessels in EVE, and their Nightmare battleship has long served as a staple of high-end PVE gameplay. On the other hand, the Succubus frigate and Phantasm cruiser have suffered from poor performance relative to their costs.
+
+In the Kronos release all of the Sansha’s Nation ships will be receiving a huge new bonus to Afterburner velocity bonuses. This will enable them to travel extremely quickly while using less capacitor, enjoying lower signature profiles, and shrugging off scramblers.
+
+For more information on all of these pirate faction ships and to provide your feedback, check out our Features and Ideas forum threads for the frigates, cruisers, and battleships.
+
+THERE'S MORPHITE IN THEM THAR ‘ROIDS!: THE PROSPECT
+
+(click to enlarge)
+
+Dev Blog
+
+When the Venture mining frigate was introduced in late 2013 it quickly became one of the most popular ships in EVE Online history. The combination of a low barrier of entry, excellent mobility and decent mining yield attracted many pilots. In the Kronos release we are introducing a tech two progression path from the Venture, with the Prospect.
+
+The Prospect is the first in a new class of Expedition Frigates, designed for exploiting the deepest and most remote stretches of space. It sports improved ore mining capability, gas mining yield that matches its predecessor, a larger ore bay, improved defenses and most importantly, the ability to fit Covert Ops Cloaking Devices. This allows the Prospect to get to and from asteroid fields in the most dangerous areas of space, as well as take advantage of covert jump bridges from Black Ops Battleships to bypass deadly chokepoints.
+
+For more information on the Prospect’s stats, as well as other improvements to mining in dangerous space, check out our recent dev blog.
+
+ROID RAGE: MINING BARGES AND EXHUMERS
+
+
+Forum thread
+
+Mining Barges and Exhumers are the backbone of large scale mining in EVE Online. They provide the greatest possible yields over time and can be seen in many asteroid belts across the New Eden cluster, satisfying the universe’s insatiable appetite for minerals.
+
+In 2012 we rebalanced these ships to remove the old tier system and provide three distinct roles for players to choose from. In the Kronos release we are focusing and strengthening these roles to ensure that all pilots in EVE have the tools to meet their mining needs.
+
+The Procurer and Skiff are the defensive barges and enjoy extremely strong tanks. In Kronos they will also be gaining a drone damage bonus so that miners can choose to punch back at anyone who would threaten their industrial operations.
+
+The Retriever and Mackinaw continue to enjoy the greatest ore holds of any mining ships and are receiving smaller changes since they are already the most popular barges by far.
+
+The Covetor and Hulk will be gaining even more yield to strengthen their position as the most profitable mining ship in all of EVE Online. They are also gaining a completely new bonus to strip miner and ice harvester range that will allow them to more efficiently clear their asteroid belts, especially when working in teams.
+
+For all the juicy details on these barge and exhumer changes, as well as connected changes to mining crystals and gang links, check out this forum thread.
+
+SPACE TRUCKIN’: FREIGHTERS AND JUMP FREIGHTERS
+
+
+Forum thread
+
+Freighters and Jump Freighters are the most heavy duty haulers in New Eden, and serve as the life blood of EVE Online’s living economy. These ships have always been very powerful and effective movers of freight, but before Kronos they have lacked any choice or customization gameplay. Player freedom is at the core of everything we do at CCP and we are always striving to ensure that every aspect of EVE provides interesting choices for players to make.
+
+We have worked through several different approaches for providing this crucial player choice to Freighters and Jump Freighters. After discussion with you and with the CSM we have settled on low-power fitting slots as the best method. In Kronos, each Freighter and Jump Freighter will have three low power slots that can be used to customize your ship to meet your specific needs at any given time.
+
+The stats of each freighter and jump freighter are being changed to work with the new low slots, so for all the details and to provide feedback go check our forum thread in the Features and Ideas section.
+
+THE TRANSPORTERS: BLOCKADE RUNNERS AND DEEP SPACE TRANSPORTS
+
+(click to enlarge)
+
+Blockade Runner forum thread
+
+Deep Space Transport forum thread
+
+Transport Ships are the advanced tech two versions of the ubiquitous Industrial Ships, and fall into two classes each with their unique specializations.
+
+Blockade Runners are designed to carry smaller amounts of cargo quickly and securely through all kinds of space. Their access to Covert Ops Cloaking Devices has given them a strong and useful role, and in Kronos we are reinforcing that role through slightly increased cargo, improved slot layouts and a new bonus to warp velocity.
+
+Deep Space Transports are heavier duty haulers designed to take a beating and keep on rolling. They have not been compelling choices for most pilots before Kronos, so we are giving them some very significant improvements. All Deep Space Transports will be gaining a large fleet hangar that allows the carrying of significant loads without sacrificing defenses and provides new opportunities for group gameplay. These ships also sport extremely strong defenses and a unique bonus to the benefits of overheating defensive and propulsion modules. This allows a clever Deep Space Transport pilot to shrug off attack until help can arrive or until it makes its way to safety.
+
+All of the details on these changes can be found in our Features and Ideas forum threads for Blockade Runners and Deep Space Transports.
+
+THE REAL TORPEDO OF TRUTH: PHOENIX AND CITADEL MISSILES
+
+(click to enlarge)
+
+Forum thread
+
+The Phoenix dreadnaught has been in need of a revitalization for quite some time and we are giving it the love it needs in the Kronos release. We are giving this capital ship a new shield resistance bonus, as well as allowing it to hit just as hard with all damage types.
+
+We’re also vastly increasing the speed of the citadel missiles themselves and making some changes to their damage application so that pilots using them will find their damage more generally consistent.
+
+All the details and feedback can be found in this forum thread in Features and Ideas.
+
+CAPSULEERS’ BEST FRIEND: COMBAT DRONES REBALANCE
+
+(click to enlarge)
+
+Dev Blog
+
+Drones are one of the most popular weapon systems in EVE and are used on a huge variety of ships in a huge variety of situations. In the Kronos release we are introducing a huge set of changes to all kinds of combat drones in order to improve the experience for all drone users.
+
+We are balancing drones between different factions (meaning that Amarr and Caldari drones should now be much more useful), rarity levels and sizes, we are making drones easier and more consistent for new players to train for, and we are adding new low slot Omnidirectional Tracking Enhancers.
+
+We are also increasing the engagement range and optimal ranges of most drones to reduce the negative effects of a drone’s own orbit velocity on its tracking.
+
+All the details of these changes can be found in this Dev Blog.
+
+IF THE MOD FITS: NEW MODULES AND MODULE BALANCE
+Medium Micro Jump Drive Thread
+
+Hyperspatial Accelerator Thread
+
+Transverse Bulkhead Thread
+
+Nosferatu Thread
+
+As most of you will have come to expect from us by now, we are also introducing a collection of new modules and module rebalances in the Kronos release to ensure that every player has an excellent variety of interesting choices to make when fitting their ships.
+
+We are adding a new Medium Micro Jump Drive module, which is similar to the Large variant but can be fit to Combat Battlecruisers, Command Ships and Deep Space Transports. More details in this thread.
+
+We are also introducing a new set of low slot warp speed modules called Hyperspatial Accelerators. These modules provide a flat bonus to a ship’s warp speed and will be especially popular with slow ships like Freighters. All the details can be found in this thread.
+
+We are also adding new rigs in the Kronos release. Known as Transverse Bulkhead rigs, they add hull hitpoints at the expense of cargo capacity and will open up new options for effective honor tanking. All the details can be found in this thread.
+
+We are also making improvements to Nosferatu modules in Kronos. All Nosferatu modules will cycle faster than before, increasing their effectiveness over time and making them even more useful for keeping other modules alive under extreme capacitor pressure. These changes pair especially well with the revamped Blood Raider ships that we have already discussed. All the details can be found in this thread.
+
+I hope you have all enjoyed this walk through the ship and module balance changes of the Kronos release. We are very happy to be releasing all of these new and rebalanced ships and modules for your personal enjoyment this upcoming Tuesday June 3rd.
+
+Until next time, this is @CCP_ Fozzie signing off.
+
+Fly safe!

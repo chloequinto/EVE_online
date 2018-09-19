@@ -1,0 +1,168 @@
+VULNERABLE 2 AND 3
+This type of vulnerability window does not appear in a regular operation state, and is a reactionary state appearing once the structure has been set into reinforcement at least once.
+
+Those windows automatically appear after the structure comes out of a reinforcement period.
+This vulnerability window lasts indefinitely, until an attacker or defender wins the contest by using entosis links (see “entosis link contest” further below).
+Except for their duration, they work exactly the same than the vulnerable 1 phase.
+ENTOSIS LINK CONTEST
+Entosis links are needed to be able to attack (or defend) a structure during its deployment or vulnerability window.
+
+The process is as follow:
+
+A structure that is successfully attacked by an entosis link during its vulnerability window goes into reinforcement. If it was being deployed, or if that was the last vulnerability window it was capable of withstanding, the structure is destroyed instead.
+A structure that is partially contested with an entosis link will delay the vulnerability or deployment timer indefinitely, until such time where the owner uses his own entosis link to remove the contested status, or an attacker chooses to fully attack it. The duration will however count toward the vulnerability or deployment timer – a structure that needs 4 hours to be deployed, but is stuck in a contested state for 5 days can be immediately deployed if the owner removes this particular status with his own entosis link.
+The entosis contest time will vary depending on the location where the battle takes place and if you are attacking or defending.
+
+High, low-sec and null-sec with full indexes
+
+Wormhole space
+
+Null sec with no indexes
+
+Attacking a structure
+
+60 minutes
+
+30 minutes
+
+10 minutes
+
+Defending a structure
+
+10 minutes
+
+10 minutes
+
+10 minutes
+
+Example:
+
+The Daring Tartiflette Expedition™ is a corporation having a Citadel L deployed in a random wormhole.
+Anyone attacking their structure when it is being deployed, or in its vulnerability phase will need full 30 minutes to win the entosis link contest.
+For being the owners of the structure and defending it, the Daring Tartiflette Expedition™’s members will only need 10 minutes of entosis linking to defend it, or to fully remove its contested status.
+Please note that if the Daring Tartiflette Expedition™ was to attack a structure belonging to another corporation in their wormhole, they would have to go through a 30 minutes entosis link timer themselves.
+VISIBILITY
+We also want to make sure all the previous states and phases are properly represented in the game.
+
+As such:
+
+Corporation members with enough roles to do so will have full information on vulnerability, reinforcement, capture timers. Notifications will be sent for those particular states to make sure people can respond and defend their structures in a timely manner.
+Any external party to the corporation will only be able to see the timer related to the current state. For example, a scout may learn the structure is in reinforced state 2, with 5 hours left on it by going to the solar system where the structure is located. However the same scout will not be able to guess how the vulnerability window is weekly set. In the same manner, we want to avoid automation for this particular information, which means not displaying it in the API, since we want people to actively scout, or infiltrate spies in the target entity they wish to disrupt instead of relying on external tools to do the job for them.
+Structure brackets are going to be visible in space and in the overview if:
+
+The user can interact with the structure in question. A structure set to accept neutral parties will be displayed publicly for such pilots. Another structure set for alliance use only will not appear to any neutral pilot at all.
+The structure itself disrupts the user in any way. An Observatory Array having adverse effects on a pilot ability to probe or scan will appear to anyone.
+On top of the points above, all structures, no matter their size or role, will have warpable signatures like cosmic combat anomalies. None of them will need to be probed to be warped to, even if the user doesn’t have direct access to them. This will ensure pilots can quickly see what’s happening in their surroundings without having to use probes, and thus not having to give their position away to the inhabitants.
+DEATH IS ONLY THE BEGINNING
+And that’s it on how to attack and defend structures. Please remember most of this is subject to change based on feedback and time, even if we’re are starting to see the light at the end of the tunnel. We would also like to thank the CSM for their time reviewing this particular feature with us. As mentioned at the beginning, our next blog is going to focus on asset safety, or what’s happening to your stuff when a structure blows up.
+
+In the meantime, happy hunting and may the odds be in your favor.
+
+M
+
+L
+
+XL
+
+High-sec, low-sec, Null-sec with full occupancy
+
+3 hours
+
+6 hours
+
+21 hours
+
+Wormhole space
+
+6 hours
+
+12 hours
+
+42 hours
+
+Null-sec without occupancy
+
+12 hours
+
+24 hours
+
+84 hours
+
+REINFORCED 1, 2, AND 3
+Structures that are successfully attacked through entosis links during their vulnerability windows go into an invulnerable mode for a specific amount of time, at the end of which another vulnerability window may occur.
+
+Reinforcement periods exist to pause the assault and give both attacking and defending parties time to prepare for the next phase, especially if they do not operate within the same timezones.
+
+They also serve to give penalties to the structure owner. A structure entering its first reinforcement window cannot have its fittings altered – players will still be able to refuel its various bays, fit ammunition to the various defense systems or take items in or out of its hangars, but will unable to add, remove or change fitted structure modules in any way. A structure entering its second reinforcement window will cause all industry jobs to be paused and services to go offline on top of the previous penalty. Those penalties will exist until the structure goes back into its normal operation mode (thus until defenders successfully entosis it).
+
+Reinforcement will not require Strontium Clathrates to operate, and will be a functionality that’s always available on all structures for free.
+Reinforcement timers last for a specific amount of vulnerability hours:
+
+Unlike existing Starbase reinforcement timers, those reinforcement timers are based on vulnerability hours to operate. This is to ensure the reinforcement timer always ends during a vulnerability window, when defenders are online and committed to defend it.
+Reinforcement duration may change depending on the structure type and size – larger structures may have a reinforcement timer set to half the vulnerability window, while smaller ones may have longer reinforcement timers to give owners more time to react.
+Example:
+
+The Mighty Bouillabaisse Conglomerate™ has a Citadel XL structure in null-security space, with full occupancy and indexes. The vulnerability window thus lasts 21 hours a week, which has been assigned by the structure owner (yellow duration below).
+If a party attacks the structure with an entosis link during the vulnerability window at 15 GMT on Saturday (red box below), the reinforcement timer, which lasts 15 vulnerability hours, will end at 20 GMT on the following Tuesday (green part below).
+The Citadel XL structure will thus enter its second vulnerability window at 20 GMT, next Tuesday after the initial attack. When the structure goes into reinforcement, the timer will display that date for everyone instead of doing complex math with vulnerability hours.
+
+
+VULNERABLE 2 AND 3
+This type of vulnerability window does not appear in a regular operation state, and is a reactionary state appearing once the structure has been set into reinforcement at least once.
+
+Those windows automatically appear after the structure comes out of a reinforcement period.
+This vulnerability window lasts indefinitely, until an attacker or defender wins the contest by using entosis links (see “entosis link contest” further below).
+Except for their duration, they work exactly the same than the vulnerable 1 phase.
+ENTOSIS LINK CONTEST
+Entosis links are needed to be able to attack (or defend) a structure during its deployment or vulnerability window.
+
+The process is as follow:
+
+A structure that is successfully attacked by an entosis link during its vulnerability window goes into reinforcement. If it was being deployed, or if that was the last vulnerability window it was capable of withstanding, the structure is destroyed instead.
+A structure that is partially contested with an entosis link will delay the vulnerability or deployment timer indefinitely, until such time where the owner uses his own entosis link to remove the contested status, or an attacker chooses to fully attack it. The duration will however count toward the vulnerability or deployment timer – a structure that needs 4 hours to be deployed, but is stuck in a contested state for 5 days can be immediately deployed if the owner removes this particular status with his own entosis link.
+The entosis contest time will vary depending on the location where the battle takes place and if you are attacking or defending.
+
+High, low-sec and null-sec with full indexes
+
+Wormhole space
+
+Null sec with no indexes
+
+Attacking a structure
+
+60 minutes
+
+30 minutes
+
+10 minutes
+
+Defending a structure
+
+10 minutes
+
+10 minutes
+
+10 minutes
+
+Example:
+
+The Daring Tartiflette Expedition™ is a corporation having a Citadel L deployed in a random wormhole.
+Anyone attacking their structure when it is being deployed, or in its vulnerability phase will need full 30 minutes to win the entosis link contest.
+For being the owners of the structure and defending it, the Daring Tartiflette Expedition™’s members will only need 10 minutes of entosis linking to defend it, or to fully remove its contested status.
+Please note that if the Daring Tartiflette Expedition™ was to attack a structure belonging to another corporation in their wormhole, they would have to go through a 30 minutes entosis link timer themselves.
+VISIBILITY
+We also want to make sure all the previous states and phases are properly represented in the game.
+
+As such:
+
+Corporation members with enough roles to do so will have full information on vulnerability, reinforcement, capture timers. Notifications will be sent for those particular states to make sure people can respond and defend their structures in a timely manner.
+Any external party to the corporation will only be able to see the timer related to the current state. For example, a scout may learn the structure is in reinforced state 2, with 5 hours left on it by going to the solar system where the structure is located. However the same scout will not be able to guess how the vulnerability window is weekly set. In the same manner, we want to avoid automation for this particular information, which means not displaying it in the API, since we want people to actively scout, or infiltrate spies in the target entity they wish to disrupt instead of relying on external tools to do the job for them.
+Structure brackets are going to be visible in space and in the overview if:
+
+The user can interact with the structure in question. A structure set to accept neutral parties will be displayed publicly for such pilots. Another structure set for alliance use only will not appear to any neutral pilot at all.
+The structure itself disrupts the user in any way. An Observatory Array having adverse effects on a pilot ability to probe or scan will appear to anyone.
+On top of the points above, all structures, no matter their size or role, will have warpable signatures like cosmic combat anomalies. None of them will need to be probed to be warped to, even if the user doesn’t have direct access to them. This will ensure pilots can quickly see what’s happening in their surroundings without having to use probes, and thus not having to give their position away to the inhabitants.
+DEATH IS ONLY THE BEGINNING
+And that’s it on how to attack and defend structures. Please remember most of this is subject to change based on feedback and time, even if we’re are starting to see the light at the end of the tunnel. We would also like to thank the CSM for their time reviewing this particular feature with us. As mentioned at the beginning, our next blog is going to focus on asset safety, or what’s happening to your stuff when a structure blows up.
+
+In the meantime, happy hunting and may the odds be in your favor.

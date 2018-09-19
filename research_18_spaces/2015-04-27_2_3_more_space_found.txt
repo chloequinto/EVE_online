@@ -1,0 +1,50 @@
+
+JOINING ROLES AND GRANTABLE ROLES
+Under the current system, the number of screens needed to set roles was a whopping 19 screens. That is a lot to go through. This is how the tree structure was:
+
+Roles
+General
+Station Services
+Accounting
+Hangar Access (HQ)
+Container Access (HQ)
+Hangar Access (Based at)
+Container Access (Based at)
+Hangar Access (Other)
+Container Access (Other)
+Grantable Roles
+General
+Station Services
+Accounting
+Hangar Access (HQ)
+Container Access (HQ)
+Hangar Access (Based at)
+Container Access (Based at)
+Hangar Access (Other)
+Container Access (Other)
+Titles
+Consolidating Roles and Grantable Roles was one of the key ingredients of this effort. By adding a tristate checkbox, we sliced the number of screens in half.
+
+These states are:
+
+  Unchecked for no role
+/ Half checked for Role
+Fully checked for Grantable role
+Before the change there were 6 of these screens to deal with hangars
+
+
+This is the access screen after the change
+
+
+HANGAR AND CONTAINER ACCESS CONTROL
+Previously, in order to deal with hangars and containers you had to go through a total of 12 screens, 6 for the standard roles and 6 for the grantable variants. With roles and grantable roles merged, this number was reduced to 6. On top of that we created a checkbox matrix allowing all access controls (whether HQ, Base or Other) to be on the same screen, cutting the original 12 screens down to 1. Not only does this make assigning these controls easier, but also gives you a much clearer overview of all the access controls for a corp member.
+
+ALL TOGETHER NOW!
+All in all, these changes bring the total number of screens for role management down to 5 from the initial 19.
+
+SLIDE FROM SIDE TO SIDE
+One of the corp management features our players frequently requested is the ability to see all the content of each screen in the smallest resolutions. Instead of band-aiding that by adding a side scroll feature to the content, we tilted the column headers making them vertical. The labels get cut if they exceed the header height, but you can always hover over to get a tooltip with the full text string. This change solves the scrolling problem (all the screens fit in the minimum resolution) and also helps with tightening the checkbox matrix.
+
+
+Before
+

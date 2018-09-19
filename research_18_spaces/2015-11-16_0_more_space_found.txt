@@ -1,0 +1,88 @@
+The above video was recorded on Tranquility.
+
+One of the greatest parts about it is how you can have your EVE client open at the same time and almost instantly see the new fit that zKillboard created show up in my clients saved fittings. This is a huge! To give you an idea of what this made me feel here is a picture of how stupidly full of excitement I was watching this go live on Tranquility.
+
+
+
+There are very few games out there that offer something like this and we are excited to see what kind of things our community creates with this new ability.
+
+A FEW EXAMPLES
+A few members of the community have already implemented this new CREST feature and you can go and try them out now.
+
+Fleet-Up
+Fleet-Up is a web site where you can share ship fittings and doctrines with others. It allows you to create private groups for your corporation or public groups such as the RvB Ganked or Spectre Fleet groups. Once you have a group with some saved fits others can come along view your fits, see if their skills allow them to use it, and then also if browsing from the in-game browser (IGB) they can open the fit in game.
+
+With the release of the fittings resource for CREST in Parallax fleet-up now lets you save the fits to your character from any browser without having to open the client at all. Here are some screen shots from Wacktopia of Fleet-Up:
+
+
+
+In the above you can see Fleet-Up asking you to give them permission to view and save fits for your character.
+
+
+
+Fleet-Up allows you to link multiple characters to a single Fleet-Up account so here you can select which character to import the fits from.
+
+
+
+After selecting a character Fleet-Up will show you all of the fits for that character and then you can easily import those fits into Fleet-Up to be shared.
+
+Wacktopia has said he is working on adding the ability to also export fits from Fleet-Up to EVE however it wasn't ready to be released at the time of writing this dev blog. If you would like to try Fleet-Up you can go to //fleet-up.com/
+
+Pyfa
+Pyfa is a fitting tool that lets you play around and experiment with fittings without needing to open the client, own the modules or ship, and before you have the skills. One of its greatest uses is the ability to have a very large number of fits and compare them to each other. Now once you're happy with a given fit and want to actually use it in EVE you can easily save it to the EVE server. The nice advantage of this new method over the existing method of copy the fit to clipboard and save that into the game is that you don't have to have the EVE client open on the same machine as Pyfa. You could in theory (and I would never advocate you do this) have Pyfa installed at work, mess around with fittings, save some fittings to EVE, and then when you log into EVE at home (because you wouldn't do that at the office would you?) the fits would already be available to your character.
+
+
+
+Here you can see Pyfa asking which character you would like to export the current fit to.
+
+
+
+Pyfa now also allows you to import fits from EVE easily. Great for those times when you don't have EVE installed and want to play around with a saved fit from one of your characters.
+
+
+
+Being as awesome as they are the Pyfa team even allows you to select between using Singularity or Tranquility.
+
+You can get the newest release put together by Sable Blitzmann of Pyfa from their GitHub releases page here: //github.com/DarkFenX/Pyfa/releases
+
+zKillboard
+Ever been browsing zKillboard and found that one fit that blew your mind as being not complete shit in your opinion? Well guess what, Squizz Caphinator has been kind enough to update zKillboard so that while browsing zKillboard, not on company time, you can easily click one button and have the fit saved to your character.
+
+
+
+
+
+To try it out just visit any kill from zKillboard: //zkillboard.com/
+
+RANDOM NUMBERS
+As of the writing of this dev blog on Monday November 9th at 14:00 there have been 2,969 requests made to the new fittings resource in CREST. 1,323 (45%) of them to create a new fit, 926 (31%) to get a characters fitting, and 720 (24%) requests to delete a fit. In graph form it looks something like:
+
+
+
+SECURITY CONCERNS
+However great this is, it obviously has some pretty great security concerns. You can read an article on our support page about how to verify some of these security concerns here: //support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-
+
+The main points to take away from this are:
+
+Ensure you are actually on the CCP web site before entering your credentials
+Ensure you have selected the correct character
+Ensure the application is not requesting any permissions it should not be or that you are not happy with giving it
+There are two permissions specific to fittings that players should be aware of. A web site or application can request:
+
+characterFittingsRead: This allows the application full access to see all of the fittings for the selected character.They cannot however create new fittings or delete fittings with just this.
+characterFittingsWrite: This allows an application to create and delete fittings. It however does not allow the application to see any existing saved fits.
+If you ever feel like your information has been compromised, you can revoke an application or web sites access to your information from our site: //community.eveonline.com/support/third-party-applications/
+
+CREST DOCUMENTATION
+If you would like to work with the CREST fittings you will need to understand how our SSO works along with the CREST fittings resource.
+
+The SSO documentation can be found here: //eveonline-third-party-documentation.readthedocs.org/en/latest/sso/intro/
+
+While the CREST documentation isn't perfect, we have started trying to gather the documentation here: //eveonline-third-party-documentation.readthedocs.org/en/latest/crest/characters_fittings/
+
+The documentation is hosted on a GitHub repo and we encourage everyone to help contribute to it.
+
+Conclusion
+This has been a fairly long time coming but it is finally here and already we are seeing amazing things created with it. A huge thank you to all of the third-party developers out there creating these awesome applications. We cannot wait to see what you do next. 
+
+CCP FoxFour on behalf of Team Tech-Co

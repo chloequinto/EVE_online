@@ -1,0 +1,68 @@
+
+History
+
+0UCH was originally founded by an EVE blogger named Black Claw in 2009. He believed the best way to learn how to survive in null sec was to go out there any lose some ships. “He founded 0UCH as a school of hard knocks,” explains Bren Genzan, the school's Director of Operations. It followed in the footsteps that EVE Uni had laid down, but focused its attentions on null sec.
+
+“Many larger alliances and organizations scoffed at the idea,” says Bren. However, their skepticism proved unfounded, as about 200 people joined up to PvP and PvE in null sec space. Despite this early success, the university went through growing pains. There were “political infighting, war decs, and leadership turnovers common to all corporations and alliances” according to Bren.
+
+After that first year, however, they moved the majority of its operations into Curse. The hostile, high-traffic region of NPC null sec proved to be a perfect place for them. They refocused their training entirely on null sec survival and basic combat.
+
+Methods
+
+Much like a real university, 0UCH runs a formal program. Their training consists of live lectures, broken into nine modules in four classes. They place an emphasis on hands-on training and direct interaction with the teachers.Much like a real university, 0UCH runs a formal program. Their training consists of live lectures, broken into nine modules in four classes. They place an emphasis on hands-on training and direct interaction with the teachers.
+
+“0UCH does not encourage students learn from guides, wikis, recordings, or video lectures,” Bren states. “We believe that the interaction between students and their instructors makes for a better learning experience.” This interaction, they believe, helps make students comfortable enough to ask questions, while instructors become flexible enough to coach each pilot at their level of comprehension.0UCH does not encourage students learn from guides, wikis, recordings, or video lectures,” Bren states. “We believe that the interaction between students and their instructors makes for a better learning experience.” This interaction, they believe, helps make students comfortable enough to ask questions, while instructors become flexible enough to coach each pilot at their level of comprehension.
+
+Unlike some other training corporations, 0UCH does not act as a feeder corp for any alliance or corporation, so students share comms with their instructors at all times. “We do this to encourage communication and camaraderie between instructors and students,” Bren says.Unlike some other training corporations, 0UCH does not act as a feeder corp for any alliance or corporation, so students share comms with their instructors at all times. “We do this to encourage communication and camaraderie between instructors and students,” Bren says.
+
+Their curriculum was developed by a veteran of both EVE University and Agony Unleashed, CampoV. It covers overview and client settings, bookmarking, directional scanning, weaponry, tackling, fleet operations, and target selection. When they decided to focus on giving new players the tools and confidence to get into null sec, he developed a program that is essentially Scouting 101.Their curriculum was developed by a veteran of both EVE University and Agony Unleashed, CampoV. It covers overview and client settings, bookmarking, directional scanning, weaponry, tackling, fleet operations, and target selection. When they decided to focus on giving new players the tools and confidence to get into null sec, he developed a program that is essentially Scouting 101.
+
+The idea is that when students graduate from the program, they should have all of the tools that allow them to act as a scout for a fleet. Graduates are able to jump into systems, assess threats and communicate them to the fleet, all without losing their ship. 0UCH considers this the basic principle of null-sec survival.The idea is that when students graduate from the program, they should have all of the tools that allow them to act as a scout for a fleet. Graduates are able to jump into systems, assess threats and communicate them to the fleet, all without losing their ship. 0UCH considers this the basic principle of null-sec survival.
+
+These lectures are delivered by 0UCH staff, which numbers 30 to 40 active pilots at any one time. Called the Operations Department, they are required to teach classes and mentor students through the training program, all as volunteers. No compensation is offered, and the only ship replacement is done for students and new instructors. The act of training the new players is thus a labor of love for many of them.These lectures are delivered by 0UCH staff, which numbers 30 to 40 active pilots at any one time. Called the Operations Department, they are required to teach classes and mentor students through the training program, all as volunteers. No compensation is offered, and the only ship replacement is done for students and new instructors. The act of training the new players is thus a labor of love for many of them.
+
+“Teaching new players, as the saying goes, can be like herding cats,” Bren jokes. “0UCH mitigates that with a very structured training cycle.” Once the basics are complete, they break in new players to fleet work in a bubble camp they call Camp Curse.Teaching new players, as the saying goes, can be like herding cats,” Bren jokes. “0UCH mitigates that with a very structured training cycle.” Once the basics are complete, they break in new players to fleet work in a bubble camp they call Camp Curse.
+
+While learning that null-sec is not scary, 0UCH also teaches that high-sec is not safe. The survival techniques learned in 0UCH work in all sectors of space. “0UCH builds confidence in pilots so they can deal with those threats intellectually and tries to minimize the sense of helplessness and frustration at being the victim.”
+
+Class Schedule
+
+Because 0UCH has a very formal program, they have a schedule which rotates through classes. They tend to hold four classes on the weekends in EU prime time, one weekday class in late US, and bi-weekly classes in the AU timezone. 0UCH instructors sign up to fill the schedule as their schedules permit. Once that is done, the class is scheduled on the in-game calendar so students can plan their schedules.
+
+The class rotation is set up such that if a student could only take classes on a single day, they should be able to complete the classes in 4-6 weeks, depending on where they enter the rotation. However, if they have more flexibility, they should be able to complete everything in about 2 weeks. Instructors also often volunteer to hold unscheduled training to help students who are unable to make regularly scheduled classes.
+
+Students have 90 days to complete the program, though extensions are made on a case-by-case basis.
+
+Advanced training is available to instructors, though it is usually held on Singularity as private lessons or in seminar format.
+
+Challenges
+
+Being a university in EVE isn't easy. “First and foremost, the bar for entry … is pretty low,” says Bren. “We don't charge anything. We figure it actually costs us money to train a student. We provide this service because we find enjoyment in developing other players.”
+
+Many students join 0UCH to give EVE one last chance to excite them. “If we keep that guy playing, then we've done our job,” Bren proclaims. “So long as we've got people who think it is fun to teach newbies and get killmails, we will keep doing it.”
+
+Of course, this open door policy has its pitfalls. “We accept the risk that the guy who joins us might just be a spy, awoxer, or just a jackass in general.” Luckily, Bren describes these problems as “pretty self correcting.” Because of their openness, infiltrators wouldn't really have much to gain and students who are jerks will quickly be kicked.
+
+Students do pay a price, however. 0UCH has rules and if one is broken, the offender is kicked from the program. On the PvP side, students are restricted in what they can fly, where, and with whom until they have completed most of their training regimen. “We don't hand out Rifters and tell our students to go out and lose ships anymore,” Bren explains. “We tell them, 'If you are properly trained, you will be hard to kill. If you use teamwork, you will kill more and die less.' It's contrary to everything every EVE PvP veteran tells the new player, but it's what every EVE veteran has learned over time.”
+
+Some students may have difficulty grasping a subject, dragging out classes longer, but this is expected. It's the main reason they do not teach via the forum, recordings, or videos. It might make for more work up front, but they see the benefits when they bring them out to their fleets. “More often than not, at the end of a typical class, an EVE veteran will thank their 6-month old 0UCH instructor for teaching them something they did not know,” says Bren. “That's rewarding in itself.”
+
+The Staff
+
+The majority of 0UCH instructors are home grown, though they have more than a few big fleet, high SP, experienced combat pilots as a core of knowledge. When a student graduates, they have 30 days to decide what they want to do next.
+
+“Many of our students come to 0UCH with plans in place. They know they are going back to a corp and take what they've learned to go do what they want,” says Bren. Others, however, are not so sure, and use the time to figure out what they want to do.
+
+A few of them decide to stick around. “We teach and mentor those last few to become part of our fraternity,” Bren explains.
+
+They've also had guest lecturers in the past, such as Azual Skoll of Agony Unleashed, who taught a course on interdictors, or BullMastiff of Appetite 4 Destruction, who helped them learn how to fight in multi-ship engagements.
+
+An interesting thing they do for training is watch various PvP streams together. “For instance, we'll sit and watch Sard Caid, pick up tips from what he is doing, analyze it, and explain it to our students in a live commentary.”
+
+Final Thoughts
+
+0UCH provides a service that is essentially “boot camp”. Unlike other training organizations, they are interested in getting players trained quickly and efficiently in the basics, then sending them out into their own live-fire operations. Bren compares 0UCH to service organizations like the Rotary Club or Lions Club; providing services to the community for no remuneration, but rather simply because they like it.
+
+“0UCH is doing that in EVE Online and no one really knows that we do,” says Bren.
+
+Hopefully they will soon.

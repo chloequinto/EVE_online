@@ -1,0 +1,15 @@
+
+But wait, there’s more! Like an industrial strength mail order cleanser, this change introduces increased control over rust. The best way we’ve found to present rust in space involves the use of two separate materials.  In the previous 3-material system that was a bit too expensive; we didn’t want to be limited to two materials and one accent. V5++, however, allows a 4th material.  With the added utility we can now keep three primary materials, and have more realistic rust on Minmatar hulls.  The Amarr, Caldari, and Gallente hulls receive non-rust benefits in the form of improved metal and tech areas.
+
+
+
+New Packing
+
+Five years ago, as indicated in this antediluvian dev blog by CCP Salvo, EVE shifted from the quaint NGS file system to an updated system distinctively dubbed PGS. Late last year that obsolete method was supplanted by the new PBR model, but by and large the texture packing system remained the same. The addition of new maps, combination of older ones, and technical issues involved in the display of the work of our artists necessitated a new packing method to make our content shippable.
+
+We’ve moved the albedo maps, which work with the factional information to generate the actual color information for the hull, to inhabit the R, G, and B channels of a texture called _AR. The alpha channel is occupied by the Roughness map, accounting for the name of the packed texture. A and R together…PBR Bros.
+
+We run the Normal Maps, X and Y, into the high quality alpha and green channels of a second packed texture for maximum precision. Then the Occlusion map fills the blue channel to generate the _NO texture. The red channel of this texture is as of press unused, though CCP Salvo is ever so excited to explore additional ways to irritate CCP Mankiller, so who can say what the future may hold?
+
+Material and Glow, which also benefit from increased quality, are set into the green and alpha channels of a third packed texture, and the Paint and Dirt maps round out the red and blue channels. This final texture is appropriately named _PMDG.
+

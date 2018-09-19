@@ -1,0 +1,53 @@
+The PLEX Vault will allow you to move PLEX safely throughout the universe rather than having to move it in a ship. It will still be possible to carry it in a ship like any other item if you want, so if you have an urge to fill a shuttle full of PLEX and tour low sec just drag PLEX out of the vault and into your cargo and you’re good to go.
+
+We know how much you love it when ships blow up with piles of PLEX inside, we even might understand why, but, we also don’t want new PLEX users to be losing their PLEX before they can trade it because they didn’t know how to get to market safely.
+
+THE NEW NEW EDEN STORE
+With a much smaller PLEX, we can easily set up the New Eden Store catalog in PLEX prices rather than Aurum and let you use PLEX from your vault to buy things there. The coexistence of PLEX and Aurum has always been a heavy burden on anyone who wanted to buy something from CCP. Whether you just wanted a SKIN or you wanted to buy the smartest item to trade with other players to get ISK, you had some math to do. With Aurum out of the picture and PLEX taking over in the NES, buying should be much less confusing.
+
+WHAT ABOUT AURUM?
+Aurum had its run but we are excited to move forward with PLEX only. On launch day for this feature we will convert all existing Aurum balances above 1000 Aurum to the new PLEX. Today you get 3500 AUR for every PLEX you convert to Aurum, and this is the same rate we will match to convert Aurum to the new PLEX. This means that if your Aurum balance on launch day is 1000 Aurum or more, it will be converted in its entirety and you will get 1 PLEX for every 7 Aurum.
+
+A WORD ON THE PLEX MARKET
+One consequence of making the changes described above is that we are combining the existing stockpiles of Aurum and PLEX, which could affect the value of PLEX in the EVE market as new supply enters. Even though we believe this set of changes will be extremely positive, we very much want to protect the value of PLEX that you currently own. Here’s a small list of information and plans to protect the PLEX market:
+
+As we announce these changes, we expect the in-game market to respond and that there may be some volatility which could take many forms. Based on what we know about the relative sizes of Aurum and PLEX stockpiles, we believe the market should take care of finding a new balance without major impact on the price and value of PLEX
+Anyone looking to liquidate Aurum for ISK has had ample opportunity to do so, especially since the release of skill extractors
+Converting only Aurum balances that exceed 1000 Aurum will lower the total amount converted and decrease the risk of a rapid inflow of PLEX destabilizing the market.
+We will run specials in the New Eden Store leading up to the change so that there’s good reason to use up excess Aurum
+We will keep a careful eye on things and be ready to intervene in other ways if necessary to protect the PLEX ecosystem and your investments in it.
+
+WRAP UP
+With these changes, we hope to keep everything that works about PLEX intact while greatly improving clarity and usability. More details will emerge over coming months as we take on feedback and continue to nail down specifics. We’ve included a Q and A below to try and address some common questions, let us know if we miss anything!
+
+Fly free,
+
+Team Size Matters
+
+HANDY FAQ!
+Q: When will this feature launch?
+A: We don’t have an exact date yet, but this feature is in active development now, and you can expect more detailed information on the launch timeline at EVE Fanfest in early April.
+
+Q: What will happen to existing market orders for PLEX when the feature launches?
+A: We will cancel all orders and repay fees, as usual when we make a major type conversion.
+
+Q: Will market histories reflect the change in PLEX value?
+A: New PLEX will be a new item type, getting its own graphs and history data starting from day one and leaving old PLEX data unaffected.
+
+Q: Can I still buy Aurum?
+A: Yes! All current Aurum packages will be available until near launch of these changes, after which we will close Aurum purchasing completely.
+
+Q: Can I still buy PLEX?
+A: Yes, until launch of these changes PLEX will continue to work exactly as today, and be offered from CCP at same rates and packages. Any PLEX you own on launch of these changes will be converted to 500 of the new PLEX.
+
+Q: Why are you only converting Aurum balances above 1000?
+A: A large portion of the total Aurum stockpile is in small balances left over from past giveaways and by not converting those small balances we mitigate risk of oversupply in the PLEX market
+
+Q: For balances over 1000, will the entire balance be converted or only the amount exceeding 1000?
+A: The entire balance will be converted. For example, a balance of 1050 Aurum would be converted into 150 PLEX.
+
+Q: Will prices change in the New Eden Store?
+A: Prices may change after the conversion from Aurum to PLEX as not all prices will be possible to convert at even numbers. Overall this change to PLEX is not made with the intention to change the price of products such as Skill Extractors in the New Eden Store, and we will define new pricing in PLEX to match the current pricing in Aurum.
+
+Q: With smaller PLEX, will I be able to buy less than 30 days of Omega time?
+A: We currently we have no plans regarding smaller game time packages.

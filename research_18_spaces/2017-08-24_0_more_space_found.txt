@@ -1,0 +1,50 @@
+
+NEW REACTIONS SYSTEM COST INDEX
+Reaction jobs will contribute to their own System Cost Index when calculating the cost of installing the job. This System Cost Index will use the same formula as current industrial activities:
+
+
+
+TAXATION
+Reactions in Refineries can be taxed by the owners of the structure, and the level of tax will be defined by them through Access Control Lists. This tax is independent of other activities being performed in the Refinery.
+
+NEW REACTIONS SKILLS 
+All characters will be able to run Reactions, including those in an Alpha state, but only Omega pilots will be able to improve their operating efficiency in this area. New skills that determine their ability to run Reactions efficiently and effectively will be introduced prior to the Winter release, to allow pilots time to train them up in time. The effects of these skills are exclusive to Reaction activities. They will not affect a character's ability to perform other industrial activities such as Manufacturing or Invention, and other Industry skills will not affect their Reaction activity.
+
+Reactions: Speeds up reaction jobs by 4% per level
+Mass Reactions: Allows one additional Reaction job per character per level
+Advanced Mass Reactions: Allows one additional Reaction job per character per level
+Remote Reactions: Each level increases the distance at which Reaction jobs can be started. Level 1 allows for jobs at a range within 5 jumps, and each subsequent level adds 5 more jumps to the range, with a maximum of a 25-jump range
+RELEASE DAY FREQUENTLY ASKED QUESTIONS
+Q: What will happen to my current Reaction jobs at Downtime on Release Day?
+
+A: They will continue to run until Downtime on Release Day, but will be stopped at this point. They will not be able to be restarted in a POS array.
+
+Q: What will happen to my current POS array?
+
+A: POS Reactor arrays will remain anchored in space but will be offline after the Release. Your Reactor Arrays will not be able to be onlined again. No new arrays will be able to be manufactured and no new arrays can be anchored. Any jobs to manufacture arrays that are running at the time of the release will continue to run (will not be paused or cancelled) and the arrays will be delivered to the manufacturer once the job has completed. It will not be possible to anchor or online these arrays.
+
+**Q: _What do you plan to do with this defunct equipment in the future?**_
+
+A: As we have done previously, a compensation plan will be put in place in the future to reimburse the investment capsuleers have put into this equipment.
+
+That's all for now. Be sure to add your feedback to the Comments section of this devblog. Fly safe!
+
+-Team Five-0
+
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

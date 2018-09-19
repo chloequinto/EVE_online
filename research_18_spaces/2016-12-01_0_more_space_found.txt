@@ -1,0 +1,36 @@
+
+In Inception you become a key player for your empire in responding to the mysterious Drifters who are attacking all over.
+
+Now we’re all about the present, and the future. Since this momentous release we have been hard at work reading through the fantastic feedback provided by EVE players all over the interwebs. We've been inundated by positivity towards our campaign for the New Player Experience, and we're humbled by the warm reception you have given both us and the new players enjoying their first steps into EVE Online. With this feedback, we've been updating Inception with changes and fixes to further polish the experience for all of New Eden’s newly created capsuleers.
+
+We wanted to take this opportunity to highlight just some of the changes we have made;
+
+All new characters that are created on accounts that existed before the release of Ascension, will now receive the new NPE.
+This can be skipped at any time, by clicking the icon in the Info Panel but you will not be able to resume or come back to Inception. We encourage you all to try it out!
+We increased the Skill Point limit for Mini Skill Injectors to 1,500,000 SP from the previous limit of 750,000.
+Due to how this limit works, it takes into account unallocated Skill Points and many new characters were starting out with 250,000 due to our Refer a Friend program which caused confusion during Inception.
+Many small but needed UI and UX changes.
+These consisted of text changes, further UI highlights that are more descriptive and more.
+We also added more systems as possible site destinations for Inception.
+The influx of new players was so rapid and massive that we needed to respond by doing some performance optimization. So far Gallente have been the most popular choice.
+We also had many smaller fixes and improvements made to EVE Online that can be reviewed in the patch notes.
+
+
+"Hold the phone! Who destroyed my Empire´s Titan? I must investigate."
+
+The December release for EVE will also include several improvements from us as we continue to iterate towards our internal “Inception 1.5” milestone. We’re still not finished but here are some of the changes we are working on:
+
+Introducing the concepts of multi-targeting while in combat with NPCs
+Providing a distance guidance when out of looting range from Cargo containers / Wrecks
+Balancing NPC Bounty payouts to feel more significant
+Providing more information on fitting during the Battle Preparations operation, to guide players to fit multiple weapons and the damage control unit
+Refining the flow while participating in the Hidden Drifter Zenith site and operations
+Improving skill training guidance
+Improving flow and gameplay in the Empire Might site
+And more fixes and small usability improvements
+
+"Mother crowbar, what is this evil looking thing? Best get to work with my Empire on terminating this from space, looks malicious"
+
+Thanks again to the community for a massively positive response to our first efforts in revamping the NPE. We hope that Inception is helping you guys recruit and to get more new players in to the game that stick around and get connected to this awesome community of ours.
+
+-Team Genesis

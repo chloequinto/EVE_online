@@ -1,0 +1,29 @@
+The sites offer a variety of dangers. There can be environmental damage, where objects, clouds, etc. in the area damage you if you move to close to them. There can also be various kind of triggered damage; in the larger sites Sentries can appear (although you are never required to fight them to complete the site). Environmental damage can be very dangerous as it can actually destroy your capsule as well as your ship.
+
+Another factor we’re going for is adding puzzle-like elements to exploring these sites. You have to figure out the best interaction order for each site, there are some timed elements, navigating correctly can be important and so on. Unfortunately, the current content tools we have to build them do not allow for a huge amount of variance, though there are random elements here and there to keep you on your toes.
+
+The Limited site will be for frigate-sized ships only, but the other two will be for any type of ship. The reason for restricting the Limited one is that it relies heavily on environmental damage and scaling that type of damage dynamically based on ship size is troublesome. So either the site would have to be completely lethal for small ships or trivial to do for larger ships. The other sites will focus more on giving smaller ships a different route than larger ships, thus allowing them to bypass damage aimed at larger ships.
+
+I'm just here for the phat lewts
+So what kind of loot can you expect to find in these sites? Well, the Sleepers have of course been using this as dumping grounds for all kinds of items they’ve collected throughout the years, in addition to storing their own stuff. So a wide-variety of items can drop, ranging from Sleeper blue loot to named modules to Cosmos blueprints and ingredients. Research-based items and skill books can also be found.
+
+In addition, we’ve created a new set of modules to spice things up a little bit. The new modules in question are weapons that offer very strong primary stats, but that completely nerf your resistance while fitted. Using the term Polarized, they exist in small, medium and large versions for all the main weapon groups, 12 of them in total. They are based on the short range version of the weapons (pulse, blaster, etc.). The reason for this is that we did not want these weapons to be used for sniping too easily.
+
+The Polarized weapons have their stats based on the Tech II version (for instance Polarized 200mm AutoCannon is based on 200mm AutoCannon II), with the following adjustments:
+
+Damage Multiplier is the same (this is to reduce their effectiveness as gank weapons)
+Rate of Fire is +20% (i.e. they should 20% faster, resulting in ca. +25% damage)
+Tracking speed is +15%
+Range and Falloff is -20% (you need to get up close and personal to your target)
+Cap Use is -25% (mostly to accommodate the increased RoF)
+Fitting (CPU and Power Grid requirements) is approximately -10%
+Capacity for the ones requiring charges is +200% (i.e. you can fit three times as much ammo/missiles)
+The modules are Tech II, meta-level 9 modules. They thus have the same skill requirements as Tech II, but they also benefit from the specialization skills. They require their Tech II counterpart to manufacture
+The price of those weapons should make them not a feasible choice for suicide ganking but only just so, so that their price does not dictate their use too much. This will likely require some future adjustments to drop rate and bill of materials
+They have the Sleeper's shader to distinguish them visually
+And to restate, when fitted all resistance are set to 0 and can’t be raisedby other means
+In creating these modules we’re using the same philosophy as we did when creating the modules in the Inferno expansion: they should offer a new tactical niche that supplements rather than replaces existing ones. While the Inferno modules were a bit hit-and-miss, the more successful ones like the Ancillary modules and the Micro Jump Drive succeeded in creating new tactical elements without obsoleting existing modules. It would be easy to make modules that were just strictly more powerful than existing stuff, but we’re trying to avoid starting down the road of power creep that design would result in. We expect the Polarized weapons will lead to fun, but minor, shifts in EVE's complex tactical metagame and that pilots will experiment with them and find some cool, niche uses for them. We do not anticipate or desire these weapons to become a stable in every fight everywhere.
+
+Well, that’s it for now. The Limited Sleeper Cache site and the Polarized weapons are already live on Tranquility for you to explore. Look out for the Standard and Superior Sleeper Cache sites to hit the test server Singularity in the next few weeks and start appearing on Tranquility in the Rhea release on December 9th.
+
+Now, go explore!

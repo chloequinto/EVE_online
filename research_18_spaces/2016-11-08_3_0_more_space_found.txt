@@ -1,0 +1,55 @@
+Adding a new character - Click for full size
+
+Touching one of the character entries will open up further details on the character.  Swiping a character entry to the left will remove the character from the list.
+
+The character sheet shows a number of details:
+
+The character’s portrait
+Current Alliance and Corporation
+Current wallet status
+The Character’s age
+Total Skill points
+The active ship
+The character’s location
+The current skill queue, including time remaining on each skill
+Any jump clones, their locations, and the implants they have installed.
+
+The Character Sheet - Click for Full Size
+
+Activity Feed
+The activity feed allows you to see when particular events of interest occur in-game. It will also cause your phone to alert you when the event occurs with push notifications, which can be disabled for each type of event to suit the preferences of individual pilots. At release, it will list the following events:
+
+New Mail
+When a Character’s Skill Queue is Empty
+When a Skill has completed training
+When you have a new contract assigned to you
+When a PLEX is donated to one of your characters
+When a new Corporation Vote has been initiated
+When you have been awarded a new medal
+When the CEO of your corporation has been replaced
+When a one of your corporation applications has been accepted or rejected
+When a pilot has been removed from a corporation
+When you have declared war or had war declared on you
+When you have received a new calendar invite
+
+
+You can choose to disable push alerts and visibility in the activity feed for each separate entry to make sure you only get the notifications you care about. We will be adding more notifications in the future, so let us know which ones you would find most useful in the dev blog comments thread.
+
+Mail
+The mail icon opens up mail for the currently selected character, allowing you to see all mails that they have received, including corporation and alliance mails. You can also compose new mails, with the “To:” field featuring character name matching similar to the client. Mail arrival can also trigger phone notifications, so you’ll know any time someone sends you fan mail.
+
+
+
+Calendar
+The calendar allows you to see upcoming events for the currently selected character. This includes personal, corporation and alliance entries. You can also accept, decline or tentatively accept invitations on the calendar. This is an especially useful feature for smaller corporations or alliances as it allows them to broadcast events to their members and get responses, even if they’re offline.
+
+
+
+Store
+EVE Portal also allows you to purchase additional PLEX or Aurum for the account of the currently selected character if you have saved your payment details in account management. This is handy for topping up quickly from your phone.
+
+
+
+We hope you enjoy using EVE Portal, which can be downloaded now on both the Google Play Store and iOS App Store. If you encounter any issues while using EVE Portal, you can feel free to contact our Customer Support team for further assistance. While this initial release already contains some useful features, we will be continuing to add more functionality over time to enable you to do more, even when away from your computer. If you have particular ideas, you should let us know in the comments section.
+
+To view the Google Play and App Store pages for EVE Portal, click the respective links below:

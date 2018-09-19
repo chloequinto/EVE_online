@@ -1,0 +1,108 @@
+
+FORCE AUXILIARY CAPITALS
+Four brand new massive internet spaceships! Force Auxiliary Capitals will take over the remote repair role from Carriers. They will be the only class able to fit the Triage module and the only capital class with bonuses to remote repair modules. They will have limited combat abilities of their own, being unable to fit any guns or launchers. However, we will be giving them a drone bay for self defense. They will never be the damage dealers of the fleet, but instead, they will become the new logistics backbone.
+
+Force Auxiliary Capitals will also have Fleet hangars Ship hangars, and refitting abilities to all their fleet mates like any other capital.
+
+We understand that a lot of capsulers purchased their carrier as a logistics platform. We don't have defined plans for a transition between existing Carriers to the new Force Auxiliaries, but I can assure you it is on our radar, and we'll be announcing the transition plan with plenty of time for everyone to get ready.
+
+GENERAL BALANCE CHANGES
+We have a vast range of balance changes to go with all of this. First and foremost...
+
+Effective capital-based remote repair will be limited to Triage only
+Remote-Repairing Carrier & Super-Carrier fleets will be a thing of the past. The N+1 nature of these tactics encourages enormous blobs and currently the best counter is to bring an even bigger group of your own capitals. The more carriers and super-carriers you bring, the more your entire fleet can tank. Under the Citadel expansion’s capital changes, the bar to killing capitals is limited to what a single Force Auxiliary in Triage can tank. If you can kill that, eventually you can kill the entire capital fleet...assuming you can stay alive and keep them tackled (smile)
+
+You will be unable to refit while you have a weapons timer
+The incredibly talented and endlessly creative players of EVE Online have taken combat refitting to its extremes. With some capsuleers refitting during combat from maximum shield resists, to max armor resists, and finally maximum hull HP to ensure they last as long as possible. Currently if you're shooting at carriers in a large group, which evercarrier you're shooting will refit to maximum tank to ensure that the remote repairs of its fleet-mates are most effective, while the other carriers fit to provide maximum remote repairs. Bring jamming support to counter this? They will refit ECCM on the fly. The Swiss-army knife nature of refitting capitals makes trying to balance them impossible. Anything you bring to fight them can be countered in seconds.
+
+After the Citadel expansion, no ship will be able to refit while it has a weapons timer. The fittings you chose before the battle began become a lot more important and counterable. It is not impossible to refit...but you will have to wait out your weapons timer and, effectively, be out of the battle while you do so. We're considering adding a weapons timer to triage & siege modes...but we'd like your feedback on that.
+
+No capital will have complete electronic warfare immunity
+Yes, titans can be tackled by enough Rifters, or jammed by enough Falcons. We've got some interesting mechanics for this and I'll go through them one by one -
+
+Warping: Supercarriers and Titans will have an innate warp strength of around 20 to 50. We haven't locked these numbers in and we'd love to hear from you on what you think is appropriate. Heavy Interdictors with a focus point will work as they do now, as will bubbles.
+
+ECM / Tracking Disruptions / Sensor Dampeners / Target Painters: We're introducing a new attribute 'Electronic Warfare Resistance'. If your ship has 50% Electronic Warfare Resistance, any electronic warfare modules will be 50% less effective on the target. In the specific case of ECM, this takes effect before the roll against Sensor Strength is done. So it is possible to Jam / Disrupt / Damp a Titan...but for best results you should use bonused ships. Force Auxiliaries going into Triage and Dreadnoughts going into Siege could have their Electronic Warfare Resistance attribute set very high, but they won't be un-counterable.
+
+Stasis Webifying: We're introducing a new attribute 'Webifying Resistance' and it works the same as Electronic Warfare Resistance.
+
+Total Hit Points
+All titans, supers, carriers and dreadnoughts will have their HP re-balanced. The Hel and Nidhoggur will no longer be the black sheep of the family, and will have equivalent HP statistics. Titans and supercarriers will be receiving a cut to their total EHP. The current scale between ship classes currently looks something like this:
+
+
+
+After the Citadel Expansion, it will be a little flatter. However, capital pilots will have more options to increase their EHP.
+
+NEW CAPITAL MODULES
+All existing capital sized modules will be getting a full set of Meta, Tech 2, and Faction variants. Yes, this includes Tech 2 guns (and the skills for them). We're also introducing a bunch of new modules -
+
+All existing XL guns and XL launchers
+New: High Angle Weapon Batteries
+Remote armor repairers
+Remote shield transporters
+Remote energy transporters
+Remote hull repairers
+Local armor repairers
+Local shield boosters
+New: Local hull repairers
+New: Capital Armor Plates
+New: Capital Shield Extenders
+New: Capital Microwarpdrives
+New: Capital Energy Warfare Modules
+New: Capital Cap Boosters and Charges
+New: Capital Capacitor Batteries
+New: Capital Warp Disruptors & Scramblers
+All of these modules, HP and damage will be re-balanced in accordance with structures. We're not ready to release any figures yet, but watch for more devblogs full of graphs and spreadsheets! A few quick notes...
+
+Existing Guns & Turrets
+These will be re-balanced to the new Capital EHP levels. They will also have their effectiveness on sub-capitals greatly reduced.
+
+High Angle Weapon Batteries
+New rapid firing anti-sub-capital weapon batteries are specifically designed to fire at sub-capitals. However their damage will be considerably lower than current XL weapon systems (in the 1 to 2k DPS range on a Sieged Dreadnought). They are short range guns, and their tracking will probably be somewhere in the battleship gun range.
+
+
+
+Capital Armor Plates & Shield Extenders
+This forms a large part of the HP balance. While traditionally a large part of a sub-capitals EHP came from plates or extenders, there are no capital equivalents. No longer! The choice on what to fit (plates, the most powerful guns, capital neutralizers, etc) will be a very important decision post Citadel expansion.
+
+Capital Warp Disruptors & Scramblers
+The new capital scramblers and disruptors will offer higher scramble strength with no bonuses to range. Existing officer disruptors and scramblers (which are capital modules) will keep their current roles as longer range capital tackle.
+
+CARRIERS, SUPER-CARRIERS & FIGHTERS
+We are completely re-imagining fighter game-play. 
+
+Squadrons
+The carriers of the Citadel Expansion will launch squadrons, made of up to 12 fighters of the same type.
+
+These squadrons act as a singular unit. Carrier pilots give orders to an entire squadron. You lock an entire squadron as one unit, except instead of Shields, Armor and Hull, the number of fighters remaining in that squadron are shown.
+
+
+
+Carriers & Super-Carriers will launch up to 5 separate squadrons at a time. We are intending on introducing 3 classes of fighters, these will replace all existing fighters and fighter-bombers.
+
+**Light Fighters**	Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**	Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**	Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+**Light Fighters**Optimized for anti-Fighter combat and light damage roles
+**Support Fighters**Optimized for Electronic Warfare tasks including (but not limited to) Stasis Webifiers, Warp Disruptors, Neutralizing, Tracking Disrupting, etc.
+**Heavy Fighters**Optimized for launching waves of bombs or torpedoes, able to do tremendous damage to capitals and structures.
+The number and types of squadrons a carrier or super-carrier can launch will be limited.
+
+Management of fighters ready on the launch decks will be an important consideration for carrier pilots. It takes time to swap one squadron of ready fighters out for another, or re-arm your Heavy Fighter Torpedo squadrons.
+
+
+
+Abilities
+Each fighter squadron can have up to three abilities. These are similar to modules on ships, however there is no fitting for fighter squadrons.
+
+Some of the abilities we're considering to include
+
+Microwarpdrive
+Micro Jump Drive
+Evasive Maneuvers
+Anti-Fighter Missile Swarm
+Anti-Capital Torpedos
+All Electronic Warfare Effects
+Specialized Beam Weapons
+Bombs
+

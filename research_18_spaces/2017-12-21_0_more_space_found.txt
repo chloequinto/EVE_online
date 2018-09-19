@@ -1,0 +1,38 @@
+
+Epic Journal:
+The Epic Journal will be removed completely and will be handled entirely by the Agency. See The Agency updates above for more information and pictures.
+
+Incursions:
+We are also moving almost all the Incursion tab to the Agency, however we have not found a good home for the loyalty point log, so with the January release we will keep this in the Journal and everything else will move to The Agency.
+
+We would like to know what you use the Loyalty Point Log for, so please provide us some feedback in the comments thread for this devblog. For Example: Do you only use this to see your current pool of LP?
+
+Agent Finder
+In addition to all these changes, we are removing the Agent Finder as it is currently known.
+
+With the introduction of The Agency, we effectively introduced a new Agent Finder and we felt this was an opportunity to encourage people to use The Agency, while simplifying the process of finding an Agent to work with.
+
+If you filter the Agency to "Specify" for "Agents" you will basically get all the filters that were in the Agent Finder.
+
+All pictures included in this dev blog are works in progress and subject to change.
+
+Thanks for reading! All these changes are currently available on our test server, Singularity, and we look forward to hearing your thoughts and feedback.
+
+Team Psycho Sisters
+alt
+THE SCOPE
+READ MORE
+
+
+2017-05-19 - BY CCP LOKI
+Blood Raider Shipyard Under Attack!
+
+2017-04-07 - BY CCP LOKI
+YC119 Kyonoke Inquest
+PATCH NOTES
+READ MORE
+
+2018-03-20 - BY CCP FALCON
+Patch Notes For March 2018 Release
+2018-02-13 - BY CCP FALCON
+Patch Notes For February 

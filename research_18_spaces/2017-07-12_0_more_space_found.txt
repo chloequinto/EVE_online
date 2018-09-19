@@ -1,0 +1,57 @@
+
+The next graph shows the usage statistics over the course of the last two years, which notes a steady decline from 10% usage to 3% usage by the start of January this year.
+
+
+
+This graph does of course show a spike in Captain’s Quarters usage around the release of EVE Online: Ascension where a substantial number of new players entered New Eden and defaulted to the captain’s quarters view, before the trend continued into 2017.
+
+An interesting point to note from this graph is also the activity around the release date of EVE Online: Citadel and the several months afterwards, which shows a gradual – rather than drastic – increase in the number of pilots reverting to hangar view rather than captain’s quarters.
+
+This indicates that many of the pilots who chose to move into citadels as homes, where captain’s quarters are not available, were already in the position where they were using hangar view instead.
+
+This graph also correlates with the percentage of game time logged in and docked that our pilots spend in captain’s quarters versus hangar view:
+
+
+
+It is of course important to note that while use has been falling steadily over time, part of the reason for further decline recently has been a change in the default view that occurs when a character docks in a citadel, which doesn’t offer captain’s quarters and switches the account setting to hangar view.
+
+THE FUTURE
+Taking usage metrics and development time need for maintenance into account, along with the fact that captain’s quarters uses older middleware and technologies that slow down or block discussion of future engineering efforts, we have decided that the time has come to retire captain’s quarters with the August release.
+
+Retiring captain’s quarters frees up a significant amount of development time that can be used elsewhere to focus on preparing the EVE Online client and the graphics technology used within it for a long and visually stunning future. This allows Team TriLambda to dedicate more of their time to the core of gameplay in New Eden – spaceships, and space.
+
+WHY NOT JUST UPGRADE CAPTAIN’S QUARTERS?
+The technology behind captain’s quarters was implemented in 2010. Some of this technology was designed in house by CCP specifically for purpose, and some is based on older middleware that we no longer support.
+
+Bringing captain’s quarters up to a standard that would reflect current graphics technology would take roughly 6-8 months of development work, which we feel for the percentage of players utilizing the feature, is not a sensible investment of development time that could be used on furthering the visual side of core gameplay in New Eden.
+
+As explained earlier, the current condition of captain’s quarters means that the underlying infrastructure would need to be stripped out of the client and rebuilt from scratch.
+
+WHAT ABOUT ALL THE APPAREL I OWN?
+While captain’s quarters will be removed from New Eden with the August release, the ability to view your avatar in 3D will remain in place through the show info window on characters.
+
+You’ll also still be able to customize the look of your avatar through the station services panel the same as you can do right now.
+
+All the apparel that you currently own will still be available to you and will remain usable as it currently is now so that you can show it off to other pilots.
+
+There are no plans on the roadmap right now to expand on the locations within the client where your avatar will be viewable to others, however given that the character creation system and the avatar system remains untouched by the removal of the captain’s quarters environments and is regularly maintained as part of the new player experience, there is the potential possibility for this in future.
+
+WHAT ABOUT TWITCH INTEGRATION?
+In a similar vein to captain’s quarters, the usage of integrated Twitch streaming was also recently reviewed, and with a negligible number of our pilots utilizing integrated Twitch functionality, we’ve also decided to discontinue support for this as of the September release.
+
+Obviously, we still have 100% support for our streaming community and the incredible (and often entertaining) streams and initiatives that they run, however all our major streamers generally shy away from utilizing Twitch integration. This is purely because third party packages such as Open Broadcaster Software allow for levels of visual customizability that out integrated service could never hope to compete with, such as the ability to use custom overlays and censor parts of the screen for opsec purposes.
+
+SUMMARY & BENEFITS
+Captain's Quarters is scheduled for removal in the August release and Twitch Integration in the September release. The retirement of these features hands back a substantial number of man hours to the development team that can be spent on other aspects of gameplay in New Eden.
+
+While some of these man hours will go into producing new content, a large proportion of them will be dedicated to new engineering efforts that will improve and advance the technologies that we use, bringing better visual fidelity EVE Online client and allowing the team to build on technologies that improve its performance and reliability.
+
+One of the first things that we want to investigate is to release a 64-bit EVE client to better utilize your available system memory when playing. Compiling a 64-bit client has been held back by the outdated middleware that was needed by captain’s quarters.
+
+As always, we’d love to hear your feedback on this and clear up any queries or concerns you guys have!
+
+Please feel free to dive into the comments thread for this blog!
+
+Fly safe!
+
+@CCP_Falcon

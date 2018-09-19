@@ -1,0 +1,35 @@
+(click to enlarge)
+
+
+(click to enlarge)
+
+To read into the last one, you can see how much more responsive you can expect markets to be in Jita for example. The changes not only improve overall responsiveness but also make large fleet fights more viable.
+
+Here is a very interesting graph showing CPU load and Time Dilation (TiDi) on the node that Hakonen was mapped to during the big fleet fight on Mar 2:
+
+
+(click to enlarge)
+
+The system was not on a reinforced node, and it is in low security space, meaning that a lot of extra calculations are needed on the node for the crime watch system, i.e. keeping track of aggressors, standings, gate guns, etc. Time Dilation can't go below 10% and if it stays at 10% the task queues start filling up and players will experience things like modules not cycling, etc. eventually leading to node deaths. Looking at this graph we can see that TiDi went all the way down to 10% a few times, but the only periods of it staying there only span about 2x ~5 minutes. This means that those of you who did experience issues outside of dilated time, most likely did so during these periods. While TiDi stays above 10% it means the node is successfully processing the task queues with help from the time dilation and here we can see that rather than flat lining at 10%, it managed to stay between 10-20% during the peak of the battle. 
+
+CCP Quant
+MORE ON THE FUTURE
+Now that’s impressive on the server performance but we are not in any way done additionally looking forward with our new network setup we are very much focused on network latency and reliability.
+
+Specifically we’re using the automated BGP network solution we ran as a proof of concept while TQ was in its old home, which actively looked for better routes in order to re-route connections through the interwebs if "the box" finds a better path for you. This all happens without socket closure of course.
+
+Tests came in with excellent results. For example we decided to drop one of our Internet Service Provider and contracted another one instead.
+
+Basically if the ISP's are not good enough for EVE players, we drop them and sign someone who has proven to be better and is up for the challenge. This automated BGP solution will go in full production any day now stay tuned for follow up blogs.
+
+Related to that, we have much more powerful edge routers. Here is a message from one of our network wizards
+
+"The EDGE Router in the new data center is now receiving a total of 2.9 million BGP routes from 23 peers. The highest CPU utilization when calculating the best-path BGP table and backup route tables on this new router has been 8% CPU, while using the old router in Telecity, any BGP table recalculation would take the router to 100% CPU. That is quite an improvement in performance!"
+
+We now have our eyes glued to the instruments to see what’s running hot. With the flexibility of TQ Tech III we are in a lot of control to balance load, which is great considering the Citadel expansion is right around the corner with all those capital ship improvements and new structure capture and defend mechanics...
+
+We will start tweaking even further and constantly target pain points to improve your experience flying in New Eden.
+
+On behalf of the operations team I proudly and officially welcome you to TQ Tech III
+
+CCP Gun Show

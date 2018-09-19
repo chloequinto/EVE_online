@@ -1,0 +1,155 @@
+Compression is done via right-click and may be used on multiple selected items at once.
+
+
+Ore amounts don’t need to perfectly fit the compression ratios. Any left-overs will automatically be saved
+
+
+Removal of slots for stations and starbases, to be replaced with tax scaling
+As explained in “the Price of Change”, manufacturing and science slots are going away, to be replaced with a cost scaling system. While Starbases will be subject to the same global formula, use of them won't suffer taxation as NPC stations do.
+
+Remote usage station changes
+Another drastic change is that blueprints safely stored in a regular station can no longer be used for jobs in Starbase structures. Players will still be able to remotely start Starbase jobs from several solar systems away, but the blueprints will now have to be physically available in the structure for it to properly start.
+
+Structure cost scaling
+Removing slots from industry jobs discourage players from stacking more than one Starbase structure of the same type at a Control Tower. To counteract this point, we are going to give specific bonuses when Starbase structures of the same type are stacked together at the same control tower.
+
+This bonus is going to be a flat reduction on the whole job cost price, whose amount and total bonus varies depending on the Starbase structure itself.
+
+Structure Type
+
+Cost reduction per structure
+
+Max bonus per structure
+
+Medium Ship Assembly, Advanced Medium Ship Assembly, Subsystem Assembly
+
+2%
+
+26%
+
+Large Ship Assembly, Advanced Large Ship Assembly, Capital Ship Assembly
+
+3%
+
+21%
+
+Design Laboratory, Experimental Laboratory, Hyasyoda Research Laboratory, Research Laboratory
+
+1.5%
+
+22.5%
+
+Drug Lab, Ammunition Assembly, Drone Assembly, Component Assembly, Equipment Assembly, Rapid Equipment Assembly
+
+0.5%
+
+25%
+
+Supercapital Ship Assembly
+
+5%
+
+15%
+
+Advanced Small Ship Assembly, Small Ship Assembly
+
+1%
+
+27%
+
+Structure Type
+
+Cost reduction per structure
+
+Max bonus per structure
+
+Medium Ship Assembly, Advanced Medium Ship Assembly, Subsystem Assembly
+
+2%
+
+26%
+
+Large Ship Assembly, Advanced Large Ship Assembly, Capital Ship Assembly
+
+3%
+
+21%
+
+Design Laboratory, Experimental Laboratory, Hyasyoda Research Laboratory, Research Laboratory
+
+1.5%
+
+22.5%
+
+Drug Lab, Ammunition Assembly, Drone Assembly, Component Assembly, Equipment Assembly, Rapid Equipment Assembly
+
+0.5%
+
+25%
+
+Supercapital Ship Assembly
+
+5%
+
+15%
+
+Advanced Small Ship Assembly, Small Ship Assembly
+
+1%
+
+27%
+
+In practice, this means that stacking 13 Medium Ship Assembly, Advanced Medium Assembly or Subsystem Assembly Arrays will reduce the total cost to start a manufacturing job at any of those structures by 26%. Those bonuses are not system wide, which means that structures at two different locations inside the same solar system will not stack together.
+
+Restrictions on starbase anchoring removed
+Control Towers will no longer require faction standings to be anchored in high-security space. Moreover, Control Towers will now be anchorable in previously restricted solar systems like 0.8 and above.
+
+Timed restriction to anchor Control Towers
+Newly formed corporations will need to wait 7 days before being able to anchor Starbases. This is to inhibit players from immediately moving Starbase assets to another corporation if under a war declaration.
+
+Improving Mobile Laboratories
+Based on this forum thread:
+
+Mobile Laboratory has been renamed Research Laboratory.
+Advanced Mobile Laboratory has been renamed Design Laboratory.
+Hyasyoda Mobile Laboratory has been renamed Hyasyoda Laboratory.
+Changes to Research labs:
+
+Time multiplier for Research ME: 0.7 (was 0.75).
+Time multiplier for Research TE: 0.7 (was 0.75).
+Changes to Design labs:
+
+Time multiplier for copying: 0.6 (was 0.65).
+Time multiplier for invention: 0.5 (was 0.5).
+Changes to Hyasyoda labs:
+
+Time multiplier for Research ME: 0.65 (was 0.75).
+Time multiplier for Research TE: 0.65 (was 0.75).
+Improving Assembly Arrays
+Based on the same forum thread:
+
+All assembly arrays receive a 2% material reduction to manufactured products (except for the Drug laboratory, Subsystem System Array, Rapid Equipment Assembly Array and Supercapital Assembly Array). Assembly Arrays will keep their 25% time reduction.
+Advanced Assembly arrays no longer 10% have material waste. They now all have 2% material reduction like their regular counterparts.
+Rapid Equipment Array material waste now is 5% instead of 20%.
+X-Large Assembly Array is being renamed Capital Ship Assembly Array to better reflect what it actually does.
+Capital Assembly Array is being renamed Supercapital Ship Assembly Array for the same reasons.
+Assembly Arrays have their cargohold increased to the following amounts:
+
+Corporate Hangar Arrays: from 1,400,000 m3 to 3,000,000 m3.
+Ammunition Assembly Array: from 150,000 m3 to 1,000,000 m3.
+Component Assembly Array: from 1,000,000 m3 to 1,500,000 m3.
+Drone Assembly Array: from 150,000 m3 to 1,000,000 m3.
+Equipment Assembly Array: from 500,000 m3 to 1,000,000 m3.
+Rapid Equipment Assembly Array: from 500,000 m3 to 1,000,000 m3.
+Material discount changes
+We are modifying how Material Efficiency (ME) reduction works on materials. Instead of being applied on individual runs, they will now apply to a whole job. That means that manufacturing a large batch of items will still give some reduction on Assembly Arrays instead of being simply negated.
+
+Some rules:
+
+We will be rounding up to the next significant digit, which means that 14.4 Tritanium required to manufacture 10x cheap-quality holoreels will actually be rounded to 15.
+Whole and single items will not be affected by this calculation. This is most relevant for Tech I items required to manufacture Tech II variations. For example, building 10 Paladins will not require 9 Apocalypse if you have a 10% ME.
+Thukker Component Assembly Array
+As we mentioned some time ago, we are also going to introduce a new type of Component Assembly Array to help low-security Capital ship builders to compete with the reprocessing changes.
+
+This structure will give 25% reduction in manufacturing time, 10% reduction in manufacturing required materials and may only be anchored in low-security solar systems. It may only be used to build Capital Construction Components and Advanced Capital Construction Components.
+

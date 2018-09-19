@@ -1,0 +1,34 @@
+
+We are also improving the tooltips for many buttons such as the NeoCom above, as well as station services, the character sheet sidebar and the selected item window as indicated in the list earlier in this post.
+
+This is not all though. We also have tooltips for all the elements of the Fitting Window, as seen in the following image:
+
+
+
+This work has also been extended into tooltips for the key attributes of ships and drones in their Show Info windows. For example, as shown below:
+
+
+
+The Star Map system tooltips have been much improved, with some streamlining and cleaning up of information. Where relevant they are also interactive: for example, with station listings when set to display services.
+
+As part of this cleanup we’ve removed the large extended information on orbital objects in the system, including stations that would pop up after a short delay. However, to make sure the station information for a system is still readily available, this detail has been added to the Show Information window for star systems under its own tab.
+
+Predictive Mouse Movement
+
+This release has a significant extra feature courtesy of some UI programming work done on the side: predictive mouse movement in menus.
+
+Say what now? Well, what’s happened is that a method has been added to predict if the mouse cursor is heading into an expanded menu, preventing a mouseover update on other UI elements if this is predicted to be so. This is enabled for the NeoCom menu, context menus and the new interactive tooltips.
+
+This is shown below – red is the old motion required and green is the new way unlocked by the prediction method.
+
+
+(click to enlarge)
+
+
+(In animated format)
+
+This work has been built up from some initial A/B testing efforts and then a deeper dive into how tooltips and other contextual information can benefit all players and assist in crafting a much better new player experience.
+
+This is the only just the beginning and we have plans to considerably extend the scope of new tooltips in EVE and to offer advanced tooltips in the future. We hope these improvements are useful to you all as you navigate your way around the many opportunities New Eden has to offer.
+
+@CCPDelegateZero
