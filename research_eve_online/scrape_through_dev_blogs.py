@@ -7,6 +7,7 @@ Program that separates a given text file by it's caps and the length of its sent
 '''
 import glob
 import re 
+import os
 
 
 list_of_files = []
@@ -14,8 +15,8 @@ mylist = []
 count = x =  0 
 found = []
 found_less_than_five = []
-
-
+found_blank_spaces = []
+list_of_blank_texts = []
 
 
 def process_file(directory):
@@ -23,7 +24,7 @@ def process_file(directory):
     Function processes through the text files within a directory
     and returns an array containing the path of each file 
     '''
-    global list_of_files, found, found_less_than_five, x
+    global list_of_files, found, found_less_than_five, x, found_blank_spaces, test_directory
     for i in glob.glob(directory + "\*.txt"): 
         list_of_files.append(i)
 
@@ -33,10 +34,16 @@ def process_file(directory):
         found_less_than_five.extend(date)
 
     for b in list_of_files:
-        print("this")
         segmentation(b, x)
-#         less_length(b,x)
+        less_length(b,x)
+        separate_by_spaces(b, x)
         x += 1 
+
+    for i in glob.glob(spaces_directory + "\*.txt"):
+        list_of_blank_texts.append(i)
+    for b in list_of_blank_texts: 
+        remove_blank_lines(b, x)
+        
     
         
 def read_file(item):
@@ -159,7 +166,7 @@ def less_length(item,index):
                 fi.write("\n".join(mylist[key:]))
                 fi.close()
                 inc_1 += 1 
-    elif nums_of_fives >= 1: #there are more than one instance of setences longer than 5 words 
+    elif nums_of_fives >= 1: #there are more than one instance of sentences longer than 5 words 
         for key, value in fin.items(): 
             if value <= 4: 
                 var_loc.append(key)
@@ -172,9 +179,65 @@ def less_length(item,index):
     else: #no instances of less than 5 (text is full of sentences longer than 5 words) 
         inc_0 += 1 
     print("Success! You have segmented the text files into its corresponding files")
-                 
+    
+def separate_by_spaces(item,index):
+    '''
+    Function that segments texts by the amount of spaces it sees 
+    '''
+    global found_blank_spaces, spaces_directory
+    count  =  inc_0 = inc_2 = inc_1 =  0
+    location = []
+    nums = []
+    var_loc = []
+    file = open(item, "r")
+    with file as f:
+        mylist = [line.rstrip("\n") for line in f] #removes \n  
+    for i in range(len(mylist) - 1):  
+        if mylist[i] == mylist[i+1]: 
+            count +=1 
+            location.append(i)#append the location in the list 
+    nums.append(count) #number of spaces as a list 
+    count = 0; #number of spaces s
+    loc  = list(set(location)) #indexes where there is a space instance   
+#     print(loc)
+#     dis = loc[0]
+#     print(mylist[dis+2:])
+    fin = dict(zip(loc, nums)) #indexes and the number of spaces in the list 
+    for i in loc: 
+        if len(loc) == 1: #There are sentences that contain less than 5 words, we're going to separate
+            fi = open(spaces_directory + "20" + found_less_than_five[x]  +"_" + str(inc_1) + "_one_space_found" + ".txt", "a")
+            fi.write("\n".join(mylist[i + 2:]))
+            fi.close()
+            inc_1 += 1 
+        elif len(loc) > 1: 
+            file = open(spaces_directory + "20" + found_less_than_five[x]  +"_" + str(inc_2) +"_more_space_found" + ".txt", "a")
+            file.write("\n".join(mylist[i+2:]))
+            file.close()
+            del mylist[i+2:]
+            del loc[-1]
+            inc_2 += 1     
+    if loc == []: 
+        fi = open(spaces_directory  + "20" + found[x] +"_" + str(inc_0) + "_no_space_seen" + ".txt", "a")
+        fi.write("\n".join(mylist))
+        fi.close()
+        inc_0 += 1 
+    print("Success! You have segmented the text files into its corresponding files")    
+                
+def remove_blank_lines(item, index): 
+    file = open(item, "r")
+    with file as f: 
+        first = f.read(1)
+        if not first: 
+            file.close()
+            os.remove(item)
+            print('Text is empty')
+        else:
+            print('Text is not empty')
+    
 if __name__ == '__main__':
-    caps_directory = "C:/research_18_caps_folder/"
-    less_than_five_directory = "C:/research_18_less_than_5/"
+#     caps_directory = "C:/research_18_caps_folder/"
+#     less_than_five_directory = "C:/research_18_less_than_5/"
+    spaces_directory = "C:/research_18_spaces/"
+    test_directory="C:/test/"
     process_file("C:\one")
     pass
