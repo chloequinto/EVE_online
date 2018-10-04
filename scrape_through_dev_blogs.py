@@ -12,7 +12,7 @@ import os
 
 list_of_files = []
 mylist = []
-count = x = section_id = y= z = 0 
+count = x  = y= z = section_id= 0 
 found = []
 found_less_than_five = []
 found_blank_spaces = []
@@ -22,6 +22,7 @@ list_less = []
 found_caps = []
 found_less = []
 dev_blogs = []
+res = []
 
 #caps -> less than 5 -> spaces -> remove spaces -> put everything together 
 def process_file(directory):
@@ -30,7 +31,8 @@ def process_file(directory):
     and returns an array containing the path of each file 
     '''
     global list_of_files, found, found_less_than_five, x, found_blank_spaces, test_directory,finished_directory,y, z
-    global dev_blogs, test_directory_result,list_caps, found_less,list_less
+    global dev_blogs, test_directory_result,list_caps, found_less,list_less, section_id, h, res, c
+    
     
 #     for i in glob.glob(directory + "\*.txt"): #initial directory, append the text files 
 #         list_of_files.append(i)
@@ -65,19 +67,31 @@ def process_file(directory):
 #         list_of_blank_texts.append(i)
 #     for b in list_of_blank_texts: 
 #         remove_blank_lines(b, x)
-    dir = "C:/research_18_spaces"
     for j,i in enumerate(glob.glob(spaces_directory + "\*.txt")): 
         dev_blogs.append(i)
-        check_dir = re.match(r'C:/research_18_spaces\d', dev_blogs[j])
-    print(check_dir)
-#             if "20(.+?)"
-#             if "20" in i: #if the same date then keep the section id 
-#                 print('yes')
-#             else: 
-#                 section_id += 1 
-    for b in dev_blogs: 
-        segment_for_dev(b,x)
+        check_dir = re.search(r'C:/research_18_spaces\\20.*?(_)', dev_blogs[j]).group()
+        res.append(check_dir)
         
+
+         
+    def segmenting(dev_blogs,x, section_id):
+        global h, c
+        for h,b in enumerate(dev_blogs): 
+            segment_for_dev(b,x, section_id)
+            c += 1
+            
+    #call the funciton         
+    segmenting(dev_blogs, x, section_id)
+  
+#     for i in range(len(res)-1): 
+#         if res[i] == res[i+1]: 
+#             segmenting(dev_blogs,x, section_id)
+#         else: 
+#             section_id += 1 
+#             segmenting(dev_blogs,x,section_id)
+            
+
+     
     
         
 def read_file(item):
@@ -269,14 +283,14 @@ def remove_blank_lines(item, index):
         else:
             print('Text is not empty')
 
-def segment_for_dev(item, index): 
+def segment_for_dev(item, index, section_id): 
     '''
     Function that takes the above texts and put in it the format 
     <section id>    english    text
     for example
     0    english     this is a fun program 
     '''
-    global test_directory_result, section_id
+    global test_directory_result, res, c
     this = []
     file = open(item, "r")
     with file as f:
@@ -284,10 +298,17 @@ def segment_for_dev(item, index):
     for i in mylist: 
         this.append(i)
     
-#     fi = open(test_directory_result + "devblog_sections" + ".txt", "a")
-#     fi.write(str(section_id) + "\tenglish\t " + "\t " +"\t".join(this) + "\n")
-#     fi.close()
-#     section_id += 1 
+    for c in range(len(res)-1):
+        if res[c] != res[c+1]:
+            section_id +=1 
+            break 
+        break 
+    fi = open(test_directory_result + "devblog_sections" + ".txt", "a")
+    fi.write(str(section_id) + "\tenglish\t " + "\t " +"\t".join(this) + "\n")
+    fi.close()
+    
+
+
     
     
 if __name__ == '__main__':
