@@ -32,7 +32,7 @@ def process_file(directory):
     '''
     global list_of_files, found, found_less_than_five, x, found_blank_spaces, test_directory,finished_directory,y, z
     global dev_blogs, test_directory_result,list_caps, found_less,list_less, section_id, h, res, c
-    
+    my_dict = []
     
 #     for i in glob.glob(directory + "\*.txt"): #initial directory, append the text files 
 #         list_of_files.append(i)
@@ -72,24 +72,29 @@ def process_file(directory):
         check_dir = re.search(r'C:/research_18_spaces\\20.*?(_)', dev_blogs[j]).group()
         res.append(check_dir)
         
-
-         
-    def segmenting(dev_blogs,x, section_id):
-        global h, c
-        for h,b in enumerate(dev_blogs): 
-            segment_for_dev(b,x, section_id)
-            c += 1
+#     print(dev_blogs)
+# #     print(res)
+#     def segmenting(dev_blogs,x, section_id):
+#         global h, c
+#         for h,b in enumerate(dev_blogs): 
+#             segment_for_dev(b,x, section_id)
+# #             c += 1
+#               
+#     #call the functon         
+#     segmenting(dev_blogs, x, section_id)
+#   
+    b = 0 
+    for i in range(len(res)-1): 
+        if res[i] != res[i+1]:
+#             print("here " + res[i] + " this " + res[i+1])
+            segment_for_dev(dev_blogs[b], section_id) #go to the function  
+            section_id += 1 
             
-    #call the funciton         
-    segmenting(dev_blogs, x, section_id)
-  
-#     for i in range(len(res)-1): 
-#         if res[i] == res[i+1]: 
-#             segmenting(dev_blogs,x, section_id)
-#         else: 
-#             section_id += 1 
-#             segmenting(dev_blogs,x,section_id)
-            
+        else: 
+#             print(res[i])
+            segment_for_dev(dev_blogs[b], section_id) #go to the function  
+            #go to the function 
+        b +=1     
 
      
     
@@ -283,7 +288,7 @@ def remove_blank_lines(item, index):
         else:
             print('Text is not empty')
 
-def segment_for_dev(item, index, section_id): 
+def segment_for_dev(item, section_id): 
     '''
     Function that takes the above texts and put in it the format 
     <section id>    english    text
@@ -297,12 +302,7 @@ def segment_for_dev(item, index, section_id):
         mylist = [line.rstrip("\n") for line in f] #removes \n  
     for i in mylist: 
         this.append(i)
-    
-    for c in range(len(res)-1):
-        if res[c] != res[c+1]:
-            section_id +=1 
-            break 
-        break 
+
     fi = open(test_directory_result + "devblog_sections" + ".txt", "a")
     fi.write(str(section_id) + "\tenglish\t " + "\t " +"\t".join(this) + "\n")
     fi.close()
