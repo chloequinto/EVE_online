@@ -12,7 +12,7 @@ import os
 
 list_of_files = []
 mylist = []
-count = x  = y= z = section_id= 0 
+count = x  = y= z = section_id= id_text = 0 
 found = []
 found_less_than_five = []
 found_blank_spaces = []
@@ -31,7 +31,7 @@ def process_file(directory):
     and returns an array containing the path of each file 
     '''
     global list_of_files, found, found_less_than_five, x, found_blank_spaces, test_directory,finished_directory,y, z
-    global dev_blogs, test_directory_result,list_caps, found_less,list_less, section_id, h, res, c
+    global dev_blogs, test_directory_result,list_caps, found_less,list_less, section_id, h, res, c, id_text
     my_dict = []
     
 #     for i in glob.glob(directory + "\*.txt"): #initial directory, append the text files 
@@ -86,14 +86,12 @@ def process_file(directory):
     b = 0 
     for i in range(len(res)-1): 
         if res[i] != res[i+1]:
-#             print("here " + res[i] + " this " + res[i+1])
             segment_for_dev(dev_blogs[b], section_id) #go to the function  
             section_id += 1 
+        
             
         else: 
-#             print(res[i])
             segment_for_dev(dev_blogs[b], section_id) #go to the function  
-            #go to the function 
         b +=1     
 
      
@@ -295,7 +293,7 @@ def segment_for_dev(item, section_id):
     for example
     0    english     this is a fun program 
     '''
-    global test_directory_result, res, c
+    global test_directory_result, res, id_text 
     this = []
     file = open(item, "r")
     with file as f:
@@ -303,10 +301,10 @@ def segment_for_dev(item, section_id):
     for i in mylist: 
         this.append(i)
 
-    fi = open(test_directory_result + "devblog_sections" + ".txt", "a")
+    fi = open(test_directory_result + "devblog_sections_" + str(section_id) + "_" + str(id_text) +".txt", "a")
     fi.write(str(section_id) + "\tenglish\t " + "\t " +"\t".join(this) + "\n")
     fi.close()
-    
+    id_text += 1 
 
 
     
