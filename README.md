@@ -11,7 +11,7 @@ file contains two consecutive blank lines
 ## Legend for Dev_Blog_Sections
 * dev_blog_sectioned_0: 0-19
 * dev_blog_sectioned_1: 20-45
-* ev_blog_sectioned_2: 46-80
+* dev_blog_sectioned_2: 46-80
 * dev_blog_sectioned_3: 81-90
 * dev_blog_sectioned_4: 91-116
 * dev_blog_sectioned_5: 117-125
