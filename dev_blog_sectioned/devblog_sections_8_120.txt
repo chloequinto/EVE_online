@@ -1,0 +1,1 @@
+8	english	 	 XML API	We are continuing to use the authenticated XML API to give access to secure data. We have added new endpoints and repurposed some existing ones.

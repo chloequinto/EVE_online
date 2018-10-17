@@ -1,0 +1,1 @@
+121	english	 	 +20 maximum velocity	-750,000 mass	-10 signature radius

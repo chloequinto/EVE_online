@@ -1,0 +1,1 @@
+11	english	 	 Failure (standard): 50% of datacores returned	Failure (poor): 25% of datacores returned	Failure (terrible): 10% of datacores returned	Failure (critical): no datacore returned

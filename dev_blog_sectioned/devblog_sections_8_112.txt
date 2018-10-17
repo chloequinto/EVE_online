@@ -1,0 +1,1 @@
+8	english	 	 Returns the list of trade-able types and their average market price, as shown in the inventory UI in the EVE client. Also includes an adjusted market price which is used in industry calculations.	/industry/facilities/ (cache: 1 hour)	vnd.ccp.eve.IndustryFacilityCollection-v1

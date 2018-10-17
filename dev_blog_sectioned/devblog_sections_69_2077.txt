@@ -1,0 +1,1 @@
+69	english	 	 Fixed first person view with wide field of view	Military jet style roll and pitch indicators overlay for orientation	3 level stepped zoom

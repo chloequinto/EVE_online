@@ -1,0 +1,1 @@
+120	english	 	 As some of you know and have pointed out, there are many powerful methods for frequency analysis that already exist such as Fourier Transforms, Least-Squares Spectral Analysis and Box-Fitting Least Squares Algorithms.

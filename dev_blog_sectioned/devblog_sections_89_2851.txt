@@ -1,0 +1,1 @@
+89	english	 	 Increases speed boost from Afterburners and Microwarpdrives	+12%	+32.34%

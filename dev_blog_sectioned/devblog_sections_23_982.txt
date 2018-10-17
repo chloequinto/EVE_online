@@ -1,0 +1,1 @@
+23	english	 	 SKINNING THE BEAST	As if all of this wasn’t enough, we’ve additionally re-done most of the UI control skins. This includes windows, buttons, checkboxes, scrolls and tabs. Instead of excessive yapping, I’ll let the following pictures do all the talking.

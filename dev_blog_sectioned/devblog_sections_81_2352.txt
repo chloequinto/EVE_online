@@ -1,0 +1,1 @@
+81	english	 	 Points deduction	Reducing the offending ship(s) shield / armor / hull / capacitor to 50%

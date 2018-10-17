@@ -1,0 +1,1 @@
+14	english	 	 'Gallows' Light Missile Launcher	5	14	12.8s	0.795	53	6

@@ -1,0 +1,1 @@
+81	english	 	 The way the banning phase works is as follows:	The team which starts the banning phase is decided randomly.	All ships that are eligible for competition are eligible for banning.

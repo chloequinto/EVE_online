@@ -1,0 +1,1 @@
+90	english	 	 1% reduction in manufacturing job required materials	30% reduction in manufacturing and science job required time	5% reduction in manufacturing and science job required ISK cost	25% reduction in Engineering Service Module fuel consumption	Slot Layout: 6H, 4M, 3L, 6 Service, 3 Launcher	Fittings: 4,000,000 PWG, 50,000 CPU

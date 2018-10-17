@@ -1,0 +1,1 @@
+94	english	 	 One of the biggest changes we are making to the visibility of probe scanning will be the introduction of icons for each specific site in exploration and the display of the corresponding ship icon in combat scanning. Only when your scan results are at or above 25%, these are only going to be exposed - by then, you already know the according Group.

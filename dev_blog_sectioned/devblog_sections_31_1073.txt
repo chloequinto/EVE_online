@@ -1,0 +1,1 @@
+31	english	 	 Mining Laser Upgrades (MLU) for both ore and ice have received the same treatment. Lower tier MLUs have been consolidated into one type. The two higher tier modules have been given storyline status to illustrate their rarity and strength, and given a 1% boost to their mining bonus. Drop rates and locations for the storyline modules have not changed.	MLUs - Ore

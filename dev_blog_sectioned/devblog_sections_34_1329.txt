@@ -1,0 +1,1 @@
+34	english	 	 In Tiamat we are making some adjustments to small artillery weapons to help keep them in line with other similar weapon systems. We will be increasing damage multipliers slightly while reducing tracking speed.	All small artillery will be receiving:	+10% damage multiplier

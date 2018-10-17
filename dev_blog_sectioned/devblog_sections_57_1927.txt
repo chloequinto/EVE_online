@@ -1,0 +1,1 @@
+57	english	 	 ESXi / Virtual hosts	4x IBM HS 22 - Intel E5620 @ 2.4GHz 146GB RAM (1333MHz)	3x IBM HS 22 - Intel E2640 @ 2.6GHz 146GB RAM (1333MHz)	2x IBM HS 22 - Intel X5690 @ 3.4GHz 96GB RAM (1333MHz)	 6x IBM Flex x240 Intel E5 2640 v3 @ 2.6GHz 386GB RAM (2133MHz)

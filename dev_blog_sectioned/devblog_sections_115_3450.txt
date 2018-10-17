@@ -1,0 +1,1 @@
+115	english	 	 Fittings: 1,200,000 PWG, 15,000 CPU	Defense (shields / armor / hull): 4,800,000 / 4,800,000 / 4,800,000	Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20

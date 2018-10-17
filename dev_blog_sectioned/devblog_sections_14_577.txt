@@ -1,0 +1,1 @@
+14	english	 	 Ship Scanners also have scan falloff, as ship scanning results are not binary as they are for Cargo Scanners. The named variation goes for a scan falloff in between Tech I and Tech II.

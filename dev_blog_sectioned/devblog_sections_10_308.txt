@@ -1,0 +1,1 @@
+10	english	 	 Loosening of bookmark copying restrictions	Ensuring that scan signatures stay consistent over downtime	Taken as a whole, these changes are intended to preserve the best parts of wormhole space and provide a new level of excitement as creative players rush to adapt their tactics.

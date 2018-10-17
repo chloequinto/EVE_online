@@ -1,0 +1,1 @@
+16	english	 	 The new drop-down menu. 	The quick search has been moved to its own drop-down menu. 	All forum related settings have been moved from EVE Gate to a single settings page on the forums. 	The signature editor has also changed, it's now using Markdown editor which gives you more control to format the signature with live preview.

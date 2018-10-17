@@ -1,0 +1,1 @@
+34	english	 	 33.3% bonus to Small Projectile Turret tracking while Sharpshooter Mode is active	100% bonus to sensor strength, scan resolution and targeting range while Sharpshooter Mode is active	Slot layout: 7 H, 4 M, 4 L, 6 turrets , 1 launcher	3 Rig Slots, 400 Calibration

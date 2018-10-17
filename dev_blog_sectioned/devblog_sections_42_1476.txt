@@ -1,0 +1,1 @@
+42	english	 	 Two-Factor Settings, enabling Authenticator	Logging in with two-factor authenticaion enabled	Logging in with Two-Factor Authentication enabled

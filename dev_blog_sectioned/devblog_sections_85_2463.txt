@@ -1,0 +1,1 @@
+85	english	 	 +900% Rorqual mass	Prevents warping, docking, jumping, cloaking, tethering

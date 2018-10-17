@@ -1,0 +1,1 @@
+31	english	 	 NameMeta LevelCPUShield Boost Bonus (%)Capacitor Recharge Rate Bonus (%)

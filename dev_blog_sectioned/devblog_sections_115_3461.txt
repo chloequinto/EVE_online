@@ -1,0 +1,1 @@
+115	english	 	 Max Locked Targets: 8	Docking allowed for: all subcapital ships, freighters	The required materials for building an Athanor are:

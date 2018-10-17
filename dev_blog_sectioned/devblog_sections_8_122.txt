@@ -1,0 +1,1 @@
+8	english	 	 Column costMultiplier added to ramAssemblyLineTypeDetailPerGroup

@@ -1,0 +1,1 @@
+71	english	 	 Can fit Triage modules	Minokawa (6 high slots, 7 mid slots, 4 low slots)	Caldari Carrier Bonus (per skill level):	5% bonus to Remote Capacitor Transmitter and Remote Shield Booster amount	4% bonus to all shield resistances	5% bonus to maximum capacitor pool

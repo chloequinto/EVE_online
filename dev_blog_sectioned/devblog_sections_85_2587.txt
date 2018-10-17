@@ -1,0 +1,1 @@
+85	english	 	 +1% bonus to Shield Command Burst Strength and Duration per skill level	Role Bonus: +50% bonus to Command Burst Area of Effect Range	Rorqual

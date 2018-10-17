@@ -1,0 +1,1 @@
+12	english	 	 (click image to enlarge)	If you get several notifications at once they will stack up and eventually queue if the stack limit is reached. The size of the stack can be configured and is set at 3 as a default.  If you haven’t interacted with the pop-ups for a few seconds they will automatically fade. This fade time is also completely configurable.

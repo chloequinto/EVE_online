@@ -1,0 +1,1 @@
+121	english	 	 ATTACK BATTLECRUISERS:	We decided not to give medium MJDs to Attack Battlecruisers originally because at the time they were quite powerful kiters. These days they aren’t nearly as strong so we don’t think this restriction is needed any longer.	May now fit Medium Micro Jump Drive	Orthrus:

@@ -1,0 +1,1 @@
+8	english	 	 Tables which are existing, have been modified and will still be relevant to industry are:	Column baseCostMultiplier added to ramAssemblyLineTypes

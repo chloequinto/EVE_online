@@ -1,0 +1,1 @@
+8	english	 	 Added /char/IndustryJobsHistory.xml.aspx (cache: 6 hours)	Returns a list of running and completed jobs for your character, up to 90 days or 10000 rows.

@@ -1,0 +1,1 @@
+9	english	 	 1All T1 small ammo, T1 small drones T1 mining crystals	1.6All T2 small ammo, T2 mining crystals	2All T1 med ammo, T1 med drones, subsystems	3All T1 large ammo, T1 large drones, T1 lowslot/frigate modules	3.2T2 med ammo

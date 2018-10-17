@@ -1,0 +1,1 @@
+31	english	 	 NameStructure Hitpoint Bonus (%)Cargo Capacity Bonus (%)Velocity Modifier (%)	Civilian Expanded Cargohold-3010-20

@@ -1,0 +1,1 @@
+89	english	 	 Mining Laser Field Enhancement	Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners	+30%	+114.26%

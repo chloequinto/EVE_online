@@ -1,0 +1,1 @@
+59	english	 	 Existing Guns & Turrets	These will be re-balanced to the new Capital EHP levels. They will also have their effectiveness on sub-capitals greatly reduced.

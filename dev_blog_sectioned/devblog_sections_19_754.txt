@@ -1,0 +1,1 @@
+19	english	 	 Industry panels will display any trial locked skills required in manufacturing and research.	Industry Window

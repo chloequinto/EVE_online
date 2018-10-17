@@ -1,0 +1,1 @@
+55	english	 	 Number of Dreadnoughts* to reach damage mitigation	1	2-4	10-20	*Assuming current damage numbers for Dreadnoughts, which may change with the planned capital rebalance

@@ -1,0 +1,1 @@
+89	english	 	 Skirmish Command	+10% Skirmish Command Burst Effect Duration per level

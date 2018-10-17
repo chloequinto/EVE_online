@@ -1,0 +1,1 @@
+59	english	 	 NEW CAPITAL MODULES	All existing capital sized modules will be getting a full set of Meta, Tech 2, and Faction variants. Yes, this includes Tech 2 guns (and the skills for them). We're also introducing a bunch of new modules -	All existing XL guns and XL launchers

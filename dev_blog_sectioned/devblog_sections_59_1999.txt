@@ -1,0 +1,1 @@
+59	english	 	 The ability to provide refitting abilities to their fleet-mates	We want both Dreadnoughts and Carriers to be a valid choice for 'My First Capital'. We're going to split off the remote repair role from the Carrier and instead they will focus on fighters and support abilities.	Their repair role will go to a brand new set of capital ships.

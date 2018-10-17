@@ -1,0 +1,1 @@
+89	english	 	 Increases targeting range and scan resolution

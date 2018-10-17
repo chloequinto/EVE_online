@@ -1,0 +1,1 @@
+72	english	 	 Read a characters current location	Dogma information (all dogma attributes and dogma effects)	The ability to set the clients autopilot waypoint

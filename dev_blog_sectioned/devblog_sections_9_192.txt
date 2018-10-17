@@ -1,0 +1,1 @@
+9	english	 	 Additionally, the old Material Efficiency skill has been renamed to Advanced Industry, and gives a build time reduction of 1% per level. We are not totally happy with the reduction in skill value that’s happened here, and we are committing to revisiting this skill post-Crius to evaluate how to meet our overall goals here in a less dramatic fashion.

@@ -1,0 +1,1 @@
+115	english	 	 Role Bonus:	2% bonus to refining yield for all variants of Ore and Ice	20% reduction in Reprocessing and Reaction Service Module fuel consumption	Slot Layout: 3H, 3M, 1L, 3 Service, 1 Launcher

@@ -1,0 +1,1 @@
+59	english	 	 Utilizing advanced new technology, this weapon destabilizes the capacitors on a ship. After a short period of time (10-15 seconds) any charge on capacitor rapidly discharges...like a smartbomb. The more capacitor the ship has, the more damage it does to itself and nearby ships.	Projected Electronic Warfare

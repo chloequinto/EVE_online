@@ -1,0 +1,1 @@
+8	english	 	 Modified /corp/IndustryJobs.xml.aspx (cache: 15 minutes)	Returns a list of running jobs for your corporation, up to 90 days or 10000 rows.

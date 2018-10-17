@@ -1,0 +1,1 @@
+10	english	 	 Missile explosion radius	+15%	+22%	+29%	+36%	+43%	+50%

@@ -1,0 +1,1 @@
+59	english	 	 Before we started looking at details, we wanted to firmly fix the goal of the design for capitals	Provide interactive, meaningful, gameplay.

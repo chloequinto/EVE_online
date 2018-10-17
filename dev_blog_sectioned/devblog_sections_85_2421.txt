@@ -1,0 +1,1 @@
+85	english	 	 Mining Foreman	+10% Mining Foreman Burst Effect Duration per level

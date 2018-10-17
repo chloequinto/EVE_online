@@ -1,0 +1,1 @@
+115	english	 	 Fittings: 10,000 PWG, 200 CPU	Fuel usage: 360 fuel to online / 5 fuel per hour

@@ -1,0 +1,1 @@
+30	english	 	 TEAMS RETIRING	In Proteus, we will retire the Teams feature that is currently part of Industry. Read more about this change and the reasons behind it in this dev blog: Industry & Teams - The Removal of Teams.

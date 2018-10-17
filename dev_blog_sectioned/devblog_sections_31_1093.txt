@@ -1,0 +1,1 @@
+31	english	 	 Name	CPU	Shield Boost Bonus (%)	Capacitor Recharge Rate Bonus (%)	Type-D Restrained Capacitor Power Relay	4	-8	22

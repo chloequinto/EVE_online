@@ -1,0 +1,1 @@
+9	english	 	 Warehouse, Chemical Storage, Academy, School	0.97	0.98	Testing Facilities, Reprocessing Facility, Chemical Refinery	0.97	0.97	Biotech Research Center, Research Center, Biohazard Containment Facility	0.98	0.95

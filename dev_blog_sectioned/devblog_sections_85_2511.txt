@@ -1,0 +1,1 @@
+85	english	 	 Base jump drive range: 5ly (+2.5)	Jump drive fuel consumption: 2000 Oxygen (+500)	Cargo Hold: 40,000 m3

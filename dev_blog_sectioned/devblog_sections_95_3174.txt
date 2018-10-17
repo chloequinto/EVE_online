@@ -1,0 +1,1 @@
+95	english	 	     Be::Time nnow = BeOS->GetActualTime();

@@ -1,0 +1,1 @@
+69	english	 	          	See EVECAMERA_Description		Dependencies:	                Blue, DirectX 9.0		(c) CCP 2000	**************************************************************************************/

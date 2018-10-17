@@ -1,0 +1,1 @@
+10	english	 	 More randomly spawning wormholes	Mass-based spawn distance after wormhole jumps	K162 appearance only on first jump

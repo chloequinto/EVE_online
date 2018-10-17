@@ -1,0 +1,1 @@
+113	english	 	 +125 Capacitor	+39,000 Capacitor Recharge Rate (cap/s stays the same as before)	Stabber

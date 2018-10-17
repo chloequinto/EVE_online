@@ -1,0 +1,1 @@
+71	english	 	 Can fit Triage modules	Lif (6 high slots, 6 mid slots, 5 low slots)	Minmatar Carrier Bonus (per skill level):	5% bonus to Remote Armor Repairer and Remote Shield Booster cycle time	7.5% bonus to local Shield Booster amount	10% bonus to capacitor booster charge strength

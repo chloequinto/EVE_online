@@ -1,0 +1,1 @@
+89	english	 	 +3% bonus to Mining Foreman Burst Strength and Duration per skill level	+1% bonus to Shield Command Burst Strength and Duration per skill level

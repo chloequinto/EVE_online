@@ -1,0 +1,1 @@
+53	english	 	 Just like for capture and protection mechanics, we also want this feature to have proper visualization in the game.	As such:

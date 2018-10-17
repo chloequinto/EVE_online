@@ -1,0 +1,1 @@
+115	english	 	 Max Locked Targets: 8	Docking allowed for: all subcapital ships, freighters, Rorquals	The required materials for building a Tatara are:

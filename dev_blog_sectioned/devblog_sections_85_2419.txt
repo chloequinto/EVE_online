@@ -1,0 +1,1 @@
+85	english	 	 Command Burst Specialist	-10% Command Burst reload duration per level	Implants	Bonus

@@ -1,0 +1,1 @@
+85	english	 	 Drones (bandwidth / bay): 50 / 125	Targeting (max targeting range / Scan Resolution / Max Locked targets): 50km / 90 / 5	Sensor strength: 20 Magnetometric

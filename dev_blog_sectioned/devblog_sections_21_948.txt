@@ -1,0 +1,1 @@
+21	english	 	 Freighters: from 20% to 18%	Taken in conjunction with the changes to the Invention formula above, that means the basic Invention chance will pretty much stay identical to its previous iteration.

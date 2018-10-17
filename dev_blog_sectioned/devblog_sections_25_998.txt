@@ -1,0 +1,1 @@
+25	english	 	 OPT-IN NEW STAR MAP	The Star Map has been completely redone to improve readability and usability, and in Rhea you can try this new map as an opt-in beta feature. Read more about what’s new in an upcoming dev blog.

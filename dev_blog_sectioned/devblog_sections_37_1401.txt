@@ -1,0 +1,1 @@
+37	english	 	 +5% Shield HP and +3% Shield Recharge Speed per level (previously +10% Shield HP)	Shield Capacity: 3550 (-200)

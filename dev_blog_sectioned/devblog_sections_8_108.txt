@@ -1,0 +1,1 @@
+8	english	 	 Lists all specialties that can be associated with teams and what groups those specialties modify.	/industry/teams/ (cache: 1 hour)	vnd.ccp.eve.IndustryTeamCollection-v1

@@ -1,0 +1,1 @@
+85	english	 	 Max Yield (no Industrial Core): ~**3,000 m3 per minute + drone travel time**	Max Yield (with Industrial Core): ~**18,400 m3 per minute + drone travel time**	Max DPS (no Industrial Core): ~1000 dps	Max DPS (with Industrial Core): ~2000 dps	No discussion of the Rorqual would be complete without covering the unique modules that provide its special modes.

@@ -1,0 +1,1 @@
+8	english	 	 Added /corp/Facilities.xml.aspx (cache: 1 hour)	Returns a list of all outpost and POS industrial facilities your corporation owns.

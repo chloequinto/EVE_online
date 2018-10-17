@@ -1,0 +1,1 @@
+85	english	 	 100% bonus to drone mining yield	-25% reduction in drone ice harvesting cycle time	100% bonus to drone damage

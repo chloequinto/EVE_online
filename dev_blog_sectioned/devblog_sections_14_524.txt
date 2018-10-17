@@ -1,0 +1,1 @@
+14	english	 	 Reactor Controls are another class where we are cleaning “Basic” variants up into one type, placing it in the Cosmos category just as we did with Co-Processors.

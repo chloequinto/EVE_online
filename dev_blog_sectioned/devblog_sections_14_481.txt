@@ -1,0 +1,1 @@
+14	english	 	 We are also making some general balance changes to the Light Missile Launchers as a whole. The time between module activations of LMLs will increase by ~6.66%, resulting in a slight decrease in total DPS. This change is being made to help balance the Light Missile weapon system, which received buffs that were a bit too strong back in the Retribution expansion.

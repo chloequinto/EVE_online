@@ -1,0 +1,1 @@
+10	english	 	 Distance to jump range

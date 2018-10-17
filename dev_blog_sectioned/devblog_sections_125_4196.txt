@@ -1,0 +1,1 @@
+125	english	 	 In addition to this, we added this tooltip to a few handpicked numbers, such as the total in the Sell Item window and the total in the Buy window. If you know of other places where this tooltip would be useful, please let us know ??

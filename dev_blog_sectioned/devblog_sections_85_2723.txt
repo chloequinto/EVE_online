@@ -1,0 +1,1 @@
+85	english	 	 Max Mining Yield: ~980 m3 per minute + drone travel time	Max DPS: ~400 dps

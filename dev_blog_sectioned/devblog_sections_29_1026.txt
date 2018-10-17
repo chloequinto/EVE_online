@@ -1,0 +1,1 @@
+29	english	 	 What about the offline installer?	We will still offer a way to install from a pre-downloaded package, if for example you need to transfer it on a USB stick.

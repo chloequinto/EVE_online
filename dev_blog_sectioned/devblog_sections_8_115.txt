@@ -1,0 +1,1 @@
+8	english	 	 Modified /char/IndustryJobs.xml.aspx (cache: 15 minutes)	Returns a list of running jobs for your character, up to 90 days or 10000 rows.	We have already covered this in more detail in the following blog:	//community.eveonline.com/news/dev-blogs/upcoming-api-changes-for-industry/

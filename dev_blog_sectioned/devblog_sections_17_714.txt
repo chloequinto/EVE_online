@@ -1,0 +1,1 @@
+17	english	 	 SCANNER WINDOW SEPARATION	With Phoebe, there will be separate windows for Directional Scanner, Scan Probes and Moon scanning.

@@ -1,0 +1,1 @@
+31	english	 	 Type-D Restrained Inertial Stabilizers – Signature Radius penalty decreased from 9% to 8%	NameMetaPowergrid UsageCPU UsageActivation Cost (GJ)Optimal Range (km)Duration (s)Mining Amount (m3)	Civilian Miner026520106030
