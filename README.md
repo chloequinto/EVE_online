@@ -1,5 +1,16 @@
 # EVE_online
 
+## Overview
+### Previous Work
+- [X] Sentimental Analysis
+
+### Current Work
+- [X] Learned topics from forum posts and used that to check the prevalence of the same topics in dev blogs
+- [X] Learned topics from dev blogs and compare the word distributions of the two sets of topics
+- [ ] Learned topics from dev blogs and used that to check the prevalence of the same topics in the forum posts
+- [ ] Tokenization to see if there's a correlation to the words said in the dev blogs and the words said in forum posts
+
+
 ## Contents
 * one - initial text files
 * reserach_18_caps_folder - result folder for texts separated by capitalized sentences
