@@ -1,1 +1,0 @@
-85	english	 	 Max Yield: ~1,400 m3 per minute + drone travel time	Max DPS: ~800 dps

@@ -1,1 +1,0 @@
-14	english	 	 For the Light Missile Launcher group of modules, we have room for two distinct named specializations. The Compact Light Missile Launcher will specialize in reduced fitting requirements, while the Ample Light Missile Launcher will specialize in extra missile capacity.

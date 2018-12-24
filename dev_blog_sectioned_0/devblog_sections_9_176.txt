@@ -1,1 +1,0 @@
-9	english	 	 In order to keep blueprints differentiated, we have a system of ranks, all of the above times are multiplied by a blueprint's rank. T1 ammo is rank 1; jump freighters are rank 4000. For a better outline of what falls under what rank, see Appendix 1.

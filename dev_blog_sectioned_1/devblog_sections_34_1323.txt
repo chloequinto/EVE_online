@@ -1,1 +1,0 @@
-34	english	 	 66.6% bonus to maximum velocity while Propulsion Mode is active	33.3% bonus to ship inertia modifier while Propulsion Mode is active	Sharpshooter Mode:

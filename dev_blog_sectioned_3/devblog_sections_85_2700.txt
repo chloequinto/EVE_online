@@ -1,1 +1,0 @@
-85	english	 	 Industrial Command Ships bonuses (per skill level):	5% bonus to ship cargo capacity and ore hold	3% bonus to Mining Foreman Burst Strength and Duration	1% bonus to Shield Command Burst Strength and Duration	10% bonus to drone hitpoints, damage and mining yield	-10% reduction in drone ice harvesting cycle time	Role bonus:

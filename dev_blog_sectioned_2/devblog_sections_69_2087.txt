@@ -1,1 +1,0 @@
-69	english	 	 	Created:   November 2000		OS:        Win32

@@ -1,1 +1,0 @@
-27	english	 	 No jump range visualization for ships with jump drives	The map won’t currently load if you’re in a wormhole	The sovereignty filter hasn’t been hooked up yet	There’s probably more that we haven’t mentioned here but just remember this is an experimental feature and we will be adding features and functionality consistently over the coming weeks and months.

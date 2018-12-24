@@ -1,1 +1,0 @@
-8	english	 	 /industry/specialities/ (cache: 1 hour)	vnd.ccp.eve.IndustrySpecialityCollection-v1

@@ -1,1 +1,0 @@
-109	english	 	 Structure Anti-Subcap Missiles	Increase the damage of the ASML-SD missile by 33%	Increase the damage of the ASML-MD and ASML-LD missiles by 20%	These changes are available for testing on our Singularity test server now and we encourage all of you to give them a try and to let us know what you think in the comments thread for this blog.

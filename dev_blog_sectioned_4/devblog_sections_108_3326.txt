@@ -1,1 +1,0 @@
-108	english	 	 New Ores	20 New moon ores that are mined from moon extraction	Reprocessed into 1 main moon material and other minerals (moon or regular)	Only available in asteroids created from moon drill process

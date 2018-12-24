@@ -1,1 +1,0 @@
-97	english	 	 AURUM TOKENS	One more tiny detail for Aurum which has not been mentioned so far: we will be removing Aurum tokens from the game. Many of you might not even know they exist, as you haven’t been able to create them for years, but, there’s still a few around so if you have some get them converted back to Aurum currency before we make the switch to PLEX.

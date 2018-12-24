@@ -1,1 +1,0 @@
-56	english	 	 It supports multiple settings profiles	For each client you launch, you can select a settings profile. This is somewhat simplistic, though - really all that is happening is you are selecting a settings folder to use for the client.

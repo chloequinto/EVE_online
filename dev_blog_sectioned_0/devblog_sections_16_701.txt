@@ -1,1 +1,0 @@
-16	english	 	 PHASE ONE	The first phase involves a major clean up. We are going to remove the giant EVE Gate header and move most of the EVE Gate links, such as the link to your EVE Gate Profile, to a new drop-down menu in the navigation bar. The new drop-down menu will also display all of your characters, where you can easily switch character without having to go to EVE Gate.

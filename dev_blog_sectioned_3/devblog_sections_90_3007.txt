@@ -1,1 +1,0 @@
-90	english	 	 PS: If you're further interested in the design of ESI, check out the corresponding blog Introducing the ESI API.

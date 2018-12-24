@@ -1,1 +1,0 @@
-12	english	 	 (click image to enlarge)	When a new notification is received, you will get a small pop-up with some basic text content and a small image associated with the category of the notification. If you want to know more about this particular event, just click on the notification pop-up and we’ll open the most appropriate game window for you.

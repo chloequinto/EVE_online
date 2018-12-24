@@ -1,1 +1,0 @@
-8	english	 	 /industry/teams/auction/ (cache: 1 hour)	vnd.ccp.eve.IndustryTeamCollection-v1	Returns a list of all the teams currently up for auction.

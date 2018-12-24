@@ -1,1 +1,0 @@
-14	english	 	 Co-Processors represent the simplest possible set of named modules, since there is nothing but basic power level to differentiate modules within this group. This means that the only named version will get the title “Upgraded” and all of the current named co-processors will be converted into Upgraded Co-Processors.

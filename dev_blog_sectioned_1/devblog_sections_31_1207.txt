@@ -1,1 +1,0 @@
-31	english	 	 Single Diode Basic Mining Laser	6	2	45	10	11	60	25

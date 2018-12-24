@@ -1,1 +1,0 @@
-55	english	 	 Number of Battleships to reach damage mitigation	5-15	15-45	75-225

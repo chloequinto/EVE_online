@@ -1,1 +1,0 @@
-31	english	 	 Mining Lasers	Mining Lasers have had the number of modules reduced significantly. In addition, some ease-of-use balancing has been done, for instance on the mining laser range, to make them easier and more intuitive to use for newer players.	Name	Meta	Powergrid Usage	CPU Usage	Activation Cost (GJ)	Optimal Range (km)	Duration (s)	Mining Amount (m3)

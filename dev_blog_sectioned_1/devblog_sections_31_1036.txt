@@ -1,1 +1,0 @@
-31	english	 	 Inertial Stabilizers are now consistently named Inertial Stabilizers instead of some being Inertia Stabilizers and some Inertial Stabilizers.	NameSignature Radius Bonus (%)Inertia Modifier (%)	Type-D Restrained Inertial Stabilizers8-18.50

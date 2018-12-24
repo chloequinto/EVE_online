@@ -1,1 +1,0 @@
-17	english	 	 EVE XML API UPDATES	Medical clone transfer timer, jump fatigue, jump clone and multiple character training information will be added to the EVE XML API. Follow the dedicated blog for 3rd party developers for all the details.  

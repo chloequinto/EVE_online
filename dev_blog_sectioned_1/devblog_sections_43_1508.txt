@@ -1,1 +1,0 @@
-43	english	 	 ALL TOGETHER NOW!	All in all, these changes bring the total number of screens for role management down to 5 from the initial 19.

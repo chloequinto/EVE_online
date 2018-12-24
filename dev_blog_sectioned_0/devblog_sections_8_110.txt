@@ -1,1 +1,0 @@
-8	english	 	 /industry/systems/ (cache: 1 hour)	vnd.ccp.eve.IndustrySystemCollection-v1	Lists the cost index for installing industry jobs per type of activity. This does not include wormhole space.

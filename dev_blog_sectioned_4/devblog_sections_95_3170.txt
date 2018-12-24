@@ -1,1 +1,0 @@
-95	english	 	     for( it = sleepers.begin(); it != sleepers.end(); ++it )	    {	        if( it->channel == sl.channel )

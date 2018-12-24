@@ -1,1 +1,0 @@
-31	english	 	 Ice Harvester Upgrade I	0	1	30	10	-5

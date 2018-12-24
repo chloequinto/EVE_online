@@ -1,1 +1,0 @@
-8	english	 	 STATIC DATA EXPORT	We have rebuilt the static data export for Crius with the latest numbers ready for your consumption. You can download an early release version here:	//cdn1.eveonline.com/data/Crius_1.0_beta3.zip

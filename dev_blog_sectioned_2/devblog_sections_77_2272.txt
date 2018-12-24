@@ -1,1 +1,0 @@
-77	english	 	 Link: //github.com/rischwa/eve-fast-fitting-assessment	Description: EVE Fast Fitting Assessment is a Windows desktop application to quickly assess the stats of fittings found on killmails.	Comments:

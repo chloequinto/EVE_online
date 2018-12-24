@@ -1,1 +1,0 @@
-43	english	 	 JOINING ROLES AND GRANTABLE ROLES	Under the current system, the number of screens needed to set roles was a whopping 19 screens. That is a lot to go through. This is how the tree structure was:	Roles	General

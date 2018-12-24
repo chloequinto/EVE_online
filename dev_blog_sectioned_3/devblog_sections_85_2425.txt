@@ -1,1 +1,0 @@
-85	english	 	 +30% bonus to Mining Foreman Burst strength	+200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range	Skills	Bonus	Leadership	+6% Command Burst Area of Effect Range per level

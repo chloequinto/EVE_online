@@ -1,1 +1,0 @@
-89	english	 	 Can fit one Pulse Activated Nexus Invulnerability Core module	+5% bonus to Mining Foreman Burst Strength and Duration per skill level

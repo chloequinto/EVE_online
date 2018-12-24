@@ -1,1 +1,0 @@
-77	english	 	 Link: //github.com/batstyx/time-for-eve	Description: A Pebble watch face that uses CREST to display some relevant information.	Comments:

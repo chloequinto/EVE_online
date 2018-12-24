@@ -1,1 +1,0 @@
-87	english	 	 NEW SKILLBARS	We have redone the classic five-box skillbar incorporating more information, requirements, and Omega skill levels. The skillbars are now shown everywhere that skills are listed across the game.	We are looking forward to your feedback!

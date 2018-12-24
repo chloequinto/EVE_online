@@ -1,1 +1,0 @@
-57	english	 	 Database Server	 2x IBM X3960 X5 – Intel X7560 @ 2.26 GHz with 512GB RAM (1066 MHz)	2x X880 X6 FlexNode – Intel E7-8893 V3 @ 3.2 GHz with 768GB RAM (1866 MHz)

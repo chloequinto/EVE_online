@@ -1,1 +1,0 @@
-85	english	 	 Defense (shields / armor / hull) : 6000 / 3000 / 8000	Base shield resistances (EM/Therm/Kin/Exp): 0 / 20 / 40 / 50	Base armor resistances (EM/Therm/Kin/Exp): 50 / 35 / 35 / 10	Capacitor (amount / recharge / cap per second) : 3500 / 875s / 4	Mobility (max velocity / agility / mass / align time): 100 / 1.5 / 4,500,000 / 9.36s	Warp Speed: 2.7 au/s

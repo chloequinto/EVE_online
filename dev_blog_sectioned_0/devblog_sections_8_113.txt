@@ -1,1 +1,0 @@
-8	english	 	 /market/prices/ (cache: 23 hours)	vnd.ccp.eve.MarketTypePriceCollection-v1

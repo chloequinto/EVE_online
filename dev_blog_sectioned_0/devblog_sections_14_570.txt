@@ -1,1 +1,0 @@
-14	english	 	 Ship Scanner II	17	1500	36000	60000	5

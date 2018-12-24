@@ -1,1 +1,0 @@
-108	english	 	 New Moon Mining Paradigm	Must extract ore from moon to space, mine and reprocess it to get the moon materials	Refineries use exclusive moon drill service module to extract ore from moon to space	Only one Refinery can mine each moon at a time

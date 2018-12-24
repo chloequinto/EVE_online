@@ -1,1 +1,0 @@
-11	english	 	 Frankenstein is trying to invent a 425mm Railgun II blueprint copy out of 425mm Railgun I blueprint copy. Base chance is 40%, he has all skills to 5 and uses no decryptor, which results into a 50.4% chance to succeed.	Old (left) versus new (right) Invention chance outcome:	Outcome details:

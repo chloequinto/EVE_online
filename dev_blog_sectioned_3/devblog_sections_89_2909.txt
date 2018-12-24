@@ -1,1 +1,0 @@
-89	english	 	 Can fit one Command Burst module	+2% bonus to three racial types of Command Burst Effect Strength and Duration per subsystem skill level

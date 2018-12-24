@@ -1,1 +1,0 @@
-85	english	 	 +25% bonus to Mining Foreman Burst strength	+150% bonus to Mining Foreman and Shield Command Burst Area of Effect Range	T2 Industrial Core (while active)

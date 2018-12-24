@@ -1,1 +1,0 @@
-95	english	 	     Sleeper sl;	    sl.channel = PyChannel_New(NULL);	    if (!sl.channel)	        return 0;	    PyChannel_SetPreference(sl.channel, 0); //just make runnable on wakeup	    sl.due = due;	    mWallclockSleepers.Insert(sl);

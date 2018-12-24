@@ -1,1 +1,0 @@
-125	english	 	 In Lifeblood, we also added a new type of radial menu, the fleet broadcasting radial menu. To use it, you need to assign a shortcut through the ESC window, and when that key is held down and a radial menu is activated, you get the broadcasting options rather than the normal options.

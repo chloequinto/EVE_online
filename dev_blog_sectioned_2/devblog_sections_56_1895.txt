@@ -1,1 +1,0 @@
-56	english	 	 What about the Mac?	The Mac version is not available in this first pre-release, but we are working on it.

@@ -1,1 +1,0 @@
-85	english	 	 Capital Industrial Ship bonuses (per skill level):	5% bonus to Mining Foreman Burst Strength and Duration	3% bonus to Shield Command Burst Strength and Duration	5% reduction in fuel consumption for Industrial Core	10% bonus to drone hitpoints, damage and mining yield	-10% reduction in drone ice harvesting cycle time	Role bonus:

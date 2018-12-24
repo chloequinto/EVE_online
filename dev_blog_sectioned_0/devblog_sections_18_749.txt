@@ -1,1 +1,0 @@
-18	english	 	 Various Industrial Goods have been added to the all the exploration Data site loot tables. These can be found in the Trade Goods > Industrial Goods section of the Market.	List of added items:

@@ -1,1 +1,0 @@
-81	english	 	 Flagships may ignore meta level restrictions for the following module types (this means they may fit faction, officer, cosmos, and deadspace versions):

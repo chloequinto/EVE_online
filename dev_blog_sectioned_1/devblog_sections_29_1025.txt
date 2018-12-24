@@ -1,1 +1,0 @@
-29	english	 	 What about slow connections?	You can use the offline installer, or you can wait while the launcher downloads everything. Or you can enjoy the fact that you can get into the game sooner, although load times before ships show up might be long when you see a particular ship for the first time.

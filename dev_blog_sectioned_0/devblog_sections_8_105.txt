@@ -1,1 +1,0 @@
-8	english	 	 You can test these now on Singularity with the base URL //public-crest-sisi.testeveonline.com/ and then when we go live on Tranquility on the 22nd July with //public-crest.eveonline.com/

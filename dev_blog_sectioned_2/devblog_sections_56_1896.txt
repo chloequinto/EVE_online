@@ -1,1 +1,0 @@
-56	english	 	 What about my settings?	As of yet, we do not provide a path to migrate settings to the new setup. We do plan on developing a simple tool to help with migrating settings, though, so do not despair.

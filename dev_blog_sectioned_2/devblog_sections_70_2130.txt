@@ -1,1 +1,0 @@
-70	english	 	 Since the Citadels have slots, they rely on standard ship fittings like powergrid, CPU, or even calibration to install modules.	Details are listed below:

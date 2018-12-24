@@ -1,1 +1,0 @@
-2	english	 	 FACTION-THEMED STATIONS	In Kronos, all stations that are owned by a NPC corporation are now recognizable in space as they are now reconstructed with the same visual identity previously only shown on ships.

@@ -1,1 +1,0 @@
-14	english	 	 Civilian Light Missile Launcher	6	21	21s	0.6	40	0

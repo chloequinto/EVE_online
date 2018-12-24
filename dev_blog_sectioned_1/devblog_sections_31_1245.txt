@@ -1,1 +1,0 @@
-31	english	 	 Capacitor Power Relays	Name	Meta Level	CPU	Shield Boost Bonus (%)	Capacitor Recharge Rate Bonus (%)

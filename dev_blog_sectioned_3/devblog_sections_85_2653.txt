@@ -1,1 +1,0 @@
-85	english	 	 +80% Drone damage and hitpoints

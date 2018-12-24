@@ -1,1 +1,0 @@
-85	english	 	 +99.99% Shield Resists	-90% Shield recharge duration (increases passive shield regen rate)	All turret, missile, drone and smartbomb damage set to 0

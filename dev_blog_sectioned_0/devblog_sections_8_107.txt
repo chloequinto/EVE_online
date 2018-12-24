@@ -1,1 +1,0 @@
-8	english	 	 Returns a list of all active teams, excluding the teams in auction. This does not include wormhole space.

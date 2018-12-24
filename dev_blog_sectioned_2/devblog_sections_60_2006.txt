@@ -1,1 +1,0 @@
-60	english	 	 Tech I rig blueprints will be available from the market through NPC sell orders. Tech II rig can be invented or found in sites as BPCs. Prices are going to be 100m ISK for a Tech I Medium Structure rig blueprint, 500m ISK for a Tech I Large Structure rig blueprint and around 2.5b ISK for an X-Large Structure rig blueprint.

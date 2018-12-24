@@ -1,1 +1,0 @@
-11	english	 	 Success (exceptional): yields a ME 2 and TE 3 bonus to the outcome.	Success (great): yields a ME 1 and TE 2 bonus to the outcome.	Success (good): yields a TE 1 bonus to the outcome.	Success (standard): basic unmodified outcome.

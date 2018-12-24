@@ -1,1 +1,0 @@
-11	english	 	 MERGING INVENTION WITH REVERSE ENGINEERING	Let us quickly explain how Invention and Reverse Engineering work right now for the non-initiated before going into details.	Invention is used to obtain Tech II blueprint copies out of Tech I blueprint copies and was introduced to replace the old Tech II blueprint original “lottery”.

@@ -1,1 +1,0 @@
-31	english	 	 MLUs - Ice	Name	Meta	Powergrid Usage	CPU Usage	CPU Penalty (%)	Cycle Time Bonus (%)

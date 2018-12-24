@@ -6,7 +6,7 @@
 - [X] Correlation between specific topics and forum posts with time lag
   - [ ] Run Topic Model on combined data set, qualitative reasoning for number of topics, evaluate correlation for matched topics between both, use sentiments for specific identified stories to compare before/after update
   - [ ] Run Topic Model on each data set, qualitative reasoning for number of topics, match topics between dev blogs and forum posts, evaluate the correlation for matched topics, use sentiments for specific identified stories to compare before/after update
-  - [ ] Run Topic Model on combined data set, quantitative calculation on number of topics, evaluate the correlation for matched topics 
+  - [ ] Run Topic Model on combined data set, quantitative calculation on number of topics, evaluate the correlation for matched topics
 
 ### Current Work
 - [X] Learned topics from forum posts and used that to check the prevalence of the same topics in dev blogs

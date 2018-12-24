@@ -1,1 +1,0 @@
-90	english	 	 Defense (shields / armor / hull): 14,400,000 / 14,400,000 / 14,400,000	Resistances (EM/Therm/Kin/Exp): 20 / 20 / 20 / 20	DPS Cap: 15,000

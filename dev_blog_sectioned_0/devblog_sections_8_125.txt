@@ -1,1 +1,0 @@
-8	english	 	 Added YAML file blueprints.yaml

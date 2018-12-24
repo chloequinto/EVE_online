@@ -1,1 +1,0 @@
-31	english	 	 Capacitor Power Relay II	5	8	-11	24

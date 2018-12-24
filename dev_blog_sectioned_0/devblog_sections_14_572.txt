@@ -1,1 +1,0 @@
-14	english	 	 Ship Scanner I	15	2000	30000	50000	0

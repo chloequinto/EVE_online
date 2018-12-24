@@ -1,1 +1,0 @@
-59	english	 	 Capital Warp Disruptors & Scramblers	The new capital scramblers and disruptors will offer higher scramble strength with no bonuses to range. Existing officer disruptors and scramblers (which are capital modules) will keep their current roles as longer range capital tackle.

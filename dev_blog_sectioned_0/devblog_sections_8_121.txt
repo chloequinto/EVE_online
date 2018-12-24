@@ -1,1 +1,0 @@
-8	english	 	 Despite assembly lines themselves being removed, we are still using the existing definitions of what bonuses apply for NPC stations, POS structures and outposts upgrades. Wherever there is a scenario that multiple assembly line types would apply to the same facility, we pick the best value for cost, material and time independently.

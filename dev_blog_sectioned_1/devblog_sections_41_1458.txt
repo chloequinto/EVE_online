@@ -1,1 +1,0 @@
-41	english	 	 PERMANENT SKINS	Permanent SKINs exist as items which are bought from the NES. Once activated for a character they last indefinitely, and allow that character access to visual variants for a certain ship or collection of ships. Other characters on the same account will not have access to the SKIN.

@@ -1,1 +1,0 @@
-10	english	 	 Bomb Damage	+30%	+44%	+58%	+72%	+86%	+100%	Pulsar

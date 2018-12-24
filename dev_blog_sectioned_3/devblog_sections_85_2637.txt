@@ -1,1 +1,0 @@
-85	english	 	 P.A.N.I.C. Module:	Requires Invulnerability Core Operation skill level 1	Duration: 5 minutes base, up to 7.5 minutes based on skills

@@ -1,1 +1,0 @@
-42	english	 	 Two-Factor Authenticaion when disabled	Logged in with Two-Factor Authentication disabled

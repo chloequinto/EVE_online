@@ -1,1 +1,0 @@
-56	english	 	 The patching mechanism is simpler	This should result in fewer cases of failed patching. We no longer rely on HTTP 1.1 and ranged gets - files are simply downloaded as a whole. We are also planning on doing more diagnostics in the launcher to help identify connection issues.

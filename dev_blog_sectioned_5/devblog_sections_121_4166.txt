@@ -1,1 +1,0 @@
-121	english	 	 We felt a big change was necessary to give this ship some new life and hope that a pivot towards pure offense will do the trick.	Caldari Battlecruiser bonus per level: 10% to Heavy Missile and Heavy Assault Missile damage (was 4% to shield resistances)	-1 launcher slot

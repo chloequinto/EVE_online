@@ -1,1 +1,0 @@
-14	english	 	 Dread Guristas Light Missile Launcher	5	20	11.2s	0.9	60	8

@@ -1,1 +1,0 @@
-8	english	 	 This returns a list of all publicly accessible facilities, including player built outposts in nullsec.

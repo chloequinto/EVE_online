@@ -1,1 +1,0 @@
-9	english	 	 COPYING AND INVENTION/REVERSE ENGINEERING	Team Game of Drones will be working on a more comprehensive overhaul to Invention and Reverse Engineering mechanics immediately after Crius, so the changes here are merely to keep these systems functional while we invest further work in them.

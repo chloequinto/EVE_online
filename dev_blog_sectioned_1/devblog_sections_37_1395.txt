@@ -1,1 +1,0 @@
-37	english	 	 +7.5% Armor HP per level (previously +10%)	Signature Radius: 154 (+7)

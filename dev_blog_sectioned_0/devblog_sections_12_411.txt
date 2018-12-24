@@ -1,1 +1,0 @@
-12	english	 	 (click image to enlarge)	The last thing to mention here is that, for our first release, we will use the notification system for contact log on/log off, skill training related events, and all notifications currently sent to the notifications tab in EVE mail. More on this in a second.

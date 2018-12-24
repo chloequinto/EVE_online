@@ -1,1 +1,0 @@
-31	english	 	 ORE Miner	8	4	80	70	16	60	65

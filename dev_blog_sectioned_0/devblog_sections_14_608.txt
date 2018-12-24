@@ -1,1 +1,0 @@
-14	english	 	 Surface Cargo Scanner I and Prototype Freight Sensors will become Enduring Cargo Scanners while Interior Type-E Cargo Identifier and PL-0 Shipment Probe will become Scoped Cargo Scanners.

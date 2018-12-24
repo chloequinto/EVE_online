@@ -1,1 +1,0 @@
-55	english	 	 Hull hitpoints	7,200,000	21,600,000	108,000,000

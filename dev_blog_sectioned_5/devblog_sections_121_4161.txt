@@ -1,1 +1,0 @@
-121	english	 	 Minmatar Cruiser bonus per level: 7.5% Medium Projectile Turret damage (was 5%)

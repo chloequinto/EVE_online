@@ -1,1 +1,0 @@
-57	english	 	 Standard SOL Nodes	51 x IBM HS21XM - Intel X5260 CPU @ 3.33GHz with 32GB RAM (1333MHz)	30x IBM x240 - Intel E5-2637-V3 CPU @ 3.5GHz CPU with 64GB RAM (2133MHz)

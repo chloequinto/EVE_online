@@ -1,1 +1,0 @@
-10	english	 	 Missile Explosion Velocity	+30%	+44%	+58%	+72%	+86%	+100%

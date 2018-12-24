@@ -1,1 +1,0 @@
-17	english	 	 BETTER WAYS INTO EXPEDITIONS	More information and a number of solved issues will make Expeditions more viable to run for explorers. An upcoming dev blog will detail the changes.

@@ -1,1 +1,0 @@
-14	english	 	 Basic Reactor Control Unit	1.05	8	6	‘Portcullis’ Reactor Control Unit I	1.15	16	6	Shadow Serpentis Reactor Control Unit	1.155	20	8	Syndicate Reactor Control Unit	1.155	20	8

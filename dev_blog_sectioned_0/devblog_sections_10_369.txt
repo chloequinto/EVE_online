@@ -1,1 +1,0 @@
-10	english	 	 Targeting Range	-15%	-22%	-29%	-36%	-43%	-50%

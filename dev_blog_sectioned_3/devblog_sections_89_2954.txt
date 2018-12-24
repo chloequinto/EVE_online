@@ -1,1 +1,0 @@
-89	english	 	 +200% bonus to Mining Foreman and Shield Command Burst Area of Effect Range	Skills	Bonus	Leadership

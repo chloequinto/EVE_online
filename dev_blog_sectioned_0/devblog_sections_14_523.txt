@@ -1,1 +1,0 @@
-14	english	 	 We are also fixing the Shadow Serpentis RCU to match the other faction variants in effectiveness.

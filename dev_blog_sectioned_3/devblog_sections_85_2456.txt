@@ -1,1 +1,0 @@
-85	english	 	 200 km range	Applies to all mining and industrial ships within the same fleet, except other Rorquals	Runs once and then burns out	Limit of one module per ship

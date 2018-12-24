@@ -1,1 +1,0 @@
-118	english	 	 This tab is going to be removed and the contracts window should be able to handle everything this tab does.	For this to work we are adding a "Requires Attention" filter to the "Status" dropdown in the "My Contracts" tab of the "Contracts" window.

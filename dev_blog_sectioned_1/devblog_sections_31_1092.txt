@@ -1,1 +1,0 @@
-31	english	 	 Mark I Compact Capacitor Power Relay	2	-10	22	Type-D Restrained Capacitor Power Relay – Shield Boost penalty decreased from -10% to -8%	Mark I Compact Capacitor Power Relay – Shield Boost penalty decreased from -8% to -10%	The Shield Boost Bonus error has been fixed. Type-D and Mark I modules had the value reversed.	Expanded Cargoholds

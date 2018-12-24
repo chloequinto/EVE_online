@@ -1,1 +1,0 @@
-85	english	 	 Can fit three Command Burst modules	+3% bonus to Mining Foreman Burst Strength and Duration per skill level

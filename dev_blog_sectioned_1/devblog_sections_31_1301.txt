@@ -1,1 +1,0 @@
-31	english	 	 'Basic' Nanofiber Internal Structure	6	Mechanics I	-5	5.25	-10.25	Synthetic Hull Conversion Nanofiber Structure	8	Mechanics I Hull Upgrades I	-10	8.75	-15.5	Domination Nanofiber Structure	8	Mechanics I Hull Upgrades I	-15	9.50	-16	Republic Fleet Nanofiber Structure	8	Mechanics I Hull Upgrades I	-15	9.50	-16

@@ -1,1 +1,0 @@
-45	english	 	 We have also updated the rate at which mining and NPC killing contributes to the current Sovereignty system indices. Since Mosaic, mining now builds the Industrial Index much more quickly than before, and ratting now builds the Military Index slightly slower than before.

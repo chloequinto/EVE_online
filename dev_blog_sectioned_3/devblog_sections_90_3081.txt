@@ -1,1 +1,0 @@
-90	english	 	 Capacitor (amount / recharge / cap per second): 200,000, 7200s, 27.8	Max Locked Targets: 8
