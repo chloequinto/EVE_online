@@ -2,7 +2,7 @@ library(topicmodels)
 library(tm)
 library(plyr)
 library(sos)
-library(xlsx)
+library(openxlsx)
 
 
 
@@ -10,8 +10,13 @@ library(xlsx)
 forums_file[, 8:10]
 write.csv(forums_file[,c(8,10)], "forums_date_sep.csv")
 
-read.xlsx ("Forum_Sep.xlsx", sheetIndex=2)
+Y8M3<-read.csv("Forum Posts Sep/2008-03.csv", header = FALSE, sep="\t")
+Y8M3 <- Y8M3$V2
 
+wd <- "C:/R Projects/LDA_Correlations/Forum_Post_Sep/"
+filenames <- list.files(wd, pattern="*.csv")
+setwd("C:/R Projects/LDA_Correlations/Forum_Post_Sep/")
+files <- lapply(filenames, readLines)#read files into a character vector 
   
 
 #### Bring in File #### 
