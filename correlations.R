@@ -2,29 +2,14 @@ library(topicmodels)
 library(tm)
 library(plyr)
 library(sos)
-library(openxlsx)
 
-
-
-#Find date and post 
-forums_file[, 8:10]
-write.csv(forums_file[,c(8,10)], "forums_date_sep.csv")
-
-Y8M3<-read.csv("Forum Posts Sep/2008-03.csv", header = FALSE, sep="\t")
-Y8M3 <- Y8M3$V2
-
-wd <- "C:/R Projects/LDA_Correlations/Forum_Post_Sep/"
-filenames <- list.files(wd, pattern="*.csv")
-setwd("C:/R Projects/LDA_Correlations/Forum_Post_Sep/")
-files <- lapply(filenames, readLines)#read files into a character vector 
-  
 
 #### Bring in File #### 
 filenames <- list.files(getwd(), pattern="*.txt") #Load files into corpus 
 files <- lapply(filenames, readLines)#read files into a character vector 
 docs <- Corpus(VectorSource(files)) #create corpus from vector 
 
-#### PreProcess ##### 
+####PreProcess##### 
 docs <- tm_map(docs, content_transformer(tolower)) #lower case
 toSpace <- content_transformer(function(x, pattern) { return (gsub(pattern, " ", x))})
 docs <- tm_map(docs, removePunctuation)
@@ -48,7 +33,7 @@ freq[ord]
 write.csv(freq[ord], "word_freq.csv")
 
 
-#### Topic Modeling #### 
+#### Topic Modeling#### 
 
 #Setting parameters for Gibbs sampling
 burnin <- 4000 
@@ -75,6 +60,11 @@ write.csv(ldaOut.terms, file=paste("LDAGibbs", k, "TopicsToTerms.csv"))
 #probabilities associated with each topic assignment
 topicProbabilities <- as.data.frame(ldaOut@gamma)
 write.csv(topicProbabilities, file=paste("LDAGibbs", k, "TopicProbabilities.csv"))
+
+#Find the relative imporatnce of top 2 topics 
+topic1Totopic2 <- lapp 
+
+
 
 
 
