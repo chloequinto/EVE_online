@@ -6,7 +6,7 @@ library(openxlsx)
 library(ggplot2)
 
 
-#### Seperating Info #### 
+#### Seperating Forum Posts #### 
 #Find date and post 
 #forums_file[, 8:10]
 #write.csv(forums_file[,c(8,10)], "forums_date_sep.csv")
@@ -14,16 +14,19 @@ library(ggplot2)
 #Y8M3<-read.csv("Forum Posts Sep/2008-03.csv", header = FALSE, sep="\t")
 #Y8M3 <- Y8M3$V2
 
-setwd("C:/R Projects/LDA_Correlations/Forum_Post_Sep/")
-filenames <- list.files(getwd(), pattern="*.csv")
+
+### Grab Forum Posts & Dev Blogs ####
+setwd("C:/R Projects/LDA_Correlations/Combined Data/")
+filenames <- list.files(getwd()) #get everything
 files <- lapply(filenames, readLines)#read files into a character vector 
 docs <- Corpus(VectorSource(files)) #create corpus from vector 
-  
 
-#### PreProcess ##### 
+
+
+#### Pre-Process ##### 
 
 #Combine stop words with personal stop words 
-myStopWords <- read.csv("myStopWords.csv", header = FALSE) 
+myStopWords <- read.csv("C:/R Projects/LDA_Correlations/myStopWords.csv", header = FALSE) 
 myStopWords <- as.character(myStopWords$V1)
 stopwords <- c(myStopWords, stopwords())
 
@@ -78,22 +81,33 @@ write.csv(ldaOut.terms, file=paste("LDAGibbs", k, "TopicsToTerms.csv"))
 
 #probabilities associated with each topic assignment
 topicProbabilities <- as.data.frame(ldaOut@gamma)
-write.csv(topicProbabilities, file=paste("LDAGibbs", k, "TopicProbabilities.csv"))
+write.csv(topicProbabilities, file=paste("LDAGibbs", k, "TopicProbabilities_one.csv"))
 
 #### Creating graphs ####
-Prob_Ships <- read.csv("LDAGibbs 15 TopicProbabilities.csv", header = TRUE)
-head(Prob_Ships)
+Prob<- read.csv("LDAGibbs 15 TopicProbabilities.csv", header = TRUE)
+head(Prob_Dev)
+
+Prob_Dev <- read.csv("LDAGibbs 15 TopicProbabilities_one.csv", header = TRUE)
+head(Prob_Dev$Title)
+
+df_ships <- data.frame(Prob$Title,Prob$V10)
+df_ships_dev <- data.frame(Prob_Dev$Title, Prob_Dev$V10)
 
 
-Prob_Ships <- as.matrix(Prob_Ships)
-Prob_Ships <- melt(Prob_Ships)
-df_ships <- data.frame(Prob_Ships$X,Prob_Ships$V10)
-
-ggplot(df_ships, aes(x = df_ships$Prob_Ships.X, y=df_ships$Prob_Ships.V10)) + geom_point(color = "red") +
-  ggtitle("Topic: Ships") + labs(y = "Probability of Topic", x = "Date")
+ggplot(df_ships, aes(x = df_ships$Prob.Title, y=df_ships$Prob.V10)) + geom_point(color = "red") +
+  ggtitle("Topic: Ships") + labs(y = "Probability of Topic", x = "Date") +  scale_x_discrete(name="Dates", breaks= c("2008-03.csv", "2017-07.csv",c("2010-06.csv", "2014-12.csv") ))
 
 
+ggplot(df_ships_dev, aes(x = df_ships_dev$Prob_Dev.Title, y=df_ships_dev$Prob_Dev.V10)) + geom_point(color = "blue") +
+  ggtitle("Topic: Ships") + labs(y = "Probability of Topic", x = "Date") + 
+  scale_x_discrete(name="Dates", breaks= c("2015_01_dev.txt", "2017_03_dev.txt",c("2015_09_dev.txt", "2016_06_dev.txt") ))
 
+ggplot() + 
+  geom_line(data =df_ships, aes(x = df_ships$Prob.Title, y=df_ships$Prob.V10), color="black", group=1) + 
+  geom_line(data = df_ships_dev, aes(x = df_ships_dev$Prob_Dev.Title, y=df_ships_dev$Prob_Dev.V10), color="blue", group=1) +
+  ggtitle("Topic: Ships") + 
+  labs(y = "Probability of Topic", x = "Date") +  
+  scale_x_discrete(name="Dates", breaks= c("2014-09.csv", "2017-01.csv",c("2015-05.csv",  "2016-05.csv")))
 
 
 
