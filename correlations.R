@@ -15,8 +15,8 @@ library(ggplot2)
 #Y8M3 <- Y8M3$V2
 
 
-### Grab Forum Posts & Dev Blogs ####
-setwd("C:/R Projects/LDA_Correlations/Combined Data/")
+### Grab Forum Posts####
+setwd("/Users/chloequinto/documents/EVE_online/Forum_Post_Sep")
 filenames <- list.files(getwd()) #get everything
 files <- lapply(filenames, readLines)#read files into a character vector 
 docs <- Corpus(VectorSource(files)) #create corpus from vector 
@@ -26,7 +26,7 @@ docs <- Corpus(VectorSource(files)) #create corpus from vector
 #### Pre-Process ##### 
 
 #Combine stop words with personal stop words 
-myStopWords <- read.csv("C:/R Projects/LDA_Correlations/myStopWords.csv", header = FALSE) 
+myStopWords <- read.csv("/Users/chloequinto/documents/EVE_online/StopWords/MyStopWords.csv", header = FALSE) 
 myStopWords <- as.character(myStopWords$V1)
 stopwords <- c(myStopWords, stopwords())
 
@@ -59,14 +59,14 @@ write.csv(freq[ord], "word_freq.csv")
 
 #Setting parameters for Gibbs sampling
 burnin <- 0 #number of omitted Gibs iterations at beginning 
-iter <- 30 # number of iterations 
+iter <- 120 # number of iterations 
 thin <- 5 #number of omitted in between iterations 
-seed <- list (5,  101) 
-nstart <- 2 #repeated number of stars 
+seed <- list (5, 250, 30, 859) 
+nstart <- 4 #repeated number of starts 
 best <- TRUE  
 
 #Num of topics 
-k <- 15  #num of topics 
+k <- 15 #number of topics 
 
 #Run LDA 
 ldaOut <- LDA (dtm, k, method="Gibbs", control=list(nstart= nstart, seed = seed, best = best, burnin = burnin, iter = iter, thin = thin))
