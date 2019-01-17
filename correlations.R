@@ -59,10 +59,10 @@ write.csv(freq[ord], "word_freq.csv")
 
 #Setting parameters for Gibbs sampling
 burnin <- 0 #number of omitted Gibs iterations at beginning 
-iter <- 120 # number of iterations 
-thin <- 5 #number of omitted in between iterations 
-seed <- list (5, 250, 30, 859) 
-nstart <- 4 #repeated number of starts 
+iter <- 40 # number of iterations 
+thin <- 1 #number of omitted in between iterations 
+seed <- list (5, 250, 30, 859,10002) 
+nstart <- 5 #repeated number of starts 
 best <- TRUE  
 
 #Num of topics 
@@ -73,11 +73,11 @@ ldaOut <- LDA (dtm, k, method="Gibbs", control=list(nstart= nstart, seed = seed,
 
 #Write out results 
 ldaOut.topics <- as.matrix(topics(ldaOut))
-write.csv(ldaOut.topics, file=paste("LDAGibbs", k, "DocsToTopics.csv"))
+write.csv(ldaOut.topics, file=paste("LDA", k, "DocsToTopics.csv"))
 
 #write top 4 terms in each topic 
 ldaOut.terms <- as.matrix(terms(ldaOut, 15))
-write.csv(ldaOut.terms, file=paste("LDAGibbs", k, "TopicsToTerms.csv"))
+write.csv(ldaOut.terms, file=paste("LDA", k, "TopicsToTerms.csv"))
 
 #probabilities associated with each topic assignment
 topicProbabilities <- as.data.frame(ldaOut@gamma)
