@@ -4,6 +4,15 @@ library(plyr)
 library(sos)
 library(openxlsx)
 library(ggplot2)
+library(readxl)
+library(hablar)
+
+### XLSX to TXT for Mallet LDA  #####
+#documents_m <- setwd("/Users/chloequinto/downloads/FPC")
+#my_doc_m <- read.xlsx("2008-12.xlsx")
+#write.table(my_doc_m, "2008-12.txt", append = FALSE, sep = " ",
+# row.names = FALSE, col.names = FALSE) 
+
 
 
 #### Seperating Forum Posts #### 
@@ -58,7 +67,7 @@ write.csv(freq[ord], "word_freq.csv")
 #### Topic Modeling #### 
 
 #Setting parameters for Gibbs sampling
-burnin <- 0 #number of omitted Gibs iterations at beginning 
+burnin <- 10  #number of omitted Gibs iterations at beginning 
 iter <- 40 # number of iterations 
 thin <- 1 #number of omitted in between iterations 
 seed <- list (5, 250, 30, 859,10002) 
