@@ -33,7 +33,7 @@ Instead of the LDA library in Rstuio, Mallet (java package) was used. Run the fo
 
 To convert text file into mallets input run:
 ```java 
-./bin/mallet import-dir --input [TEXT FILE DIRECTORY]  --output FPC.mallet --keep-sequence --remove-stopwords
+./bin/mallet import-dir --input File/Directory  --output FPC.mallet --keep-sequence --remove-stopwords
 ```
 
 To Train Topics: 
