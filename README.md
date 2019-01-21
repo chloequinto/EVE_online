@@ -1,9 +1,16 @@
 # EVE Online Research
 Analysis of EVE Online Gaming Community 
 
-
-### Motivation 
-
+### Directory 
+1. Forum Post Code
+    a. Contains Code for Topic Analysis and Sentiment Analysis over time. 
+    b. Contains Presentation 
+2. StopWords
+    a. Contains text file for stop words used in Mallet 
+3. RPics 
+    a. PNG files of graphs
+4. Python Files 
+    a. Python code to scrape through Developer Blogs 
 
 ### Installation 
 Install R 
@@ -29,5 +36,8 @@ Install Apache Ant
 brew install ant 
 ```
 
+
+### Previous Work 
+1. Tried to see if t 
 ### To Do 
-1. Update this markdown
+- [ ] Update this markdown
