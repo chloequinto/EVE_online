@@ -32,12 +32,12 @@ brew install ant
 Instead of the LDA library in Rstuio, Mallet (java package) was used. Run the following commands 
 
 To convert text file into mallets input run:
-```java 
+```Terminal
 ./bin/mallet import-dir --input File/Directory.txt  --output FPC.mallet --keep-sequence --remove-stopwords
 ```
 
 To Train Topics: 
-```java
+```Terminal
 ./bin/mallet train-topics  --input FPC.mallet --num-topics 15 --num-iterations 330 --optimize-interval 15 --output-state topic-state.gz --output-topic-keys FPC_keys.txt --output-doc-topics FPC_comp.txt
 ```
 (Number of topics, iterations, and optimize intervals vary depending on preference)
