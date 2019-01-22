@@ -6,6 +6,8 @@ library(glue)
 library(stringr)
 library(ggplot2)
 
+## uppress Warnings 
+options(warn=-1)
 ###
 # Bugs: 
 # Current graph is inaccurate due to the failure of removal of special characters
@@ -33,7 +35,7 @@ GetSentiment <- function(file){
 
 
 sentiments <- data_frame()
-
+files <- list.files("FPC_txt/")
 ### Collect all sentiments ###
 for (i in files) { 
   tryCatch ({  
@@ -60,3 +62,20 @@ ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=senti
   geom_text(aes(x=60, label="\nNDA Leaks",y=1500), color="blue", angle=90, size=3)
 
   
+
+### Alternative to fixing the problem 
+
+res <- read.csv("Forum Post Code/sentiment_results.csv", header = TRUE)
+
+### Ignore Warning 
+ggplot(res, aes(x = res$dates, y=res$sentiment, color=res$sentiment)) + 
+  geom_point() + 
+  scale_color_continuous(name="") +
+  ggtitle("Sentimental Analysis of Forum Posts") + 
+  labs(y = "Strength of Sentiment", x = "Date") +
+  geom_vline(xintercept=32)+
+  geom_vline(xintercept=90)+
+  geom_vline(xintercept=58)+
+  geom_text(aes(x=24, label="\nIncarna Crises", y=1500), color="blue", angle=90, size=3) +
+  geom_text(aes(x=84, label="\nNDA Leaks",y=1500), color="blue", angle=90, size=3) +
+  geom_text(aes(x=52, label="\nSTV",y=1500), color="blue", angle=90, size=3)
