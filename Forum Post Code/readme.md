@@ -11,7 +11,6 @@ Install R
 ```Terminal 
 brew install r 
 ```
-
 Install Rstudio
 
 ```Terminal 

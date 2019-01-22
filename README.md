@@ -1,6 +1,7 @@
 # EVE Online Research
 Analysis of EVE Online Gaming Community 
 
+---
 ### Directory 
 1. Forum Post Code
     - Contains Code for Topic Analysis and Sentiment Analysis over time. 
@@ -12,6 +13,7 @@ Analysis of EVE Online Gaming Community
 4. Python Files 
     - Python code to scrape through Developer Blogs 
 
+---
 ### Installation 
 Install R 
 
@@ -35,9 +37,6 @@ Install Apache Ant
 ```Terminal 
 brew install ant 
 ```
-
-
-### Previous Work 
-1. Tried to see if t 
+---
 ### To Do 
 - [ ] Update this markdown
