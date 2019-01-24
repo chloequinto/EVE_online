@@ -8,21 +8,28 @@ library(ggplot2)
 
 ## uppress Warnings 
 options(warn=-1)
-###
-# Bugs: 
-# Current graph is inaccurate due to the failure of removal of special characters
-# in the function "GetSentiment" 
-###
+
+## Use function if you get errors ####
+Remove_SC <- function (file){ 
+  files <- list.files("FPC_txt/")
+  fileName <- glue("FPC_txt/", file, sep="") #Get first text
+  txt_file  <- readLines(fileName)
+  fileText  <- gsub("log\\(", "", txt_file)
+  fileText <- gsub("log\\)", "", fileText)
+  fileText <- gsub('[[:punct:]]', '', fileText)
+  writeLines(fileText, con = fileName)
+  
+  }
+Remove_SC(files[18])
 ### Function to get the sentiment ###
 GetSentiment <- function(file){
   files <- list.files("FPC_txt/")
   fileName <- glue("FPC_txt/", file, sep="") #Get first text
   fileName <- trimws(fileName) # Trim whitespaces 
   fileText <- glue(read_file(fileName)) #read the file 
-  fileText <- gsub("\\$", "", fileText) 
   fileText <- gsub("log\\(", "", fileText)
-
-  
+  fileText <- gsub("log\\)", "", fileText)
+  fileText <- gsub("\\[|\\]", "", fileText)
   tokens <- data_frame(text = fileText) %>% unnest_tokens(word,text) # tokenize document
   
   tokens %>% 
@@ -46,6 +53,7 @@ for (i in files) {
     })
 }
 
+GetSentiment(files[18])
 
 ### Add Column to Represent Dates ###
 sentiments$dates <- 1:nrow(sentiments) 
