@@ -90,8 +90,6 @@ ggplot(files, aes(x = files$V1, y=files$V7, color=files$V7)) +
   stat_smooth(method="lm", se=TRUE, fill=NA,formula=formula,colour="red") +
   stat_poly_eq(parse=T, aes(label = ..rr.label..), formula=formula)
 
-
-
 ### Topic 5 ###
 ggplot(files, aes(x = files$V1, y=files$V8, color=files$V8)) + 
   geom_point() + 

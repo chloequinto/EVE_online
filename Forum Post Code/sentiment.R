@@ -63,13 +63,13 @@ sentiments$dates <- 1:nrow(sentiments)
 
 
 ### Polynomial Formula ###
-formula <- y ~ poly(x, 6, raw=TRUE)
+formula <- y ~ poly(x, 12, raw=TRUE)
 
 ### Graph ###
 ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=sentiments$sentiment), color="red") + 
   geom_point() + 
   scale_color_continuous(name="") +
-  ggtitle("Sentimental Analysis of Forum Posts") + 
+  ggtitle("Sentiment Analysis of Forum Posts") + 
   labs(y = "Strength of Sentiment", x = "Date") +
   geom_vline(xintercept=32)+
   geom_vline(xintercept=90)+
@@ -77,6 +77,7 @@ ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=senti
   geom_text(aes(x=90, label="\nNDA Leaks",y=3500), color="blue", angle=90, size=3)+
   stat_smooth(method="lm", se=TRUE, fill=NA,formula=formula,colour="red") +
   stat_poly_eq(parse=T, aes(label = ..rr.label..), formula=formula)
+
 
   
 
