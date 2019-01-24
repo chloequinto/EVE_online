@@ -5,6 +5,7 @@ library(readr)
 library(glue)
 library(stringr)
 library(ggplot2)
+library(ggpmisc)
 
 ## uppress Warnings 
 options(warn=-1)
@@ -20,7 +21,7 @@ Remove_SC <- function (file){
   writeLines(fileText, con = fileName)
   
   }
-Remove_SC(files[18])
+
 ### Function to get the sentiment ###
 GetSentiment <- function(file){
   files <- list.files("FPC_txt/")
@@ -43,9 +44,11 @@ GetSentiment <- function(file){
 
 sentiments <- data_frame()
 files <- list.files("FPC_txt/")
+
 ### Collect all sentiments ###
 for (i in files) { 
   tryCatch ({  
+    Remove_SC(i)
     sentiments <- rbind(sentiments, GetSentiment(i))
     },
   error=function(e){
@@ -53,10 +56,14 @@ for (i in files) {
     })
 }
 
-GetSentiment(files[18])
+
 
 ### Add Column to Represent Dates ###
 sentiments$dates <- 1:nrow(sentiments) 
+
+
+### Polynomial Formula ###
+formula <- y ~ poly(x, 6, raw=TRUE)
 
 ### Graph ###
 ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=sentiments$sentiment), color="red") + 
@@ -64,26 +71,12 @@ ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=senti
   scale_color_continuous(name="") +
   ggtitle("Sentimental Analysis of Forum Posts") + 
   labs(y = "Strength of Sentiment", x = "Date") +
-  geom_vline(xintercept=21)+
-  geom_vline(xintercept=60)+
-  geom_text(aes(x=21, label="\nIncarna Crises", y=1500), color="blue", angle=90, size=3) +
-  geom_text(aes(x=60, label="\nNDA Leaks",y=1500), color="blue", angle=90, size=3)
+  geom_vline(xintercept=32)+
+  geom_vline(xintercept=90)+
+  geom_text(aes(x=32, label="\nIncarna Crises", y=3500), color="blue", angle=90, size=3) +
+  geom_text(aes(x=90, label="\nNDA Leaks",y=3500), color="blue", angle=90, size=3)+
+  stat_smooth(method="lm", se=TRUE, fill=NA,formula=formula,colour="red") +
+  stat_poly_eq(parse=T, aes(label = ..rr.label..), formula=formula)
 
   
 
-### Alternative to fixing the problem 
-
-res <- read.csv("Forum Post Code/sentiment_results.csv", header = TRUE)
-
-### Ignore Warning 
-ggplot(res, aes(x = res$dates, y=res$sentiment, color=res$sentiment)) + 
-  geom_point() + 
-  scale_color_continuous(name="") +
-  ggtitle("Sentimental Analysis of Forum Posts") + 
-  labs(y = "Strength of Sentiment", x = "Date") +
-  geom_vline(xintercept=32)+
-  geom_vline(xintercept=90)+
-  geom_vline(xintercept=58)+
-  geom_text(aes(x=24, label="\nIncarna Crises", y=1500), color="blue", angle=90, size=3) +
-  geom_text(aes(x=84, label="\nNDA Leaks",y=1500), color="blue", angle=90, size=3) +
-  geom_text(aes(x=52, label="\nSTV",y=1500), color="blue", angle=90, size=3)
