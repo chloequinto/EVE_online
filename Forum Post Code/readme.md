@@ -46,5 +46,5 @@ Topic Models and Sentimental Analysis
 2. To run sentiment analysis, run sentiment.R
 
 ### Bugs
-- [ ] Fine tune the topics 
-- [ ] Sentiment.R has issues with reading some files 
+- [X] Fine tune the topics 
+- [X] Sentiment.R has issues with reading some files 
