@@ -10,7 +10,7 @@ library(ggpmisc)
 ## uppress Warnings 
 options(warn=-1)
 
-## Use function if you get errors ####
+## function to remove unneccessary parenthesis and brackets ####
 Remove_SC <- function (file){ 
   files <- list.files("FPC_txt/")
   fileName <- glue("FPC_txt/", file, sep="") #Get first text
@@ -63,7 +63,7 @@ sentiments$dates <- 1:nrow(sentiments)
 
 
 ### Polynomial Formula ###
-formula <- y ~ poly(x, 12, raw=TRUE)
+formula <- y ~ poly(x, 6, raw=TRUE)
 
 ### Graph ###
 ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=sentiments$sentiment), color="red") + 
@@ -73,10 +73,16 @@ ggplot(sentiments, aes(x = sentiments$dates, y=sentiments$sentiment, color=senti
   labs(y = "Strength of Sentiment", x = "Date") +
   geom_vline(xintercept=32)+
   geom_vline(xintercept=90)+
+  annotate("rect", xmin = 46, xmax = 53, ymin= -500, ymax = 5000, alpha =0.3)+
+  geom_text(aes(x = 46, label="\nReplacement Period", y=3500), color = "#009E73", angle=90, size=3)+
   geom_text(aes(x=32, label="\nIncarna Crises", y=3500), color="blue", angle=90, size=3) +
   geom_text(aes(x=90, label="\nNDA Leaks",y=3500), color="blue", angle=90, size=3)+
   stat_smooth(method="lm", se=TRUE, fill=NA,formula=formula,colour="red") +
   stat_poly_eq(parse=T, aes(label = ..rr.label..), formula=formula)
+
+### early regulars left, while nearly all the "regulars" who remained,
+###largely began posting regularly during and after the crisis
+###when the prior group had left
 
 
   

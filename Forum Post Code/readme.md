@@ -48,3 +48,4 @@ Topic Models and Sentimental Analysis
 ### Bugs
 - [X] Fine tune the topics 
 - [X] Sentiment.R has issues with reading some files 
+- [ ] Translate replacement date into a variable 
