@@ -5,7 +5,9 @@ library(MSwM)
 ### Dectect Regimes ###
 files <- read.csv("Forum Post Code/FPC_comp.csv", header=FALSE) #read file
 
-Y = files$V15
+## Response variable is the topic probabilities
+Y = files$V9
+# Over time 
 X = files$V1
 
 ggplot(files, aes(x = X, y=Y, color=files$V3)) + 
@@ -32,6 +34,7 @@ summary(mod.mswm)
 
 plot(mod.mswm)
 plotProb(mod.mswm,which=1)
+
 
 ## plots which observations are for regime 1 
 ## should show distinct regimes 
