@@ -1,12 +1,11 @@
 ### Markov Switching ###
-
 library(ggplot2)
 library(MSwM)
 
 ### Dectect Regimes ###
 files <- read.csv("Forum Post Code/FPC_comp.csv", header=FALSE) #read file
 
-Y = files$V10
+Y = files$V15
 X = files$V1
 
 ggplot(files, aes(x = X, y=Y, color=files$V3)) + 
@@ -24,6 +23,7 @@ plot(ts(Y)) #plot the time series of Topic
 
 ### Autoagressive Markov Switching Model ###
 mod.mswm=msmFit(mod,k=2,p=1,sw=c(TRUE,TRUE,TRUE,TRUE),control=list(parallel=FALSE))
+
 summary(mod.mswm)
 ## Detect structural changes in a time series 
 
@@ -33,10 +33,17 @@ summary(mod.mswm)
 plot(mod.mswm)
 plotProb(mod.mswm,which=1)
 
-## plots which observations are for regime 1
+## plots which observations are for regime 1 
+## should show distinct regimes 
 plotProb(mod.mswm,which=2)
 
 
 plotReg(mod.mswm,expl="X")
+
+# eh about V4, V6
+#V3
+#V9
+#V10 
+#V17
 
 
